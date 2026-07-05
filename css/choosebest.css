@@ -1,0 +1,109 @@
+/* ─── CHOOSE WHAT'S BEST SECTION ─────────────────────── */
+#choose-best {
+  background: var(--c-surface);
+  padding: 100px 5vw;
+  border-top: 1px solid var(--c-border);
+}
+
+.choose-best-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 64px;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* ── Text column ── */
+.choose-best-text {
+  opacity: 0;
+  transform: translateX(-60px);
+  transition: opacity 0.9s cubic-bezier(0.16, 1, 0.3, 1),
+              transform 0.9s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.choose-best-text.is-visible {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.choose-best-title {
+  font-family: var(--f-display);
+  font-size: clamp(28px, 3.6vw, 42px);
+  font-weight: 800;
+  letter-spacing: 0.01em;
+  text-transform: uppercase;
+  line-height: 1.15;
+  color: var(--c-white);
+  margin-bottom: 24px;
+}
+
+.choose-best-desc {
+  font-size: 15.5px;
+  line-height: 1.85;
+  color: var(--c-muted);
+  margin-bottom: 36px;
+}
+
+.choose-best-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--c-red);
+  color: #fff;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+  padding: 14px 32px;
+  border-radius: 8px;
+  transition: background var(--transition), transform var(--transition), box-shadow var(--transition);
+  box-shadow: 0 8px 24px rgba(215,43,43,0.3);
+}
+.choose-best-btn:hover {
+  background: var(--c-red-hi);
+  transform: translateY(-2px);
+  box-shadow: 0 12px 28px rgba(215,43,43,0.4);
+}
+
+/* ── Image column ── */
+.choose-best-image-wrap {
+  opacity: 0;
+  transform: translateX(60px);
+  transition: opacity 0.9s cubic-bezier(0.16, 1, 0.3, 1),
+              transform 0.9s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.choose-best-image-wrap.is-visible {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.choose-best-image-wrap img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  display: block;
+  box-shadow: 0 24px 56px rgba(0,0,0,0.4);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .choose-best-text,
+  .choose-best-image-wrap {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}
+
+/* ─── RESPONSIVE: CHOOSE BEST ─────────────────────── */
+@media (max-width: 900px) {
+  .choose-best-grid {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+  .choose-best-image-wrap { order: -1; }
+}
+
+@media (max-width: 560px) {
+  #choose-best { padding: 70px 6vw; }
+  .choose-best-desc { font-size: 14.5px; }
+}

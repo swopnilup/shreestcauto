@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Products — Shree STC Group</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/main.css">
+<link rel="stylesheet" href="css/header.css">
+<link rel="stylesheet" href="css/products-page.css">
+<link rel="stylesheet" href="css/footer.css">
+</head>
+<body>
+
+<!-- ─── HEADER ────────────────── -->
+<header>
+  <a href="index.html" class="logo-link">
+    <img src="logoimg/stclogo.png" alt="Shree STC Group Logo" onerror="this.style.display='none'" />
+  </a>
+  <nav class="main-nav" id="mainNav">
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="products.html" class="active">Products</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html">Contacts</a></li>
+      <li><a href="gallery.html">Gallery</a></li>
+      <li><a href="team.html">Our Team</a></li>
+    </ul>
+  </nav>
+  <button class="hamburger" id="hamburger" aria-label="Toggle menu" aria-expanded="false">
+    <span></span><span></span><span></span>
+  </button>
+</header>
+
+<!-- ─── PRODUCTS PAGE ────────────────── -->
+<main id="products-page">
+
+  <!-- Sidebar -->
+  <aside class="products-sidebar">
+    <h3 class="sidebar-heading">Categories</h3>
+    <ul class="category-list">
+      <li>
+        <label class="cat-radio active" data-cat="all">
+          <input type="radio" name="category" value="all" checked> All
+        </label>
+      </li>
+      <li>
+        <label class="cat-radio" data-cat="battery">
+          <input type="radio" name="category" value="battery"> 🔋 Battery
+        </label>
+      </li>
+      <li>
+        <label class="cat-radio" data-cat="lubricants">
+          <input type="radio" name="category" value="lubricants"> 🛢️ Lubricants
+        </label>
+      </li>
+      <li>
+        <label class="cat-radio" data-cat="tyre">
+          <input type="radio" name="category" value="tyre"> 🛞 Tyre
+        </label>
+      </li>
+      <li>
+        <label class="cat-radio" data-cat="parts">
+          <input type="radio" name="category" value="parts"> ⚙️ Parts
+        </label>
+      </li>
+      <li>
+        <label class="cat-radio" data-cat="brake-parts">
+          <input type="radio" name="category" value="brake-parts"> 🔩 Brake Parts
+        </label>
+      </li>
+      <li>
+        <label class="cat-radio" data-cat="fuel-systems">
+          <input type="radio" name="category" value="fuel-systems"> ⛽ Fuel Systems
+        </label>
+      </li>
+      <li>
+        <label class="cat-radio" data-cat="evs">
+          <input type="radio" name="category" value="evs"> ⚡ EVs
+        </label>
+      </li>
+    </ul>
+  </aside>
+
+  <!-- Main content -->
+  <div class="products-main">
+    <div class="products-top-bar">
+      <h1 class="products-page-title">Our Products</h1>
+      <input
+        type="text"
+        id="productSearch"
+        class="products-search"
+        placeholder="Search by name or category...">
+    </div>
+
+    <div class="products-grid" id="productsGrid">
+
+      <!-- BATTERY -->
+      <div class="product-card" data-cat="battery">
+        <div class="product-card-img">
+          <img src="ourproductimg/battery-arkos-mf25.png" alt="ARKOS BOLT MF 2.5L (E)">
+          <span class="product-card-placeholder">No Image</span>
+        </div>
+        <div class="product-card-body">
+          <h3>ARKOS BOLT MF 2.5L (E)</h3>
+          <p class="product-price">Rs. 1,650</p>
+          <p class="product-category">Category: Battery</p>
+          <p class="product-desc">High-performance maintenance-free battery designed for two-wheelers. Long life, reliable cranking power in all weather conditions.</p>
+          <a href="contact.html" class="product-inquiry-btn">Inquiry</a>
+        </div>
+      </div>
+
+      <div class="product-card" data-cat="battery">
+        <div class="product-card-img">
+          <img src="ourproductimg/battery-arkos-mfz4.png" alt="ARKOS BOLT MF Z4 L(E)">
+          <span class="product-card-placeholder">No Image</span>
+        </div>
+        <div class="product-card-body">
+          <h3>ARKOS BOLT MF Z4 L(E)</h3>
+          <p class="product-price">Rs. 1,980</p>
+          <p class="product-category">Category: Battery</p>
+          <p class="product-desc">Maintenance-free Z4 series battery with enhanced electrolyte technology. Ideal for modern scooters and motorcycles.</p>
+          <a href="contact.html" class="product-inquiry-btn">Inquiry</a>
+        </div>
+      </div>
+
+      <div class="product-card" data-cat="battery">
+        <div class="product-card-img">
+          <img src="ourproductimg/battery-arkos-scooter.png" alt="ARKOS BOLT SCOOTER MF4L (E)">
+          <span class="product-card-placeholder">No Image</span>
+        </div>
+        <div class="product-card-body">
+          <h3>ARKOS BOLT SCOOTER MF4L (E)</h3>
+          <p class="product-price">Rs. 1,980</p>
+          <p class="product-category">Category: Battery</p>
+          <p class="product-desc">Purpose-built for scooters, this MF4L battery delivers consistent power output and zero maintenance for daily urban commutes.</p>
+          <a href="contact.html" class="product-inquiry-btn">Inquiry</a>
+        </div>
+      </div>
+
+      <!-- LUBRICANTS -->
+      <div class="product-card" data-cat="lubricants">
+        <div class="product-card-img">
+          <img src="ourproductimg/eni-ride-4t.png" alt="ENI Ride 4T 10W-40">
+          <span class="product-card-placeholder">No Image</span>
+        </div>
+        <div class="product-card-body">
+          <h3>ENI Ride 4T 10W-40</h3>
+          <p class="product-price">Rs. 850</p>
+          <p class="product-category">Category: Lubricants</p>
+          <p class="product-desc">Italian-engineered 4-stroke engine oil. Provides superior thermal stability, engine cleanliness, and extended drain intervals.</p>
+          <a href="contact.html" class="product-inquiry-btn">Inquiry</a>
+        </div>
+      </div>
+
+      <div class="product-card" data-cat="lubricants">
+        <div class="product-card-img">
+          <img src="ourproductimg/eni-scooter.png" alt="ENI i-Ride Scooter 5W-40">
+          <span class="product-card-placeholder">No Image</span>
+        </div>
+        <div class="product-card-body">
+          <h3>ENI i-Ride Scooter 5W-40</h3>
+          <p class="product-price">Rs. 920</p>
+          <p class="product-category">Category: Lubricants</p>
+          <p class="product-desc">Fully synthetic scooter oil formulated for CVT and wet-clutch systems. Ensures smooth power delivery and cooler engine temperatures.</p>
+          <a href="contact.html" class="product-inquiry-btn">Inquiry</a>
+        </div>
+      </div>
+
+      <!-- TYRE -->
+      <div class="product-card" data-cat="tyre">
+        <div class="product-card-img">
+          <img src="ourproductimg/ceat-milaze.png" alt="CEAT Milaze 2.75-17">
+          <span class="product-card-placeholder">No Image</span>
+        </div>
+        <div class="product-card-body">
+          <h3>CEAT Milaze 2.75-17</h3>
+          <p class="product-price">Rs. 2,400</p>
+          <p class="product-category">Category: Tyre</p>
+          <p class="product-desc">All-terrain motorcycle tyre with reinforced nylon construction. Designed for Nepal's diverse road conditions — city and mountain alike.</p>
+          <a href="contact.html" class="product-inquiry-btn">Inquiry</a>
+        </div>
+      </div>
+
+      <div class="product-card" data-cat="tyre">
+        <div class="product-card-img">
+          <img src="ourproductimg/ceat-gripp.png" alt="CEAT Gripp 90/90-17">
+          <span class="product-card-placeholder">No Image</span>
+        </div>
+        <div class="product-card-body">
+          <h3>CEAT Gripp 90/90-17</h3>
+          <p class="product-price">Rs. 3,100</p>
+          <p class="product-category">Category: Tyre</p>
+          <p class="product-desc">High-grip radial tyre with advanced tread pattern for superior wet and dry braking. Built for sport and commuter motorcycles.</p>
+          <a href="contact.html" class="product-inquiry-btn">Inquiry</a>
+        </div>
+      </div>
+
+      <!-- PARTS -->
+      <div class="product-card" data-cat="parts">
+        <div class="product-card-img">
+          <img src="ourproductimg/varroc-clutch.png" alt="Varroc Clutch Plate Set">
+          <span class="product-card-placeholder">No Image</span>
+        </div>
+        <div class="product-card-body">
+          <h3>Varroc Clutch Plate Set</h3>
+          <p class="product-price">Rs. 1,200</p>
+          <p class="product-category">Category: Parts</p>
+          <p class="product-desc">OEM-quality clutch plate set from Varroc. Precision engineered for smooth engagement, reduced slip, and extended service life.</p>
+          <a href="contact.html" class="product-inquiry-btn">Inquiry</a>
+        </div>
+      </div>
+
+      <div class="product-card" data-cat="parts">
+        <div class="product-card-img">
+          <img src="ourproductimg/nippon-piston.png" alt="Nippon Piston Ring Set">
+          <span class="product-card-placeholder">No Image</span>
+        </div>
+        <div class="product-card-body">
+          <h3>Nippon Piston Ring Set</h3>
+          <p class="product-price">Rs. 780</p>
+          <p class="product-category">Category: Parts</p>
+          <p class="product-desc">High-precision piston ring set for two-wheelers. Reduces oil consumption, improves compression, and restores engine performance.</p>
+          <a href="contact.html" class="product-inquiry-btn">Inquiry</a>
+        </div>
+      </div>
+
+      <!-- BRAKE PARTS -->
+      <div class="product-card" data-cat="brake-parts">
+        <div class="product-card-img">
+          <img src="ourproductimg/rockman-brake-shoe.png" alt="Rockman Brake Shoe">
+          <span class="product-card-placeholder">No Image</span>
+        </div>
+        <div class="product-card-body">
+          <h3>Rockman Brake Shoe</h3>
+          <p class="product-price">Rs. 650</p>
+          <p class="product-category">Category: Brake Parts</p>
+          <p class="product-desc">Durable drum brake shoe with high-friction lining. Engineered for consistent braking performance and long wear life on two-wheelers.</p>
+          <a href="contact.html" class="product-inquiry-btn">Inquiry</a>
+        </div>
+      </div>
+
+      <div class="product-card" data-cat="brake-parts">
+        <div class="product-card-img">
+          <img src="ourproductimg/disc-brake-pad.png" alt="Disc Brake Pad Set">
+          <span class="product-card-placeholder">No Image</span>
+        </div>
+        <div class="product-card-body">
+          <h3>Disc Brake Pad Set</h3>
+          <p class="product-price">Rs. 890</p>
+          <p class="product-category">Category: Brake Parts</p>
+          <p class="product-desc">Semi-metallic disc brake pads with superior heat dissipation. Delivers strong, fade-free stopping power in all riding conditions.</p>
+          <a href="contact.html" class="product-inquiry-btn">Inquiry</a>
+        </div>
+      </div>
+
+      <!-- FUEL SYSTEMS -->
+      <div class="product-card" data-cat="fuel-systems">
+        <div class="product-card-img">
+          <img src="ourproductimg/ucal-carburettor.png" alt="Ucal Carburettor">
+          <span class="product-card-placeholder">No Image</span>
+        </div>
+        <div class="product-card-body">
+          <h3>Ucal Carburettor</h3>
+          <p class="product-price">Rs. 2,100</p>
+          <p class="product-category">Category: Fuel Systems</p>
+          <p class="product-desc">Precision-manufactured carburettor from Ucal Fuel Systems. Ensures optimal air-fuel mixture for efficient combustion and fuel economy.</p>
+          <a href="contact.html" class="product-inquiry-btn">Inquiry</a>
+        </div>
+      </div>
+
+      <div class="product-card" data-cat="fuel-systems">
+        <div class="product-card-img">
+          <img src="ourproductimg/fuel-filter.png" alt="Fuel Filter — Universal">
+          <span class="product-card-placeholder">No Image</span>
+        </div>
+        <div class="product-card-body">
+          <h3>Fuel Filter — Universal</h3>
+          <p class="product-price">Rs. 340</p>
+          <p class="product-category">Category: Fuel Systems</p>
+          <p class="product-desc">Universal inline fuel filter that traps dirt, rust, and debris before it reaches the carburettor or injector. Easy to install on all vehicles.</p>
+          <a href="contact.html" class="product-inquiry-btn">Inquiry</a>
+        </div>
+      </div>
+
+      <!-- EVS -->
+      <div class="product-card" data-cat="evs">
+        <div class="product-card-img">
+          <img src="ourproductimg/ev-battery-pack.png" alt="EV Lithium Battery Pack">
+          <span class="product-card-placeholder">No Image</span>
+        </div>
+        <div class="product-card-body">
+          <h3>EV Lithium Battery Pack</h3>
+          <p class="product-price">Rs. 18,500</p>
+          <p class="product-category">Category: EVs</p>
+          <p class="product-desc">High-capacity lithium-ion battery pack for electric two-wheelers. Long cycle life, fast charging capability, and built-in BMS protection.</p>
+          <a href="contact.html" class="product-inquiry-btn">Inquiry</a>
+        </div>
+      </div>
+
+      <div class="product-card" data-cat="evs">
+        <div class="product-card-img">
+          <img src="ourproductimg/ev-charger.png" alt="EV Smart Charger">
+          <span class="product-card-placeholder">No Image</span>
+        </div>
+        <div class="product-card-body">
+          <h3>EV Smart Charger</h3>
+          <p class="product-price">Rs. 4,200</p>
+          <p class="product-category">Category: EVs</p>
+          <p class="product-desc">Intelligent EV charger with auto cut-off and overcharge protection. Compatible with all major electric scooter and motorcycle brands.</p>
+          <a href="contact.html" class="product-inquiry-btn">Inquiry</a>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Pagination -->
+    <div class="products-pagination" id="productsPagination"></div>
+
+  </div>
+</main>
+
+<!-- ─── FOOTER ────────────────── -->
+<footer>
+  <div class="footer-grid">
+    <div class="footer-brand">
+      <a href="index.html" class="footer-logo">
+        <img src="logoimg/stclogo.png" alt="Shree STC Group Logo">
+      </a>
+      <div class="footer-map">
+        <a href="https://maps.app.goo.gl/vwfPRFVzZyH938Ur5" target="_blank" rel="noopener noreferrer">
+          <iframe
+            src="https://maps.google.com/maps?q=Shree+STC+Group+Kathmandu+Nepal&output=embed&z=16"
+            allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+            title="Shree STC Group location"
+            style="pointer-events: none;">
+          </iframe>
+        </a>
+      </div>
+    </div>
+    <div class="footer-desc-col">
+      <p class="footer-desc-text">
+        Welcome to Shree STC Group, where brilliance meets innovation.
+        We are a leading company dedicated to delivering exceptional
+        products and services tailored to your needs.
+      </p>
+    </div>
+    <div class="footer-links-col">
+      <h4>Pages</h4>
+      <ul>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="products.html">Products</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+        <li><a href="career.html">Career</a></li>
+      </ul>
+    </div>
+    <div class="footer-links-col">
+      <h4>Customer Care</h4>
+      <ul>
+        <li><a href="faq.html">FAQ</a></li>
+        <li><a href="help-center.html">Help Center</a></li>
+        <li><a href="terms.html">Terms and Conditions</a></li>
+        <li><a href="privacy.html">Privacy Policy</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <p>© 2026 Shree STC Group Inc. All rights reserved.</p>
+  </div>
+</footer>
+
+<script src="js/header.js"></script>
+<script src="js/products-page.js"></script>
+</body>
+</html>
