@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Contact Us — Shree STC Group</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/main.css">
+<link rel="stylesheet" href="css/header.css">
+<link rel="stylesheet" href="css/contact.css">
+<link rel="stylesheet" href="css/footer.css">
+<script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+</head>
+<body>
+
+<!-- ─── HEADER ────────────────── -->
+<header>
+  <a href="index.html" class="logo-link">
+    <img src="logoimg/stclogo.png" alt="Shree STC Group Logo" onerror="this.style.display='none'" />
+  </a>
+  <nav class="main-nav" id="mainNav">
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="products.html">Products</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html" class="active">Contacts</a></li>
+      <li><a href="gallery.html">Gallery</a></li>
+      <li><a href="team.html">Our Team</a></li>
+    </ul>
+  </nav>
+  <button class="hamburger" id="hamburger" aria-label="Toggle menu" aria-expanded="false">
+    <span></span><span></span><span></span>
+  </button>
+</header>
+
+<!-- ─── CONTACT HERO ────────────────── -->
+<section id="contact-hero">
+  <img
+    class="contact-hero-bg"
+    src="homepage-images/contactus.png"
+    alt="Automobile gears being worked on"
+    draggable="false">
+  <div class="contact-hero-overlay"></div>
+
+  <!-- Decorative brackets -->
+  <div class="contact-bracket top-right"></div>
+  <div class="contact-bracket bottom-left"></div>
+
+  <!-- Decorative dots -->
+  <div class="contact-dot" style="top: 35%; left: 18%;"></div>
+  <div class="contact-dot" style="top: 65%; right: 28%;"></div>
+  <div class="contact-dot" style="top: 25%; right: 38%;"></div>
+
+  <div class="contact-hero-content">
+    <h1 class="contact-hero-title">Contact Us</h1>
+    <p class="contact-hero-desc">
+      We are Shree STC Auto Parts — headquartered at Dhugaadda, Kathmandu, Nepal.
+      For over a decade, we have been supplying genuine, high-quality automobile
+      parts to mechanics, dealerships, fleet operators, and resellers across Nepal.
+      We are a trusted partner for businesses seeking reliable auto parts at
+      competitive prices, backed by expert knowledge and consistent service.
+      Whether you're a retailer, reseller, or individual customer — we welcome
+      you to build a lasting relationship with us.
+    </p>
+  </div>
+</section>
+
+<!-- ─── CONTACT BODY ────────────────── -->
+<section id="contact-body">
+  <div class="contact-body-grid">
+
+    <!-- Left: Info cards -->
+    <div class="contact-info-col">
+      <h2 class="contact-info-title">Get in Touch</h2>
+      <p class="contact-info-sub">
+        Reach out to us for product inquiries, dealership opportunities,
+        or any questions about our services.
+      </p>
+
+      <div class="contact-info-cards">
+        <div class="contact-info-card">
+          <div class="contact-info-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M21 10c0 7-9 13-9 13S3 17 3 10a9 9 0 0 1 18 0z"/>
+              <circle cx="12" cy="10" r="3"/>
+            </svg>
+          </div>
+          <div>
+            <strong>Our Location</strong>
+            <span>Dhugaadda, Kathmandu, Nepal</span>
+          </div>
+        </div>
+
+        <div class="contact-info-card">
+          <div class="contact-info-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.69 12 19.79 19.79 0 0 1 1.21 3.35 2 2 0 0 1 3.22 1h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L7.91 8.96a16 16 0 0 0 6.29 6.29l1.12-1.12a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/>
+            </svg>
+          </div>
+          <div>
+            <strong>Phone</strong>
+            <span><a href="tel:+97714313514">+977-1-4313514</a></span>
+            <span><a href="tel:+97714311976">+977-1-4311976</a></span>
+            <span><a href="tel:+9779860131517">+977-9860-131517</a></span>
+          </div>
+        </div>
+
+        <div class="contact-info-card">
+          <div class="contact-info-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+              <polyline points="22,6 12,13 2,6"/>
+            </svg>
+          </div>
+          <div>
+            <strong>Email</strong>
+            <span><a href="mailto:info@shreestcgroup.com">info@shreestcgroup.com</a></span>
+          </div>
+        </div>
+
+        <div class="contact-info-card">
+          <div class="contact-info-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="10"/>
+              <polyline points="12 6 12 12 16 14"/>
+            </svg>
+          </div>
+          <div>
+            <strong>Business Hours</strong>
+            <span>Sunday – Friday: 9:00 AM – 6:00 PM</span>
+            <span>Saturday: Closed</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Right: Form -->
+    <div class="contact-form-col">
+      <div class="contact-form-card">
+        <h2 class="contact-form-title">Send Us a Message</h2>
+        <p class="contact-form-sub">Fill in the form and our team will get back to you within 24 hours.</p>
+
+        <form id="contactForm" onsubmit="handleContactSubmit(event)">
+          <div class="form-row">
+            <div class="form-group">
+              <label>Full Name</label>
+              <input type="text" placeholder="Your full name" required />
+            </div>
+            <div class="form-group">
+              <label>Phone Number</label>
+              <input type="tel" placeholder="+977-98XXXXXXXX" />
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label>Email Address</label>
+            <input type="email" placeholder="you@example.com" required />
+          </div>
+
+          <div class="form-group">
+            <label>Inquiry Type</label>
+            <select required>
+              <option value="">Select inquiry type...</option>
+              <option>Product Availability</option>
+              <option>Dealership / Distributorship</option>
+              <option>Become a Reseller</option>
+              <option>Bulk Order / Pricing</option>
+              <option>Partnership Inquiry</option>
+              <option>Technical Support</option>
+              <option>General Inquiry</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label>Your Message</label>
+            <textarea placeholder="Tell us about your requirements, the products you need, or how we can help..." required></textarea>
+          </div>
+
+          <button type="submit" class="contact-submit-btn">
+            Send Message
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M5 12h14M13 5l7 7-7 7"/>
+            </svg>
+          </button>
+        </form>
+
+        <!-- Toast -->
+        <div class="contact-toast" id="contactToast">
+          <span class="toast-icon">✓</span>
+          Message sent! We'll get back to you within 24 hours.
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ─── MAP SECTION ────────────────── -->
+<section id="contact-map">
+  <div class="contact-map-wrap">
+    <a href="https://maps.app.goo.gl/vwfPRFVzZyH938Ur5" target="_blank" rel="noopener noreferrer">
+      <iframe
+        src="https://maps.google.com/maps?q=Shree+STC+Group+Kathmandu+Nepal&output=embed&z=16"
+        allowfullscreen=""
+        loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"
+        title="Shree STC Group location"
+        style="pointer-events: none;">
+      </iframe>
+    </a>
+  </div>
+</section>
+
+<!-- ─── FOOTER ────────────────── -->
+<footer>
+  <div class="footer-grid">
+    <div class="footer-brand">
+      <a href="index.html" class="footer-logo">
+        <img src="logoimg/stclogo.png" alt="Shree STC Group Logo">
+      </a>
+      <div class="footer-map">
+        <a href="https://maps.app.goo.gl/vwfPRFVzZyH938Ur5" target="_blank" rel="noopener noreferrer">
+          <iframe
+            src="https://maps.google.com/maps?q=Shree+STC+Group+Kathmandu+Nepal&output=embed&z=16"
+            allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+            title="Shree STC Group location"
+            style="pointer-events: none;">
+          </iframe>
+        </a>
+      </div>
+    </div>
+    <div class="footer-desc-col">
+      <p class="footer-desc-text">
+        Welcome to Shree STC Group, where brilliance meets innovation.
+        We are a leading company dedicated to delivering exceptional
+        products and services tailored to your needs.
+      </p>
+    </div>
+    <div class="footer-links-col">
+      <h4>Pages</h4>
+      <ul>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="products.html">Products</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+        <li><a href="career.html">Career</a></li>
+      </ul>
+    </div>
+    <div class="footer-links-col">
+      <h4>Customer Care</h4>
+      <ul>
+        <li><a href="faq.html">FAQ</a></li>
+        <li><a href="help-center.html">Help Center</a></li>
+        <li><a href="terms.html">Terms and Conditions</a></li>
+        <li><a href="privacy.html">Privacy Policy</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <p>© 2026 Shree STC Group Inc. All rights reserved. Made with <span>♥</span> in Nepal.</p>
+  </div>
+</footer>
+
+<script src="js/header.js"></script>
+<script src="js/contact.js"></script>
+</body>
+</html>
