@@ -56,8 +56,8 @@ document.addEventListener('DOMContentLoaded', () => {
       };
 
       emailjs.send(
-        'service_bwodff7',   // ← paste your service ID here
-        'template_y5oo0rp',  // ← paste your template ID here
+        'service_bwodff7',   //  your service ID 
+        'template_y5oo0rp',  //  your template ID 
         templateParams
       )
       .then(() => {
