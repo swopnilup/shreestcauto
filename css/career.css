@@ -225,6 +225,13 @@
   margin-bottom: 28px;
   text-align: justify;
 }
+.job-detail-email{
+  font-size: 15px;
+  line-height: 1.85;
+  color: #2D3748;
+  margin-top: 28px;
+  text-align: justify;
+}
 
 .job-detail-meta {
   display: flex;
@@ -269,6 +276,12 @@
 
 /* hidden utility */
 .hidden { display: none !important; }
+
+.job-detail-requirement{
+  font-family: var(--f-display);
+  color: #4A5568;
+  font-size: 18px
+}
 
 /* ─── RESPONSIVE ─────────────────────── */
 @media (max-width: 600px) {

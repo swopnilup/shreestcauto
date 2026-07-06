@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // Set hasVacancy = true  → shows job cards
   // Set hasVacancy = false → shows no vacancy message
   // ══════════════════════════════════════════════
-  const hasVacancy = true; // ← change to false when no openings
+  const hasVacancy = false; // ← change to false when no openings
 
   const noVacancy = document.getElementById('noVacancy');
   const jobList   = document.getElementById('jobList');
@@ -56,14 +56,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
 You will identify new business opportunities, maintain relationships with existing clients, and represent Shree STC Group professionally in the field.
 
-<strong>Requirements:</strong>
-- Completed BBA or related field, or currently pursuing MBA
-- Strong communication and interpersonal skills
-- Self-motivated with a passion for sales
-- Knowledge of the automobile parts industry is a plus
-- Valid two-wheeler license preferred
+<p class="job-detail-requirement"><strong>Requirements:</strong></p>
+<p class="job-detail-requirement">- Completed BBA or related field, or currently pursuing MBA</p>
+<p class="job-detail-requirement">- Strong communication and interpersonal skills</p>
+<p class="job-detail-requirement">- Self-motivated with a passion for sales</p>
+<p class="job-detail-requirement">- Knowledge of the automobile parts industry is a plus</p>
+<p class="job-detail-requirement">- Valid two-wheeler license preferred</p>
 
-To apply, please send your CV to <a href="mailto:info@shreestcgroup.com?subject=Application — Sales and Marketing Executive">info@shreestcgroup.com</a> with the subject line "Application — Sales and Marketing Executive".`
+<p class="job-detail-email">To apply, please send your CV to <a href="mailto:info@shreestcgroup.com?subject=Application — Sales and Marketing Executive">info@shreestcgroup.com</a> with the subject line "Application — Sales and Marketing Executive".</p>`
     },
     'warehouse': {
       title: 'Warehouse & Inventory Officer',
@@ -73,14 +73,14 @@ To apply, please send your CV to <a href="mailto:info@shreestcgroup.com?subject=
 
 You will work closely with our sales and procurement teams to maintain optimal stock levels and ensure timely order fulfillment for our customers.
 
-<strong>Requirements:</strong>
-- Minimum SLC/SEE pass; preference for graduates
-- Prior experience in warehouse or inventory management preferred
-- Strong organizational and record-keeping skills
-- Basic computer skills (MS Excel or similar)
-- Physically fit and able to handle stock
+<p class="job-detail-requirement"><strong>Requirements:</strong></p>
+<p class="job-detail-requirement">- Minimum SLC/SEE pass; preference for graduates</p>
+<p class="job-detail-requirement">- Prior experience in warehouse or inventory management preferred</p>
+<p class="job-detail-requirement">- Strong organizational and record-keeping skills</p>
+<p class="job-detail-requirement">- Basic computer skills (MS Excel or similar)</p>
+<p class="job-detail-requirement">- Physically fit and able to handle stock</p>
 
-To apply, please send your CV to <a href="mailto:info@shreestcgroup.com?subject=Application — Warehouse & Inventory Officer">info@shreestcgroup.com</a> with the subject line "Application — Warehouse & Inventory Officer".`
+<p class="job-detail-email">To apply, please send your CV to <a href="mailto:info@shreestcgroup.com?subject=Application — Warehouse & Inventory Officer">info@shreestcgroup.com</a> with the subject line "Application — Warehouse & Inventory Officer".</p>`
     }
   };
 
