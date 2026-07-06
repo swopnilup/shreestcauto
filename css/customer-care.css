@@ -1,9 +1,9 @@
 /* ─── HERO ─────────────────────── */
 #care-hero {
-  background: var(--c-bg);
+  background: #ffffff;
   padding: 100px 5vw 60px;
   text-align: center;
-  border-bottom: 1px solid var(--c-border);
+  border-bottom: 1px solid rgba(0,0,0,0.08);
 }
 
 .care-hero-title {
@@ -11,14 +11,14 @@
   font-size: clamp(40px, 6vw, 72px);
   font-weight: 800;
   text-transform: uppercase;
-  color: var(--c-white);
+  color: #1A1F2B;
   letter-spacing: 0.02em;
   margin-bottom: 14px;
 }
 
 .care-hero-desc {
   font-size: 16px;
-  color: var(--c-muted);
+  color: #4A5568;
   margin-bottom: 48px;
   line-height: 1.6;
 }
@@ -36,10 +36,10 @@
   display: inline-flex;
   align-items: center;
   padding: 12px 28px;
-  background: var(--c-card);
-  border: 1px solid var(--c-border);
+  background: #F0F2F7;
+  border: 1px solid rgba(0,0,0,0.08);
   border-radius: 100px;
-  color: var(--c-text);
+  color: #1A1F2B;
   font-size: 14px;
   font-weight: 600;
   letter-spacing: 0.04em;
@@ -47,7 +47,8 @@
   transition: background 0.25s ease, border-color 0.25s ease,
               color 0.25s ease, transform 0.25s ease;
 }
-.care-nav-btn:hover {
+.care-nav-btn:hover,
+.care-nav-btn.active-nav {
   background: var(--c-red);
   border-color: var(--c-red);
   color: #fff;
@@ -57,10 +58,10 @@
 /* ─── SECTION COMMONS ─────────────────────── */
 .care-section {
   padding: 90px 5vw;
-  background: var(--c-bg);
+  background: #ffffff;
 }
 .care-section.alt-bg {
-  background: var(--c-surface);
+  background: #F0F2F7;
 }
 
 .care-section-inner {
@@ -91,14 +92,14 @@
   font-size: clamp(28px, 4vw, 46px);
   font-weight: 800;
   text-transform: uppercase;
-  color: var(--c-white);
+  color: #1A1F2B;
   margin-bottom: 10px;
   letter-spacing: 0.01em;
 }
 
 .care-section-sub {
   font-size: 14.5px;
-  color: var(--c-muted);
+  color: #4A5568;
   margin-bottom: 48px;
   line-height: 1.6;
 }
@@ -111,14 +112,26 @@
 }
 
 .faq-item {
-  background: var(--c-card);
-  border: 1px solid var(--c-border);
+  background: #ffffff;
+  border: 1px solid rgba(0,0,0,0.08);
   border-radius: 10px;
   overflow: hidden;
-  transition: border-color 0.25s ease;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+  transition: border-color 0.25s ease, box-shadow 0.25s ease;
 }
-.faq-item:hover { border-color: rgba(215,43,43,0.3); }
-.faq-item.open { border-color: rgba(215,43,43,0.4); }
+.faq-item:hover {
+  border-color: rgba(215,43,43,0.25);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+}
+.faq-item.open {
+  border-color: rgba(215,43,43,0.35);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+}
+
+/* alt-bg section FAQs need slightly different background */
+.care-section.alt-bg .faq-item {
+  background: #ffffff;
+}
 
 .faq-question {
   width: 100%;
@@ -134,11 +147,11 @@
   font-family: var(--f-body);
   font-size: 15px;
   font-weight: 600;
-  color: var(--c-text);
+  color: #1A1F2B;
   transition: color 0.2s ease;
 }
-.faq-question:hover { color: var(--c-white); }
-.faq-item.open .faq-question { color: var(--c-white); }
+.faq-question:hover { color: var(--c-red); }
+.faq-item.open .faq-question { color: var(--c-red); }
 
 .faq-icon {
   font-size: 22px;
@@ -165,10 +178,10 @@
 .faq-answer p {
   font-size: 14.5px;
   line-height: 1.75;
-  color: var(--c-muted);
+  color: #4A5568;
 }
 .faq-answer a {
-  color: var(--c-red-hi);
+  color: var(--c-red);
   text-decoration: underline;
 }
 
@@ -180,22 +193,23 @@
 }
 
 .help-card {
-  background: var(--c-card);
-  border: 1px solid var(--c-border);
+  background: #ffffff;
+  border: 1px solid rgba(0,0,0,0.08);
   border-radius: 12px;
   padding: 32px 28px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.05);
   transition: border-color 0.25s ease, transform 0.25s ease, box-shadow 0.25s ease;
 }
 .help-card:hover {
-  border-color: rgba(215,43,43,0.3);
+  border-color: rgba(215,43,43,0.25);
   transform: translateY(-3px);
-  box-shadow: 0 12px 32px rgba(0,0,0,0.2);
+  box-shadow: 0 12px 32px rgba(0,0,0,0.1);
 }
 
 .help-icon {
   width: 48px; height: 48px;
-  background: rgba(215,43,43,0.1);
-  border: 1px solid rgba(215,43,43,0.2);
+  background: rgba(215,43,43,0.08);
+  border: 1px solid rgba(215,43,43,0.15);
   border-radius: 10px;
   display: flex; align-items: center; justify-content: center;
   margin-bottom: 16px;
@@ -206,13 +220,13 @@
   font-family: var(--f-display);
   font-size: 20px;
   font-weight: 700;
-  color: var(--c-white);
+  color: #1A1F2B;
   margin-bottom: 8px;
 }
 
 .help-card p {
   font-size: 14px;
-  color: var(--c-muted);
+  color: #4A5568;
   line-height: 1.6;
   margin-bottom: 14px;
 }
@@ -221,12 +235,12 @@
   display: block;
   font-size: 14px;
   font-weight: 600;
-  color: var(--c-red-hi);
+  color: var(--c-red);
   text-decoration: none;
   margin-bottom: 6px;
   transition: color 0.2s ease;
 }
-.help-link:hover { color: #fff; }
+.help-link:hover { color: var(--c-red-hi); }
 
 /* ─── LEGAL CONTENT ─────────────────────── */
 .legal-content {
@@ -235,11 +249,20 @@
   gap: 32px;
 }
 
+.legal-block {
+  padding-bottom: 32px;
+  border-bottom: 1px solid rgba(0,0,0,0.07);
+}
+.legal-block:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
 .legal-block h3 {
   font-family: var(--f-display);
   font-size: 19px;
   font-weight: 700;
-  color: var(--c-white);
+  color: #1A1F2B;
   margin-bottom: 10px;
   letter-spacing: 0.01em;
 }
@@ -247,10 +270,10 @@
 .legal-block p {
   font-size: 15px;
   line-height: 1.8;
-  color: var(--c-muted);
+  color: #4A5568;
 }
 .legal-block a {
-  color: var(--c-red-hi);
+  color: var(--c-red);
   text-decoration: underline;
 }
 
