@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Career — Shree STC Group</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/main.css">
+<link rel="stylesheet" href="css/header.css">
+<link rel="stylesheet" href="css/career.css">
+<link rel="stylesheet" href="css/footer.css">
+</head>
+<body>
+
+<!-- ─── HEADER ────────────────── -->
+<header>
+  <a href="index.html" class="logo-link">
+    <img src="logoimg/stclogo.png" alt="Shree STC Group Logo" onerror="this.style.display='none'" />
+  </a>
+  <nav class="main-nav" id="mainNav">
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="products.html">Products</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html">Contacts</a></li>
+      <li><a href="gallery.html">Gallery</a></li>
+      <li><a href="team.html">Our Team</a></li>
+    </ul>
+  </nav>
+  <button class="hamburger" id="hamburger" aria-label="Toggle menu" aria-expanded="false">
+    <span></span><span></span><span></span>
+  </button>
+</header>
+
+<!-- ─── CAREER HERO ────────────────── -->
+<section id="career-hero">
+  <div class="career-hero-inner">
+    <div class="career-label">Career</div>
+    <h1 class="career-title">At Shree STC Group</h1>
+    <p class="career-desc">
+      Join a team that powers Nepal's automobile industry. We are always looking
+      for passionate, driven individuals who share our commitment to quality,
+      integrity, and innovation.
+    </p>
+  </div>
+</section>
+
+<!-- ─── JOB LISTINGS ────────────────── -->
+<section id="career-listings">
+  <div class="career-listings-inner">
+
+    <!-- ══ SET hasVacancy TO false IF NO OPENINGS, true IF THERE ARE ══ -->
+    <!-- ══ WHEN false: only the "no vacancy" message shows             ══ -->
+    <!-- ══ WHEN true: job cards show, no-vacancy message hides         ══ -->
+
+    <!-- NO VACANCY STATE -->
+    <div class="no-vacancy" id="noVacancy">
+      <div class="no-vacancy-icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="12" r="10"/>
+          <path d="M12 8v4M12 16h.01"/>
+        </svg>
+      </div>
+      <h2>No Vacancies Open at This Time</h2>
+      <p>
+        We don't have any open positions right now, but we're always growing.
+        If you're passionate about the automobile industry and want to be part
+        of our team, feel free to send us your CV — we'll keep it on file for
+        future opportunities.
+      </p>
+      <a href="mailto:info@shreestcgroup.com?subject=CV Submission — Shree STC Group&body=Hello Shree STC Group,%0D%0A%0D%0AI am interested in joining your team. Please find my CV attached.%0D%0A%0D%0AThank you." class="career-email-btn">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+          <polyline points="22,6 12,13 2,6"/>
+        </svg>
+        Send Your CV to info@shreestcgroup.com
+      </a>
+    </div>
+
+    <!-- JOB CARDS (shown when vacancies exist) -->
+    <div class="job-list" id="jobList">
+
+      <!-- ── JOB CARD 1 ── -->
+      <div class="job-card" data-job="sales-marketing">
+        <div class="job-card-header">
+          <div class="job-logo">
+            <img src="logoimg/stclogo.png" alt="STC Logo">
+          </div>
+          <div class="job-card-title-wrap">
+            <h3 class="job-title">Sales and Marketing Executive</h3>
+            <div class="job-meta">
+              <span class="job-tag">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                Full Time
+              </span>
+              <span class="job-tag">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13S3 17 3 10a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+                Kathmandu
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ── JOB CARD 2 ── -->
+      <div class="job-card" data-job="warehouse">
+        <div class="job-card-header">
+          <div class="job-logo">
+            <img src="logoimg/stclogo.png" alt="STC Logo">
+          </div>
+          <div class="job-card-title-wrap">
+            <h3 class="job-title">Warehouse & Inventory Officer</h3>
+            <div class="job-meta">
+              <span class="job-tag">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                Full Time
+              </span>
+              <span class="job-tag">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13S3 17 3 10a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+                Kathmandu
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- JOB DETAIL PANEL (shown when a card is clicked) -->
+    <div class="job-detail" id="jobDetail">
+      <button class="job-detail-back" id="jobDetailBack">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M19 12H5M12 5l-7 7 7 7"/>
+        </svg>
+        Back to all openings
+      </button>
+
+      <div class="job-detail-content" id="jobDetailContent">
+        <!-- filled dynamically by JS -->
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ─── FOOTER ────────────────── -->
+<footer>
+  <div class="footer-grid">
+    <div class="footer-brand">
+      <a href="index.html" class="footer-logo">
+        <img src="logoimg/stclogo.png" alt="Shree STC Group Logo">
+      </a>
+      <div class="footer-map">
+        <a href="https://maps.app.goo.gl/vwfPRFVzZyH938Ur5" target="_blank" rel="noopener noreferrer">
+          <iframe
+            src="https://maps.google.com/maps?q=Shree+STC+Group+Kathmandu+Nepal&output=embed&z=16"
+            allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+            title="Shree STC Group location"
+            style="pointer-events: none;">
+          </iframe>
+        </a>
+      </div>
+    </div>
+    <div class="footer-desc-col">
+      <p class="footer-desc-text">
+        Welcome to Shree STC Group, where brilliance meets innovation.
+        We are a leading company dedicated to delivering exceptional
+        products and services tailored to your needs.
+      </p>
+    </div>
+    <div class="footer-links-col">
+      <h4>Pages</h4>
+      <ul>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="products.html">Products</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+        <li><a href="career.html">Career</a></li>
+      </ul>
+    </div>
+    <div class="footer-links-col">
+      <h4>Customer Care</h4>
+      <ul>
+        <li><a href="customer-care.html#faq">FAQ</a></li>
+        <li><a href="customer-care.html#help-center">Help Center</a></li>
+        <li><a href="customer-care.html#terms">Terms and Conditions</a></li>
+        <li><a href="customer-care.html#privacy">Privacy Policy</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <p>© 2026 Shree STC Group Inc. All rights reserved. Made with <span>♥</span> in Nepal.</p>
+  </div>
+</footer>
+
+<script src="js/header.js"></script>
+<script src="js/career.js"></script>
+</body>
+</html>
