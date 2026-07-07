@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "Sample Lubricant",
+    "category": "lubricants",
+    "price": "MRP. 0",
+    "description": "Replace with actual lubricant.",
+    "image": "ourproductimg/sample-lubricant.png"
+  }
+]

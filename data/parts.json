@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "Sample Auto Part",
+    "category": "parts",
+    "price": "MRP. 0",
+    "description": "Replace with actual auto part.",
+    "image": "ourproductimg/sample-part.png"
+  }
+]

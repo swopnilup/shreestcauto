@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "Sample EV Product",
+    "category": "evs",
+    "price": "MRP. 0",
+    "description": "Replace with actual EV product.",
+    "image": "ourproductimg/sample-ev.png"
+  }
+]

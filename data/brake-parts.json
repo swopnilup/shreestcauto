@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "Sample Brake Pad",
+    "category": "brake-parts",
+    "price": "MRP. 0",
+    "description": "Replace with actual brake part.",
+    "image": "ourproductimg/sample-brake.png"
+  }
+]
