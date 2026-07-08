@@ -1,0 +1,30 @@
+[
+  {
+    "id": "sales-marketing",
+    "title": "Sales and Marketing Executive",
+    "type": "Full Time",
+    "location": "Kathmandu",
+    "description": "We are looking for a driven and enthusiastic Sales & Marketing Executive to join the Shree STC Group team. In this role, you will be responsible for promoting our range of genuine automobile parts — including CEAT tyres, ENI lubricants, batteries, and spare parts — to mechanics, dealerships, and resellers across Kathmandu and beyond.\n\nYou will identify new business opportunities, maintain relationships with existing clients, and represent Shree STC Group professionally in the field.",
+    "requirements": [
+      "Completed BBA or related field, or currently pursuing MBA",
+      "Strong communication and interpersonal skills",
+      "Self-motivated with a passion for sales",
+      "Knowledge of the automobile parts industry is a plus",
+      "Valid two-wheeler license preferred"
+    ]
+  },
+  {
+    "id": "warehouse",
+    "title": "Warehouse & Inventory Officer",
+    "type": "Full Time",
+    "location": "Kathmandu",
+    "description": "We are looking for a detail-oriented and organized Warehouse & Inventory Officer to manage stock, ensure accurate inventory records, and oversee the smooth dispatch and receipt of automobile parts at our Dhugaadda, Kathmandu facility.\n\nYou will work closely with our sales and procurement teams to maintain optimal stock levels and ensure timely order fulfillment for our customers.",
+    "requirements": [
+      "Minimum SLC/SEE pass; preference for graduates",
+      "Prior experience in warehouse or inventory management preferred",
+      "Strong organizational and record-keeping skills",
+      "Basic computer skills (MS Excel or similar)",
+      "Physically fit and able to handle stock"
+    ]
+  }
+]

@@ -291,3 +291,46 @@
   .job-detail { padding: 28px 22px; }
   .job-card { padding: 20px 18px; }
 }
+
+/* ── Requirements list ── */
+.job-requirements {
+  margin: 24px 0;
+  padding: 20px 24px;
+  background: #F0F2F7;
+  border-radius: 8px;
+  border-left: 3px solid var(--c-red);
+}
+
+.job-requirements h4 {
+  font-family: var(--f-display);
+  font-size: 16px;
+  font-weight: 700;
+  color: #1A1F2B;
+  margin-bottom: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.job-requirements ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.job-requirements ul li {
+  font-size: 14px;
+  color: #4A5568;
+  line-height: 1.6;
+  padding-left: 18px;
+  position: relative;
+}
+
+.job-requirements ul li::before {
+  content: '✓';
+  position: absolute;
+  left: 0;
+  color: var(--c-red);
+  font-weight: 700;
+  font-size: 12px;
+}
