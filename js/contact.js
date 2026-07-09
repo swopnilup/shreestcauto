@@ -4,34 +4,34 @@ document.addEventListener('DOMContentLoaded', () => {
   emailjs.init('zqieh1Xru1Af0dtT7'); // ← paste your public key here
 
   // ── Mobile menu ──
-  const hamburger = document.getElementById('hamburger');
-  const mainNav   = document.getElementById('mainNav');
+  // const hamburger = document.getElementById('hamburger');
+  // const mainNav   = document.getElementById('mainNav');
 
-  if (hamburger && mainNav) {
-    hamburger.addEventListener('click', () => {
-      const isOpen = mainNav.classList.toggle('open');
-      hamburger.classList.toggle('open');
-      hamburger.setAttribute('aria-expanded', isOpen);
-    });
+  // if (hamburger && mainNav) {
+  //   hamburger.addEventListener('click', () => {
+  //     const isOpen = mainNav.classList.toggle('open');
+  //     hamburger.classList.toggle('open');
+  //     hamburger.setAttribute('aria-expanded', isOpen);
+  //   });
 
-    document.querySelectorAll('.nav-links a').forEach(link => {
-      link.addEventListener('click', () => {
-        mainNav.classList.remove('open');
-        hamburger.classList.remove('open');
-        hamburger.setAttribute('aria-expanded', false);
-      });
-    });
+  //   document.querySelectorAll('.nav-links a').forEach(link => {
+  //     link.addEventListener('click', () => {
+  //       mainNav.classList.remove('open');
+  //       hamburger.classList.remove('open');
+  //       hamburger.setAttribute('aria-expanded', false);
+  //     });
+  //   });
 
-    document.addEventListener('click', (e) => {
-      if (mainNav.classList.contains('open') &&
-          !mainNav.contains(e.target) &&
-          !hamburger.contains(e.target)) {
-        mainNav.classList.remove('open');
-        hamburger.classList.remove('open');
-        hamburger.setAttribute('aria-expanded', false);
-      }
-    });
-  }
+  //   document.addEventListener('click', (e) => {
+  //     if (mainNav.classList.contains('open') &&
+  //         !mainNav.contains(e.target) &&
+  //         !hamburger.contains(e.target)) {
+  //       mainNav.classList.remove('open');
+  //       hamburger.classList.remove('open');
+  //       hamburger.setAttribute('aria-expanded', false);
+  //     }
+  //   });
+  // }
 
   // ── Contact form submit ──
   const form  = document.getElementById('contactForm');

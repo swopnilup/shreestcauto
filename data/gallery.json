@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "src": "gallery-images/gallery-1.jpg",
+    "alt": "CEAT Tyre event — team gathering",
+    "caption": "CEAT Tyre Customer Meet 2024"
+  },
+  {
+    "id": 2,
+    "src": "gallery-images/gallery-2.jpg",
+    "alt": "CEAT Tyre event — attendees",
+    "caption": "CEAT Tyre Customer Meet 2024"
+  },
+  {
+    "id": 3,
+    "src": "gallery-images/gallery-3.jpg",
+    "alt": "CEAT Tyre event — discussion",
+    "caption": "CEAT Tyre Customer Meet 2024"
+  },
+  {
+    "id": 4,
+    "src": "gallery-images/gallery-4.jpg",
+    "alt": "CEAT Tyre event — presentation",
+    "caption": "CEAT Tyre Customer Meet 2024"
+  },
+  {
+    "id": 5,
+    "src": "gallery-images/gallery-5.jpg",
+    "alt": "CEAT Tyre event — tyre demo",
+    "caption": "CEAT Tyre Customer Meet 2024"
+  },
+  {
+    "id": 6,
+    "src": "gallery-images/gallery-6.jpg",
+    "alt": "CEAT Tyre event — hall",
+    "caption": "CEAT Tyre Customer Meet 2024"
+  },
+  {
+    "id": 7,
+    "src": "gallery-images/gallery-7.jpg",
+    "alt": "CEAT Tyre event — speaker",
+    "caption": "CEAT Tyre Customer Meet 2024"
+  },
+  {
+    "id": 8,
+    "src": "gallery-images/gallery-8.jpg",
+    "alt": "CEAT Tyre event — audience",
+    "caption": "CEAT Tyre Customer Meet 2024"
+  },
+  {
+    "id": 9,
+    "src": "gallery-images/gallery-9.jpg",
+    "alt": "CEAT Tyre event — showcase",
+    "caption": "CEAT Tyre Customer Meet 2024"
+  },
+  {
+    "id": 10,
+    "src": "gallery-images/gallery-10.jpg",
+    "alt": "CEAT Tyre event — team",
+    "caption": "CEAT Tyre Customer Meet 2024"
+  },
+  {
+    "id": 11,
+    "src": "gallery-images/gallery-11.jpg",
+    "alt": "CEAT Tyre event — demo",
+    "caption": "CEAT Tyre Customer Meet 2024"
+  },
+  {
+    "id": 12,
+    "src": "gallery-images/gallery-12.jpg",
+    "alt": "CEAT Tyre event — closeup",
+    "caption": "CEAT Tyre Customer Meet 2024"
+  }
+]

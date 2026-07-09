@@ -1,31 +1,31 @@
 document.addEventListener('DOMContentLoaded', async () => {
 
   // ── Mobile menu ──
-  const hamburger = document.getElementById('hamburger');
-  const mainNav   = document.getElementById('mainNav');
-  if (hamburger && mainNav) {
-    hamburger.addEventListener('click', () => {
-      const isOpen = mainNav.classList.toggle('open');
-      hamburger.classList.toggle('open');
-      hamburger.setAttribute('aria-expanded', String(isOpen));
-    });
-    document.querySelectorAll('.nav-links a').forEach(link => {
-      link.addEventListener('click', () => {
-        mainNav.classList.remove('open');
-        hamburger.classList.remove('open');
-        hamburger.setAttribute('aria-expanded', 'false');
-      });
-    });
-    document.addEventListener('click', (e) => {
-      if (mainNav.classList.contains('open') &&
-          !mainNav.contains(e.target) &&
-          !hamburger.contains(e.target)) {
-        mainNav.classList.remove('open');
-        hamburger.classList.remove('open');
-        hamburger.setAttribute('aria-expanded', 'false');
-      }
-    });
-  }
+  // const hamburger = document.getElementById('hamburger');
+  // const mainNav   = document.getElementById('mainNav');
+  // if (hamburger && mainNav) {
+  //   hamburger.addEventListener('click', () => {
+  //     const isOpen = mainNav.classList.toggle('open');
+  //     hamburger.classList.toggle('open');
+  //     hamburger.setAttribute('aria-expanded', String(isOpen));
+  //   });
+  //   document.querySelectorAll('.nav-links a').forEach(link => {
+  //     link.addEventListener('click', () => {
+  //       mainNav.classList.remove('open');
+  //       hamburger.classList.remove('open');
+  //       hamburger.setAttribute('aria-expanded', 'false');
+  //     });
+  //   });
+  //   document.addEventListener('click', (e) => {
+  //     if (mainNav.classList.contains('open') &&
+  //         !mainNav.contains(e.target) &&
+  //         !hamburger.contains(e.target)) {
+  //       mainNav.classList.remove('open');
+  //       hamburger.classList.remove('open');
+  //       hamburger.setAttribute('aria-expanded', 'false');
+  //     }
+  //   });
+  // }
 
   const noVacancy = document.getElementById('noVacancy');
   const jobList   = document.getElementById('jobList');
@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   // true  = show job listings from JSON
   // false = show "no vacancy" message
   // ══════════════════════════════════════
-  const hasVacancy = true; // ← change to false when no openings
+  const hasVacancy = false; // ← change to false when no openings
 
   if (!hasVacancy) {
     noVacancy.classList.remove('hidden');

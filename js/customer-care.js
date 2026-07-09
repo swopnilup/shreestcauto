@@ -1,32 +1,32 @@
 document.addEventListener('DOMContentLoaded', () => {
 
   // ── Mobile menu ──
-  const hamburger = document.getElementById('hamburger');
-  const mainNav   = document.getElementById('mainNav');
+  // const hamburger = document.getElementById('hamburger');
+  // const mainNav   = document.getElementById('mainNav');
 
-  if (hamburger && mainNav) {
-    hamburger.addEventListener('click', () => {
-      const isOpen = mainNav.classList.toggle('open');
-      hamburger.classList.toggle('open');
-      hamburger.setAttribute('aria-expanded', isOpen);
-    });
-    document.querySelectorAll('.nav-links a').forEach(link => {
-      link.addEventListener('click', () => {
-        mainNav.classList.remove('open');
-        hamburger.classList.remove('open');
-        hamburger.setAttribute('aria-expanded', false);
-      });
-    });
-    document.addEventListener('click', (e) => {
-      if (mainNav.classList.contains('open') &&
-          !mainNav.contains(e.target) &&
-          !hamburger.contains(e.target)) {
-        mainNav.classList.remove('open');
-        hamburger.classList.remove('open');
-        hamburger.setAttribute('aria-expanded', false);
-      }
-    });
-  }
+  // if (hamburger && mainNav) {
+  //   hamburger.addEventListener('click', () => {
+  //     const isOpen = mainNav.classList.toggle('open');
+  //     hamburger.classList.toggle('open');
+  //     hamburger.setAttribute('aria-expanded', isOpen);
+  //   });
+  //   document.querySelectorAll('.nav-links a').forEach(link => {
+  //     link.addEventListener('click', () => {
+  //       mainNav.classList.remove('open');
+  //       hamburger.classList.remove('open');
+  //       hamburger.setAttribute('aria-expanded', false);
+  //     });
+  //   });
+  //   document.addEventListener('click', (e) => {
+  //     if (mainNav.classList.contains('open') &&
+  //         !mainNav.contains(e.target) &&
+  //         !hamburger.contains(e.target)) {
+  //       mainNav.classList.remove('open');
+  //       hamburger.classList.remove('open');
+  //       hamburger.setAttribute('aria-expanded', false);
+  //     }
+  //   });
+  // }
 
   // ── Smooth scroll for quick nav buttons ──
   document.querySelectorAll('.care-nav-btn').forEach(btn => {

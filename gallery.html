@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Gallery — Shree STC Group</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/main.css">
+<link rel="stylesheet" href="css/header.css">
+<link rel="stylesheet" href="css/gallery.css">
+<link rel="stylesheet" href="css/footer.css">
+</head>
+<body>
+
+<!-- ─── HEADER ────────────────── -->
+<header>
+  <a href="index.html" class="logo-link">
+    <img src="logoimg/stclogo.png" alt="Shree STC Group Logo" onerror="this.style.display='none'" />
+  </a>
+  <nav class="main-nav" id="mainNav">
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="products.html">Products</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html">Contacts</a></li>
+      <li><a href="gallery.html" class="active">Gallery</a></li>
+      <li><a href="team.html">Our Team</a></li>
+    </ul>
+  </nav>
+  <button class="hamburger" id="hamburger" aria-label="Toggle menu" aria-expanded="false">
+    <span></span><span></span><span></span>
+  </button>
+</header>
+
+<!-- ─── GALLERY HERO ────────────────── -->
+<section id="gallery-hero">
+  <h1 class="gallery-title">Our Extensive Gallery</h1>
+  <p class="gallery-sub">Explore our memories.</p>
+</section>
+
+<!-- ─── GALLERY GRID ────────────────── -->
+<section id="gallery-section">
+  <div class="gallery-grid" id="galleryGrid">
+    <!-- loaded from data/gallery.json -->
+  </div>
+  <div class="gallery-pagination" id="galleryPagination"></div>
+</section>
+
+<!-- ─── LIGHTBOX ────────────────── -->
+<div id="gallery-lightbox" role="dialog" aria-modal="true" aria-label="Image viewer">
+  <button class="lb-close" id="lbClose" aria-label="Close">✕</button>
+  <button class="lb-arrow lb-prev" id="lbPrev" aria-label="Previous image">&#8249;</button>
+  <button class="lb-arrow lb-next" id="lbNext" aria-label="Next image">&#8250;</button>
+  <div class="lb-img-wrap">
+    <img id="lbImg" src="" alt="" draggable="false">
+  </div>
+  <div class="lb-caption" id="lbCaption"></div>
+  <div class="lb-counter" id="lbCounter"></div>
+</div>
+
+<!-- ─── FOOTER ────────────────── -->
+<footer>
+  <div class="footer-grid">
+    <div class="footer-brand">
+      <a href="index.html" class="footer-logo">
+        <img src="logoimg/stclogo.png" alt="Shree STC Group Logo">
+      </a>
+      <div class="footer-map">
+        <a href="https://maps.app.goo.gl/vwfPRFVzZyH938Ur5" target="_blank" rel="noopener noreferrer">
+          <iframe
+            src="https://maps.google.com/maps?q=Shree+STC+Group+Kathmandu+Nepal&output=embed&z=16"
+            allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+            title="Shree STC Group location"
+            style="pointer-events: none;">
+          </iframe>
+        </a>
+      </div>
+    </div>
+    <div class="footer-desc-col">
+      <p class="footer-desc-text">
+        Welcome to Shree STC Group, where brilliance meets innovation.
+        We are a leading company dedicated to delivering exceptional
+        products and services tailored to your needs.
+      </p>
+    </div>
+    <div class="footer-links-col">
+      <h4>Pages</h4>
+      <ul>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="products.html">Products</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+        <li><a href="career.html">Career</a></li>
+      </ul>
+    </div>
+    <div class="footer-links-col">
+      <h4>Customer Care</h4>
+      <ul>
+        <li><a href="customer-care.html#faq">FAQ</a></li>
+        <li><a href="customer-care.html#help-center">Help Center</a></li>
+        <li><a href="customer-care.html#terms">Terms and Conditions</a></li>
+        <li><a href="customer-care.html#privacy">Privacy Policy</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <p>© 2026 Shree STC Group Inc. All rights reserved. Made with <span>♥</span> in Nepal.</p>
+  </div>
+</footer>
+
+<script src="js/header.js"></script>
+<script src="js/gallery.js"></script>
+</body>
+</html>
