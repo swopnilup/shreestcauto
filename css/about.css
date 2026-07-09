@@ -1,6 +1,7 @@
 /* ─── ABOUT PAGE HERO ─────────────────────── */
 #about-hero {
   position: relative;
+  max-width: 100%;
   min-height: 88vh;
   display: flex;
   align-items: center;
