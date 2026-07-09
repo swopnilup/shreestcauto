@@ -1,74 +1,514 @@
 [
   {
     "id": 1,
-    "src": "gallery-images/gallery-1.jpg",
-    "alt": "CEAT Tyre event — team gathering",
-    "caption": "CEAT Tyre Customer Meet 2024"
+    "src": "/galleryimg/fccevent1.jpg",
+    "alt": "FCC event — group photo",
+    "caption": "FCC Event"
   },
   {
     "id": 2,
-    "src": "gallery-images/gallery-2.jpg",
-    "alt": "CEAT Tyre event — attendees",
-    "caption": "CEAT Tyre Customer Meet 2024"
+    "src": "/galleryimg/fccevent2.jpg",
+    "alt": "FCC event — attendees",
+    "caption": "FCC Event"
   },
   {
     "id": 3,
-    "src": "gallery-images/gallery-3.jpg",
-    "alt": "CEAT Tyre event — discussion",
-    "caption": "CEAT Tyre Customer Meet 2024"
+    "src": "/galleryimg/fccevent3.jpg",
+    "alt": "FCC event — discussion",
+    "caption": "FCC Event"
   },
   {
     "id": 4,
-    "src": "gallery-images/gallery-4.jpg",
-    "alt": "CEAT Tyre event — presentation",
-    "caption": "CEAT Tyre Customer Meet 2024"
+    "src": "/galleryimg/fccretailmeetbutw1.jpg",
+    "alt": "FCC retail meet — presentation",
+    "caption": "FCC Retail Meet"
   },
   {
     "id": 5,
-    "src": "gallery-images/gallery-5.jpg",
-    "alt": "CEAT Tyre event — tyre demo",
-    "caption": "CEAT Tyre Customer Meet 2024"
+    "src": "/galleryimg/fccretailmeetbutw2.jpg",
+    "alt": "FCC retail meet — tyre demo",
+    "caption": "FCC Retail Meet"
   },
   {
     "id": 6,
-    "src": "gallery-images/gallery-6.jpg",
-    "alt": "CEAT Tyre event — hall",
-    "caption": "CEAT Tyre Customer Meet 2024"
+    "src": "/galleryimg/fccretailmeetbutw3.jpg",
+    "alt": "FCC retail meet — hall",
+    "caption": "FCC Retail Meet"
   },
   {
     "id": 7,
-    "src": "gallery-images/gallery-7.jpg",
-    "alt": "CEAT Tyre event — speaker",
-    "caption": "CEAT Tyre Customer Meet 2024"
+    "src": "/galleryimg/fccretailmeetbutw4.jpg",
+    "alt": "FCC retail meet — speaker",
+    "caption": "FCC Retail Meet"
   },
   {
     "id": 8,
-    "src": "gallery-images/gallery-8.jpg",
-    "alt": "CEAT Tyre event — audience",
-    "caption": "CEAT Tyre Customer Meet 2024"
+    "src": "/galleryimg/fccretailmeetbutw5.jpg",
+    "alt": "FCC retail meet — audience",
+    "caption": "FCC Retail Meet"
   },
   {
     "id": 9,
-    "src": "gallery-images/gallery-9.jpg",
-    "alt": "CEAT Tyre event — showcase",
-    "caption": "CEAT Tyre Customer Meet 2024"
+    "src": "/galleryimg/nadaautoshowride1.jpg",
+    "alt": "Nada Auto Show — showcase",
+    "caption": "Nada Auto Show"
   },
   {
     "id": 10,
-    "src": "gallery-images/gallery-10.jpg",
-    "alt": "CEAT Tyre event — team",
-    "caption": "CEAT Tyre Customer Meet 2024"
+    "src": "/galleryimg/nadaautoshowride2.jpg",
+    "alt": "Nada Auto Show — attendees",
+    "caption": "Nada Auto Show"
   },
   {
     "id": 11,
-    "src": "gallery-images/gallery-11.jpg",
-    "alt": "CEAT Tyre event — demo",
-    "caption": "CEAT Tyre Customer Meet 2024"
+    "src": "/galleryimg/varrocdealmeet1.jpg",
+    "alt": "Varroc Deal Meet — demo",
+    "caption": "Varroc Deal Meet 2024"
   },
   {
     "id": 12,
-    "src": "gallery-images/gallery-12.jpg",
-    "alt": "CEAT Tyre event — closeup",
-    "caption": "CEAT Tyre Customer Meet 2024"
+    "src": "/galleryimg/varrocdealmeet2.jpg",
+    "alt": "Varroc Deal Meet — closeup",
+    "caption": "Varroc Deal Meet 2024"
+  },
+  {
+    "id": 13,
+    "src": "/galleryimg/varrocdealmeet3.jpg",
+    "alt": "Varroc Deal Meet — audience",
+    "caption": "Varroc Deal Meet 2024"
+  },
+  {
+    "id": 14,
+    "src": "/galleryimg/varrocdealmeet4.jpg",
+    "alt": "Varroc Deal Meet — closeup",
+    "caption": "Varroc Deal Meet 2024"
+  },
+  {
+    "id": 15,
+    "src": "/galleryimg/varrocdealmeet5.jpg",
+    "alt": "Varroc Deal Meet — closeup",
+    "caption": "Varroc Deal Meet 2024"
+  },
+  {
+    "id": 16,
+    "src": "/galleryimg/varrocdealmeet6.jpg",
+    "alt": "Varroc Deal Meet — speaker",
+    "caption": "Varroc Deal Meet 2024"
+  },
+  {
+    "id": 17,
+    "src": "/galleryimg/varrocdealmeet7.jpg",
+    "alt": "Varroc Deal Meet — closeup",
+    "caption": "Varroc Deal Meet 2024"
+  },
+  {
+    "id": 18,
+    "src": "/galleryimg/varrocdealmeet8.jpg",
+    "alt": "Varroc Deal Meet — audience",
+    "caption": "Varroc Deal Meet 2024"
+  },
+  {
+    "id": 19,
+    "src": "/galleryimg/varrocdealmeet9.jpg",
+    "alt": "Varroc Deal Meet — closeup",
+    "caption": "Varroc Deal Meet 2024"
+  },
+  {
+    "id": 20,
+    "src": "/galleryimg/varrocdealmeet10.jpg",
+    "alt": "Varroc Deal Meet — closeup",
+    "caption": "Varroc Deal Meet 2024"
+  },
+  {
+    "id": 21,
+    "src": "/galleryimg/varrocdealmeet11.jpg",
+    "alt": "Varroc Deal Meet — closeup",
+    "caption": "Varroc Deal Meet 2024"
+  },
+  {
+    "id": 22,
+    "src": "/galleryimg/varrocdealmeet12.jpg",
+    "alt": "Varroc Deal Meet — closeup",
+    "caption": "Varroc Deal Meet 2024"
+  },
+  {
+    "id": 23,
+    "src": "/galleryimg/varrocdealmeet13.jpg",
+    "alt": "Varroc Deal Meet — closeup",
+    "caption": "Varroc Deal Meet 2024"
+  },
+  {
+    "id": 24,
+    "src": "/galleryimg/fccretailmeet2024-1.jpg",
+    "alt": "FCC Retail Meet — closeup",
+    "caption": "FCC Retail Meet 2024"
+  },
+  {
+    "id": 25,
+    "src": "/galleryimg/fccretailmeet2024-2.jpg",
+    "alt": "FCC Retail Meet — closeup",
+    "caption": "FCC Retail Meet 2024"
+  },
+  {
+    "id": 26,
+    "src": "/galleryimg/fccretailmeet2024-3.jpg",
+    "alt": "FCC Retail Meet — closeup",
+    "caption": "FCC Retail Meet 2024"
+  },
+  {
+    "id": 27,
+    "src": "/galleryimg/fccretailmeet2024-4.jpg",
+    "alt": "FCC Retail Meet — closeup",
+    "caption": "FCC Retail Meet 2024"
+  },
+  {
+    "id": 28,
+    "src": "/galleryimg/fccretailmeet2024-5.jpg",
+    "alt": "FCC Retail Meet — closeup",
+    "caption": "FCC Retail Meet 2024"
+  },
+  {
+    "id": 29,
+    "src": "/galleryimg/fccclutchretail1.jpg",
+    "alt": "FCC Dealer Meet — closeup",
+    "caption": "FCC Dealer Meet 2024"
+  },
+  {
+    "id": 30,
+    "src": "/galleryimg/fccclutchretail2.jpg",
+    "alt": "FCC Dealer Meet — closeup",
+    "caption": "FCC Dealer Meet 2024"
+  },
+  {
+    "id": 31,
+    "src": "/galleryimg/fccclutchretail3.jpg",
+    "alt": "FCC Dealer Meet — closeup",
+    "caption": "FCC Dealer Meet 2024"
+  },
+  {
+    "id": 32,
+    "src": "/galleryimg/fccclutchretail4.jpg",
+    "alt": "FCC Dealer Meet — closeup",
+    "caption": "FCC Dealer Meet 2024"
+  },
+  {
+    "id": 33,
+    "src": "/galleryimg/fccclutchretail5.jpg",
+    "alt": "FCC Dealer Meet — closeup",
+    "caption": "FCC Dealer Meet 2024"
+  },
+  {
+    "id": 34,
+    "src": "/galleryimg/fccclutchretail6.jpg",
+    "alt": "FCC Dealer Meet — closeup",
+    "caption": "FCC Dealer Meet 2024"
+  },
+  {
+    "id": 35,
+    "src": "/galleryimg/fccclutchretail7.jpg",
+    "alt": "FCC Dealer Meet — closeup",
+    "caption": "FCC Dealer Meet 2024"
+  },
+  {
+    "id": 36,
+    "src": "/galleryimg/fccclutchretail8.jpg",
+    "alt": "FCC Dealer Meet — closeup",
+    "caption": "FCC Dealer Meet 2024"
+  },
+  {
+    "id": 37,
+    "src": "/galleryimg/fccclutchretail9.jpg",
+    "alt": "FCC Dealer Meet — closeup",
+    "caption": "FCC Dealer Meet 2024"
+  },
+  {
+    "id": 38,
+    "src": "/galleryimg/fccclutchretail10.jpg",
+    "alt": "FCC Dealer Meet — closeup",
+    "caption": "FCC Dealer Meet 2024"
+  },
+  {
+    "id": 39,
+    "src": "/galleryimg/fccclutchretail11.jpg",
+    "alt": "FCC Dealer Meet — closeup",
+    "caption": "FCC Dealer Meet 2024"
+  },
+  {
+    "id": 40,
+    "src": "/galleryimg/fccclutchretail12.jpg",
+    "alt": "FCC Dealer Meet — closeup",
+    "caption": "FCC Dealer Meet 2024"
+  },
+  {
+    "id": 41,
+    "src": "/galleryimg/fccclutchretail13.jpg",
+    "alt": "FCC Dealer Meet — closeup",
+    "caption": "FCC Dealer Meet 2024"
+  },
+  {
+    "id": 42,
+    "src": "/galleryimg/fccclutchretail14.jpg",
+    "alt": "FCC Dealer Meet — closeup",
+    "caption": "FCC Dealer Meet 2024"
+  },
+  {
+    "id": 43,
+    "src": "/galleryimg/fccclutchretail15.jpg",
+    "alt": "FCC Dealer Meet — closeup",
+    "caption": "FCC Dealer Meet 2024"
+  },
+  {
+    "id": 44,
+    "src": "/galleryimg/fccclutchretail16.jpg",
+    "alt": "FCC Dealer Meet — closeup",
+    "caption": "FCC Dealer Meet 2024"
+  },
+  {
+    "id": 45,
+    "src": "/galleryimg/fccclutchretail17.jpg",
+    "alt": "FCC Dealer Meet — closeup",
+    "caption": "FCC Dealer Meet 2024"
+  },
+  {
+    "id": 46,
+    "src": "/galleryimg/fccclutchretail18.jpg",
+    "alt": "FCC Dealer Meet — closeup",
+    "caption": "FCC Dealer Meet 2024"
+  },
+  {
+    "id": 47,
+    "src": "/galleryimg/fccclutchretail19.jpg",
+    "alt": "FCC Dealer Meet — closeup",
+    "caption": "FCC Dealer Meet 2024"
+  },
+  {
+    "id": 48,
+    "src": "/galleryimg/fccclutchretail20.jpg",
+    "alt": "FCC Dealer Meet — closeup",
+    "caption": "FCC Dealer Meet 2024"
+  },
+  {
+    "id": 49,
+    "src": "/galleryimg/fccclutchretail21.jpg",
+    "alt": "FCC Dealer Meet — closeup",
+    "caption": "FCC Dealer Meet 2024"
+  },
+  {
+    "id": 50,
+    "src": "/galleryimg/fccclutchretail22.jpg",
+    "alt": "FCC Dealer Meet — closeup",
+    "caption": "FCC Dealer Meet 2024"
+  },
+  {
+    "id": 51,
+    "src": "/galleryimg/fccclutchretail23.jpg",
+    "alt": "FCC Dealer Meet — closeup",
+    "caption": "FCC Dealer Meet 2024"
+  },
+  {
+    "id": 52,
+    "src": "/galleryimg/fccclutchretail24.jpg",
+    "alt": "FCC Dealer Meet — closeup",
+    "caption": "FCC Dealer Meet 2024"
+  },
+  {
+    "id": 53,
+    "src": "/galleryimg/fccclutchretail25.jpg",
+    "alt": "FCC Dealer Meet — closeup",
+    "caption": "FCC Dealer Meet 2024"
+  },
+  {
+    "id": 54,
+    "src": "/galleryimg/fccclutchretail26.jpg",
+    "alt": "FCC Dealer Meet — closeup",
+    "caption": "FCC Dealer Meet 2024"
+  },
+  {
+    "id": 55,
+    "src": "/galleryimg/fccclutchretail28.jpg",
+    "alt": "FCC Dealer Meet — closeup",
+    "caption": "FCC Dealer Meet 2024"
+  },
+  {
+    "id": 56,
+    "src": "/galleryimg/fccclutchretail29.jpg",
+    "alt": "FCC Dealer Meet — closeup",
+    "caption": "FCC Dealer Meet 2024"
+  },
+  {
+    "id": 57,
+    "src": "/galleryimg/fccclutchretail30.jpg",
+    "alt": "FCC Dealer Meet — closeup",
+    "caption": "FCC Dealer Meet 2024"
+  },
+  {
+    "id": 58,
+    "src": "/galleryimg/fccclutchretail31.jpg",
+    "alt": "FCC Dealer Meet — closeup",
+    "caption": "FCC Dealer Meet 2024"
+  },
+  {
+    "id": 59,
+    "src": "/galleryimg/ceataward1.jpg",
+    "alt": "CEAT Award — closeup",
+    "caption": "CEAT Award"
+  },
+  {
+    "id": 60,
+    "src": "/galleryimg/ceataward2.jpg",
+    "alt": "CEAT Award — closeup",
+    "caption": "CEAT Award"
+  },
+  {
+    "id": 61,
+    "src": "/galleryimg/ceataward3.jpg",
+    "alt": "CEAT Award — closeup",
+    "caption": "CEAT Award"
+  },
+  {
+    "id": 62,
+    "src": "/galleryimg/fccaward1.jpg",
+    "alt": "FCC Award — closeup",
+    "caption": "FCC Award"
+  },
+  {
+    "id": 63,
+    "src": "/galleryimg/fccaward2.jpg",
+    "alt": "FCC Award — closeup",
+    "caption": "FCC Award"
+  },
+  {
+    "id": 64,
+    "src": "/galleryimg/fccaward3.jpg",
+    "alt": "FCC Award — closeup",
+    "caption": "FCC Award"
+  },
+  {
+    "id": 65,
+    "src": "/galleryimg/fccretail2023.jpg",
+    "alt": "FCC Retail — closeup",
+    "caption": "FCC Retail"
+  },
+  {
+    "id": 66,
+    "src": "/galleryimg/fccretail2023-1.jpg",
+    "alt": "FCC Retail — closeup",
+    "caption": "FCC Retail"
+  },
+  {
+    "id": 67,
+    "src": "/galleryimg/fccretail2023-2.jpg",
+    "alt": "FCC Retail — closeup",
+    "caption": "FCC Retail"
+  },
+  {
+    "id": 68,
+    "src": "/galleryimg/fccretail2023-3.jpg",
+    "alt": "FCC Retail — closeup",
+    "caption": "FCC Retail"
+  },
+  {
+    "id": 69,
+    "src": "/galleryimg/fccretail2023-4.jpg",
+    "alt": "FCC Retail — closeup",
+    "caption": "FCC Retail"
+  },
+  {
+    "id": 70,
+    "src": "/galleryimg/fccretail2023-5.jpg",
+    "alt": "FCC Retail — closeup",
+    "caption": "FCC Retail"
+  },
+  {
+    "id": 71,
+    "src": "/galleryimg/fccretail2023-6.jpg",
+    "alt": "FCC Retail — closeup",
+    "caption": "FCC Retail"
+  },
+  {
+    "id": 72,
+    "src": "/galleryimg/fccretail2023-7.jpg",
+    "alt": "FCC Retail — closeup",
+    "caption": "FCC Retail"
+  },
+  {
+    "id": 73,
+    "src": "/galleryimg/fccretail2023-8.jpg",
+    "alt": "FCC Retail — closeup",
+    "caption": "FCC Retail"
+  },
+  {
+    "id": 74,
+    "src": "/galleryimg/fccretail2023-9.jpg",
+    "alt": "FCC Retail — closeup",
+    "caption": "FCC Retail"
+  },
+  {
+    "id": 75,
+    "src": "/galleryimg/fccretail2023-10.jpg",
+    "alt": "FCC Retail — closeup",
+    "caption": "FCC Retail"
+  },
+  {
+    "id": 76,
+    "src": "/galleryimg/fccretail2023-11.jpg",
+    "alt": "FCC Retail — closeup",
+    "caption": "FCC Retail"
+  },
+  {
+    "id": 77,
+    "src": "/galleryimg/fccretail2023-12.jpg",
+    "alt": "FCC Retail — closeup",
+    "caption": "FCC Retail"
+  },
+  {
+    "id": 78,
+    "src": "/galleryimg/fccretail2023-13.jpg",
+    "alt": "FCC Retail — closeup",
+    "caption": "FCC Retail"
+  },
+  {
+    "id": 79,
+    "src": "/galleryimg/fccretail2023-14.jpg",
+    "alt": "FCC Retail — closeup",
+    "caption": "FCC Retail"
+  },
+  {
+    "id": 80,
+    "src": "/galleryimg/fccretail2023-15.jpg",
+    "alt": "FCC Retail — closeup",
+    "caption": "FCC Retail"
+  },
+  {
+    "id": 81,
+    "src": "/galleryimg/fccretail2023-16.jpg",
+    "alt": "FCC Retail — closeup",
+    "caption": "FCC Retail"
+  },
+  {
+    "id": 82,
+    "src": "/galleryimg/fccretail2023-17.jpg",
+    "alt": "FCC Retail — closeup",
+    "caption": "FCC Retail"
+  },
+  {
+    "id": 83,
+    "src": "/galleryimg/fccretail2023-18.jpg",
+    "alt": "FCC Retail — closeup",
+    "caption": "FCC Retail"
+  },
+  {
+    "id": 84,
+    "src": "/galleryimg/fccretail2023-19.jpg",
+    "alt": "FCC Retail — closeup",
+    "caption": "FCC Retail"
+  },
+  {
+    "id": 85,
+    "src": "/galleryimg/fccretail2023-20.jpg",
+    "alt": "FCC Retail — closeup",
+    "caption": "FCC Retail"
   }
+
+
 ]
