@@ -1,10 +1,163 @@
 [
   {
     "id": 1,
-    "name": "Sample Tyre",
+    "name": "CEAT Scooter Tyre 3.00-10 ZOOM D TL 42J",
     "category": "tyre",
-    "price": "MRP. 0",
-    "description": "Replace with actual tyre product.",
-    "image": "ourproductimg/sample-tyre.png"
+    "price": "MRP. 2185",
+    "description": "Scooter Tyre, Size: 3.00-10 ZOOM D TL 42J",
+    "image": "/tyreimg/tyre2.png"
+  },
+  {
+    "id": 2,
+    "name": "CEAT Scooter Tyre 3.00-10 SECURA NEO TT 42J",
+    "category": "tyre",
+    "price": "MRP. 2352",
+    "description": "Scooter Tyre, Size: 3.00-10 SECURA NEO TT 42J",
+    "image": "/tyreimg/tyre2.png"
+  },
+  {
+    "id": 3,
+    "name": "CEAT Scooter Tyre 3.50/10 MILAZE TL",
+    "category": "tyre",
+    "price": "MRP. 2645",
+    "description": "Scooter Tyre, Size: 3.50/10 MILAZE TL",
+    "image": "/tyreimg/nomatch.png"
+  },
+  {
+    "id": 4,
+    "name": "CEAT Scooter Tyre 90/100-10 GRIPP X3 TL",
+    "category": "tyre",
+    "price": "MRP. 2672",
+    "description": "Scooter Tyre, Size: 90/100-10 GRIPP X3 TL",
+    "image": "/tyreimg/tyre1.png"
+  },
+  {
+    "id": 5,
+    "name": "CEAT Scooter Tyre 90/100-10 GRIPP X3 TT",
+    "category": "tyre",
+    "price": "MRP. 2672",
+    "description": "Scooter Tyre, Size: 90/100-10 GRIPP X3 TT",
+    "image": "/tyreimg/tyre4.png"
+  },
+  {
+    "id": 6,
+    "name": "CEAT Scooter Tyre 90/100-10 ZOOM D H/LR TL 53J",
+    "category": "tyre",
+    "price": "MRP. 2385",
+    "description": "Scooter Tyre, Size: 90/100-10 ZOOM D H/LR TL 53J",
+    "image": "/tyreimg/tyre4.png"
+  },
+  {
+    "id": 7,
+    "name": "CEAT Scooter Tyre 90/100-10 ZOOM X3",
+    "category": "tyre",
+    "price": "MRP. 2385",
+    "description": "Scooter Tyre, Size: 90/100-10 ZOOM X3",
+    "image": "/tyreimg/tyre4.png"
+  },
+  {
+    "id": 8,
+    "name": "CEAT Scooter Tyre 90/100-10 MILAZE TL",
+    "category": "tyre",
+    "price": "MRP. 2441",
+    "description": "Scooter Tyre, Size: 90/100-10 MILAZE TL",
+    "image": "/tyreimg/tyre4.png"
+  },
+  {
+    "id": 9,
+    "name": "CEAT Scooter Tyre 90/100-10 MILAZE TT",
+    "category": "tyre",
+    "price": "MRP. 2441",
+    "description": "Scooter Tyre, Size: 90/100-10 MILAZE TT",
+    "image": "/tyreimg/tyre4.png"
+  },
+  {
+    "id": 10,
+    "name": "CEAT Scooter Tyre 90/100-10 MILAZE X5 TL 53J SW",
+    "category": "tyre",
+    "price": "MRP. 2441",
+    "description": "Scooter Tyre, Size: 90/100-10 MILAZE X5 TL 53J SW",
+    "image": "/tyreimg/tyre1.png"
+  },
+  {
+    "id": 11,
+    "name": "CEAT Scooter Tyre 90/90-12 MILAZE TT(E RIKSHAW)",
+    "category": "tyre",
+    "price": "MRP. 2778",
+    "description": "Scooter Tyre, Size: 90/90-12 MILAZE TT(E RIKSHAW)",
+    "image": "/tyreimg/tyre5.png"
+  },
+  {
+    "id": 12,
+    "name": "CEAT Scooter Tyre 90/90-12 MILAZE TL",
+    "category": "tyre",
+    "price": "MRP. 2791",
+    "description": "Scooter Tyre, Size: 90/90-12 MILAZE TL",
+    "image": "/tyreimg/tyre5.png"
+  },
+  {
+    "id": 13,
+    "name": "CEAT Scooter Tyre 90/90-12 ZOOM D TL",
+    "category": "tyre",
+    "price": "MRP. 2647",
+    "description": "Scooter Tyre, Size: 90/90-12 ZOOM D TL",
+    "image": "/tyreimg/tyre5.png"
+  },
+  {
+    "id": 14,
+    "name": "CEAT Scooter Tyre 100/80-12 ZOOM X3 TL 56",
+    "category": "tyre",
+    "price": "MRP. 3224",
+    "description": "Scooter Tyre, Size: 100/80-12 ZOOM X3 TL 56",
+    "image": "/tyreimg/tyre2.png"
+  },
+  {
+    "id": 15,
+    "name": "CEAT Scooter Tyre 110/80-12 ZOOM X3 Y TL 61L",
+    "category": "tyre",
+    "price": "MRP. 3697",
+    "description": "Scooter Tyre, Size: 110/80-12 ZOOM X3 Y TL 61L",
+    "image": "/tyreimg/tyre2.png"
+  },
+  {
+    "id": 16,
+    "name": "CEAT Scooter Tyre 110/90-10 ZOOM X3 TL 61J",
+    "category": "tyre",
+    "price": "MRP. 3028",
+    "description": "Scooter Tyre, Size: 110/90-10 ZOOM X3 TL 61J",
+    "image": "/tyreimg/tyre2.png"
+  },
+  {
+    "id": 17,
+    "name": "CEAT Scooter Tyre 120/70-12 ZOOM X3 TL 51P",
+    "category": "tyre",
+    "price": "MRP. 3246",
+    "description": "Scooter Tyre, Size: 120/70-12 ZOOM X3 TL 51P",
+    "image": "/tyreimg/tyre2.png"
+  },
+  {
+    "id": 18,
+    "name": "CEAT Scooter Tyre 120/70-14 ZOOM PLUS TL 55P",
+    "category": "tyre",
+    "price": "MRP. 4001",
+    "description": "Scooter Tyre, Size: 120/70-14 ZOOM PLUS TL 55P",
+    "image": "/tyreimg/tyre2.png"
+  },
+  {
+    "id": 19,
+    "name": "CEAT Scooter Tyre 130/70-12 ZOOM MAX TL 62P",
+    "category": "tyre",
+    "price": "MRP. 3544",
+    "description": "Scooter Tyre, Size: 130/70-12 ZOOM MAX TL 62P",
+    "image": "/tyreimg/tyre2.png"
+  },
+  {
+    "id": 20,
+    "name": "CEAT Scooter Tyre 140/70-14 ZOOM PLUS Y TL 62P",
+    "category": "tyre",
+    "price": "MRP. 4880",
+    "description": "Scooter Tyre, Size: 140/70-14 ZOOM PLUS Y TL 62P",
+    "image": "/tyreimg/nomatch.png"
   }
+
 ]
