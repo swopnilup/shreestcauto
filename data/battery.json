@@ -5,7 +5,7 @@
     "category": "battery",
     "price": "MRP. 6966",
     "description": "Automotive Batteries / 24 Month warranty (12F +12P) 34AH capacity / Warranty for Taxi and other Purpose 12 months only.",
-    "image": "ourproductimg/stcride.png" 
+    "image": "/battery/sr-35ah-12v.jpeg" 
   },
 
   { 
@@ -14,7 +14,7 @@
    "category": "battery",
    "price": "MRP. 7752",
    "description": "Automotive Batteries / 24 Months warranty (12F +12P) 40AH capacity / Warranty for Taxi and other Purpose 12 months only.",
-   "image": "ourproductimg/battery-arkos-mfz4.png"
+   "image": "/battery/sr-4ah-12v.jpeg"
   },
   
   { 
@@ -23,7 +23,7 @@
    "category": "battery",
    "price": "MRP. 8904",
    "description": "Automotive Batteries / 24 Months warranty (18F +6P) 42AH capacity / Warranty for Taxi and other Purpose 12 months only.",
-   "image": "ourproductimg/battery-arkos-scooter.png"
+   "image": "/battery/nocontent.jpeg"
   },
 
   { 
@@ -32,7 +32,7 @@
    "category": "battery",
    "price": "MRP. 11942",
    "description": "Automotive Batteries / 36 Months warranty (18F +18P) 65AH capacity / Warranty for Taxi and other Purpose 12 months only.",
-   "image": "ourproductimg/battery-arkos-scooter.png" 
+   "image": "/battery/sr-65ah-12vl.jpeg" 
   },
 
   { 
@@ -41,7 +41,7 @@
    "category": "battery",
    "price": "MRP. 15713",
    "description": "Automotive Batteries / 36 Months warranty (18F +18P) 80AH capacity / Warranty for Taxi and other Purpose 12 months only.",
-   "image": "ourproductimg/battery-arkos-scooter.png"
+   "image": "/battery/nocontent.jpeg"
   },
 
   { 
@@ -50,7 +50,7 @@
    "category": "battery",
    "price": "MRP. 18017",
    "description": "Automotive Batteries / 24 Months warranty (18F +6P) 100AH capacity / Warranty for Taxi and other Purpose 12 months only.",
-   "image": "ourproductimg/battery-arkos-scooter.png"
+   "image": "/battery/sr-100ah-12vl.jpeg"
   },
 
   { 
@@ -59,7 +59,7 @@
    "category": "battery",
    "price": "MRP. 25140",
    "description": "Automotive Batteries / 24 Months warranty (18F +6P) 130AH capacity / Warranty for Taxi and other Purpose 12 months only.",
-   "image": "ourproductimg/battery-arkos-scooter.png" 
+   "image": "/battery/nocontent.jpeg" 
   },
 
   { 
