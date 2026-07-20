@@ -18,8 +18,8 @@ document.addEventListener('DOMContentLoaded', async () => {
   try {
 
     const files = [
-      'battery.json',
       'tyre.json',
+      'battery.json',
       'parts.json',
       'brake-parts.json',
       'fuel-systems.json',
