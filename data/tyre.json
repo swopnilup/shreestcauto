@@ -270,6 +270,118 @@
     "price": "MRP. 6412",
     "description": "Motercycle Tyre, Size: 120/70 R17 GRIPP XL# RAD STEEL F# TL 58 H",
     "image": "/tyreimg/tyre9.png"
+  },
+  {
+    "id": 34,
+    "name": "CEAT Motercycle Tyre 120/80-16 60P GRIPP CRUZ TL",
+    "category": "tyre",
+    "price": "MRP. 5859",
+    "description": "Motercycle Tyre, Size: 120/80-16 60P GRIPP CRUZ TL",
+    "image": "/tyreimg/tyre15.png"
+  },
+  {
+    "id": 35,
+    "name": "CEAT Motercycle Tyre 120/80-17  ZOOM X3 TL",
+    "category": "tyre",
+    "price": "MRP. 4922",
+    "description": "Motercycle Tyre, Size: 120/80-17  ZOOM X3 TL",
+    "image": "/tyreimg/tyre5.png"
+  },
+  {
+    "id": 36,
+    "name": "CEAT Motercycle Tyre 120/80-17 GRIP X3 62P",
+    "category": "tyre",
+    "price": "MRP. 5209",
+    "description": "Motercycle Tyre, Size: 120/80-17 GRIP X3 62P",
+    "image": "/tyreimg/tyre11.png"
+  },
+  {
+    "id": 37,
+    "name": "CEAT Motercycle Tyre 120/80-17 GRIP X5 61P",
+    "category": "tyre",
+    "price": "MRP. 5258",
+    "description": "Motercycle Tyre, Size: 120/80-17 GRIP X5 61P",
+    "image": "/tyreimg/tyre11.png"
+  },
+  {
+    "id": 38,
+    "name": "CEAT Motercycle Tyre 120/80-18 GRIPP XL TT 62S",
+    "category": "tyre",
+    "price": "MRP. 6025",
+    "description": "Motercycle Tyre, Size: 120/80-18 GRIPP XL TT 62S",
+    "image": "/tyreimg/tyre11.png"
+  },
+  {
+    "id": 39,
+    "name": "CEAT Motercycle Tyre 120/80-18 ZOOM PLUS TL 62P (J1A5)",
+    "category": "tyre",
+    "price": "MRP. 5565",
+    "description": "Motercycle Tyre, Size: 120/80-18 ZOOM PLUS TL 62P (J1A5)",
+    "image": "/tyreimg/tyre10.png"
+  },
+  {
+    "id": 40,
+    "name": "CEAT Motercycle Tyre 120/90-17 GRIPP XL",
+    "category": "tyre",
+    "price": "MRP. 7245",
+    "description": "Motercycle Tyre, Size: 120/90-17 GRIPP XL",
+    "image": "/tyreimg/tyre15.png"
+  },
+  {
+    "id": 41,
+    "name": "CEAT Motercycle Tyre 130/70-17 ZOOM XL TL",
+    "category": "tyre",
+    "price": "MRP. 5277",
+    "description": "Motercycle Tyre, Size: 130/70-17 ZOOM XL TL",
+    "image": "/tyreimg/tyre13.png"
+  },
+  {
+    "id": 42,
+    "name": "CEAT Motercycle Tyre 130/90-15 ZOOM X3 TL 66P",
+    "category": "tyre",
+    "price": "MRP. 5301",
+    "description": "Motercycle Tyre, Size: 130/90-15 ZOOM X3 TL 66P",
+    "image": "/tyreimg/tyre3.png"
+  },
+  {
+    "id": 43,
+    "name": "CEAT Motercycle Tyre 140/60 R 17 63P ZOOM RAD TL",
+    "category": "tyre",
+    "price": "MRP. 6089",
+    "description": "Motercycle Tyre, Size: 140/60 R 17 63P ZOOM RAD TL",
+    "image": "/tyreimg/tyre10.png"
+  },
+  {
+    "id": 44,
+    "name": "CEAT Motercycle Tyre 140/60 R17 CROSSRAD TL 63H",
+    "category": "tyre",
+    "price": "MRP. 6089",
+    "description": "Motercycle Tyre, Size: 140/60 R17 CROSSRAD TL 63H",
+    "image": "/tyreimg/tyre10.png"
+  },
+  {
+    "id": 45,
+    "name": "CEAT Motercycle Tyre 140/70-17 ZOOM XL",
+    "category": "tyre",
+    "price": "MRP. 6360",
+    "description": "Motercycle Tyre, Size: 140/70-17 ZOOM XL",
+    "image": "/tyreimg/tyre9.png"
+  },
+  {
+    "id": 46,
+    "name": "CEAT Motercycle Tyre 140/70-17 GRIP X5 66H",
+    "category": "tyre",
+    "price": "MRP. 6494",
+    "description": "Motercycle Tyre, Size: 140/70-17 GRIP X5 66H",
+    "image": "/tyreimg/tyre9.png"
+  },
+  {
+    "id": 47,
+    "name": "CEAT Motercycle Tyre 140/80 R17 GRIPP RAD STEEL RE TL 69H ",
+    "category": "tyre",
+    "price": "MRP. 7350",
+    "description": "Motercycle Tyre, Size: 140/80 R17 GRIPP RAD STEEL RE TL 69H",
+    "image": "/tyreimg/tyre12.png"
   }
 
 
