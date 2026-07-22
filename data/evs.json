@@ -1,10 +1,27 @@
 [
   {
     "id": 1,
-    "name": "Sample EV Product",
+    "name": "Ampere Magnus",
     "category": "evs",
-    "price": "MRP. 0",
-    "description": "Replace with actual EV product.",
-    "image": "ourproductimg/sample-ev.png"
+    "price": "Battery:Lithium-Ion, Range: Up to 121 km, Top Speed:50 km/h, Motor:BLDC Hub Motor",
+    "description": "Feature-rich electric scooter with enhanced performance, longer range, and advanced technology for modern riders.",
+    "image": "/evs/magnus.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Ampere Nexus",
+    "category": "evs",
+    "price": "Battery:Advanced Li-Ion, Range: Up to 115 km, Top Speed:58 km/h, Features:Smart Connectivity",
+    "description": "Ampere's flagship electric scooter combining cutting-edge technology, superior comfort, and exceptional range for the ultimate riding experience.",
+    "image": "/evs/nexus.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Jinbei Grand Hiace",
+    "category": "evs",
+    "price": "Seating:14 passenger Category:Minibus",
+    "description": "The Jinbei Grand Hiace represents the perfect fusion of Toyota's legendary reliability and modern electric vehicle technology. Backed by the Renault-Brilliance partnership, this 14-seater minibus is designed specifically for commercial operations in Nepal.",
+    "image": "/evs/jinbei.png"
   }
+
 ]
