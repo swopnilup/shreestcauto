@@ -382,6 +382,38 @@
     "price": "MRP. 7350",
     "description": "Motercycle Tyre, Size: 140/80 R17 GRIPP RAD STEEL RE TL 69H",
     "image": "/tyreimg/tyre12.png"
+  },
+  {
+    "id": 48,
+    "name": "CEAT Motercycle Tyre 150/60 R 17 ZOOM RAD X1 66H",
+    "category": "tyre",
+    "price": "MRP. 7350",
+    "description": "Motercycle Tyre, Size: 150/60 R 17 ZOOM RAD X1 66H",
+    "image": "/tyreimg/tyre9.png"
+  },
+  {
+    "id": 49,
+    "name": "CEAT Motercycle Tyre 150/60 ZR17 SPORTRAD TL 66W ",
+    "category": "tyre",
+    "price": "MRP. 7350",
+    "description": "Motercycle Tyre, Size: 150/60 ZR17 SPORTRAD TL 66W",
+    "image": "/tyreimg/tyre9.png"
+  },
+  {
+    "id": 50,
+    "name": "CEAT Motercycle Tyre 160/60 R17 GRIP XL RAD STEEL TL 69H ",
+    "category": "tyre",
+    "price": "MRP. 7350",
+    "description": "Motercycle Tyre, Size: 160/60 R17 GRIP XL RAD STEEL TL 69H",
+    "image": "/tyreimg/tyre9.png"
+  },
+  {
+    "id": 50,
+    "name": "CEAT Motercycle Tyre 160/60 R17 GRIP XL RAD STEEL TL 69H ",
+    "category": "tyre",
+    "price": "MRP. 7350",
+    "description": "Motercycle Tyre, Size: 160/60 R17 GRIP XL RAD STEEL TL 69H",
+    "image": "/tyreimg/tyre9.png"
   }
 
 
