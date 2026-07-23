@@ -403,20 +403,297 @@
     "id": 50,
     "name": "CEAT Motercycle Tyre 160/60 R17 GRIP XL RAD STEEL TL 69H ",
     "category": "tyre",
-    "price": "MRP. 7350",
+    "price": "MRP. 8584",
     "description": "Motercycle Tyre, Size: 160/60 R17 GRIP XL RAD STEEL TL 69H",
     "image": "/tyreimg/tyre9.png"
   },
   {
-    "id": 50,
-    "name": "CEAT Motercycle Tyre 160/60 R17 GRIP XL RAD STEEL TL 69H ",
+    "id": 51,
+    "name": "CEAT Motercycle Tyre 275.17 SECURA ZOOM F TL",
     "category": "tyre",
-    "price": "MRP. 7350",
-    "description": "Motercycle Tyre, Size: 160/60 R17 GRIP XL RAD STEEL TL 69H",
-    "image": "/tyreimg/tyre9.png"
+    "price": "MRP. 2511",
+    "description": "Motercycle Tyre, Size: 275.17 SECURA ZOOM F TL",
+    "image": "/tyreimg/tyre18.png"
+  },
+  {
+    "id": 52,
+    "name": "CEAT Motercycle Tyre 2.75-18 SECURA ZOOM F TT 42P",
+    "category": "tyre",
+    "price": "MRP. 2375",
+    "description": "Motercycle Tyre, Size: 2.75-18 SECURA ZOOM F TT 42P",
+    "image": "/tyreimg/tyre11.png"
+  },
+  {
+    "id": 53,
+    "name": "CEAT Motercycle Tyre 2.75-18 SECURA ZOOM F TL 42P",
+    "category": "tyre",
+    "price": "MRP. 2650",
+    "description": "Motercycle Tyre, Size: 2.75-18 SECURA ZOOM F TL 42P",
+    "image": "/tyreimg/tyre11.png"
+  },
+  {
+    "id": 54,
+    "name": "CEAT Motercycle Tyre 2.75-18/6 48P MILAZE X5 TL",
+    "category": "tyre",
+    "price": "MRP. 3280",
+    "description": "Motercycle Tyre, Size: 2.75-18/6 48P MILAZE X5 TL",
+    "image": "/tyreimg/tyre18.png"
+  },
+  {
+    "id": 55,
+    "name": "CEAT Motercycle Tyre 3.00-17 50P MILAZE TL / 3.00-17 MILAZE X5 TL50P",
+    "category": "tyre",
+    "price": "MRP. 3250",
+    "description": "Motercycle Tyre, Size: 3.00-17 50P MILAZE TL / 3.00-17 MILAZE X5 TL50P",
+    "image": "/tyreimg/tyre11.png"
+  },
+  {
+    "id": 56,
+    "name": "CEAT Motercycle Tyre 3.00-18 50P MILAZE TL / 3.00-18 MILAZE X5 TL52P",
+    "category": "tyre",
+    "price": "MRP. 3362",
+    "description": "Motercycle Tyre, Size: 3.00-18 50P MILAZE TL / 3.00-18 MILAZE X5 TL52P",
+    "image": "/tyreimg/tyre11.png"
+  },
+  {
+    "id": 57,
+    "name": "CEAT Motercycle Tyre 70/100-17 40P ZOOM XL TL FR",
+    "category": "tyre",
+    "price": "MRP. 3362",
+    "description": "Motercycle Tyre, Size: 70/100-17 40P ZOOM XL TL FR",
+    "image": "/tyreimg/tyre4.png"
+  },
+  {
+    "id": 58,
+    "name": "CEAT Motercycle Tyre 80/100-17 ZOOM X3 F TL 46P",
+    "category": "tyre",
+    "price": "MRP. 3487",
+    "description": "Motercycle Tyre, Size: 80/100-17 ZOOM X3 F TL 46P",
+    "image": "/tyreimg/tyre3.png"
+  },
+  {
+    "id": 59,
+    "name": "CEAT Motercycle Tyre 80/100-17 ZOOM XL F TL 46P",
+    "category": "tyre",
+    "price": "MRP. 3373",
+    "description": "Motercycle Tyre, Size: 80/100-17 ZOOM XL F TL 46P",
+    "image": "/tyreimg/tyre3.png"
+  },
+  {
+    "id": 60,
+    "name": "CEAT Motercycle Tyre 80/100-18 47P SECURA ZOOM TL",
+    "category": "tyre",
+    "price": "MRP. 3572",
+    "description": "Motercycle Tyre, Size: 80/100-18 47P SECURA ZOOM TL",
+    "image": "/tyreimg/tyre3.png" 
+  },
+  {
+    "id": 61,
+    "name": "CEAT Motercycle Tyre 80/100-18 47P SECURA ZOOM TL",
+    "category": "tyre",
+    "price": "MRP. 3572",
+    "description": "Motercycle Tyre, Size: 80/100-18 47P SECURA ZOOM TL",
+    "image": "/tyreimg/tyre3.png"
+  },
+  {
+    "id": 62,
+    "name": "CEAT Motercycle Tyre 80/100-18 47P SECURA ZOOM TL-F",
+    "category": "tyre",
+    "price": "MRP. 3688",
+    "description": "Motercycle Tyre, Size: 80/100-18 47P SECURA ZOOM TL-F",
+    "image": "/tyreimg/tyre3.png"
+  },
+  {
+    "id": 63,
+    "name": "CEAT Motercycle Tyre 80/100-18 54P ZOOMPLUS TL-R",
+    "category": "tyre",
+    "price": "MRP. 3670",
+    "description": "Motercycle Tyre, Size: 80/100-18 54P ZOOMPLUS TL-R",
+    "image": "/tyreimg/tyre3.png"
+  },
+  {
+    "id": 64,
+    "name": "CEAT Motercycle Tyre 80/100-18 GRIPP X5 TL 54P",
+    "category": "tyre",
+    "price": "MRP. 4004",
+    "description": "Motercycle Tyre, Size: 80/100-18 GRIPP X5 TL 54P",
+    "image": "/tyreimg/tyre3.png"
+  },
+  {
+    "id": 65,
+    "name": "CEAT Motercycle Tyre 80/100-18 MILAZE TL",
+    "category": "tyre",
+    "price": "MRP. 3672",
+    "description": "Motercycle Tyre, Size: 80/100-18 MILAZE TL",
+    "image": "/tyreimg/tyre3.png"
+  },
+  {
+    "id": 66,
+    "name": "CEAT Motercycle Tyre 80/100-18 47P ZOOM XL TL",
+    "category": "tyre",
+    "price": "MRP. 3653",
+    "description": "Motercycle Tyre, Size: 80/100-18 47P ZOOM XL TL",
+    "image": "/tyreimg/tyre3.png"
+  },
+  {
+    "id": 67,
+    "name": "CEAT Motercycle Tyre 90/90-17 ZOOM F TL 49P",
+    "category": "tyre",
+    "price": "MRP. 3255",
+    "description": "Motercycle Tyre, Size: 90/90-17 ZOOM F TL 49P",
+    "image": "/tyreimg/tyre3.png"
+  },
+  {
+    "id": 68,
+    "name": "CEAT Motercycle Tyre 90-90-17 SECURA ZOOM F TL",
+    "category": "tyre",
+    "price": "MRP. 3362",
+    "description": "Motercycle Tyre, Size: 90-90-17 SECURA ZOOM F TL",
+    "image": "/tyreimg/tyre3.png"
+  },
+  {
+    "id": 69,
+    "name": "CEAT Motercycle 90/90-17 ZOOM X3 F TL",
+    "category": "tyre",
+    "price": "MRP. 3639",
+    "description": "Motercycle Tyre, Size: 90/90-17 ZOOM X3 F TL",
+    "image": "/tyreimg/tyre3.png"
+  },
+  {
+    "id": 70,
+    "name": "CEAT Motercycle 90/90-18 SECURA ZOOM+ TL 51P",
+    "category": "tyre",
+    "price": "MRP. 3644",
+    "description": "Motercycle Tyre, Size: 90/90-18 SECURA ZOOM+ TL 51P",
+    "image": "/tyreimg/tyre16.png"
+  },
+  {
+    "id": 71,
+    "name": "CEAT Motercycle 90/90-19 52P ZOOMPLUSF TT",
+    "category": "tyre",
+    "price": "MRP. 4464",
+    "description": "Motercycle Tyre, Size: 90/90-19 52P ZOOMPLUSF TT",
+    "image": "/tyreimg/tyre16.png"
+  },
+  {
+    "id": 72,
+    "name": "CEAT Motercycle 90/90-19 GRIPP XL TL",
+    "category": "tyre",
+    "price": "MRP. 4715",
+    "description": "Motercycle Tyre, Size: 90/90-19 52P ZOOMPLUSF TT",
+    "image": "/tyreimg/tyre16.png"
+  },
+  {
+    "id": 73,
+    "name": "CEAT Motercycle 90-90-21 GRIP XL TT",
+    "category": "tyre",
+    "price": "MRP. 6402",
+    "description": "Motercycle Tyre, Size: 90-90-21 GRIP XL TT",
+    "image": "/tyreimg/tyre14.png"
+  },
+  {
+    "id": 74,
+    "name": "CEAT 3 Wheel 4.00-8 BULAND TT 76E 6PR",
+    "category": "tyre",
+    "price": "MRP. 2972",
+    "description": "3 Wheel Tyre, Size: 4.00-8 BULAND TT 76E 6PR",
+    "image": "/tyreimg/tyre3W.jpg"
+  },
+  {
+    "id": 75,
+    "name": "CEAT 3 Wheel 4.00-8 BULAND X3 TL 76F",
+    "category": "tyre",
+    "price": "MRP. 2972",
+    "description": "3 Wheel Tyre, Size: 4.00-8 BULAND X3 TL 76F",
+    "image": "/tyreimg/tyre3W.jpg"
+  },
+  {
+    "id": 76,
+    "name": "CEAT 3 Wheel 3.75/12 MILAZE TL",
+    "category": "tyre",
+    "price": "MRP. 2972",
+    "description": "3 Wheel, Size: 3.75/12 MILAZE TL",
+    "image": "/tyreimg/3WLAST.webp"
+  },
+  {
+    "id": 77,
+    "name": "CEAT Tube 4.00-8 PACKED",
+    "category": "tyre",
+    "price": "MRP. 433",
+    "description": "Tube, T-Size: 4.00-8 PACKED ",
+    "image": "/tyreimg/tube.jpg"
+  },
+  {
+    "id": 78,
+    "name": "CEAT Tube BR 90-90-12 PKD EX",
+    "category": "tyre",
+    "price": "MRP. 416",
+    "description": "Tube, T-Size:BR 90-90-12 PKD EX",
+    "image": "/tyreimg/tube.jpg"
+  },
+  {
+    "id": 79,
+    "name": "CEAT Tube BR 100/90-17 PKD EXP",
+    "category": "tyre",
+    "price": "MRP. 576",
+    "description": "Tube, T-Size:BR 100/90-17 PKD EXP",
+    "image": "/tyreimg/tube.jpg"
+  },
+  {
+    "id": 78,
+    "name": "CEAT Tube BR 100/90-18 PKD EX",
+    "category": "tyre",
+    "price": "MRP. 604",
+    "description": "Tube, T-Size:BR 100/90-18 PKD EX",
+    "image": "/tyreimg/tube.jpg"
+  },
+  {
+    "id": 80,
+    "name": "CEAT Tube BR 275-17 PKD EX",
+    "category": "tyre",
+    "price": "MRP. 341",
+    "description": "Tube, T-Size:BR 275-17 PKD EX",
+    "image": "/tyreimg/tube.jpg"
+  },
+  {
+    "id": 81,
+    "name": "CEAT Tube BR 250/275-18 PKD EX",
+    "category": "tyre",
+    "price": "MRP. 458",
+    "description": "Tube, T-Size:BR 250/275-18 PKD EX",
+    "image": "/tyreimg/tube.jpg"
+  },
+  {
+    "id": 82,
+    "name": "CEAT Tube BR 300-18 PKD EX",
+    "category": "tyre",
+    "price": "MRP. 489",
+    "description": "Tube, T-Size:BR 300-18 PKD EX",
+    "image": "/tyreimg/tube.jpg"
+  },
+  {
+    "id": 83,
+    "name": "CEAT Tube BR 300-17 EXP",
+    "category": "tyre",
+    "price": "MRP. 489",
+    "description": "Tube, T-Size:BR 300-17 EXP",
+    "image": "/tyreimg/tube.jpg"
+  },
+  {
+    "id": 84,
+    "name": "CEAT Tube BR 110/90-17 PKD EX",
+    "category": "tyre",
+    "price": "MRP. 618",
+    "description": "Tube, T-Size:BR 110/90-17 PKD EX",
+    "image": "/tyreimg/tube.jpg"
+  },
+  {
+    "id": 85,
+    "name": "CEAT Tube BR 90/100/10",
+    "category": "tyre",
+    "price": "MRP. 409",
+    "description": "Tube, T-Size:BR 90/100/10",
+    "image": "/tyreimg/tube.jpg"
   }
-
-
-
 
 ]
