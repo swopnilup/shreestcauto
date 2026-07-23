@@ -694,6 +694,183 @@
     "price": "MRP. 409",
     "description": "Tube, T-Size:BR 90/100/10",
     "image": "/tyreimg/tube.jpg"
+  },
+  {
+    "id": 87,
+    "name": "CEAT Truck/Bus Tyre 8.25-20 /16 LUG XL PRO",
+    "category": "tyre",
+    "price": "TTF MRP. 31704",
+    "description": "8.25-20 /16 LUG XL PRO",
+    "image": "/tyreimg/lugxlpro.png"
+  },
+  {
+    "id": 88,
+    "name": "CEAT Truck/Bus Tyre 825-20 MILE XL X3-R TT 16 PR",
+    "category": "tyre",
+    "price": "TTF MRP. 27654",
+    "description": "825-20 MILE XL X3-R TT 16 PR",
+    "image": "/tyreimg/milexlsl.png"
+  },
+  {
+    "id": 89,
+    "name": "CEAT Truck/Bus 8.25-20 MILE XL X3-D TT 16PR",
+    "category": "tyre",
+    "price": "TTF MRP. 31304",
+    "description": "8.25-20 MILE XL X3-D TT 16PR",
+    "image": "/tyreimg/milexlsl.png"
+  },
+  {
+    "id": 90,
+    "name": "CEAT Truck/Bus 9.00 20 /16  FM SUPER",
+    "category": "tyre",
+    "price": "TTF MRP. 30539",
+    "description": "9.00 20 /16  FM SUPER",
+    "image": "/tyreimg/fmsuper.png"
+  },
+  {
+    "id": 91,
+    "name": "CEAT Truck/Bus 9.00-20 /16 MILE XL RIB",
+    "category": "tyre",
+    "price": "TTF MRP. 32159",
+    "description": "9.00-20 /16 MILE XL RIB",
+    "image": "/tyreimg/milexlsl.png"
+  },
+  {
+    "id": 92,
+    "name": "CEAT Truck/Bus 9.00-20 /16PR HCL SUPER E4",
+    "category": "tyre",
+    "price": "TTF MRP. 32611",
+    "description": "9.00-20 /16PR HCL SUPER E4",
+    "image": "/tyreimg/hclsuper.png"
+  },
+  {
+    "id": 93,
+    "name": "CEAT Truck/Bus 9.00-20 /16 MILE XL",
+    "category": "tyre",
+    "price": "TTF MRP. 34385",
+    "description": "9.00-20 /16 MILE XL",
+    "image": "/tyreimg/milexlsl.png"
+  },
+  {
+    "id": 94,
+    "name": "CEAT Truck/Bus 10.00.20 /16 MILE XL X3-R ",
+    "category": "tyre",
+    "price": "TTF MRP. 37570",
+    "description": "10.00.20 /16 MILE XL X3-R ",
+    "image": "/tyreimg/milexlsl.png"
+  },
+  {
+    "id": 95,
+    "name": "CEAT Truck/Bus 10.00 20 /16  MILE XL SL + HD",
+    "category": "tyre",
+    "price": "TTF MRP. 39890",
+    "description": "10.00 20 /16  MILE XL SL + HD",
+    "image": "/tyreimg/milexlsl.png"
+  },
+  {
+    "id": 96,
+    "name": "CEAT Truck/Bus 10.00-20 /16 LUG XL PRO",
+    "category": "tyre",
+    "price": "TTF MRP. 40591",
+    "description": "10.00-20 /16 LUG XL PRO",
+    "image": "/tyreimg/lugxlpro.png"
+  },
+  {
+    "id": 97,
+    "name": "CEAT Truck/Bus 10.00-20/16 MILE XL X3 -D",
+    "category": "tyre",
+    "price": "TTF MRP. 39065",
+    "description": "10.00-20/16 MILE XL X3 -D",
+    "image": "/tyreimg/milexlsl.png"
+  },
+  {
+    "id": 98,
+    "name": "CEAT Truck/Bus 10.00-20 /16 HCL SUPER E DOT E4",
+    "category": "tyre",
+    "price": "TTF MRP. 37888",
+    "description": "10.00-20 /16 HCL SUPER E DOT E4",
+    "image": "/tyreimg/hclsuper.png"
+  },
+  {
+    "id": 99,
+    "name": "CEAT Truck/Bus 10.00-20 FM SUPER TT 16PR",
+    "category": "tyre",
+    "price": "TTF MRP. 36815",
+    "description": "10.00-20 FM SUPER TT 16PR",
+    "image": "/tyreimg/fmsuper.png" 
+  },
+  {
+    "id": 100,
+    "name": "CEAT Truck/Bus 10.00-20 /18 FM SUPER ",
+    "category": "tyre",
+    "price": "TTF MRP. 38822",
+    "description": "10.00-20 /18 FM SUPER ",
+    "image": "/tyreimg/fmsuper.png"
+  },
+  {
+    "id": 101,
+    "name": "CEAT Truck/Bus 10.00-20 /18 HCL SUPER HL",
+    "category": "tyre",
+    "price": "TTF MRP. 41132",
+    "description": "10.00-20 /18 HCL SUPER HL",
+    "image": "/tyreimg/hclsuper.png"
+  },
+  {
+    "id": 102,
+    "name": "CEAT Truck/Bus 10.00-20 /18 RD PRO",
+    "category": "tyre",
+    "price": "TTF MRP. 43614",
+    "description": "10.00-20 /18 RD PRO",
+    "image": "/tyreimg/hclsupersl.png"
+  },
+  {
+    "id": 103,
+    "name": "CEAT Truck/Bus 10.00.20 /18 ROCK MAX X3 ",
+    "category": "tyre",
+    "price": "TTF MRP. 44899",
+    "description": "10.00.20 /18 ROCK MAX X3 ",
+    "image": "/tyreimg/rockmaxx3.png" 
+  },
+  {
+    "id": 104,
+    "name": "CEAT Truck/Bus 11.00-20/18 ROCKMAX X3 TT",
+    "category": "tyre",
+    "price": "TTF MRP. 50917",
+    "description": "11.00-20/18 ROCKMAX X3 TT",
+    "image": "/tyreimg/rockmaxx3.png"
+  },
+  {
+    "id": 105,
+    "name": "CEAT Truck/Bus 11.00-20 /18 MILE XL",
+    "category": "tyre",
+    "price": "TTF MRP. 41947",
+    "description": "11.00-20 /18 MILE XL",
+    "image": "/tyreimg/milexlsl.png"
+  },
+  {
+    "id": 106,
+    "name": "CEAT Truck/Bus 11.00-20 /16 MILE XL RIB",
+    "category": "tyre",
+    "price": "TTF MRP. 39874",
+    "description": "11.00-20 /16 MILE XL RIB",
+    "image": "/tyreimg/milexlsl.png"
+  },
+  {
+    "id": 107,
+    "name": "CEAT Truck/Bus 12.00-20 /18 FM",
+    "category": "tyre",
+    "price": "TTF MRP. 46382",
+    "description": "12.00-20 /18 FM",
+    "image": "/tyreimg/fmsuper.png"
+  },
+  {
+    "id": 108,
+    "name": "CEAT Truck/Bus 12.00-20 /18 HCL SUPER DOT E4",
+    "category": "tyre",
+    "price": "TTF MRP. 45833",
+    "description": "12.00-20 /18 HCL SUPER DOT E4",
+    "image": "/tyreimg/hclsuper.png" 
   }
+
 
 ]
