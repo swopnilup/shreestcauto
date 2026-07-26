@@ -870,7 +870,601 @@
     "price": "TTF MRP. 45833",
     "description": "12.00-20 /18 HCL SUPER DOT E4",
     "image": "/tyreimg/hclsuper.png" 
+  },
+  {
+    "id": 109,
+    "name": "CEAT Truck radial 8.25 R 20 WINEMILE X3 R TT 16PR",
+    "category": "tyre",
+    "price": "TTF MRP. 37374",
+    "description": "8.25 R 20 WINEMILE X3 R TT 16PR",
+    "image": "/tyreimg/radial.jpg"
+  },
+  {
+    "id": 110,
+    "name": "CEAT Truck radial 8.25 R 20 WINSUPER X3-D 16PR",
+    "category": "tyre",
+    "price": "TTF MRP. 38400",
+    "description": "8.25 R 20 WINSUPER X3-D 16PR",
+    "image": "/tyreimg/radial.jpg"
+  },
+  {
+    "id": 111,
+    "name": "CEAT Truck radial 9.00 R 20 WINE MILE R TT 16 PR",
+    "category": "tyre",
+    "price": "TTF MRP. 40936",
+    "description": "9.00 R 20 WINE MILE R TT 16 PR",
+    "image": "/tyreimg/radial.jpg"
+  },
+  {
+    "id": 112,
+    "name": "CEAT Truck radial 10.00 R 20 WINMILE R 16PR TT",
+    "category": "tyre",
+    "price": "TTF MRP. 45852",
+    "description": "10.00 R 20 WINMILE R 16PR TT",
+    "image": "/tyreimg/radial.jpg"
+  },
+  {
+    "id": 113,
+    "name": "CEAT Truck radial 1000 R20 WINMILE X3-RTT 16 PR",
+    "category": "tyre",
+    "price": "TTF MRP. 46657",
+    "description": "1000 R20 WINMILE X3-RTT 16 PR",
+    "image": "/tyreimg/radial.jpg"
+  },
+  {
+    "id": 114,
+    "name": "CEAT Truck radial 10.00 R 20 WINEMILE X3-D 152/148J TT 16PR",
+    "category": "tyre",
+    "price": "TTF MRP. 48354",
+    "description": "10.00 R 20 WINEMILE X3-D 152/148J TT 16PR",
+    "image": "/tyreimg/radial.jpg"
+  },
+  {
+    "id": 115,
+    "name": "CEAT Truck radial 10.00 R 20 WINEMILE X3-AW  16 PR TT",
+    "category": "tyre",
+    "price": "TTF MRP. 48354",
+    "description": "10.00 R 20 WINEMILE X3-AW  16 PR TT",
+    "image": "/tyreimg/radial.jpg"
+  },
+  {
+    "id": 116,
+    "name": "CEAT Truck radial 10.00 R 20 WINLOAD X3-D TT 16PR",
+    "category": "tyre",
+    "price": "TTF MRP. 47731",
+    "description": "10.00 R 20 WINLOAD X3-D TT 16PR",
+    "image": "/tyreimg/radial.jpg"
+  },
+  {
+    "id": 117,
+    "name": "CEAT Truck radial 10.00 R 20 WINSUPER X3-D TT 16PR",
+    "category": "tyre",
+    "price": "TTF MRP. 47801",
+    "description": "10.00 R 20 WINSUPER X3-D TT 16PR",
+    "image": "/tyreimg/radial.jpg"
+  },
+  {
+    "id": 118,
+    "name": "CEAT Truck radial 11.00 R20 NEU 6",
+    "category": "tyre",
+    "price": "TTF MRP. 57833",
+    "description": "11.00 R20 NEU 6",
+    "image": "/tyreimg/radial.jpg"
+  },
+  {
+    "id": 119,
+    "name": "CEAT Truck radial 11.00 R20 WINSUPER X3-D 16PR",
+    "category": "tyre",
+    "price": "TTF MRP. 56554",
+    "description": "11.00 R20 WINSUPER X3-D 16PR",
+    "image": "/tyreimg/radial.jpg"
+  },
+  {
+    "id": 120,
+    "name": "CEAT Truck radial 11.00 R 20 WINEMILE - R 16PR TT",
+    "category": "tyre",
+    "price": "TTF MRP. 51461",
+    "description": "11.00 R 20 WINEMILE - R 16PR TT",
+    "image": "/tyreimg/radial.jpg" 
+  },
+  {
+    "id": 121,
+    "name": "CEAT Truck radial 11.00 R 20 WINEMILE - D 16PR TT",
+    "category": "tyre",
+    "price": "TTF MRP. 53200",
+    "description": "11.00 R 20 WINEMILE - D 16PR TT",
+    "image": "/tyreimg/radial.jpg"
+  },
+  {
+    "id": 122,
+    "name": "CEAT Truck radial 295/80 R22.5 WINMILE R TL 16PR",
+    "category": "tyre",
+    "price": "TTF MRP. 47359",
+    "description": "295/80 R22.5 WINMILE R TL 16PR",
+    "image": "/tyreimg/radial.jpg"
+  },
+  {
+    "id": 123,
+    "name": "CEAT Truck radial 295/80 R22.5 WINMILE D TL 16PR",
+    "category": "tyre",
+    "price": "TTF MRP. 53162",
+    "description": "295/80 R22.5 WINMILE D TL 16PR",
+    "image": "/tyreimg/radial.jpg"
+  },
+  {
+    "id": 124,
+    "name": "CEAT L.T.CONVENTIONAL 7.00 15 12 PR LYFMAX X3-D",
+    "category": "tyre",
+    "price": "TTF MRP. 16793",
+    "description": "7.00 15 12 PR LYFMAX X3-D",
+    "image": "/tyreimg/ltconv.png"
+  },
+  {
+    "id": 125,
+    "name": "CEAT L.T.CONVENTIONAL 700.15 LYFMAX X3-R TT 12 PR",
+    "category": "tyre",
+    "price": "TTF MRP. 15256",
+    "description": "700.15 LYFMAX X3-R TT 12 PR",
+    "image": "/tyreimg/ltconv.png"
+  },
+  {
+    "id": 126,
+    "name": "CEAT L.T.CONVENTIONAL 7.00-16 14 PR Buland MILE XL Rib",
+    "category": "tyre",
+    "price": "TTF MRP. 17403",
+    "description": "7.00-16 14 PR Buland MILE XL Rib",
+    "image": "/tyreimg/bulandmilexl.webp"
+  },
+  {
+    "id": 127,
+    "name": "CEAT L.T.CONVENTIONAL 7.00-16 14 BULAND MILE XL",
+    "category": "tyre",
+    "price": "TTF MRP. 17850",
+    "description": "7.00-16 14 BULAND MILE XL",
+    "image": "/tyreimg/bulandmilexl.webp"
+  },
+  {
+    "id": 128,
+    "name": "CEAT L.T.CONVENTIONAL 7.50-16 LYFMAX X3 R TT 16PR",
+    "category": "tyre",
+    "price": "TTF MRP. 18196",
+    "description": "7.50-16 LYFMAX X3 R TT 16PR",
+    "image": "/tyreimg/lyfmax3r.png"
+  },
+  {
+    "id": 129,
+    "name": "CEAT L.T.CONVENTIONAL 750.16 LYFMAX X3-D TT 16 PR",
+    "category": "tyre",
+    "price": "TTF MRP. 22014",
+    "description": "750.16 LYFMAX X3-D TT 16 PR",
+    "image": "/tyreimg/lyfmax3d.png"
+  },
+  {
+    "id": 128,
+    "name": "CEAT L.T.CONVENTIONAL 8.25-16 LYFMAX X3-R",
+    "category": "tyre",
+    "price": "TTF MRP. 23033",
+    "description": "8.25-16 LYFMAX X3-R",
+    "image": "/tyreimg/lyfmax3r.png"
+  },
+  {
+    "id": 129,
+    "name": "CEAT L.T.CONVENTIONAL 8.25-16 LYFMAX X3-D",
+    "category": "tyre",
+    "price": "TTF MRP. 24809",
+    "description": "8.25-16 LYFMAX X3-D",
+    "image": "/tyreimg/lyfmax3d.png"
+  },
+  {
+    "id": 130,
+    "name": "CEAT L.T.CONVENTIONAL 8.25-16 18PR Buland Lug XL PRO",
+    "category": "tyre",
+    "price": "TTF MRP. 24513",
+    "description": "8.25-16 18PR Buland Lug XL PRO",
+    "image": "/tyreimg/bulandmilexl.webp"
+  },
+  {
+    "id": 131,
+    "name": "CEAT LM/LCV RADIAL 145 R 12 MILAZE LT TL",
+    "category": "tyre",
+    "price": "TTF MRP. 5488",
+    "description": "145 R 12 MILAZE LT TL",
+    "image": "/tyreimg/lcvradial.png"
+  },
+  {
+    "id": 132,
+    "name": "CEAT LM/LCV 155 R 13 LT MILAZE TL H",
+    "category": "tyre",
+    "price": "TTF MRP. 6258",
+    "description": "155 R 13 LT MILAZE TL H",
+    "image": "/tyreimg/lcvradial.png"
+  },
+  {
+    "id": 133,
+    "name": "CEAT LM/LCV 185 R 14 LT MILAZE TL",
+    "category": "tyre",
+    "price": "TTF MRP. 9302",
+    "description": "185 R 14 LT MILAZE TL",
+    "image": "/tyreimg/lcvradial.png"
+  },
+  {
+    "id": 134,
+    "name": "CEAT LM/LCV 195 R14C LT MILAZE TL",
+    "category": "tyre",
+    "price": "TTF MRP. 9697",
+    "description": "195 R14C LT MILAZE TL",
+    "image": "/tyreimg/lcvradial.png"
+  },
+  {
+    "id": 135,
+    "name": "CEAT LM/LCV 195 R15 LT MILAZE TL",
+    "category": "tyre",
+    "price": "TTF MRP. 10379",
+    "description": "195 R15 LT MILAZE TL",
+    "image": "/tyreimg/lcvradial.png"
+  },
+  {
+    "id": 136,
+    "name": "CEAT LM/LCV 195 R15 LT WINMILE X3-R",
+    "category": "tyre",
+    "price": "TTF MRP. 10138",
+    "description": "195 R15 LT WINMILE X3-R",
+    "image": "/tyreimg/lcvradial.png"
+  },
+  {
+    "id": 137,
+    "name": "CEAT LM/LCV 195 R 15 ENDURA DRIVE TL",
+    "category": "tyre",
+    "price": "TTF MRP. 10963",
+    "description": "195 R 15 ENDURA DRIVE TL",
+    "image": "/tyreimg/lcvradial.png"
+  },
+  {
+    "id": 138,
+    "name": "CEAT LM/LCV 235/75 17.5 WINMILE X3-R",
+    "category": "tyre",
+    "price": "TTF MRP. 24797",
+    "description": "235/75 17.5 WINMILE X3-R",
+    "image": "/tyreimg/lcvradial.png"
+  },
+  {
+    "id": 139,
+    "name": "CEAT LM/LCV 7.00R15 WINMILE X3-R LT TT 12PR",
+    "category": "tyre",
+    "price": "TTF MRP. 16527",
+    "description": "7.00R15 WINMILE X3-R LT TT 12PR",
+    "image": "/tyreimg/lcvradial.png"
+  },
+  {
+    "id": 140,
+    "name": "CEAT LM/LCV 7.00 R16 TL WINMILE X3 R 14PR TT",
+    "category": "tyre",
+    "price": "TTF MRP. 21145",
+    "description": "7.00 R16 TL WINMILE X3 R 14PR TT",
+    "image": "/tyreimg/lcvradial.png"
+  },
+  {
+    "id": 141,
+    "name": "CEAT LM/LCV 7.50 R16 WINEMILE X3-R LT",
+    "category": "tyre",
+    "price": "TTF MRP. 23261",
+    "description": "7.50 R16 WINEMILE X3-R LT",
+    "image": "/tyreimg/milexlsl.png"
+  },
+  {
+    "id": 142,
+    "name": "CEAT JEEP CONVENTIONAL  600-16 /8 TURBO RIB XM",
+    "category": "tyre",
+    "price": "TTF MRP. 9745",
+    "description": "600-16 /8 TURBO RIB XM",
+    "image": "/tyreimg/jeepconventional.avif"
+  },
+  {
+    "id": 143,
+    "name": "CEAT LM CONVENTIONAL 4.00-10 LYFMAX X3-R",
+    "category": "tyre",
+    "price": "TTF MRP. 3922",
+    "description": "4.00-10 LYFMAX X3-R",
+    "image": "/tyreimg/lmconventional.avif"
+  },
+  {
+    "id": 144,
+    "name": "CEAT LM CONVENTIONAL 450-10  ANMOL RIB HD",
+    "category": "tyre",
+    "price": "TTF MRP. 5464",
+    "description": "450-10  ANMOL RIB HD",
+    "image": "/tyreimg/lmconventional.avif"
+  },
+  {
+    "id": 145,
+    "name": "CEAT LM CONVENTIONAL 4.50-10 BULAND MILE XL",
+    "category": "tyre",
+    "price": "TTF MRP. 5729",
+    "description": "4.50-10 BULAND MILE XL",
+    "image": "/tyreimg/lmconventional.avif"
+  },
+  {
+    "id": 146,
+    "name": "CEAT LM CONVENTIONAL 5.00-12 ANMOL SL TT 8PR",
+    "category": "tyre",
+    "price": "TTF MRP. 5671",
+    "description": "5.00-12 ANMOL SL TT 8PR",
+    "image": "/tyreimg/lmconventional.avif"
+  },
+  {
+    "id": 147,
+    "name": "CEAT LM CONVENTIONAL 155D12 LYFMAX X3-R",
+    "category": "tyre",
+    "price": "TTF MRP. 6596",
+    "description": "155D12 LYFMAX X3-R",
+    "image": "/tyreimg/lmconventional.avif"
+  },
+  {
+    "id": 148,
+    "name": "CEAT LM CONVENTIONAL 155 D12 LYFMAX X3-D",
+    "category": "tyre",
+    "price": "TTF MRP. 6985",
+    "description": "155 D12 LYFMAX X3-D",
+    "image": "/tyreimg/lmconventional.avif"
+  },
+  {
+    "id": 149,
+    "name": "CEAT LM CONVENTIONAL 165D12 LYFMAX X3-R",
+    "category": "tyre",
+    "price": "TTF MRP. 7960",
+    "description": "165D12 LYFMAX X3-R",
+    "image": "/tyreimg/lmconventional.avif"
+  },
+  {
+    "id": 150,
+    "name": "CEAT LM CONVENTIONAL 165 D12 LYFMAX X3-D",
+    "category": "tyre",
+    "price": "TTF MRP. 8046",
+    "description": "165 D12 LYFMAX X3-D",
+    "image": "/tyreimg/lmconventional.avif"
+  },
+  {
+    "id": 151,
+    "name": "CEAT LM CONVENTIONAL 165D13 LYFMAX X3-R",
+    "category": "tyre",
+    "price": "TTF MRP. 9111",
+    "description": "165D13 LYFMAX X3-R",
+    "image": "/tyreimg/lmconventional.avif"
+  },
+  {
+    "id": 152,
+    "name": "CEAT LM CONVENTIONAL 165D13 LYFMAX X3-D",
+    "category": "tyre",
+    "price": "TTF MRP. 8778",
+    "description": "165D13 LYFMAX X3-D",
+    "image": "/tyreimg/lmconventional.avif"
+  },
+  {
+    "id": 153,
+    "name": "CEAT LM CONVENTIONAL 165D14 LYFMAX X3-R",
+    "category": "tyre",
+    "price": "TTF MRP. 9402",
+    "description": "165D14 LYFMAX X3-R",
+    "image": "/tyreimg/lmconventional.avif"
+  },
+  {
+    "id": 154,
+    "name": "CEAT LM CONVENTIONAL 165D14 LYFMAX X3-D",
+    "category": "tyre",
+    "price": "TTF MRP. 9832",
+    "description": "165D14 LYFMAX X3-D",
+    "image": "/tyreimg/lmconventional.avif"
+  },
+  {
+    "id": 155,
+    "name": "CEAT LM CONVENTIONAL 185D14 LYFMAX X3-R",
+    "category": "tyre",
+    "price": "TTF MRP. 10468",
+    "description": "185D14 LYFMAX X3-R",
+    "image": "/tyreimg/lmconventional.avif"
+  },
+  {
+    "id": 156,
+    "name": "CEAT LM CONVENTIONAL 185D14 LYFMAX X3-D",
+    "category": "tyre",
+    "price": "TTF MRP. 10415",
+    "description": "185D14 LYFMAX X3-D",
+    "image": "/tyreimg/lmconventional.avif"
+  },
+  {
+    "id": 157,
+    "name": "CEAT Passenger Radial 135/70 R 12 MILAZE TUBELESS",
+    "category": "tyre",
+    "price": "TTF MRP. 3483",
+    "description": "135/70 R 12 MILAZE TUBELESS",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 158,
+    "name": "CEAT Passenger Radial 145/70R 12 MILAZE X3 TL 69T",
+    "category": "tyre",
+    "price": "TTF MRP. 3870",
+    "description": "145/70R 12 MILAZE X3 TL 69T",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 159,
+    "name": "CEAT Passenger Radial 155/65 R 12 MILAZE TUBELESS",
+    "category": "tyre",
+    "price": "TTF MRP. 4135",
+    "description": "155/65 R 12 MILAZE TUBELESS",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 160,
+    "name": "CEAT Passenger Radial 145/70R 13 MILAZE X3 TL 71T",
+    "category": "tyre",
+    "price": "TTF MRP. 4641",
+    "description": "145/70R 13 MILAZE X3 TL 71T",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 161,
+    "name": "CEAT Passenger Radial 145/80R 13 MILAZE X3 TL 74T",
+    "category": "tyre",
+    "price": "TTF MRP. 5095",
+    "description": "145/80R 13 MILAZE X3 TL 74T",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 162,
+    "name": "CEAT Passenger Radial 155 65R 13 Milaze Tubeless",
+    "category": "tyre",
+    "price": "TTF MRP. 4903",
+    "description": "155 65R 13 Milaze Tubeless",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 163,
+    "name": "CEAT Passenger Radial 155/65 R13 ECODROOVE TL 73H CEAT",
+    "category": "tyre",
+    "price": "TTF MRP. 5367",
+    "description": "155/65 R13 ECODROOVE TL 73H CEAT",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 164,
+    "name": "CEAT Passenger Radial 155/70R 13 MILAZE X3 TL 75T",
+    "category": "tyre",
+    "price": "TTF MRP. 4841",
+    "description": "155/70R 13 MILAZE X3 TL 75T",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 165,
+    "name": "CEAT Passenger Radial 155/80R 13 MILAZE X3 TUBELESS",
+    "category": "tyre",
+    "price": "TTF MRP. 5312",
+    "description": "155/80R 13 MILAZE X3 TUBELESS",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 166,
+    "name": "CEAT Passenger Radial 165/65 R 13 MILAZE TL",
+    "category": "tyre",
+    "price": "TTF MRP. 5492",
+    "description": "165/65 R 13 MILAZE TL",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 167,
+    "name": "CEAT Passenger Radial 175/60 R13 77H GRIP LN TL",
+    "category": "tyre",
+    "price": "TTF MRP. 6307",
+    "description": "175/60 R13 77H GRIP LN TL",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 168,
+    "name": "CEAT Passenger Radial 175/70R 13 MILAZE X3 TL 82T",
+    "category": "tyre",
+    "price": "TTF MRP. 6159",
+    "description": "175/70R 13 MILAZE X3 TL 82T",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 169,
+    "name": "CEAT Passenger Radial 155/65 R14 75T MILAZE X3 TL",
+    "category": "tyre",
+    "price": "TTF MRP. 5312",
+    "description": "155/65 R14 75T MILAZE X3 TL",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 170,
+    "name": "CEAT Passenger Radial 165/65 R 14 TL MILAZE X3",
+    "category": "tyre",
+    "price": "TTF MRP. 5563",
+    "description": "165/65 R 14 TL MILAZE X3",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 171,
+    "name": "CEAT Passenger Radial 165/70 R14 MILAZE X3 TL 81T",
+    "category": "tyre",
+    "price": "TTF MRP. 6071",
+    "description": "165/70 R14 MILAZE X3 TL 81T",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 172,
+    "name": "CEAT Passenger Radial 165/80R 14 MILAZE X3",
+    "category": "tyre",
+    "price": "TTF MRP. 6577",
+    "description": "165/80R 14 MILAZE X3",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 173,
+    "name": "CEAT Passenger Radial 175/65R 14 MILAZE X3 TL 82T",
+    "category": "tyre",
+    "price": "TTF MRP. 6324",
+    "description": "175/65R 14 MILAZE X3 TL 82T",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 174,
+    "name": "CEAT Passenger Radial 175/70 R14 MILAZE X3  TL  84H",
+    "category": "tyre",
+    "price": "TTF MRP. 7232",
+    "description": "175/70 R14 MILAZE X3  TL  84H",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 175,
+    "name": "CEAT Passenger Radial 185/60 R 14 MILAZE X3 TL",
+    "category": "tyre",
+    "price": "TTF MRP. 8093",
+    "description": "185/60 R 14 MILAZE X3 TL",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 176,
+    "name": "CEAT Passenger Radial 185/60 R 14 ECO DRIVE TL",
+    "category": "tyre",
+    "price": "TTF MRP. 6057",
+    "description": "185/60 R 14 ECO DRIVE TL",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 177,
+    "name": "CEAT Passenger Radial 185/65 R 14 MILAZE X3 TL",
+    "category": "tyre",
+    "price": "TTF MRP. 7083",
+    "description": "185/65 R 14 MILAZE X3 TL",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 178,
+    "name": "CEAT Passenger Radial 185/65 R14 ECODRIVE TL 86H CEAT",
+    "category": "tyre",
+    "price": "TTF MRP. 8146",
+    "description": "185/65 R14 ECODRIVE TL 86H CEAT",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 179,
+    "name": "CEAT Passenger Radial 185/70 R14 MILAZE X3  TL 88T",
+    "category": "tyre",
+    "price": "TTF MRP. 7566",
+    "description": "185/70 R14 MILAZE X3  TL 88T",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 180,
+    "name": "CEAT Passenger Radial 185/70 R 14 ECO DRIVE TL",
+    "category": "tyre",
+    "price": "TTF MRP. 6460",
+    "description": "185/70 R 14 ECO DRIVE TL",
+    "image": "/tyreimg/nomatch.png" 
   }
+
+
 
 
 ]

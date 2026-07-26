@@ -3,12 +3,12 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Career — Shree STC Group</title>
+<title>News — Shree STC Group</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="css/main.css">
 <link rel="stylesheet" href="css/header.css">
-<link rel="stylesheet" href="css/career.css">
+<link rel="stylesheet" href="css/news.css">
 <link rel="stylesheet" href="css/footer.css">
 </head>
 <body>
@@ -25,7 +25,7 @@
       <li><a href="about.html">About</a></li>
       <li><a href="contact.html">Contacts</a></li>
       <li><a href="gallery.html">Gallery</a></li>
-      <li><a href="news.html">News</a></li>
+      <li><a href="news.html" class="active">News</a></li>
     </ul>
   </nav>
   <button class="hamburger" id="hamburger" aria-label="Toggle menu" aria-expanded="false">
@@ -33,72 +33,25 @@
   </button>
 </header>
 
-<!-- ─── CAREER HERO ────────────────── -->
-<section id="career-hero">
-  <div class="career-hero-inner">
-    <div class="career-label">Career</div>
-    <h1 class="career-title">At Shree STC Group</h1>
-    <p class="career-desc">
-      Join a team that powers Nepal's automobile industry. We are always looking
-      for passionate, driven individuals who share our commitment to quality,
-      integrity, and innovation.
+<!-- ─── NEWS HERO ────────────────── -->
+<section id="news-hero">
+  <div class="news-hero-inner">
+    <div class="news-label">Latest Updates</div>
+    <h1 class="news-title">News & Media</h1>
+    <p class="news-desc">
+      Stay up to date with the latest news, events, and industry updates
+      from Shree STC Group and the Nepal automobile industry.
     </p>
   </div>
 </section>
 
-<!-- ─── JOB LISTINGS ────────────────── -->
-<section id="career-listings">
-  <div class="career-listings-inner">
-
-    <!-- ══ SET hasVacancy TO false IF NO OPENINGS, true IF THERE ARE ══ -->
-    <!-- ══ WHEN false: only the "no vacancy" message shows             ══ -->
-    <!-- ══ WHEN true: job cards show, no-vacancy message hides         ══ -->
-
-    <!-- NO VACANCY STATE -->
-    <div class="no-vacancy" id="noVacancy">
-      <div class="no-vacancy-icon">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-          <circle cx="12" cy="12" r="10"/>
-          <path d="M12 8v4M12 16h.01"/>
-        </svg>
-      </div>
-      <h2>No Vacancies Open at This Time</h2>
-      <p>
-        We don't have any open positions right now, but we're always growing.
-        If you're passionate about the automobile industry and want to be part
-        of our team, feel free to send us your CV — we'll keep it on file for
-        future opportunities.
-      </p>
-      <a href="mailto:info@shreestcgroup.com?subject=CV Submission — Shree STC Group&body=Hello Shree STC Group,%0D%0A%0D%0AI am interested in joining your team. Please find my CV attached.%0D%0A%0D%0AThank you." class="career-email-btn">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
-          <polyline points="22,6 12,13 2,6"/>
-        </svg>
-        Send Your CV to info@shreestcgroup.com
-      </a>
-    </div>
-
-    <!-- JOB CARDS (populated from data/jobs.json) -->
-    <div class="job-list" id="jobList">
-
-      <!-- loaded dynamically -->
-
-    </div>
-
-    <!-- JOB DETAIL PANEL (shown when a card is clicked) -->
-    <div class="job-detail" id="jobDetail">
-      <button class="job-detail-back" id="jobDetailBack">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M19 12H5M12 5l-7 7 7 7"/>
-        </svg>
-        Back to all openings
-      </button>
-
-      <div class="job-detail-content" id="jobDetailContent">
-        <!-- filled dynamically by JS -->
-      </div>
-    </div>
-
+<!-- ─── NEWS GRID ────────────────── -->
+<section id="news-section">
+  <div class="news-grid" id="newsGrid">
+    <!-- loaded from data/news.json -->
+  </div>
+  <div class="news-empty hidden" id="newsEmpty">
+    <p>No news articles yet. Check back soon!</p>
   </div>
 </section>
 
@@ -148,11 +101,11 @@
     </div>
   </div>
   <div class="footer-bottom">
-    <p>© 2026 Shree STC Group Inc. All rights reserved. Made with <span>♥</span> in Nepal.</p>
+    <p>© 2026 Shree STC Group Inc. All rights reserved.</p>
   </div>
 </footer>
 
 <script src="js/header.js"></script>
-<script src="js/career.js"></script>
+<script src="js/news.js"></script>
 </body>
 </html>
