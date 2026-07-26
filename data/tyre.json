@@ -1462,8 +1462,87 @@
     "price": "TTF MRP. 6460",
     "description": "185/70 R 14 ECO DRIVE TL",
     "image": "/tyreimg/nomatch.png" 
+  },
+  {
+    "id": 181,
+    "name": "CEAT Passenger Radial 175/65 R15 MILAZE X3  TL 84T",
+    "category": "tyre",
+    "price": "TTF MRP. 9494",
+    "description": "175/65 R15 MILAZE X3  TL 84T",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 182,
+    "name": "CEAT Passenger Radial 185/60 R15 SECURA DRIVE TL 84H",
+    "category": "tyre",
+    "price": "TTF MRP. 7531",
+    "description": "185/60 R15 SECURA DRIVE TL 84H",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 183,
+    "name": "CEAT Passenger Radial 185/65 R15 SECURA DRIVE TL 88H",
+    "category": "tyre",
+    "price": "TTF MRP. 8153",
+    "description": "185/65 R15 SECURA DRIVE TL 88H",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 184,
+    "name": "CEAT Passenger Radial 195/55 R15 ECODRIVE TL 85V CEAT",
+    "category": "tyre",
+    "price": "TTF MRP. 6091",
+    "description": "195/55 R15 ECODRIVE TL 85V CEAT",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 185,
+    "name": "CEAT Passenger Radial 195/60 R15 ECODRIVE TL 88H CEAT",
+    "category": "tyre",
+    "price": "TTF MRP. 6214",
+    "description": "195/60 R15 ECODRIVE TL 88H CEAT",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 186,
+    "name": "CEAT Passenger Radial 195/60 R15 GRIP LN 88H TL",
+    "category": "tyre",
+    "price": "TTF MRP. 9350",
+    "description": "195/60 R15 GRIP LN 88H TL",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 187,
+    "name": "CEAT Passenger Radial 195/65 R15 SECURA DRIVE TL 91V CEAT",
+    "category": "tyre",
+    "price": "TTF MRP. 8011",
+    "description": "195/65 R15 SECURA DRIVE TL 91V CEAT",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 188,
+    "name": "CEAT Passenger Radial 195/70 R15 ENDURADRIVE TL 104/102T CEAT",
+    "category": "tyre",
+    "price": "TTF MRP. 8600",
+    "description": "195/70 R15 ENDURADRIVE TL 104/102T CEAT",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 189,
+    "name": "CEAT Passenger Radial 205/60 R15 SECURA DRIVE TL 91V CEAT",
+    "category": "tyre",
+    "price": "TTF MRP. 7559",
+    "description": "205/60 R15 SECURA DRIVE TL 91V CEAT",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 190,
+    "name": "CEAT Passenger Radial 205/60 R15 GRIP LN TL",
+    "category": "tyre",
+    "price": "TTF MRP. 11414",
+    "description": "205/60 R15 GRIP LN TL",
+    "image": "/tyreimg/passengerradial2.avif"
   }
-
 
 
 
