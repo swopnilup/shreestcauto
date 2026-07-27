@@ -1,10 +1,42 @@
 [
   {
     "id": 1,
-    "name": "Sample Lubricant",
+    "name": "I-RIDE MOTO FURY 4T IN SYNTHETIC TECHNOLOGY",
     "category": "lubricants",
-    "price": "MRP. 0",
-    "description": "Replace with actual lubricant.",
-    "image": "ourproductimg/sample-lubricant.png"
+    "price": "MRP. 1155",
+    "description": "10W40 1.2 ltr",
+    "image": "/eni/"
+  },
+  {
+    "id": 2,
+    "name": "I-RIDE MOTO PREMIUM 4T IN SYNTHETIC TECHNOLOGY",
+    "category": "lubricants",
+    "price": "MRP. 2646",
+    "description": "15W50 2.5 ltr",
+    "image": "/eni/"
+  },
+  {
+    "id": 3,
+    "name": "I-RIDE MOTO XPERIENCE PRO+",
+    "category": "lubricants",
+    "price": "MRP. 910",
+    "description": "20W40 1 ltr",
+    "image": "/eni/"
+  },
+  {
+    "id": 4,
+    "name": "I-RIDE MOTO XPERIENCE ",
+    "category": "lubricants",
+    "price": "MRP. 854",
+    "description": "20W40 1 ltr",
+    "image": "/eni/"
+  },
+  {
+    "id": 5,
+    "name": "I-RIDE MOTO XPERIENCE ",
+    "category": "lubricants",
+    "price": "MRP. 1015",
+    "description": "20W40 1.2 ltr",
+    "image": "/eni/"
   }
 ]

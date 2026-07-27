@@ -601,6 +601,28 @@
   </div>
 </section>
 
+<!-- ─── NEWS MARQUEE SECTION ────────────────── -->
+<section id="news-strip">
+  <div class="news-strip-header">
+    <div>
+      <div class="news-strip-label">News & Media</div>
+      <h2 class="news-strip-title">Latest Updates</h2>
+    </div>
+    <a href="news.html" class="news-strip-btn">
+      View All News
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M5 12h14M13 5l7 7-7 7"/>
+      </svg>
+    </a>
+  </div>
+
+  <div class="news-marquee-outer">
+    <div class="news-marquee-inner" id="newsMarqueeInner">
+      <!-- filled by JS from data/news.json -->
+    </div>
+  </div>
+</section>
+
 <!-- ─── FOOTER ────────────────── -->
 <footer>
   <div class="footer-grid">
@@ -668,5 +690,6 @@
 <script src="js/scroll-reveal.js"></script>
 <script src="js/industries.js"></script>
 <script src="js/certifications.js"></script>
+<script src="js/news-marquee.js"></script>
 </body>
 </html>
