@@ -1542,8 +1542,869 @@
     "price": "TTF MRP. 11414",
     "description": "205/60 R15 GRIP LN TL",
     "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 191,
+    "name": "CEAT Passenger Radial 205/65 R15 SECURA DRIVE TL 94V CEAT",
+    "category": "tyre",
+    "price": "TTF MRP. 8365",
+    "description": "205/65 R15 SECURA DRIVE TL 94V CEAT",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 192,
+    "name": "CEAT Passenger Radial 205/65 R15 MILAZE X3  TL 94S",
+    "category": "tyre",
+    "price": "TTF MRP. 10359",
+    "description": "205/65 R15 MILAZE X3  TL 94S",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 193,
+    "name": "CEAT Passenger Radial 205/65R 15 94S MILAZE TL",
+    "category": "tyre",
+    "price": "TTF MRP. 10010",
+    "description": "205/65R 15 94S MILAZE TL",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 194,
+    "name": "CEAT Passenger Radial 205/65 R15 ECODRIVE TL 94H CEAT",
+    "category": "tyre",
+    "price": "TTF MRP. 11153",
+    "description": "205/65 R15 ECODRIVE TL 94H CEAT",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 195,
+    "name": "CEAT Passenger Radial 215/75 R 15 CZAR H TL",
+    "category": "tyre",
+    "price": "TTF MRP. 11933",
+    "description": "215/75 R 15 CZAR H TL",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 196,
+    "name": "CEAT Passenger Radial 215/75 R 15 MILAZE  LT  TL",
+    "category": "tyre",
+    "price": "TTF MRP. 13059",
+    "description": "215/75 R 15 MILAZE  LT  TL",
+    "image": "/tyreimg/passengerradial.avif" 
+  },
+  {
+    "id": 197,
+    "name": "CEAT Passenger Radial 215/75R15 CROSSDRIVE AT TL 100S",
+    "category": "tyre",
+    "price": "TTF MRP. 12449",
+    "description": "215/75R15 CROSSDRIVE AT TL 100S",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 198,
+    "name": "CEAT Passenger Radial 225/70 R 15C ENDURA DRIVE TL",
+    "category": "tyre",
+    "price": "TTF MRP. 13230",
+    "description": "225/70 R 15C ENDURA DRIVE TL",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 199,
+    "name": "CEAT Passenger Radial 235/75 R15 CROSSDRIVE AT TL 116/113R CE",
+    "category": "tyre",
+    "price": "TTF MRP. 14404",
+    "description": "235/75 R15 CROSSDRIVE AT TL 116/113R CE",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 200,
+    "name": "CEAT Passenger Radial 235/75 R15 MILAZE TL 105S",
+    "category": "tyre",
+    "price": "TTF MRP. 13241",
+    "description": "235/75 R15 MILAZE TL 105S",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 201,
+    "name": "CEAT Passenger Radial 185/55 R16 SECURADRIVE TL 83V",
+    "category": "tyre",
+    "price": "TTF MRP. 9745",
+    "description": "185/55 R16 SECURADRIVE TL 83V",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 202,
+    "name": "CEAT Passenger Radial 185/85 R 16 MILAZE TT 105Q ",
+    "category": "tyre",
+    "price": "TTF MRP. 11503",
+    "description": "185/85 R 16 MILAZE TT 105Q ",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 203,
+    "name": "CEAT Passenger Radial 195/55R 16 SECURA DRIVE TL",
+    "category": "tyre",
+    "price": "TTF MRP. 8048",
+    "description": "195/55R 16 SECURA DRIVE TL",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 204,
+    "name": "CEAT Passenger Radial 195/60R16 SECURA DRIVE TL",
+    "category": "tyre",
+    "price": "TTF MRP. 7317",
+    "description": "195/60R16 SECURA DRIVE TL",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 205,
+    "name": "CEAT Passenger Radial 195/75 R16C ENDURADRIVE TL 107/105R CEAT",
+    "category": "tyre",
+    "price": "TTF MRP. 11114",
+    "description": "195/75 R16C ENDURADRIVE TL 107/105R CEAT",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 206,
+    "name": "CEAT Passenger Radial 205/50 R16 SECURA DRIVE TL",
+    "category": "tyre",
+    "price": "TTF MRP. 7812",
+    "description": "205/50 R16 SECURA DRIVE TL",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 207,
+    "name": "CEAT Passenger Radial 205/55R 16 SECURA DRIVE TL",
+    "category": "tyre",
+    "price": "TTF MRP. 9670",
+    "description": "205/55R 16 SECURA DRIVE TL",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 208,
+    "name": "CEAT Passenger Radial 205/55 R 16 SEASONDRIVE TL 94V CEAT",
+    "category": "tyre",
+    "price": "TTF MRP. 12149",
+    "description": "205/55 R 16 SEASONDRIVE TL 94V CEAT",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 209,
+    "name": "CEAT Passenger Radial 205/60R 16 CZAR SPORT 92H",
+    "category": "tyre",
+    "price": "TTF MRP. 10761",
+    "description": "205/60R 16 CZAR SPORT 92H",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 210,
+    "name": "CEAT Passenger Radial 205/60 R 16 SECURA DRIVE SUV TL 95H ",
+    "category": "tyre",
+    "price": "TTF MRP. 9049",
+    "description": "205/60 R 16 SECURA DRIVE SUV TL 95H ",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 211,
+    "name": "CEAT Passenger Radial 205/60 R16 ECODRIVE TL 92H CEAT",
+    "category": "tyre",
+    "price": "TTF MRP. 11638",
+    "description": "205/60 R16 ECODRIVE TL 92H CEAT",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 212,
+    "name": "CEAT Passenger Radial 205/65 R16 MILAZE X3 TL 95S",
+    "category": "tyre",
+    "price": "TTF MRP. 11744",
+    "description": "205/65 R16 MILAZE X3 TL 95S",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 213,
+    "name": "CEAT Passenger Radial 205/65 R16 SECURADRIVE SUV TL 95H",
+    "category": "tyre",
+    "price": "TTF MRP. 11743",
+    "description": "205/65 R16 SECURADRIVE SUV TL 95H",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 214,
+    "name": "CEAT Passenger Radial 205/75 R16C 113/111R ENDURADRIVE",
+    "category": "tyre",
+    "price": "TTF MRP. 12267",
+    "description": "205/75 R16C 113/111R ENDURADRIVE",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 215,
+    "name": "CEAT Passenger Radial 215/55R16 SECURADRIVE TL 97W XL CEAT",
+    "category": "tyre",
+    "price": "TTF MRP. 9716",
+    "description": "215/55R16 SECURADRIVE TL 97W XL CEAT",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 216,
+    "name": "CEAT Passenger Radial 215/60 R 16 SECURA DRIVE SUV 95H",
+    "category": "tyre",
+    "price": "TTF MRP. 9755",
+    "description": "215/60 R 16 SECURA DRIVE SUV 95H",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 217,
+    "name": "CEAT Passenger Radial 215/65 R16 SECURA DRIVE SUV TL 98H",
+    "category": "tyre",
+    "price": "TTF MRP. 10234",
+    "description": "215/65 R16 SECURA DRIVE SUV TL 98H",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 218,
+    "name": "CEAT Passenger Radial 215/65R16 SPORTDRIVE SUV TL 98V XL",
+    "category": "tyre",
+    "price": "TTF MRP. 10472",
+    "description": "215/65R16 SPORTDRIVE SUV TL 98V XL",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 219,
+    "name": "CEAT Passenger Radial 215/65 R 16 98H Czar Sports",
+    "category": "tyre",
+    "price": "TTF MRP. 11029",
+    "description": "215/65 R 16 98H Czar Sports",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 220,
+    "name": "CEAT Passenger Radial 215/70 R16 CZAR HP  TL 100H",
+    "category": "tyre",
+    "price": "TTF MRP. 10681",
+    "description": "215/70 R16 CZAR HP  TL 100H",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 221,
+    "name": "CEAT Passenger Radial 215/70 R16 SPORTDRIVE SUV TL 104V XL CEAT",
+    "category": "tyre",
+    "price": "TTF MRP. 11142",
+    "description": "215/70 R16 SPORTDRIVE SUV TL 104V XL CEAT",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 222,
+    "name": "CEAT Passenger Radial 215/70 R16C ENDURADRIVE TL",
+    "category": "tyre",
+    "price": "TTF MRP. 12324",
+    "description": "215/70 R16C ENDURADRIVE TL",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 223,
+    "name": "CEAT Passenger Radial 235/70R16 CROSSDRIVE AT TL 106S",
+    "category": "tyre",
+    "price": "TTF MRP. 14049",
+    "description": "235/70R16 CROSSDRIVE AT TL 106S",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 224,
+    "name": "CEAT Passenger Radial 235/70R 16 CZAR H/AT TL",
+    "category": "tyre",
+    "price": "TTF MRP. 14049",
+    "description": "235/70R 16 CZAR H/AT TL",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 225,
+    "name": "CEAT Passenger Radial 245/70R 16 CZAR A/T",
+    "category": "tyre",
+    "price": "TTF MRP. 13407",
+    "description": "245/70R 16 CZAR A/T",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 226,
+    "name": "CEAT Passenger Radial 245/75R16 CZAR AT TL 111H MM",
+    "category": "tyre",
+    "price": "TTF MRP. 13913",
+    "description": "245/75R16 CZAR AT TL 111H MM",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 227,
+    "name": "CEAT Passenger Radial 265/70 R16 CZAR AT TL 112S CEAT",
+    "category": "tyre",
+    "price": "TTF MRP. 15293",
+    "description": "265/70 R16 CZAR AT TL 112S CEAT",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 228,
+    "name": "CEAT Passenger Radial 205/50 R17 SECURADRIVE TL",
+    "category": "tyre",
+    "price": "TTF MRP. 9017",
+    "description": "205/50 R17 SECURADRIVE TL",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 229,
+    "name": "CEAT Passenger Radial 205/50 R17 SPORTDRIVE TL 93Y XL",
+    "category": "tyre",
+    "price": "TTF MRP. 9274",
+    "description": "205/50 R17 SPORTDRIVE TL 93Y XL",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 230,
+    "name": "CEAT Passenger Radial 205/55 R17 SECURADRIVE SD004 TL 91H",
+    "category": "tyre",
+    "price": "TTF MRP. 10200",
+    "description": "205/55 R17 SECURADRIVE SD004 TL 91H",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 231,
+    "name": "CEAT Passenger Radial 215/45 R17 SPORTDRIVE TL",
+    "category": "tyre",
+    "price": "TTF MRP. 10047",
+    "description": "215/45 R17 SPORTDRIVE TL",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 232,
+    "name": "CEAT Passenger Radial 215/50R17 SECURADRIVE TL 95W",
+    "category": "tyre",
+    "price": "TTF MRP. 9789",
+    "description": "215/50R17 SECURADRIVE TL 95W",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 233,
+    "name": "CEAT Passenger Radial 215/55 R 17 GRIPP LN TL",
+    "category": "tyre",
+    "price": "TTF MRP. 8083",
+    "description": "215/55 R 17 GRIPP LN TL",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 234,
+    "name": "CEAT Passenger Radial 215/55 R17 SECURADRIVE TL 94W",
+    "category": "tyre",
+    "price": "TTF MRP. 10297",
+    "description": "215/55 R17 SECURADRIVE TL 94W",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 235,
+    "name": "CEAT Passenger Radial 215/60R17 SECURADRIVE TL 96 H",
+    "category": "tyre",
+    "price": "TTF MRP. 9789",
+    "description": "215/60R17 SECURADRIVE TL 96 H",
+    "image": "/tyreimg/nomatch.png"
+  },
+  {
+    "id": 236,
+    "name": "CEAT Passenger Radial 225/45 R17 SPORTDRIVE TL",
+    "category": "tyre",
+    "price": "TTF MRP. 10304",
+    "description": "225/45 R17 SPORTDRIVE TL",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 237,
+    "name": "CEAT Passenger Radial 225/55 R17 SPORTDRIVE TL 101W XL CEAT",
+    "category": "tyre",
+    "price": "TTF MRP. 13018",
+    "description": "225/55 R17 SPORTDRIVE TL 101W XL CEAT",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 238,
+    "name": "CEAT Passenger Radial 225/60 R17 SPORTDRIVE SUV TL 103V XL ",
+    "category": "tyre",
+    "price": "TTF MRP. 11077",
+    "description": "225/60 R17 SPORTDRIVE SUV TL 103V XL ",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 239,
+    "name": "CEAT Passenger Radial 235/65 R 17 CZAR 104H  H/T TL",
+    "category": "tyre",
+    "price": "TTF MRP. 15486",
+    "description": "235/65 R 17 CZAR 104H  H/T TL",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 240,
+    "name": "CEAT Passenger Radial 235/65 R17 CZAR  AT TL 104 H",
+    "category": "tyre",
+    "price": "TTF MRP. 15486",
+    "description": "235/65 R17 CZAR  AT TL 104 H",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 241,
+    "name": "CEAT Passenger Radial 235/65R 17 CROSSDRIVE AT TL 104T",
+    "category": "tyre",
+    "price": "TTF MRP. 15794",
+    "description": "235/65R 17 CROSSDRIVE AT TL 104T",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 242,
+    "name": "CEAT Passenger Radial 235/65R 17 SECURADRIVE SUV TL 104H DOM",
+    "category": "tyre",
+    "price": "TTF MRP. 15183",
+    "description": "235/65R 17 SECURADRIVE SUV TL 104H DOM",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 243,
+    "name": "CEAT Passenger Radial 245/45 R17 SPORTDRIVE TL 99Y XL CEAT",
+    "category": "tyre",
+    "price": "TTF MRP. 11495",
+    "description": "245/45 R17 SPORTDRIVE TL 99Y XL CEAT",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 244,
+    "name": "CEAT Passenger Radial 265/65 R17 CROSSDRIVE AT TL 112S",
+    "category": "tyre",
+    "price": "TTF MRP. 16043",
+    "description": "265/65 R17 CROSSDRIVE AT TL 112S",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 245,
+    "name": "CEAT Passenger Radial 265/65 R 17 112S CZAR A/T",
+    "category": "tyre",
+    "price": "TTF MRP. 15576",
+    "description": "265/65 R 17 112S CZAR A/T",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 246,
+    "name": "CEAT Passenger Radial 215/55 R18 SECURADRIVE TL",
+    "category": "tyre",
+    "price": "TTF MRP. 11077",
+    "description": "215/55 R18 SECURADRIVE TL",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 247,
+    "name": "CEAT Passenger Radial 225/55R18 SPORTDRIVE TL 102W XL CEAT",
+    "category": "tyre",
+    "price": "TTF MRP. 11592",
+    "description": "225/55R18 SPORTDRIVE TL 102W XL CEAT",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 248,
+    "name": "CEAT Passenger Radial 225/55R18 SECURADRIVE TL 99V XL CEAT",
+    "category": "tyre",
+    "price": "TTF MRP. 11001",
+    "description": "225/55R18 SECURADRIVE TL 99V XL CEAT",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 249,
+    "name": "CEAT Passenger Radial 225/60 R18 SPORTDRIVE SUV TL 104W XL CEAT",
+    "category": "tyre",
+    "price": "TTF MRP. 12089",
+    "description": "225/60 R18 SPORTDRIVE SUV TL 104W XL CEAT",
+    "image": "/tyreimg/passengerradial.avif"
+  },
+  {
+    "id": 250,
+    "name": "CEAT Passenger Radial 235/50 R18 SPORTDRIVE SUV TL 101V XL CEAT",
+    "category": "tyre",
+    "price": "TTF MRP. 15927",
+    "description": "235/50 R18 SPORTDRIVE SUV TL 101V XL CEAT",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 251,
+    "name": "CEAT Passenger Radial 235/55 R18 SPORTDRIVE SUV TL 104W XL",
+    "category": "tyre",
+    "price": "TTF MRP. 16140",
+    "description": "235/55 R18 SPORTDRIVE SUV TL 104W XL",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 252,
+    "name": "CEAT Passenger Radial 235/60R18 SPORTDRIVE SUV TL 107W XL CEAT",
+    "category": "tyre",
+    "price": "TTF MRP. 14617",
+    "description": "235/60R18 SPORTDRIVE SUV TL 107W XL CEAT",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 253,
+    "name": "CEAT Passenger Radial 245/45 R18 SPORTDRIVE TL 100Y XL CEAT",
+    "category": "tyre",
+    "price": "TTF MRP. 12637",
+    "description": "245/45 R18 SPORTDRIVE TL 100Y XL CEAT",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 254,
+    "name": "CEAT Passenger Radial 255/55 R18 SPORTDRIVE SUV TL 109W XL",
+    "category": "tyre",
+    "price": "TTF MRP. 13777",
+    "description": "255/55 R18 SPORTDRIVE SUV TL 109W XL",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 255,
+    "name": "CEAT Passenger Radial 255/65R18 CROSSDRIVE AT TL 111H",
+    "category": "tyre",
+    "price": "TTF MRP. 14599",
+    "description": "255/65R18 CROSSDRIVE AT TL 111H",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 256,
+    "name": "CEAT Passenger Radial 265/60 R18 CZAR AT\u00a0 TL 110",
+    "category": "tyre",
+    "price": "TTF MRP. 14717",
+    "description": "265/60 R18 CZAR AT\u00a0 TL 110",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 257,
+    "name": "CEAT Passenger Radial 265/60 R18 CROSSDRIVE AT TL 110T",
+    "category": "tyre",
+    "price": "TTF MRP. 16463",
+    "description": "265/60 R18 CROSSDRIVE AT TL 110T",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 258,
+    "name": "CEAT Passenger Radial 235/50 R19 SPORTDRIVE SUV TL 103W XL CEAT",
+    "category": "tyre",
+    "price": "TTF MRP. 12996",
+    "description": "235/50 R19 SPORTDRIVE SUV TL 103W XL CEAT",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 259,
+    "name": "CEAT Passenger Radial 235/55 R19 SPORTDRIVE SUV TL ",
+    "category": "tyre",
+    "price": "TTF MRP. 18171",
+    "description": "235/55 R19 SPORTDRIVE SUV TL ",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 260,
+    "name": "CEAT Passenger Radial 255/45 R20 SPORTDRIVE SUV TL ",
+    "category": "tyre",
+    "price": "TTF MRP. 18481",
+    "description": "255/45 R20 SPORTDRIVE SUV TL ",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 261,
+    "name": "CEAT Passenger Radial 265/35 R20 SPORTDRIVE TL 99Y XL CEAT",
+    "category": "tyre",
+    "price": "TTF MRP. 17967",
+    "description": "265/35 R20 SPORTDRIVE TL 99Y XL CEAT",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 262,
+    "name": "CEAT Passenger Radial 275/40 R20 SPORTDRIVE SUV TL 106Y XL CEAT",
+    "category": "tyre",
+    "price": "TTF MRP. 19490",
+    "description": "275/40 R20 SPORTDRIVE SUV TL 106Y XL CEAT",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 263,
+    "name": "CEAT Passenger Radial 275/45 R20 SPORTDRIVE SUV TL 110 Y XL CEAT ",
+    "category": "tyre",
+    "price": "TTF MRP. 20236",
+    "description": "275/45 R20 SPORTDRIVE SUV TL 110 Y XL CEAT ",
+    "image": "/tyreimg/passengerradial2.avif"
+  },
+  {
+    "id": 264,
+    "name": "CEAT TRACTOR / FARM 900-16/16 SMRT TURBO LG TR TRACTOR TRAILOR",
+    "category": "tyre",
+    "price": "TTF MRP. 28363",
+    "description": "900-16/16 SMRT TURBO LG TR TRACTOR TRAILOR",
+    "image": "/tyreimg/smraat.png"
+  },
+  {
+    "id": 265,
+    "name": "CEAT TRACTOR / FARM 6.00-16 8 AAYUSHMAAN\u00a0\u00a0\u00a0",
+    "category": "tyre",
+    "price": "TTF MRP. 9809",
+    "description": "6.00-16 8 AAYUSHMAAN\u00a0\u00a0\u00a0",
+    "image": "/tyreimg/aayushmaan.jpeg"
+  },
+  {
+    "id": 266,
+    "name": "CEAT TRACTOR / FARM 7.50-16  Aayushmaan",
+    "category": "tyre",
+    "price": "TTF MRP. 14864",
+    "description": "7.50-16  Aayushmaan",
+    "image": "/tyreimg/aayushmaan.jpeg"
+  },
+  {
+    "id": 267,
+    "name": "CEAT TRACTOR / FARM 6.50-20 Aayushmaan",
+    "category": "tyre",
+    "price": "TTF MRP. 15013",
+    "description": "6.50-20 Aayushmaan",
+    "image": "/tyreimg/aayushmaan.jpeg"
+  },
+  {
+    "id": 268,
+    "name": "CEAT TRACTOR / FARM 8.00-18 aayushman",
+    "category": "tyre",
+    "price": "TTF MRP. 14402",
+    "description": "8.00-18 aayushman",
+    "image": "/tyreimg/aayushmaan.jpeg"
+  },
+  {
+    "id": 269,
+    "name": "CEAT TRACTOR / FARM 9.5-24 /8 SAMRAAT SUPER",
+    "category": "tyre",
+    "price": "TTF MRP. 23545",
+    "description": "9.5-24 /8 SAMRAAT SUPER",
+    "image": "/tyreimg/smraat.png"
+  },
+  {
+    "id": 270,
+    "name": "CEAT TRACTOR / FARM 11.2-24 Aayushmaan",
+    "category": "tyre",
+    "price": "TTF MRP. 31138",
+    "description": "11.2-24 Aayushmaan",
+    "image": "/tyreimg/aayushmaan.jpeg"
+  },
+  {
+    "id": 271,
+    "name": "CEAT TRACTOR / FARM 12.4-28 12 AAYUSHMAAN",
+    "category": "tyre",
+    "price": "TTF MRP. 39457",
+    "description": "12.4-28 12 AAYUSHMAAN",
+    "image": "/tyreimg/aayushmaan.jpeg"
+  },
+  {
+    "id": 272,
+    "name": "CEAT TRACTOR / FARM 13.6-28 12 PR  AAYUSHMAAN",
+    "category": "tyre",
+    "price": "TTF MRP. 46047",
+    "description": "13.6-28 12 PR  AAYUSHMAAN",
+    "image": "/tyreimg/aayushmaan.jpeg"
+  },
+  {
+    "id": 273,
+    "name": "CEAT TRACTOR / FARM 14.9-28/12 Aayushmaan",
+    "category": "tyre",
+    "price": "TTF MRP. 53105",
+    "description": "14.9-28/12 Aayushmaan",
+    "image": "/tyreimg/aayushmaan.jpeg"
+  },
+  {
+    "id": 274,
+    "name": "CEAT TRACTOR / FARM 16.9-28/12 PR AAYUSHMANN",
+    "category": "tyre",
+    "price": "TTF MRP. 62158",
+    "description": "16.9-28/12 PR AAYUSHMANN",
+    "image": "/tyreimg/aayushmaan.jpeg"
+  },
+  {
+    "id": 275,
+    "name": "CEAT TRACTOR / FARM 16.9-30 /10 SAMRAAT",
+    "category": "tyre",
+    "price": "TTF MRP. 68942",
+    "description": "16.9-30 /10 SAMRAAT",
+    "image": "/tyreimg/smraat.png"
+  },
+  {
+    "id": 276,
+    "name": "CEAT TRACTOR / FARM 18.4-30 /14 PR Aayushmaan HD",
+    "category": "tyre",
+    "price": "TTF MRP. 97423",
+    "description": "18.4-30 /14 PR Aayushmaan HD",
+    "image": "/tyreimg/aayushmaan.jpeg"
+  },
+  {
+    "id": 277,
+    "name": "CEAT INDUSTRIAL-OTR 10-16.5 GM LOADER HD 10PR TL",
+    "category": "tyre",
+    "price": "TTF MRP. 18116",
+    "description": "10-16.5 GM LOADER HD 10PR TL",
+    "image": "/tyreimg/loader.webp"
+  },
+  {
+    "id": 278,
+    "name": "CEAT INDUSTRIAL-OTR 1300-24 GRADER XL TL 12PR G2",
+    "category": "tyre",
+    "price": "TTF MRP. 52638",
+    "description": "1300-24 GRADER XL TL 12PR G2",
+    "image": "/tyreimg/grader.png"
+  },
+  {
+    "id": 279,
+    "name": "CEAT INDUSTRIAL-OTR 12.00-24 20 PR IND-4 PORTPRO RX",
+    "category": "tyre",
+    "price": "TTF MRP. 107697",
+    "description": "12.00-24 20 PR IND-4 PORTPRO RX",
+    "image": "/tyreimg/portpro.webp"
+  },
+  {
+    "id": 280,
+    "name": "CEAT INDUSTRIAL-OTR 1200-24 /20 SLICK 404 L5S INDL",
+    "category": "tyre",
+    "price": "TTF MRP. 145657",
+    "description": "1200-24 /20 SLICK 404 L5S INDL",
+    "image": "/tyreimg/slick.jpg"
+  },
+  {
+    "id": 281,
+    "name": "CEAT INDUSTRIAL-OTR 1200-24 /20 ROCK XL INDL",
+    "category": "tyre",
+    "price": "TTF MRP. 95043",
+    "description": "1200-24 /20 ROCK XL INDL",
+    "image": "/tyreimg/rockxl.webp"
+  },
+  {
+    "id": 282,
+    "name": "CEAT INDUSTRIAL-OTR 13.00-24 16PR GRADER XL G2/L2 TL",
+    "category": "tyre",
+    "price": "TTF MRP. 56379",
+    "description": "13.00-24 16PR GRADER XL G2/L2 TL",
+    "image": "/tyreimg/grader.png"
+  },
+  {
+    "id": 283,
+    "name": "CEAT INDUSTRIAL-OTR 1400-20 /22 TRAC XL E3 TT",
+    "category": "tyre",
+    "price": "TTF MRP. 112570",
+    "description": "1400-20 /22 TRAC XL E3 TT",
+    "image": "/tyreimg/trackxl.avif"
+  },
+  {
+    "id": 284,
+    "name": "CEAT INDUSTRIAL-OTR 1400-24 /16 G2 GRADER XL TL",
+    "category": "tyre",
+    "price": "TTF MRP. 73200",
+    "description": "1400-24 /16 G2 GRADER XL TL",
+    "image": "/tyreimg/grader.png"
+  },
+  {
+    "id": 285,
+    "name": "CEAT INDUSTRIAL-OTR 1400-25 /20 GMND L3 TT",
+    "category": "tyre",
+    "price": "TTF MRP. 110672",
+    "description": "1400-25 /20 GMND L3 TT",
+    "image": "/tyreimg/gmnd.avif"
+  },
+  {
+    "id": 286,
+    "name": "CEAT INDUSTRIAL-OTR 16.00-25 32PR ROCK XL E3 IND TL",
+    "category": "tyre",
+    "price": "TTF MRP. 227297",
+    "description": "16.00-25 32PR ROCK XL E3 IND TL",
+    "image": "/tyreimg/rockxlindustry.webp"
+  },
+  {
+    "id": 287,
+    "name": "CEAT INDUSTRIAL-OTR 12.5/80-18 /12 TYROCK IND",
+    "category": "tyre",
+    "price": "TTF MRP. 36040",
+    "description": "12.5/80-18 /12 TYROCK IND",
+    "image": "/tyreimg/tyrock.avif"
+  },
+  {
+    "id": 288,
+    "name": "CEAT INDUSTRIAL-OTR 16.9-28 /12\u00a0TYROCK XL R4 INDUSTRIAL",
+    "category": "tyre",
+    "price": "TTF MRP. 78732",
+    "description": "16.9-28 /12\u00a0TYROCK XL R4 INDUSTRIAL",
+    "image": "/tyreimg/rockxlindustry.webp"
+  },
+  {
+    "id": 289,
+    "name": "CEAT INDUSTRIAL-OTR 17.5-25 /20 E3/L3 TRAC XL TL",
+    "category": "tyre",
+    "price": "TTF MRP. 123471",
+    "description": "17.5-25 /20 E3/L3 TRAC XL TL",
+    "image": "/tyreimg/trackxl.avif"
+  },
+  {
+    "id": 290,
+    "name": "CEAT INDUSTRIAL-OTR 17.5-25 /16 GRADER  XL G2/L2 TL",
+    "category": "tyre",
+    "price": "TTF MRP. 72667",
+    "description": "17.5-25 /16 GRADER  XL G2/L2 TL",
+    "image": "/tyreimg/grader.png"
+  },
+  {
+    "id": 291,
+    "name": "CEAT INDUSTRIAL-OTR 17.5-25 /16 LOADER XL G2/L2 TL",
+    "category": "tyre",
+    "price": "TTF MRP. 78180",
+    "description": "17.5-25 /16 LOADER XL G2/L2 TL",
+    "image": "/tyreimg/loader.webp"
+  },
+  {
+    "id": 292,
+    "name": "CEAT INDUSTRIAL-OTR 20.5-25 /20 E3/L3 TRAC XL TL",
+    "category": "tyre",
+    "price": "TTF MRP. 189279",
+    "description": "20.5-25 /20 E3/L3 TRAC XL TL",
+    "image": "/tyreimg/trackxl.avif"
+  },
+  {
+    "id": 293,
+    "name": "CEAT INDUSTRIAL-OTR 20.5-25 /16 LOADER XL  G2/L2 TL",
+    "category": "tyre",
+    "price": "TTF MRP. 124393",
+    "description": "20.5-25 /16 LOADER XL  G2/L2 TL",
+    "image": "/tyreimg/loader.webp"
+  },
+  {
+    "id": 294,
+    "name": "CEAT INDUSTRIAL-OTR 23.5-25/20 E3/L3 TRAC XL TL",
+    "category": "tyre",
+    "price": "TTF MRP. 218536",
+    "description": "23.5-25/20 E3/L3 TRAC XL TL",
+    "image": "/tyreimg/trackxl.avif"
+  },
+  {
+    "id": 295,
+    "name": "CEAT INDUSTRIAL-OTR 23.1-26 C305 ALT TL 16PR EU",
+    "category": "tyre",
+    "price": "TTF MRP. 134794",
+    "description": "23.1-26 C305 ALT TL 16PR EU",
+    "image": "/tyreimg/altl.webp"
+  },
+  {
+    "id": 296,
+    "name": "CEAT INDUSTRIAL-OTR 8.25-15 ELEVETA",
+    "category": "tyre",
+    "price": "TTF MRP. 26868",
+    "description": "8.25-15 ELEVETA",
+    "image": "/tyreimg/eleveta.webp"
+  },
+  {
+    "id": 297,
+    "name": "CEAT INDUSTRIAL-OTR 405/70-20 MPT 800 ALT TL 14PR",
+    "category": "tyre",
+    "price": "TTF MRP. 64351",
+    "description": "405/70-20 MPT 800 ALT TL 14PR",
+    "image": "/tyreimg/altl.webp"
+  },
+  {
+    "id": 298,
+    "name": "CEAT INDUSTRIAL-OTR 405/70-20 16PR Trac XL TL",
+    "category": "tyre",
+    "price": "TTF MRP. 71921",
+    "description": "405/70-20 16PR Trac XL TL",
+    "image": "/tyreimg/trackxl.avif"
   }
-
-
-
 ]
