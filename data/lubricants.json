@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "I-RIDE MOTO FURY 4T IN SYNTHETIC TECHNOLOGY",
+    "name": "ENI MOTORCYCLE OIL I-RIDE MOTO FURY 4T IN SYNTHETIC TECHNOLOGY",
     "category": "lubricants",
     "price": "MRP. 1155",
     "description": "10W40 1.2 ltr",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "name": "I-RIDE MOTO PREMIUM 4T IN SYNTHETIC TECHNOLOGY",
+    "name": "ENI MOTORCYCLE OIL I-RIDE MOTO PREMIUM 4T IN SYNTHETIC TECHNOLOGY",
     "category": "lubricants",
     "price": "MRP. 2646",
     "description": "15W50 2.5 ltr",
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "name": "I-RIDE MOTO XPERIENCE PRO+",
+    "name": "ENI MOTORCYCLE OIL I-RIDE MOTO XPERIENCE PRO+",
     "category": "lubricants",
     "price": "MRP. 910",
     "description": "20W40 1 ltr",
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "name": "I-RIDE MOTO XPERIENCE ",
+    "name": "ENI MOTORCYCLE OIL I-RIDE MOTO XPERIENCE ",
     "category": "lubricants",
     "price": "MRP. 854",
     "description": "20W40 1 ltr",
@@ -33,10 +33,98 @@
   },
   {
     "id": 5,
-    "name": "I-RIDE MOTO XPERIENCE ",
+    "name": "ENI MOTORCYCLE OIL I-RIDE MOTO XPERIENCE ",
     "category": "lubricants",
     "price": "MRP. 1015",
     "description": "20W40 1.2 ltr",
+    "image": "/eni/"
+  },
+  {
+    "id": 6,
+    "name": "ENI MOTORCYCLE OIL I-RIDE MOTO XPERIENCE ",
+    "category": "lubricants",
+    "price": "MRP. 854",
+    "description": "20W40 1 ltr",
+    "image": "/eni/"
+  },
+  {
+    "id": 7,
+    "name": "ENI MOTORCYCLE OIL I-RIDE MOTO CLASSIC SJ (20W40)",
+    "category": "lubricants",
+    "price": "MRP. 833",
+    "description": "20W40 1 ltr",
+    "image": "/eni/"
+  },
+  {
+    "id": 8,
+    "name": "ENI MOTORCYCLE OIL I-RIDE MOTO ECO. 4T IN SYNTHETIC TECHNOLOGY",
+    "category": "lubricants",
+    "price": "MRP. 917",
+    "description": "10W40 1 ltr",
+    "image": "/eni/"
+  },
+  {
+    "id": 9,
+    "name": "ENI MOTORCYCLE OIL I-RIDE MOTO XPE SL",
+    "category": "lubricants",
+    "price": "MRP. 1106",
+    "description": "20W50 1.2 ltr",
+    "image": "/eni/"
+  },
+  {
+    "id": 10,
+    "name": "ENI MOTORCYCLE OIL I-RIDE SCOOTER 4T IN SYNTHETIC TECHNOLOGY",
+    "category": "lubricants",
+    "price": "MRP. 868",
+    "description": "10W30 0.8 ltr",
+    "image": "/eni/"
+  },
+  {
+    "id": 11,
+    "name": "ENI MOTORCYCLE OIL FRONT FORK OIL",
+    "category": "lubricants",
+    "price": "MRP. 343 , MRP. 176",
+    "description": "forkoil '0.36ltr' & '0.175ltr'",
+    "image": "/eni/"
+  },
+  {
+    "id": 12,
+    "name": "ENI 3-WHEELER OIL AUTO DOCTOR 4T",
+    "category": "lubricants",
+    "price": "MRP. 1946",
+    "description": "20W50 2ltr",
+    "image": "/eni/"
+  },
+  {
+    "id": 14,
+    "name": "ENI PASSENGER CAR MOTOR OIL I-SINT LEVO IN ",
+    "category": "lubricants",
+    "price": "MRP. 3927, MRP.3346 & MRP.1232",
+    "description": "5W30 '3.5ltr','3ltr' & '1ltr'",
+    "image": "/eni/"
+  },
+  {
+    "id": 15,
+    "name": "ENI PASSENGER CAR MOTOR OIL I-BASE LEVO  SL",
+    "category": "lubricants",
+    "price": "MRP. 3591",
+    "description": "10W30 3ltr",
+    "image": "/eni/"
+  },
+  {
+    "id": 16,
+    "name": "ENI PASSENGER CAR MOTOR OIL I-BASE LEVO  IN",
+    "category": "lubricants",
+    "price": "MRP. 177940,  MRP. 16016, MRP. 9100, MRP. 7245, MRP. 4921, MRP. 3549, MRP.2786 & MRP. 952",
+    "description": "20W50 '210ltr','18ltr','10ltr','8ltr','4ltr','3ltr' & '1ltr'",
+    "image": "/eni/"
+  },
+  {
+    "id": 17,
+    "name": "MULTI GRADE DIESEL ENGINE OIL I-SIGMA PERFORMANCE SYNTECH IN",
+    "category": "lubricants",
+    "price": "MRP. 177940,  MRP. 16016, MRP. 9100, MRP. 7245, MRP. 4921, MRP. 3549, MRP.2786 & MRP. 952",
+    "description": "15W40 '210ltr','15ltr','10ltr','7.5ltr','6ltr','5ltr' & '1ltr'",
     "image": "/eni/"
   }
 ]
