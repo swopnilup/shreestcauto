@@ -126,5 +126,143 @@
     "price": "MRP. 177940,  MRP. 16016, MRP. 9100, MRP. 7245, MRP. 4921, MRP. 3549, MRP.2786 & MRP. 952",
     "description": "15W40 '210ltr','15ltr','10ltr','7.5ltr','6ltr','5ltr' & '1ltr'",
     "image": "/eni/"
+  },
+  {
+    "id": 18,
+    "name": "MULTI GRADE DIESEL ENGINE OIL I-SIGMA TURBO SPECIAL IN ",
+    "category": "lubricants",
+    "price": "MRP. 202720,  MRP. 15050, MRP. 10570, MRP. 7945, MRP. 6412, MRP. 5355, & MRP. 1078",
+    "description": "15W40 '210ltr','15ltr','10ltr','7.5ltr','6ltr','5ltr' & '1ltr'",
+    "image": "/eni/" 
+  },
+  {
+    "id": 19,
+    "name": "MULTI GRADE DIESEL ENGINE OIL I-SIGMA UNIVERSAL IN ",
+    "category": "lubricants",
+    "price": "MRP. 188020,  MRP. 13580, MRP. 9380, MRP. 7392, MRP. 7150, MRP. 5740, MRP.3780 & MRP. 966",
+    "description": "15W40 '210ltr','15ltr','10ltr','8ltr','7.5ltr','6ltr','4ltr' & '1ltr'",
+    "image": "/eni/" 
+  },
+  {
+    "id": 19,
+    "name": "MULTI GRADE DIESEL ENGINE OILI-SIGMA UNIVERSAL IN ",
+    "category": "lubricants",
+    "price": "MRP. 9240, &  MRP. 7280",
+    "description": "20W40 '10ltr' & ,'8ltr'",
+    "image": "/eni/" 
+  },
+  {
+    "id": 20,
+    "name": "GEAR/TRANSMISION OIL ROTRA GL-5 IN",
+    "category": "lubricants",
+    "price": "MRP. 237692, MRP. 20860, MRP.8456, MRP.5292, MRP. 1092",
+    "description": "85W140EP, '210ltr','20ltr','8ltr','5ltr','1ltr'",
+    "image": "/eni/" 
+  },
+  {
+    "id": 21,
+    "name": "GEAR/TRANSMISION OIL ROTRA GL-4 IN",
+    "category": "lubricants",
+    "price": "MRP. 193586, MRP. 18760, MRP.7616, MRP.4275, MRP. 966",
+    "description": "80W90EP, '210ltr','20ltr','8ltr','5ltr','1ltr'",
+    "image": "/eni/" 
+  },
+  {
+    "id": 22,
+    "name": "GEAR/TRANSMISION OIL ROTRA GL-4 IN",
+    "category": "lubricants",
+    "price": "MRP. 200116, MRP. 18760, MRP.7616, MRP.4725, MRP. 966",
+    "description": "90/140EP, '210ltr','20ltr','8ltr','5ltr','1ltr'",
+    "image": "/eni/"
+  },
+  {
+    "id": 23,
+    "name": "GEAR/TRANSMISION OIL ROTRA  ATF IN",
+    "category": "lubricants",
+    "price": "MRP. 214228, MRP.5320, MRP. 1106",
+    "description": "ATF, '210ltr','5ltr','1ltr'",
+    "image": "/eni/"
+  },
+  {
+    "id": 24,
+    "name": "GEAR/TRANSMISION OIL ROTRA MUlTITECH THT",
+    "category": "lubricants",
+    "price": "MRP. 21700, MRP.11375",
+    "description": "80W, '20ltr','10ltr'",
+    "image": "/eni/"
+  },
+  {
+    
+    
+    "id": 25,
+    "name": "GREASE GREASE-30 NL",
+    "category": "lubricants",
+    "price": "MRP. 265790, MRP.30702, MRP.15351, MRP.7749, MRP.4739, MRP.1596, MRP.805",
+    "description": "NLGI, '180ltr','20ltr','10ltr','5ltr','3ltr','1ltr','0.5ltr'",
+    "image": "/eni/"
+  },
+  {
+    "id": 26,
+    "name": "GREASE GREASE -MUEP2",
+    "category": "lubricants",
+    "price": "MRP. 276304 & MRP.31340",
+    "description": "EP-2, '180ltr'&'20ltr'",
+    "image": "/eni/" 
+  },
+  {
+    "id": 27,
+    "name": "GREASE GEREASE 30 LL (RED)",
+    "category": "lubricants",
+    "price": "MRP. 34251 ",
+    "description": "EP-2, '20ltr'",
+    "image": "/eni/" 
+  },
+  {
+    "id": 28,
+    "name": "HYDRAULIC OIL HYDRAULIC AW IN ",
+    "category": "lubricants",
+    "price": "MRP. 153020, MRP.42000, MRP.16940 ",
+    "description": "46, '210ltr','50ltr','20ltr'",
+    "image": "/eni/" 
+  },
+  {
+    "id": 29,
+    "name": "HYDRAULIC OIL HYDRAULIC AW IN ",
+    "category": "lubricants",
+    "price": "MRP. 157220, MRP.42700, MRP.17080 ",
+    "description": "68, '210ltr','50ltr','20ltr'",
+    "image": "/eni/"
+  },
+  {
+    "id": 30,
+    "name": "HYDRAULIC OIL I-SIGMA MONO ",
+    "category": "lubricants",
+    "price": "MRP. 169820, MRP.45500, MRP.18480 ",
+    "description": "10W, '210ltr','50ltr','20ltr'",
+    "image": "/eni/"
+  },
+  {
+    "id": 31,
+    "name": "HYDRAULIC OIL I-SIGMA MONO ",
+    "category": "lubricants",
+    "price": "MRP. 169820, MRP.45500, MRP.18480 ",
+    "description": "10W, '210ltr','50ltr','20ltr'",
+    "image": "/eni/"
+  },
+  {
+    "id": 32,
+    "name": "HYDRAULIC OIL AQUAMET IFU ",
+    "category": "lubricants",
+    "price": "MRP. 186620",
+    "description": "Cutting Oil",
+    "image": "/eni/"
+  },
+  {
+    "id": 33,
+    "name": "HYDRAULIC OIL BLASIA GEAR OIL ",
+    "category": "lubricants",
+    "price": "MRP. 186620",
+    "description": "3207",
+    "image": "/eni/"
   }
 ]
