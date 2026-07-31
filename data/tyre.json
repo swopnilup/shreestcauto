@@ -21,7 +21,7 @@
     "category": "tyre",
     "price": "MRP. 2645",
     "description": "Scooter Tyre, Size: 3.50/10 MILAZE TL",
-    "image": "/tyreimg/nomatch.png"
+    "image": "/tyreimg/soccter-milz.png"
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "category": "tyre",
     "price": "MRP. 2672",
     "description": "Scooter Tyre, Size: 90/100-10 GRIPP X3 TT",
-    "image": "/tyreimg/tyre4.png"
+    "image": "/tyreimg/tyre1.png"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "category": "tyre",
     "price": "MRP. 2385",
     "description": "Scooter Tyre, Size: 90/100-10 ZOOM D H/LR TL 53J",
-    "image": "/tyreimg/tyre4.png"
+    "image": "/tyreimg/scooter-zoom.png"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "category": "tyre",
     "price": "MRP. 2385",
     "description": "Scooter Tyre, Size: 90/100-10 ZOOM X3",
-    "image": "/tyreimg/tyre4.png"
+    "image": "/tyreimg/scooter-zoom.png"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "category": "tyre",
     "price": "MRP. 2441",
     "description": "Scooter Tyre, Size: 90/100-10 MILAZE TL",
-    "image": "/tyreimg/tyre4.png"
+    "image": "/tyreimg/soccter-milz.png"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "category": "tyre",
     "price": "MRP. 2441",
     "description": "Scooter Tyre, Size: 90/100-10 MILAZE TT",
-    "image": "/tyreimg/tyre4.png"
+    "image": "/tyreimg/soccter-milz.png"
   },
   {
     "id": 10,
@@ -85,7 +85,7 @@
     "category": "tyre",
     "price": "MRP. 2778",
     "description": "Scooter Tyre, Size: 90/90-12 MILAZE TT(E RIKSHAW)",
-    "image": "/tyreimg/tyre5.png"
+    "image": "/tyreimg/soccter-milz.png"
   },
   {
     "id": 12,
@@ -93,7 +93,7 @@
     "category": "tyre",
     "price": "MRP. 2791",
     "description": "Scooter Tyre, Size: 90/90-12 MILAZE TL",
-    "image": "/tyreimg/tyre5.png"
+    "image": "/tyreimg/soccter-milz.png"
   },
   {
     "id": 13,
@@ -101,7 +101,7 @@
     "category": "tyre",
     "price": "MRP. 2647",
     "description": "Scooter Tyre, Size: 90/90-12 ZOOM D TL",
-    "image": "/tyreimg/tyre5.png"
+    "image": "/tyreimg/scooter-zoom.png"
   },
   {
     "id": 14,
