@@ -1,10 +1,314 @@
 [
   {
-    "id": 1,
-    "name": "Sample Auto Part",
-    "category": "parts",
-    "price": "MRP. 0",
-    "description": "Replace with actual auto part.",
-    "image": "ourproductimg/sample-part.png"
-  }
+  "id" : 1,
+  "name" : "VARROC STARTER MOTOR PASSION PRO/I-SMART/HF DLX",
+  "category" : "parts",
+  "price" : "MRP. 3365",
+  "description" : "STMR-PSPR-3141",
+  "image" : "/varroc/stmr-pspr-3141.webp"
+},
+{
+  "id" : 2,
+  "name" : "VARROC STRTER MOTOR PASION PRO BS6",
+  "category" : "parts",
+  "price" : "MRP. 2686",
+  "description" : "STMR-PSPR-AAF01",
+  "image" :"/varroc/stmr-pspr-aaf01.webp"
+},
+{
+  "id" : 3,
+  "name" : "VARROC STRTER MOTOR PASION EX PRO",
+  "category" : "parts",
+  "price" : "MRP. 2623",
+  "description" : "STMR-XPRO-KZ21",
+  "image" : "/varroc/no-img.webp"
+},
+{
+  "id" : 4,
+  "name" : "VARROC STARTER MOTOR AVENGER",
+  "category" : "parts",
+  "price" : "MRP. 3127",
+  "description" : "STMR-AVGR-DV09",
+  "image" : "/varroc/no-img.webp"
+},
+{
+  "id" : 5,
+  "name" : "VARROC STRTER MOTOR DSVR110 C110 BSIV",
+  "category" : "parts",
+  "price" : "MRP. 2501",
+  "description" : "STMR-DSVR-JH02",
+  "image" : "/varroc/no-img.webp"
+},
+{
+  "id" : 6,
+  "name" : "VARROC STARTER MOTOR DISCOVER 135",
+  "category" : "parts",
+  "price" : "MRP. 2294",
+  "description" : "STMR-DSVR-JN00",
+  "image" : "/varroc/no-img.webp"
+},
+{
+  "id" : 7,
+  "name" : "VARROC STATOR MOTOR HERO SUPER SPLENDOR /GLAMOUR",
+  "category" : "parts",
+  "price" : "MRP. 2565",
+  "description" : "STMR-SSPL-3121",
+  "image" : "/varroc/stmr-spld-aat11.webp"
+},
+{
+  "id" : 8,
+  "name" : "VARROC STRTER MOTOR SPLENDER 110",
+  "category" : "parts",
+  "price" : "MRP. 2392",
+  "description" : "STMR-SPLD-AAT11",
+  "image" :"/varroc/stmr-spld-aat11.webp"
+},
+{
+  "id" : 9,
+  "name" : "VARROC STARTER MOTOR DISCOVER 100/PULSAR 135/XCD",
+  "category" : "parts",
+  "price" : "MRP. 2340",
+  "description" : "STMR-SPNT-JA00",
+  "image" : "/varroc/stmr-spld-aat11.webp"
+},
+{
+  "id" : 10,
+  "name" : "VARROC STRTER MOTOR TVX STR CITI OLD MODEL",
+  "category" : "parts",
+  "price" : "MRP. 3164",
+  "description" : "STMR-STAR-N850",
+  "image" : "/varroc/stmr-star-n850.webp"
+},
+{
+  "id" : 11,
+  "name" : "VARROC STRTER MOTOR PLSR 150 AS",
+  "category" : "parts",
+  "price" : "MRP. 2657",
+  "description" : "STMR-PLSR-JV00",
+  "image" : "/varroc/stmr-plsr-pd08.webp"
+},
+{
+  "id" : 12,
+  "name" : "VARROC STRTER MOTOR PLSR 160 NS BSVI",
+  "category" : "parts",
+  "price" : "MRP. 2645",
+  "description" : "STMR-PLSR-PD08",
+  "image" : "/varroc/stmr-plsr-pd08.webp"
+},
+{
+  "id" : 13,
+  "name" : "VARROC STARTER MOTOR BLACK PULSAR 200/220",
+  "category" : "parts",
+  "price" : "MRP. 3418",
+  "description" : "STMR-PLSR-JC07",
+  "image" : "/varroc/no-img.webp"
+},
+{
+  "id" : 14,
+  "name" : "VARROC STARTER MOTOR BAJAJ PULSAR 200NS",
+  "category" : "parts",
+  "price" : "MRP. 3479",
+  "description" : "STMR-PLSR-JL00",
+  "image" : "/varroc/stmr-plea-10ktp.webp"
+},
+{
+  "id" : 15,
+  "name" : "VARROC STARTER MOTOR PULSAR 180 UG3",
+  "category" : "parts",
+  "price" : "MRP. 2265",
+  "description" : "STMR-PLSR-DH84",
+  "image" : "/varroc/stmr-plsr-pd08.webp"
+},
+{
+  "id" : 16,
+  "name" : "VARROC STARTER MOTOR ENFIELD D3",
+  "category" : "parts",
+  "price" : "MRP. 4140",
+  "description" : "STMR-ENFD-P6/A",
+  "image" : "/varroc/no-img.webp"
+},
+{
+  "id" : 17,
+  "name" : "VARROC STARTER MOTOR RE 350 CC BLACK",
+  "category" : "parts",
+  "price" : "MRP. 3404",
+  "description" : "STMR-ENFD-5766A",
+  "image" : "/varroc/no-img.webp"
+},
+{
+  "id" : 18,
+  "name" : "VARROC STRTER MOTOR 574039D HIMALYAN",
+  "category" : "parts",
+  "price" : "MRP. 3080",
+  "description" : "STMR-ENFD-5739D",
+  "image" : "/varroc/no-img.webp"
+},
+{
+  "id" : 19,
+  "name" : "VARROC STRTER MOTOR RE 350 BLACK BSIV",
+  "category" : "parts",
+  "price" : "MRP. 2550",
+  "description" : "STMR-ENFD-RLP5/C",
+  "image" : "/varroc/no-img.webp"
+},
+{
+  "id" : 20,
+  "name" : "VARROC STATOR MOTOR PLEASURE",
+  "category" : "parts",
+  "price" : "MRP. 2243",
+  "description" : "STMR-PLEA-10KTP",
+  "image" : "/varroc/stmr-plea-10ktp.webp"
+},
+{
+  "id" : 21,
+  "name" : "VARROC STARTER MOTOR HONDA ACTIVA/DIO",
+  "category" : "parts",
+  "price" : "MRP. 2501",
+  "description" : "STMR-ATVA-AHET",
+  "image" : "/varroc/stmr-atva-ahet.webp"
+},
+{
+  "id" : 22,
+  "name" : "VARROC STARTER MOTOR TVS WEGO/JUPITER",
+  "category" : "parts",
+  "price" : "MRP. 2230",
+  "description" : "STMR-WEGO-K200",
+  "image" : "/varroc/stmr-wego-k200.webp"
+},
+{
+  "id" : 23,
+  "name" : "VARROC STRTER MOTOR TVX WEGO STAR CITI BSVI",
+  "category" : "parts",
+  "price" : "MRP. 2735",
+  "description" : "STMR-WEGO-N480",
+  "image" : "/varroc/stmr-wego-n480.webp"
+},
+{
+  "id" : 24,
+  "name" : "VARROC STATOR MOTOR YAMAHA FASCINO /REY",
+  "category" : "parts",
+  "price" : "MRP. 2737",
+  "description" : "STMR-FSIN-54BH",
+  "image" : "/varroc/stmr-fsin-54bh.webp"
+},
+{
+  "id" : 25,
+  "name" : "VARROC STARTER MOTOR MAHINDRA 2W",
+  "category" : "parts",
+  "price" : "MRP. 2818",
+  "description" : "STMR-MH2W-3100",
+  "image" : "/varroc/no-img.webp"
+},
+{
+  "id" : 26,
+  "name" : "VARROC STATOR MOTOR PLATINA 100CC NEW SS",
+  "category" : "parts",
+  "price" : "MRP. 1800",
+  "description" : "STMR-PLTN-PF01",
+  "image" : "/varroc/no-img.webp"
+},
+{
+  "id" : 27,
+  "name" : "VARROC STATOR MOTOR SUZUKI ZIXER",
+  "category" : "parts",
+  "price" : "MRP. 2392",
+  "description" : "STMR-SZKI-3100",
+  "image" : "/varroc/no-img.webp"
+},
+{
+  "id" : 28,
+  "name" : "STATOR MOTOR HERO HUNK/CBZ",
+  "category" : "parts",
+  "price" : "MRP. 3513",
+  "description" : "STMR-HUNK-KSP1",
+  "image" : "/varroc/stmr-hunk-ksp1.webp"
+},
+{
+  "id" : 29,
+  "name" : "VARROC STATOR MOTOR YAMAHA FZ/FZA",
+  "category" : "parts",
+  "price" : "MRP. 2542",
+  "description" : "STMR-YAFZ-3801",
+  "image" : "/varroc/stmr-yafz-3801.webp"
+},
+{
+  "id" : 30,
+  "name" : "VARROC STATOR MOTOR HONDA UNICORN/HORNET",
+  "category" : "parts",
+  "price" : "MRP. 3134",
+  "description" : "STMR-UNIC-K0E1",
+  "image" : "/varroc/stmr-unic-koe1.webp"
+},
+{
+  "id" : 31,
+  "name" : "VARROC STARTER MOTOR BAJAJ V-BIKE/PLATUNA ES",
+  "category" : "parts",
+  "price" : "MRP. 2263",
+  "description" : "STMR-VJ15-JH01",
+  "image" : "/varroc/no-img.webp"
+},
+{
+  "id" : 32,
+  "name" : "VARROC STARTER MOTOR SUZUKI ACCESS",
+  "category" : "parts",
+  "price" : "MRP. 2375",
+  "description" : "STMR-ACES-3150",
+  "image" : "/varroc/no-img.webp"
+},
+{
+  "id" : 33,
+  "name" : "VARROC STARTER MOTOR TVS HAYAATE",
+  "category" : "parts",
+  "price" : "MRP. 2455",
+  "description" : "STMR-HAYA-3600",
+  "image" : "/varroc/no-img.webp"
+},
+{
+  "id" : 34,
+  "name" : "VARROC STARTER MOTOR HONDA TWISTER/DYUGA",
+  "category" : "parts",
+  "price" : "MRP. 2266",
+  "description" : "STMR-TWSR-KW11",
+  "image" : "/varroc/stmr-twsr-kw11.webp"
+},
+{
+  "id" : 35,
+  "name" : "VARROC STARTER MOTOR TVS APACHE",
+  "category" : "parts",
+  "price" : "MRP. 4106",
+  "description" : "STMR-APCH-M160",
+  "image" : "/varroc/no-img.webp"
+},
+{
+  "id" : 36,
+  "name" : "VARROC STARTER MOTOR SUZUKI AXCESS",
+  "category" : "parts",
+  "price" : "MRP. 2817",
+  "description" : "STMR-LATS-3930",
+  "image" : "/varroc/no-img.webp"
+},
+{
+  "id" : 37,
+  "name" : "VARROC STRTER MOTOR AXCESS NM LATS",
+  "category" : "parts",
+  "price" : "MRP. 2300",
+  "description" : "STMR-LATS-39JO",
+  "image" : "/varroc/stmr-lats-39j0.webp"
+},
+{
+  "id" : 38,
+  "name" : "VARROC STRTER MOTOR NEW PLTN100 CC SS JAN17",
+  "category" : "parts",
+  "price" : "MRP. 2225",
+  "description" : "STMR-PLTN-PF02",
+  "image" : "/varroc/no-img.webp"
+},
+{
+  "id" : 39,
+  "name" : "VARROC STRTER MOTOR TVX NTRQ",
+  "category" : "parts",
+  "price" : "MRP. 2547",
+  "description" : "STMR-NTRQ-KL20",
+  "image" : "/varroc/stmr-ntrq-kl20.webp"
+}
 ]
