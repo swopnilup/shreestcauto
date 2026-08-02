@@ -701,7 +701,7 @@
     "category": "tyre",
     "price": "TTF MRP. 31704",
     "description": "8.25-20 /16 LUG XL PRO",
-    "image": "/tyreimg/lugxlpro.png"
+    "image": "/tyreimg/lug_xlpro.png"
   },
   {
     "id": 88,
@@ -709,7 +709,7 @@
     "category": "tyre",
     "price": "TTF MRP. 27654",
     "description": "825-20 MILE XL X3-R TT 16 PR",
-    "image": "/tyreimg/milexlsl.png"
+    "image": "/tyreimg/milexlx3r.png"
   },
   {
     "id": 89,
@@ -717,7 +717,7 @@
     "category": "tyre",
     "price": "TTF MRP. 31304",
     "description": "8.25-20 MILE XL X3-D TT 16PR",
-    "image": "/tyreimg/milexlsl.png"
+    "image": "/tyreimg/milexlx3.png"
   },
   {
     "id": 90,
@@ -725,7 +725,7 @@
     "category": "tyre",
     "price": "TTF MRP. 30539",
     "description": "9.00 20 /16  FM SUPER",
-    "image": "/tyreimg/fmsuper.png"
+    "image": "/tyreimg/fm_super.png"
   },
   {
     "id": 91,
@@ -733,7 +733,7 @@
     "category": "tyre",
     "price": "TTF MRP. 32159",
     "description": "9.00-20 /16 MILE XL RIB",
-    "image": "/tyreimg/milexlsl.png"
+    "image": "/tyreimg/milexlrib.png"
   },
   {
     "id": 92,
@@ -741,7 +741,7 @@
     "category": "tyre",
     "price": "TTF MRP. 32611",
     "description": "9.00-20 /16PR HCL SUPER E4",
-    "image": "/tyreimg/hclsuper.png"
+    "image": "/tyreimg/hcl_super.png"
   },
   {
     "id": 93,
@@ -757,7 +757,7 @@
     "category": "tyre",
     "price": "TTF MRP. 37570",
     "description": "10.00.20 /16 MILE XL X3-R ",
-    "image": "/tyreimg/milexlsl.png"
+    "image": "/tyreimg/milexlx3r.png"
   },
   {
     "id": 95,
@@ -773,7 +773,7 @@
     "category": "tyre",
     "price": "TTF MRP. 40591",
     "description": "10.00-20 /16 LUG XL PRO",
-    "image": "/tyreimg/lugxlpro.png"
+    "image": "/tyreimg/lug_xlpro.png"
   },
   {
     "id": 97,
@@ -781,7 +781,7 @@
     "category": "tyre",
     "price": "TTF MRP. 39065",
     "description": "10.00-20/16 MILE XL X3 -D",
-    "image": "/tyreimg/milexlsl.png"
+    "image": "/tyreimg/milexlx3.png"
   },
   {
     "id": 98,
@@ -789,7 +789,7 @@
     "category": "tyre",
     "price": "TTF MRP. 37888",
     "description": "10.00-20 /16 HCL SUPER E DOT E4",
-    "image": "/tyreimg/hclsuper.png"
+    "image": "/tyreimg/hcl_super.png"
   },
   {
     "id": 99,
@@ -797,7 +797,7 @@
     "category": "tyre",
     "price": "TTF MRP. 36815",
     "description": "10.00-20 FM SUPER TT 16PR",
-    "image": "/tyreimg/fmsuper.png" 
+    "image": "/tyreimg/fm_super.png" 
   },
   {
     "id": 100,
@@ -805,7 +805,7 @@
     "category": "tyre",
     "price": "TTF MRP. 38822",
     "description": "10.00-20 /18 FM SUPER ",
-    "image": "/tyreimg/fmsuper.png"
+    "image": "/tyreimg/fm_super.png"
   },
   {
     "id": 101,
@@ -813,7 +813,7 @@
     "category": "tyre",
     "price": "TTF MRP. 41132",
     "description": "10.00-20 /18 HCL SUPER HL",
-    "image": "/tyreimg/hclsuper.png"
+    "image": "/tyreimg/hcl_super.png"
   },
   {
     "id": 102,
@@ -821,7 +821,7 @@
     "category": "tyre",
     "price": "TTF MRP. 43614",
     "description": "10.00-20 /18 RD PRO",
-    "image": "/tyreimg/hclsupersl.png"
+    "image": "/tyreimg/hcl_super.png"
   },
   {
     "id": 103,
@@ -845,7 +845,7 @@
     "category": "tyre",
     "price": "TTF MRP. 41947",
     "description": "11.00-20 /18 MILE XL",
-    "image": "/tyreimg/milexlsl.png"
+    "image": "/tyreimg/milexlrib.png"
   },
   {
     "id": 106,
@@ -853,7 +853,7 @@
     "category": "tyre",
     "price": "TTF MRP. 39874",
     "description": "11.00-20 /16 MILE XL RIB",
-    "image": "/tyreimg/milexlsl.png"
+    "image": "/tyreimg/mile_xl_rib.png"
   },
   {
     "id": 107,
@@ -861,7 +861,7 @@
     "category": "tyre",
     "price": "TTF MRP. 46382",
     "description": "12.00-20 /18 FM",
-    "image": "/tyreimg/fmsuper.png"
+    "image": "/tyreimg/fm_super.png"
   },
   {
     "id": 108,
@@ -869,7 +869,7 @@
     "category": "tyre",
     "price": "TTF MRP. 45833",
     "description": "12.00-20 /18 HCL SUPER DOT E4",
-    "image": "/tyreimg/hclsuper.png" 
+    "image": "/tyreimg/hcl_super.png" 
   },
   {
     "id": 109,
@@ -877,7 +877,7 @@
     "category": "tyre",
     "price": "TTF MRP. 37374",
     "description": "8.25 R 20 WINEMILE X3 R TT 16PR",
-    "image": "/tyreimg/radial.jpg"
+    "image": "/tyreimg/winmile_x3_r.png"
   },
   {
     "id": 110,
@@ -885,7 +885,7 @@
     "category": "tyre",
     "price": "TTF MRP. 38400",
     "description": "8.25 R 20 WINSUPER X3-D 16PR",
-    "image": "/tyreimg/radial.jpg"
+    "image": "/tyreimg/winsuperx3.png"
   },
   {
     "id": 111,
@@ -893,7 +893,7 @@
     "category": "tyre",
     "price": "TTF MRP. 40936",
     "description": "9.00 R 20 WINE MILE R TT 16 PR",
-    "image": "/tyreimg/radial.jpg"
+    "image": "/tyreimg/winmile_r9.png"
   },
   {
     "id": 112,
@@ -901,7 +901,7 @@
     "category": "tyre",
     "price": "TTF MRP. 45852",
     "description": "10.00 R 20 WINMILE R 16PR TT",
-    "image": "/tyreimg/radial.jpg"
+    "image": "/tyreimg/winmilex3radial.png"
   },
   {
     "id": 113,
@@ -909,7 +909,7 @@
     "category": "tyre",
     "price": "TTF MRP. 46657",
     "description": "1000 R20 WINMILE X3-RTT 16 PR",
-    "image": "/tyreimg/radial.jpg"
+    "image": "/tyreimg/winmilex3radial.png"
   },
   {
     "id": 114,
@@ -917,7 +917,7 @@
     "category": "tyre",
     "price": "TTF MRP. 48354",
     "description": "10.00 R 20 WINEMILE X3-D 152/148J TT 16PR",
-    "image": "/tyreimg/radial.jpg"
+    "image": "/tyreimg/winmilex3radial.png"
   },
   {
     "id": 115,
@@ -925,7 +925,7 @@
     "category": "tyre",
     "price": "TTF MRP. 48354",
     "description": "10.00 R 20 WINEMILE X3-AW  16 PR TT",
-    "image": "/tyreimg/radial.jpg"
+    "image": "/tyreimg/winmilex3radial.png"
   },
   {
     "id": 116,
@@ -933,7 +933,7 @@
     "category": "tyre",
     "price": "TTF MRP. 47731",
     "description": "10.00 R 20 WINLOAD X3-D TT 16PR",
-    "image": "/tyreimg/radial.jpg"
+    "image": "/tyreimg/winloadx3.png"
   },
   {
     "id": 117,
@@ -941,7 +941,7 @@
     "category": "tyre",
     "price": "TTF MRP. 47801",
     "description": "10.00 R 20 WINSUPER X3-D TT 16PR",
-    "image": "/tyreimg/radial.jpg"
+    "image": "/tyreimg/winsuperx3.png"
   },
   {
     "id": 118,
@@ -957,7 +957,7 @@
     "category": "tyre",
     "price": "TTF MRP. 56554",
     "description": "11.00 R20 WINSUPER X3-D 16PR",
-    "image": "/tyreimg/radial.jpg"
+    "image": "/tyreimg/winsuperx3.png"
   },
   {
     "id": 120,
@@ -965,7 +965,7 @@
     "category": "tyre",
     "price": "TTF MRP. 51461",
     "description": "11.00 R 20 WINEMILE - R 16PR TT",
-    "image": "/tyreimg/radial.jpg" 
+    "image": "/tyreimg/winmile_r9.png" 
   },
   {
     "id": 121,
@@ -973,7 +973,7 @@
     "category": "tyre",
     "price": "TTF MRP. 53200",
     "description": "11.00 R 20 WINEMILE - D 16PR TT",
-    "image": "/tyreimg/radial.jpg"
+    "image": "/tyreimg/winmilex3radial.png"
   },
   {
     "id": 122,
@@ -981,7 +981,7 @@
     "category": "tyre",
     "price": "TTF MRP. 47359",
     "description": "295/80 R22.5 WINMILE R TL 16PR",
-    "image": "/tyreimg/radial.jpg"
+    "image": "/tyreimg/winmile_x3_r.png"
   },
   {
     "id": 123,
@@ -989,7 +989,7 @@
     "category": "tyre",
     "price": "TTF MRP. 53162",
     "description": "295/80 R22.5 WINMILE D TL 16PR",
-    "image": "/tyreimg/radial.jpg"
+    "image": "/tyreimg/winmilex3radial.png"
   },
   {
     "id": 124,
@@ -997,7 +997,7 @@
     "category": "tyre",
     "price": "TTF MRP. 16793",
     "description": "7.00 15 12 PR LYFMAX X3-D",
-    "image": "/tyreimg/ltconv.png"
+    "image": "/tyreimg/LYFMAX-X3-R.png"
   },
   {
     "id": 125,
@@ -1029,7 +1029,7 @@
     "category": "tyre",
     "price": "TTF MRP. 18196",
     "description": "7.50-16 LYFMAX X3 R TT 16PR",
-    "image": "/tyreimg/lyfmax3r.png"
+    "image": "/tyreimg/LYFMAX-X3-R.png"
   },
   {
     "id": 129,
@@ -1037,7 +1037,7 @@
     "category": "tyre",
     "price": "TTF MRP. 22014",
     "description": "750.16 LYFMAX X3-D TT 16 PR",
-    "image": "/tyreimg/lyfmax3d.png"
+    "image": "/tyreimg/LYFMAX-X3-R.png"
   },
   {
     "id": 128,
@@ -1045,7 +1045,7 @@
     "category": "tyre",
     "price": "TTF MRP. 23033",
     "description": "8.25-16 LYFMAX X3-R",
-    "image": "/tyreimg/lyfmax3r.png"
+    "image": "/tyreimg/LYFMAX-X3-R.png"
   },
   {
     "id": 129,
@@ -1053,7 +1053,7 @@
     "category": "tyre",
     "price": "TTF MRP. 24809",
     "description": "8.25-16 LYFMAX X3-D",
-    "image": "/tyreimg/lyfmax3d.png"
+    "image": "/tyreimg/LYFMAX-X3-R.png"
   },
   {
     "id": 130,
@@ -1461,7 +1461,7 @@
     "category": "tyre",
     "price": "TTF MRP. 6460",
     "description": "185/70 R 14 ECO DRIVE TL",
-    "image": "/tyreimg/nomatch.png" 
+    "image": "/tyreimg/passengerradial2.avif" 
   },
   {
     "id": 181,
@@ -1901,7 +1901,7 @@
     "category": "tyre",
     "price": "TTF MRP. 9789",
     "description": "215/60R17 SECURADRIVE TL 96 H",
-    "image": "/tyreimg/nomatch.png"
+    "image": "/tyreimg/passengerradial2.avif"
   },
   {
     "id": 236,
