@@ -310,5 +310,117 @@
   "price" : "MRP. 2547",
   "description" : "STMR-NTRQ-KL20",
   "image" : "/varroc/stmr-ntrq-kl20.webp"
-}
+},
+{
+    "id": "40",
+    "name": "VARROC GOLI CLUTCH KIT PLSR 150/180 UG4",
+    "category": "parts",
+    "price": "MRP. 194",
+    "description": "STMS-PLSR-EE56",
+    "image": "/varroc/smts-plsr-ee56.webp"
+  },
+  {
+    "id": "41",
+    "name": "VARROC GOLI CLUTCH KIT - PULSAR 150",
+    "category": "parts",
+    "price": "MRP. 193",
+    "description": "MGRT-PLSR-EE10",
+    "image": "/varroc/"
+  },
+  {
+    "id": "42",
+    "name": "VARROC GOLI CLUTCH KIT HH PASSION PRO/CD DELUXE",
+    "category": "parts",
+    "price": "MRP. 162",
+    "description": "STMS-PPRO-EE63",
+    "image": "/varroc/"
+  },
+  {
+    "id": "43",
+    "name": "VARROC GOLI CLUTCH KIT ( WITH BLACK BUSH )",
+    "category": "parts",
+    "price": "MRP. 143",
+    "description": "STMS-DSVR-EE34",
+    "image": "/varroc/"
+  },
+  {
+    "id": "44",
+    "name": "VARROC CARBON KIT -PULSAR",
+    "category": "parts",
+    "price": "MRP. 297",
+    "description": "STMS-PLSR-EE16",
+    "image": "/varroc/"
+  },
+  {
+    "id": "45",
+    "name": "VARROC CARBON KIT- PULSAR 150",
+    "category": "parts",
+    "price": "MRP. 223",
+    "description": "STMS-PLSR-DH34",
+    "image": "/varroc/"
+  },
+  {
+    "id": "46",
+    "name": "VARROC CARBON KIT SSPLENDOR/GLAMOUR",
+    "category": "parts",
+    "price": "MRP. 180",
+    "description": "STMS-SSPS-EE25",
+    "image": "/varroc/"
+  },
+  {
+    "id": "47",
+    "name": "VARROC CARBON KIT -HERO",
+    "category": "parts",
+    "price": "MRP. 118",
+    "description": "STMS-HERO-EE15",
+    "image": "/varroc/"
+  },
+  {
+    "id": "48",
+    "name": "VARROC CARBON KIT UNICORN/SHINE/CBZ/HUNK/STUNER",
+    "category": "parts",
+    "price": "MRP. 149",
+    "description": "STMS-UNIC-EE24",
+    "image": "/varroc/"
+  },
+  {
+    "id": "49",
+    "name": "VARROC CARBON KIT ROYAL ENFIELD (AFTER 2013)",
+    "category": "parts",
+    "price": "MRP. 374",
+    "description": "STMS-ENFD-EE42",
+    "image": "/varroc/"
+  },
+  {
+    "id": "50",
+    "name": "VARROC CARBON KIT ROYAL ENFIELD 350CC",
+    "category": "parts",
+    "price": "MRP. 268",
+    "description": "STMS-ENFD-RE02",
+    "image": "/varroc/"
+  },
+  {
+    "id": "51",
+    "name": "VARROC CARBON KIT DSVR PLSR135 150 180 XCED ",
+    "category": "parts",
+    "price": "MRP. 143",
+    "description": "STMS-PLSR-EE92",
+    "image": "/varroc/"
+  },
+  {
+    "id": "52",
+    "name": "VARROC BENDIX ASSY ACTIVA PEEP STREAK",
+    "category": "parts",
+    "price": "MRP. 1003",
+    "description": "STMS-ACTV-2KWP",
+    "image": "/varroc/"
+  },
+  {
+    "id": "53",
+    "name": "VARROC BENDIX ASSY PLEASURE/ACTIVA/PEP/STREAK",
+    "category": "parts",
+    "price": "MRP. 1420",
+    "description": "STMS-PLEA-2801",
+    "image": "/varroc/"
+  }
 ]
