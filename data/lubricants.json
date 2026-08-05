@@ -5,7 +5,7 @@
     "category": "lubricants",
     "price": "MRP. 1155",
     "description": "10W40 1.2 ltr",
-    "image": "/eni/"
+    "image": "/eni/I-RIDE-MOTO-FURY-4TIN.png"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "category": "lubricants",
     "price": "MRP. 2646",
     "description": "15W50 2.5 ltr",
-    "image": "/eni/"
+    "image": "/eni/i-ride-synth-in.png"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "category": "lubricants",
     "price": "MRP. 910",
     "description": "20W40 1 ltr",
-    "image": "/eni/"
+    "image": "/eni/i-Ride-Moto-Xperience-PRO-plus-IN.png"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "category": "lubricants",
     "price": "MRP. 854",
     "description": "20W40 1 ltr",
-    "image": "/eni/"
+    "image": "/eni/i-ride-moto-experience-in.png"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "category": "lubricants",
     "price": "MRP. 1015",
     "description": "20W40 1.2 ltr",
-    "image": "/eni/"
+    "image": "/eni/i-ride-moto-experience-in.png"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "category": "lubricants",
     "price": "MRP. 854",
     "description": "20W40 1 ltr",
-    "image": "/eni/"
+    "image": "/eni/i-ride-moto-experience-in.png"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "category": "lubricants",
     "price": "MRP. 833",
     "description": "20W40 1 ltr",
-    "image": "/eni/"
+    "image": "/eni/i-ride-moto-classic-sj.png"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "category": "lubricants",
     "price": "MRP. 917",
     "description": "10W40 1 ltr",
-    "image": "/eni/"
+    "image": "/eni/i-ride-eco-4t.png"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "category": "lubricants",
     "price": "MRP. 1106",
     "description": "20W50 1.2 ltr",
-    "image": "/eni/"
+    "image": "/eni/i-ride-moto-experience-in.png"
   },
   {
     "id": 10,
@@ -77,7 +77,7 @@
     "category": "lubricants",
     "price": "MRP. 868",
     "description": "10W30 0.8 ltr",
-    "image": "/eni/"
+    "image": "/eni/i-ride-synth-in.png"
   },
   {
     "id": 11,
@@ -85,7 +85,7 @@
     "category": "lubricants",
     "price": "MRP. 343 , MRP. 176",
     "description": "forkoil '0.36ltr' & '0.175ltr'",
-    "image": "/eni/"
+    "image": "/eni/forkoil.png"
   },
   {
     "id": 12,
@@ -93,7 +93,7 @@
     "category": "lubricants",
     "price": "MRP. 1946",
     "description": "20W50 2ltr",
-    "image": "/eni/"
+    "image": "/eni/nomobil.png"
   },
   {
     "id": 14,
@@ -101,7 +101,7 @@
     "category": "lubricants",
     "price": "MRP. 3927, MRP.3346 & MRP.1232",
     "description": "5W30 '3.5ltr','3ltr' & '1ltr'",
-    "image": "/eni/"
+    "image": "/eni/i-sint-levo-in.png"
   },
   {
     "id": 15,
@@ -109,7 +109,7 @@
     "category": "lubricants",
     "price": "MRP. 3591",
     "description": "10W30 3ltr",
-    "image": "/eni/"
+    "image": "/eni/ibase-levo-in.png"
   },
   {
     "id": 16,
@@ -117,7 +117,7 @@
     "category": "lubricants",
     "price": "MRP. 177940,  MRP. 16016, MRP. 9100, MRP. 7245, MRP. 4921, MRP. 3549, MRP.2786 & MRP. 952",
     "description": "20W50 '210ltr','18ltr','10ltr','8ltr','4ltr','3ltr' & '1ltr'",
-    "image": "/eni/"
+    "image": "/eni/ibase-levo-in.png"
   },
   {
     "id": 17,
@@ -125,7 +125,7 @@
     "category": "lubricants",
     "price": "MRP. 177940,  MRP. 16016, MRP. 9100, MRP. 7245, MRP. 4921, MRP. 3549, MRP.2786 & MRP. 952",
     "description": "15W40 '210ltr','15ltr','10ltr','7.5ltr','6ltr','5ltr' & '1ltr'",
-    "image": "/eni/"
+    "image": "/eni/i-sigma-performance-synth-in.png"
   },
   {
     "id": 18,
@@ -133,7 +133,7 @@
     "category": "lubricants",
     "price": "MRP. 202720,  MRP. 15050, MRP. 10570, MRP. 7945, MRP. 6412, MRP. 5355, & MRP. 1078",
     "description": "15W40 '210ltr','15ltr','10ltr','7.5ltr','6ltr','5ltr' & '1ltr'",
-    "image": "/eni/" 
+    "image": "/eni/i-sigma-turbo.png" 
   },
   {
     "id": 19,
@@ -141,7 +141,7 @@
     "category": "lubricants",
     "price": "MRP. 188020,  MRP. 13580, MRP. 9380, MRP. 7392, MRP. 7150, MRP. 5740, MRP.3780 & MRP. 966",
     "description": "15W40 '210ltr','15ltr','10ltr','8ltr','7.5ltr','6ltr','4ltr' & '1ltr'",
-    "image": "/eni/" 
+    "image": "/eni/allgrease.png" 
   },
   {
     "id": 19,
@@ -149,7 +149,7 @@
     "category": "lubricants",
     "price": "MRP. 9240, &  MRP. 7280",
     "description": "20W40 '10ltr' & ,'8ltr'",
-    "image": "/eni/" 
+    "image": "/eni/allgrease.png" 
   },
   {
     "id": 20,
@@ -157,7 +157,7 @@
     "category": "lubricants",
     "price": "MRP. 237692, MRP. 20860, MRP.8456, MRP.5292, MRP. 1092",
     "description": "85W140EP, '210ltr','20ltr','8ltr','5ltr','1ltr'",
-    "image": "/eni/" 
+    "image": "/eni/nomobil.png" 
   },
   {
     "id": 21,
@@ -165,7 +165,7 @@
     "category": "lubricants",
     "price": "MRP. 193586, MRP. 18760, MRP.7616, MRP.4275, MRP. 966",
     "description": "80W90EP, '210ltr','20ltr','8ltr','5ltr','1ltr'",
-    "image": "/eni/" 
+    "image": "/eni/nomobil.png" 
   },
   {
     "id": 22,
@@ -173,7 +173,7 @@
     "category": "lubricants",
     "price": "MRP. 200116, MRP. 18760, MRP.7616, MRP.4725, MRP. 966",
     "description": "90/140EP, '210ltr','20ltr','8ltr','5ltr','1ltr'",
-    "image": "/eni/"
+    "image": "/eni/nomobil.png"
   },
   {
     "id": 23,
@@ -181,7 +181,7 @@
     "category": "lubricants",
     "price": "MRP. 214228, MRP.5320, MRP. 1106",
     "description": "ATF, '210ltr','5ltr','1ltr'",
-    "image": "/eni/"
+    "image": "/eni/nomobil.png"
   },
   {
     "id": 24,
@@ -189,17 +189,15 @@
     "category": "lubricants",
     "price": "MRP. 21700, MRP.11375",
     "description": "80W, '20ltr','10ltr'",
-    "image": "/eni/"
+    "image": "/eni/nomobil.png"
   },
   {
-    
-    
     "id": 25,
     "name": "GREASE GREASE-30 NL",
     "category": "lubricants",
     "price": "MRP. 265790, MRP.30702, MRP.15351, MRP.7749, MRP.4739, MRP.1596, MRP.805",
     "description": "NLGI, '180ltr','20ltr','10ltr','5ltr','3ltr','1ltr','0.5ltr'",
-    "image": "/eni/"
+    "image": "/eni/allgrease.png"
   },
   {
     "id": 26,
@@ -207,7 +205,7 @@
     "category": "lubricants",
     "price": "MRP. 276304 & MRP.31340",
     "description": "EP-2, '180ltr'&'20ltr'",
-    "image": "/eni/" 
+    "image": "/eni/allgrease.png" 
   },
   {
     "id": 27,
@@ -215,7 +213,7 @@
     "category": "lubricants",
     "price": "MRP. 34251 ",
     "description": "EP-2, '20ltr'",
-    "image": "/eni/" 
+    "image": "/eni/allgrease.png" 
   },
   {
     "id": 28,
@@ -223,7 +221,7 @@
     "category": "lubricants",
     "price": "MRP. 153020, MRP.42000, MRP.16940 ",
     "description": "46, '210ltr','50ltr','20ltr'",
-    "image": "/eni/" 
+    "image": "/eni/nomobil.png" 
   },
   {
     "id": 29,
@@ -231,7 +229,7 @@
     "category": "lubricants",
     "price": "MRP. 157220, MRP.42700, MRP.17080 ",
     "description": "68, '210ltr','50ltr','20ltr'",
-    "image": "/eni/"
+    "image": "/eni/nomobil.png"
   },
   {
     "id": 30,
@@ -239,7 +237,7 @@
     "category": "lubricants",
     "price": "MRP. 169820, MRP.45500, MRP.18480 ",
     "description": "10W, '210ltr','50ltr','20ltr'",
-    "image": "/eni/"
+    "image": "/eni/nomobil.png"
   },
   {
     "id": 31,
@@ -247,7 +245,7 @@
     "category": "lubricants",
     "price": "MRP. 169820, MRP.45500, MRP.18480 ",
     "description": "10W, '210ltr','50ltr','20ltr'",
-    "image": "/eni/"
+    "image": "/eni/nomobil.png"
   },
   {
     "id": 32,
@@ -255,7 +253,7 @@
     "category": "lubricants",
     "price": "MRP. 186620",
     "description": "Cutting Oil",
-    "image": "/eni/"
+    "image": "/eni/nomobil.png"
   },
   {
     "id": 33,
@@ -263,6 +261,6 @@
     "category": "lubricants",
     "price": "MRP. 186620",
     "description": "3207",
-    "image": "/eni/"
+    "image": "/eni/nomobil.png"
   }
 ]
