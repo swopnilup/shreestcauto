@@ -149,7 +149,7 @@
   "category" : "parts",
   "price" : "MRP. 2550",
   "description" : "STMR-ENFD-RLP5/C",
-  "image" : "/varroc/no-img.webp"
+  "image" : "/varroc/stmr-enfd-rlp5c.webp"
 },
 {
   "id" : 20,
@@ -261,7 +261,7 @@
   "category" : "parts",
   "price" : "MRP. 2455",
   "description" : "STMR-HAYA-3600",
-  "image" : "/varroc/no-img.webp"
+  "image" : "/varroc/STMR-HAYA-3600.webp"
 },
 {
   "id" : 34,
@@ -325,7 +325,7 @@
     "category": "parts",
     "price": "MRP. 193",
     "description": "MGRT-PLSR-EE10",
-    "image": "/varroc/"
+    "image": "/varroc/no-img.webp"
   },
   {
     "id": "42",
@@ -333,7 +333,7 @@
     "category": "parts",
     "price": "MRP. 162",
     "description": "STMS-PPRO-EE63",
-    "image": "/varroc/"
+    "image": "/varroc/STMS-PPRO-EE63.webp"
   },
   {
     "id": "43",
@@ -341,7 +341,7 @@
     "category": "parts",
     "price": "MRP. 143",
     "description": "STMS-DSVR-EE34",
-    "image": "/varroc/"
+    "image": "/varroc/no-img.webp"
   },
   {
     "id": "44",
@@ -349,7 +349,7 @@
     "category": "parts",
     "price": "MRP. 297",
     "description": "STMS-PLSR-EE16",
-    "image": "/varroc/"
+    "image": "/varroc/no-img.webp"
   },
   {
     "id": "45",
@@ -365,7 +365,7 @@
     "category": "parts",
     "price": "MRP. 180",
     "description": "STMS-SSPS-EE25",
-    "image": "/varroc/"
+    "image": "/varroc/no-img.webp"
   },
   {
     "id": "47",
@@ -373,7 +373,7 @@
     "category": "parts",
     "price": "MRP. 118",
     "description": "STMS-HERO-EE15",
-    "image": "/varroc/"
+    "image": "/varroc/no-img.webp"
   },
   {
     "id": "48",
@@ -381,7 +381,7 @@
     "category": "parts",
     "price": "MRP. 149",
     "description": "STMS-UNIC-EE24",
-    "image": "/varroc/"
+    "image": "/varroc/STMS-UNIC-EE24.webp"
   },
   {
     "id": "49",
@@ -389,7 +389,7 @@
     "category": "parts",
     "price": "MRP. 374",
     "description": "STMS-ENFD-EE42",
-    "image": "/varroc/"
+    "image": "/varroc/no-img.webp"
   },
   {
     "id": "50",
@@ -397,7 +397,7 @@
     "category": "parts",
     "price": "MRP. 268",
     "description": "STMS-ENFD-RE02",
-    "image": "/varroc/"
+    "image": "/varroc/STMS-ENFD-RE02.webp"
   },
   {
     "id": "51",
@@ -405,7 +405,7 @@
     "category": "parts",
     "price": "MRP. 143",
     "description": "STMS-PLSR-EE92",
-    "image": "/varroc/"
+    "image": "/varroc/no-img.webp"
   },
   {
     "id": "52",
@@ -413,7 +413,7 @@
     "category": "parts",
     "price": "MRP. 1003",
     "description": "STMS-ACTV-2KWP",
-    "image": "/varroc/"
+    "image": "/varroc/no-img.webp"
   },
   {
     "id": "53",
@@ -421,15 +421,887 @@
     "category": "parts",
     "price": "MRP. 1420",
     "description": "STMS-PLEA-2801",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "55",
+    "name": "VARROC FLY WHEEL ONE WAY CLUTCH UG4 WITH GOLI KIT",
+    "category": "parts",
+    "price": "MRP. 1337",
+    "description": "STMS-PLSR-DK95G",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "56",
+    "name": "VARROC FLY WHEEL ONE WAY CLUTCH  (WITH GOLI KIY)",
+    "category": "parts",
+    "price": "MRP. 1250",
+    "description": "STMS-PLSR-FOWCG",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "57",
+    "name": "VARROC FLY WHEEL ONE WAY CLUTCH ",
+    "category": "parts",
+    "price": "MRP. 1209",
+    "description": "STMS PLSR-FOWC",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "58",
+    "name": "VARROC FLY WHEEL BSC XCED125 135CC WITH GOLI KIT",
+    "category": "parts",
+    "price": "MRP. 1216",
+    "description": "STMS-XCED-JA14G",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "59",
+    "name": "VARROC FLY WHEEL BSC PASION PRO WITH GOLI KIT",
+    "category": "parts",
+    "price": "MRP. 1078",
+    "description": "STMS-PSPR-EE81G",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "60",
+    "name": "VARROC CARBON BRUSH TERMINALS YAMAHA FZ SERIES",
+    "category": "parts",
+    "price": "MRP. 145",
+    "description": "STMS-YFZS-EE47",
+    "image": "/varroc/STMS-YFZS-EE47.webp"
+  },
+  {
+    "id": "61",
+    "name": "VARROC FLY WHEEL BSC YAMAHA F-Z SMELL",
+    "category": "parts",
+    "price": "MRP. 1089",
+    "description": "STMS-YAFZ-2110",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "62",
+    "name": "VARROC FLYWHEEL BSC YAMHA FZ V 2 3 4 R15 3 4 MT",
+    "category": "parts",
+    "price": "MRP. 1027",
+    "description": "STMS-YAFZ-2GS10",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "63",
+    "name": "VARROC CARBON BAJAJ",
+    "category": "parts",
+    "price": "MRP. 271",
+    "description": "STMS-PLSR-EE18",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "64",
+    "name": "VARROC CARBON BAJAJ",
+    "category": "parts",
+    "price": "MRP. 118",
+    "description": "STMS-PLSR-EE17",
+    "image": "/varroc/STMS-PLSR-EE17.webp"
+  },
+  {
+    "id": "65",
+    "name": "VARROC CARBON HERO HONDA ",
+    "category": "parts",
+    "price": "MRP. 130",
+    "description": "STMS-SSPL-3101",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "66",
+    "name": "VARROC CARBON HONDA",
+    "category": "parts",
+    "price": "MRP. 139",
+    "description": "STMS-CBZE-3104",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "67",
+    "name": "VARROC CARBON BRUSH HERO/ACTIVA/SIPRIT/DIO/PEEP",
+    "category": "parts",
+    "price": "MRP. 110",
+    "description": "STMS-PSLR-EE19",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "68",
+    "name": "VARROC CARBON BRUSH SUZUKI ACCESS/SWISH",
+    "category": "parts",
+    "price": "MRP. 113",
+    "description": "STMS-ACES-EE20",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "69",
+    "name": "VARROC CARBON BRUSH TVS APACHE (SET OF 4)",
+    "category": "parts",
+    "price": "MRP. 183",
+    "description": "STMS-APCH-TV23",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "70",
+    "name": "VARROC CARBON BRUSH TERMINAL TVX NTRQ BS4 BS6",
+    "category": "parts",
+    "price": "MRP. 174",
+    "description": "STMS-NTRQ-EE113",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "71",
+    "name": "VARROC CARBON BRUSH TERMINALS DSVR(VERSION 2)",
+    "category": "parts",
+    "price": "MRP. 186",
+    "description": "STMS-DVSR-EE28",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "72",
+    "name": "VARROC CARBON BRUSH TERMINALS P.PRO/CD DELUXE",
+    "category": "parts",
+    "price": "MRP. 130",
+    "description": "STMS-PSPR-3104",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "73",
+    "name": "VARROC CARBON BRUSH TERMINALS PLSR 200 NS",
+    "category": "parts",
+    "price": "MRP. 243",
+    "description": "STMS-PLSR-K200",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "74",
+    "name": "VARROC FOWC WITH GOLI KIT P PRO HF DELUX NXG",
+    "category": "parts",
+    "price": "MRP. 1097",
+    "description": "STMS-PSPR-2842G",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "75",
+    "name": "VARROC BRUSH BOX ASSY TVX APACHI",
+    "category": "parts",
+    "price": "MRP. 395",
+    "description": "STMS-APCH-EE45",
+    "image": "/varroc/STMS-APCH-EE45.webp"
+  },
+  {
+    "id": "76",
+    "name": "VARROC BRUSH BOX ASSY ACTIVA/PLEASURE/PEP/DIO",
+    "category": "parts",
+    "price": "MRP. 185",
+    "description": "STMS-ATVA-EE32",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "77",
+    "name": "VARROC BRUSH BOX ASSY SHIN/UNICORN/STUNNER",
+    "category": "parts",
+    "price": "MRP. 154",
+    "description": "STMS-UNIC-EE37",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "78",
+    "name": "VARROC BEARING ONE WAY SPRAG REML 350 FROM 2012",
+    "category": "parts",
+    "price": "MRP. 1022",
+    "description": "BKIT-BULT-B593",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "79",
+    "name": "VARROC SPRAG GEAR ASSY REML 350 ALL FROM 2012",
+    "category": "parts",
+    "price": "MRP. 3885",
+    "description": "STMS-BULT-593AG",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "80",
+    "name": "VARROC MANGATO ASSY. (WITH BSC)",
+    "category": "parts",
+    "price": "MRP. 4924",
+    "description": "MGNT-DSVR-DS31",
+    "image": "/varroc/MGNT-DSVR-DS31.webp"
+  },
+  {
+    "id": "81",
+    "name": "VARROC MAGNATO ASSY. (WITH BSC)",
+    "category": "parts",
+    "price": "MRP. 5260",
+    "description": "MGNT-DSVR-JE00",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "82",
+    "name": "VARROC MAGNATO ASSY. (WITH BSC)",
+    "category": "parts",
+    "price": "MRP. 4945",
+    "description": "MGNT-DSVR-JB13",
+    "image": "/varroc/MGNT-DSVR-JB13.webp"
+  },
+  {
+    "id": "83",
+    "name": "VARROC MAGNATO ASSY. (WITH BSC)",
+    "category": "parts",
+    "price": "MRP. 6284",
+    "description": "MGNT-DSVR-JZ00",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "84",
+    "name": "VARROC MAGNATO ASSY. (WITH BSC)",
+    "category": "parts",
+    "price": "MRP. 5064",
+    "description": "MGNT-PLTN-JK00",
+    "image": "/varroc/MGNT-PLTN-JK00.webp"
+  },
+  {
+    "id": "85",
+    "name": "VARROC MAGNETO ASSY PULSAR-180",
+    "category": "parts",
+    "price": "MRP. 4693",
+    "description": "MGNT-PLSR-DJ02",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "86",
+    "name": "VARROC MAGNETO WITH CLUTCH ASSLY PULSAR 180 UG",
+    "category": "parts",
+    "price": "MRP. 5151",
+    "description": "MGNT-PLSR-DJ07",
+    "image": "/varroc/MGNT-PLSR-DJ07.webp"
+  },
+  {
+    "id": "87",
+    "name": "VARROC MAGNETO ASSLY BOXER CT",
+    "category": "parts",
+    "price": "MRP. 4267",
+    "description": "MGNT-BXCT-DF07",
+    "image": "/varroc/MGNT-BXCT-DF07.webp"
+  },
+  {
+    "id": "88",
+    "name": "VARROC MAGNETO ASSLY PULSAR 150 OLD",
+    "category": "parts",
+    "price": "MRP. 3282",
+    "description": "MGNT-PLSR-DH04",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "89",
+    "name": "VARROC MAGNETO ASSY PLSR 180 UG4",
+    "category": "parts",
+    "price": "MRP. 3736",
+    "description": "MGNT-PLSR-DH80",
+    "image": "/varroc/MGNT-PLSR-DH80.webp"
+  },
+  {
+    "id": "90",
+    "name": "VARROC MAGNETO ASSY DSVR 125 KS ( WITH BSC )",
+    "category": "parts",
+    "price": "MRP. 4255",
+    "description": "MGNT-DSVR-DS19",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "91",
+    "name": "VARROC MAGNERO ASSY (SINGLE PHASE ) ENFIELD 350 CC",
+    "category": "parts",
+    "price": "MRP. 3702",
+    "description": "MGNT-ENFD-1453",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "92",
+    "name": "VARROC MAGNERO ASSY (THREE PHASE ) ENFIELD 350 CC",
+    "category": "parts",
+    "price": "MRP. 3702",
+    "description": "MGNT-ENFD-1459",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "93",
+    "name": "VARROC ROTOR ASSY (W/O BSC) DISCOVER SS",
+    "category": "parts",
+    "price": "MRP. 1962",
+    "description": "MGRT-DSVR-DS08",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "94",
+    "name": "VARROC ROTOR ASSY XCD 125 (SS)",
+    "category": "parts",
+    "price": "MRP. 3109",
+    "description": "MGRT-XCED- JA00",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "95",
+    "name": "VARROC ROTOR ASSY PULSAR 200 CC",
+    "category": "parts",
+    "price": "MRP. 3239",
+    "description": "MGRT-PLSR--DJ22",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "96",
+    "name": "VARROC ROTOR ASSY.(WITH BSC) PULSAR 220",
+    "category": "parts",
+    "price": "MRP. 3334",
+    "description": "MGRT-PLSR-JC27",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "97",
+    "name": "VARROC ROTER ASSY. (WITH BSC)",
+    "category": "parts",
+    "price": "MRP. 3914",
+    "description": "MGRT-PLSR-DH82",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "98",
+    "name": "VARROC ROTER ASSY. (WITH BSC)",
+    "category": "parts",
+    "price": "MRP. 3513",
+    "description": "MGRT-PLSR-DJ61",
     "image": "/varroc/"
   },
   {
-
+    "id": "99",
+    "name": "VARROC ROTER ASSY. (WITH BSC)",
+    "category": "parts",
+    "price": "MRP. 3300",
+    "description": "MGRT-DAVR-JZ01",
+    "image": "/varroc/no-img.webp"
   },
   {
-
+    "id": "100",
+    "name": "VARROC ROTER ASSY. (WITH BSC)",
+    "category": "parts",
+    "price": "MRP. 3662",
+    "description": "MGRT-DAVR-JE04",
+    "image": "/varroc/no-img.webp"
   },
   {
-    
+    "id": "101",
+    "name": "VARROC ROTER ASSY. (WITH BSC)",
+    "category": "parts",
+    "price": "MRP. 3766",
+    "description": "MGRT-PLTN-JA15",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "102",
+    "name": "VARROC ROTOR ASSY PLSR 200NS  (WITH BSC)",
+    "category": "parts",
+    "price": "MRP. 6010",
+    "description": "MGRT-PLSR-JL09",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "103",
+    "name": "VARROC ROTOR ASSY KTEM 200 RC WITH BSC",
+    "category": "parts",
+    "price": "MRP. 6346",
+    "description": "MGRT-KTEM-JG21",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "104",
+    "name": "VARROC ROTOR ASSY PLSR 180 UG WITH BSC",
+    "category": "parts",
+    "price": "MRP. 2955",
+    "description": "MGRT-PLSR-EE09",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "105",
+    "name": "VARROC ROTOR ASSY DSVR 125UG BS4",
+    "category": "parts",
+    "price": "MRP. 2000",
+    "description": "MGRT-DSVR-PF42",
+    "image": "/varroc/MGRT-DSVR-PF42.webp"
+  },
+  {
+    "id": "106",
+    "name": "VARROC ROTOR ASSY TVS JUPITOR BSVI",
+    "category": "parts",
+    "price": "MRP. 1098",
+    "description": "MGRT-JPTR-K490",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "107",
+    "name": "VARROC R.R. PULSAR-150 (ES/KS) K1",
+    "category": "parts",
+    "price": "MRP. 666",
+    "description": "REGR-PLSR-DH18",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "108",
+    "name": "VARROC R.R. PULSAR-180 (ES/KS) K2",
+    "category": "parts",
+    "price": "MRP. 1016",
+    "description": "REGR-PLSR-DJ02(UG3)",
+    "image": "/varroc/REGR-PLSR-DJ02.webp"
+  },
+  {
+    "id": "109",
+    "name": "VARROC R.R. WITH CAPACITOR DC PULSAR UG4",
+    "category": "parts",
+    "price": "MRP. 1383",
+    "description": "REGR-PLSR-DJ02(UG4)",
+    "image": "/varroc/REGR-PLSR-DJ02C.webp"
+  },
+  {
+    "id": "110",
+    "name": "VARROC R.R. PULSAR-K2",
+    "category": "parts",
+    "price": "MRP. 1172",
+    "description": "REGR-PLSR-DJ16",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "111",
+    "name": "VARROC R.R. PULSAR 180 K2 UG3",
+    "category": "parts",
+    "price": "MRP. 941",
+    "description": "REGR-PLSR-DJ64",
+    "image": "/varroc/REGR-PLSR-DJ64.webp"
+  },
+  {
+    "id": "112",
+    "name": "VARROC R.R. ASS. PULSAR 220",
+    "category": "parts",
+    "price": "MRP. 2156",
+    "description": "REGR-PLSR-DK39",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "113",
+    "name": "VARROC CAPECITOR BRACKET ASSY PLSR 220 XCD 125",
+    "category": "parts",
+    "price": "MRP. 110",
+    "description": "REGR-PLSR-DK36",
+    "image": "/varroc/REGR-PLSR-DK36.webp"
+  },
+  {
+    "id": "114",
+    "name": "VARROC R.R.  WITH CAPACITOR PLSR 135 \\ XCED 135 DC",
+    "category": "parts",
+    "price": "MRP. 1432",
+    "description": "REGR-SPNT-JW01",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "115",
+    "name": "VARROC R.R DC WITH CAPACITOR PLSR 200 NS",
+    "category": "parts",
+    "price": "MRP. 1987",
+    "description": "REGR-PLSR-JL01",
+    "image": "/varroc/REGR-PLSR-JL01.webp"
+  },
+  {
+    "id": "116",
+    "name": "VARROC R.R ASSY PLSR 200 NS EXPORT ",
+    "category": "parts",
+    "price": "MRP. 2027",
+    "description": "REGR-PLSR-JL02",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "117",
+    "name": "VARROC R.R PLSR 200 NS 160NS FI BS6",
+    "category": "parts",
+    "price": "MRP. 3462",
+    "description": "REGR-PLSR-JL03",
+    "image": "/varroc/REGR-PLSR-JL03.webp"
+  },
+  {
+    "id": "118",
+    "name": "VARROC R.R. ASS. AVENGER 220",
+    "category": "parts",
+    "price": "MRP. 2691",
+    "description": "REGR-AVGR-PD03",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "119",
+    "name": "VARROC R.R. AVENGER",
+    "category": "parts",
+    "price": "MRP. 1320",
+    "description": "REGR-AVGR-DV09",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "120",
+    "name": "VARROC R.R. DISCOVER WITH CAPACITOR DISCOVER 125 ST",
+    "category": "parts",
+    "price": "MRP. 1515",
+    "description": "REGR-DSVR-JZ00",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "121",
+    "name": "VARROC R.R. DISCOVER (SS)",
+    "category": "parts",
+    "price": "MRP. 1248",
+    "description": "REGR-DSVR-DS03",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "122",
+    "name": "VARROC R.R AC-DC WITH CAPACITOR DSVR 100 4G",
+    "category": "parts",
+    "price": "MRP. 927",
+    "description": "REGR-DSVR-JN4G",
+    "image": "/varroc/REGR-DSVR-JN4G.webp"
+  },
+  {
+    "id": "123",
+    "name": "VARROC R.R WITH CAPACITOR DSVR 100M/125M",
+    "category": "parts",
+    "price": "MRP. 1184",
+    "description": "REGR-DSVR-JF00",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "124",
+    "name": "VARROC R.R HERO XPLS BS6",
+    "category": "parts",
+    "price": "MRP. 2054",
+    "description": "REGR-XPLS-ABW2",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "125",
+    "name": "VARROC R. R. WITH CAPACITOR XCD-125",
+    "category": "parts",
+    "price": "MRP. 1085",
+    "description": "REGR-XCED-JB01",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "126",
+    "name": "VARROC R. R. WITH CAPACITOR DISC 100/PLATINA-UG",
+    "category": "parts",
+    "price": "MRP. 1238",
+    "description": "REGR-PTUG-JK00",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "127",
+    "name": "VARROC R. R. WITH CAPACITOR (AC/DC) PLATINA 125 CC",
+    "category": "parts",
+    "price": "MRP. 1192",
+    "description": "REGR-PLTN-JK03",
+    "image": "/varroc/REGR-PLTN-JK03.webp"
+  },
+  {
+    "id": "128",
+    "name": "VARROC R.R.ACTIVA HET/SHINE/UNICON(FLICKERLESS)",
+    "category": "parts",
+    "price": "MRP. 1804",
+    "description": "REGR-ATVA-31M1",
+    "image": "/varroc/REGR-ATVA-31M1.webp"
+  },
+  {
+    "id": "129",
+    "name": "VARROC R.R. HONDA",
+    "category": "parts",
+    "price": "MRP. 540",
+    "description": "REGR-ATVA-HM25",
+    "image": "/varroc/REGR-ATVA-HM25.webp"
+  },
+  {
+    "id": "130",
+    "name": "VARROC R R ACTVA 5G BSIV LED KWPH01 ",
+    "category": "parts",
+    "price": "MRP. 2277",
+    "description": "REGR-ATVA-KWPH",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "131",
+    "name": "VARROC R.R.  SPLENDOR",
+    "category": "parts",
+    "price": "MRP. 571",
+    "description": "REGR-SSPL-HH24",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "132",
+    "name": "VARROC R.R. HERO HONDA",
+    "category": "parts",
+    "price": "MRP. 775",
+    "description": "REGR-SUSP-HH33",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "133",
+    "name": "VARROC R.R. HH SPLENDOR/ PASSION// CD DELUX",
+    "category": "parts",
+    "price": "MRP. 659",
+    "description": "REGR-SPPA-HH37",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "134",
+    "name": "VARROC R.R YAMAHA FZ BS6 MT-15 BS6",
+    "category": "parts",
+    "price": "MRP. 1932",
+    "description": "REGR-FZBS6-2G10",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "135",
+    "name": "VARROC R.R. FZ16/FZS FAZER NEW MODEL",
+    "category": "parts",
+    "price": "MRP. 1856",
+    "description": "REGR-FAZR-YM82",
+    "image": "/varroc/REGR-FAZR-YM82_RR.webp"
+  },
+  {
+    "id": "136",
+    "name": "VARROC RR.. YAMAHA SR-Z 4 PIN COUPLER",
+    "category": "parts",
+    "price": "MRP. 1388",
+    "description": "REGR-YSRZ-YM83",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "137",
+    "name": "VARROC R.R 3 PHASE ENFIELD 350CC ELECTR/CLSC",
+    "category": "parts",
+    "price": "MRP. 2245",
+    "description": "REGR-ENFD-5974",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "138",
+    "name": "VARROC R.R SINGLE PHASE ENFIELD 350 CC STANDARD",
+    "category": "parts",
+    "price": "MRP. 1691",
+    "description": "REGR-ENFD-5998",
+    "image": "/varroc/REGR-ENFD-5998.webp"
+  },
+  {
+    "id": "139",
+    "name": "VARROC R.R. SINGLE PHASE ENFIELD 350 CC ELECTRA 4S/5S",
+    "category": "parts",
+    "price": "MRP. 1802",
+    "description": "REGR-ENFD-1498",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "140",
+    "name": "VARROC R.R. 3 PHASE ENFIELD 500CC",
+    "category": "parts",
+    "price": "MRP. 1904",
+    "description": "REGR-ENFD-5832",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "141",
+    "name": "VARROC R R RE HIMALYAN 410 CC",
+    "category": "parts",
+    "price": "MRP. 4313",
+    "description": "REGR-ENFD-5856C",
+    "image": "/varroc/REGR-ENFD-5856C.webp"
+  },
+  {
+    "id": "142",
+    "name": "VARROC R.R. SUZUKI ACCESS 125CC/SWISH/YAMAHA FZ",
+    "category": "parts",
+    "price": "MRP. 865",
+    "description": "REGR-ACES-3240",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "143",
+    "name": "VARROC RR SUZUKI AXCESS BS6 2020 02L00-000",
+    "category": "parts",
+    "price": "MRP. 1330",
+    "description": "REGR-ACES-32L0",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "144",
+    "name": "VARROC RR UNIT PLSR 220 /3 PHASE",
+    "category": "parts",
+    "price": "MRP. 2250",
+    "description": "REGR-PLSR-DK01",
+    "image": "/varroc/REGR-PLSR-DK01.webp"
+  },
+  {
+    "id": "145",
+    "name": "VARROC RR UNIT PLSR 200NS ",
+    "category": "parts",
+    "price": "MRP. 2179",
+    "description": "REGR-PLSR-JL07",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "146",
+    "name": "VARROC RR UNIT UNIVERSAL HEAVY DUTY",
+    "category": "parts",
+    "price": "MRP. 1234",
+    "description": "REGR-SUSP-33H0",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "147",
+    "name": "VARROC R.R AVGR 160 220 BSVI",
+    "category": "parts",
+    "price": "MRP. 3802",
+    "description": "REGR-AVGR-PD06",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "148",
+    "name": "VARROC RR UNIT AVENGER 150 STREET",
+    "category": "parts",
+    "price": "MRP. 2669",
+    "description": "REGR-AVGR-PD04",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "149",
+    "name": "VARROC R R YAMHA GLADIATER BLUE COUPLER",
+    "category": "parts",
+    "price": "MRP. 584",
+    "description": "REGR-GLDR-H196",
+    "image": "/varroc/REGR-GLDR-H196.webp"
+  },
+  {
+    "id": "150",
+    "name": "VARROC R R JUPITOR WIGO PHENIX 125 ZIST VCTR",
+    "category": "parts",
+    "price": "MRP. 692",
+    "description": "REGR-JPTR-K390",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "151",
+    "name": "VARROC R R PLSR 150 180 BSVI",
+    "category": "parts",
+    "price": "MRP. 2428",
+    "description": "REGR-PLSR-JF06",
+    "image": "/varroc/REGR-PLSR-JF06.webp"
+  },
+  {
+    "id": "152",
+    "name": "VARROC R R YAMAHA FZ V3",
+    "category": "parts",
+    "price": "MRP. 1589",
+    "description": "REGR-FZV3-B900",
+    "image": "/varroc/REGR-FZV3-B900.webp"
+  },
+  {
+    "id": "153",
+    "name": "VARROC R R TVS APACHI RTR 160CC",
+    "category": "parts",
+    "price": "MRP. 805",
+    "description": "REGR-APCH-NR75",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "154",
+    "name": "VARROC R R TVX KING DELUXE 3W 3 PHASE DC/RTR 200CC",
+    "category": "parts",
+    "price": "MRP. 2122",
+    "description": "REGR-TKNG-G490",
+    "image": "/varroc/REGR-TKNG-G490.webp"
+  },
+  {
+    "id": "155",
+    "name": "VARROC RR TVX APACHI 4V 163000",
+    "category": "parts",
+    "price": "MRP. 1127",
+    "description": "REGR-APCH-N9000",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "156",
+    "name": "VARROC RR KTEM 390",
+    "category": "parts",
+    "price": "MRP. 3083",
+    "description": "REGR-KTEM-JP00",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "157",
+    "name": "VARROC RR-SPLENDER 5 PIN FI ACK01 BS6",
+    "category": "parts",
+    "price": "MRP. 1728",
+    "description": "REGR-SPLD-ACK01",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "158",
+    "name": "VARROC RR PLSR 200 RS BS6",
+    "category": "parts",
+    "price": "MRP. 3355",
+    "description": "REGR-PLSR-DT04",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "159",
+    "name": "VARROC RR YAMHA F-Z FI V2 GIXER 5PIN SH640D",
+    "category": "parts",
+    "price": "MRP. 1577",
+    "description": "REGR-FZV2-SH11",
+    "image": "/varroc/REGR-FZV2-SH11.webp"
+  },
+  {
+    "id": "160",
+    "name": "VARROC R R YAMHA REY 1GCH1",
+    "category": "parts",
+    "price": "MRP. 1086",
+    "description": "REGR-YREY-1GCH",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "161",
+    "name": "VARROC RR YAMHA R-15 VERSION2 6PIN S5H1960",
+    "category": "parts",
+    "price": "MRP. 1745",
+    "description": "REGR-YR15-2S60",
+    "image": "/varroc/REGR-YR15-2S60.webp"
+  },
+  {
+    "id": "162",
+    "name": "VARROC R R WITH RPM SENSOR PLSR 180 DSIT ABS",
+    "category": "parts",
+    "price": "MRP. 1922",
+    "description": "REGR-PLSR-DK60",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "163",
+    "name": "VARROC R R NTRQ JUPITOR STR CITI BS4 O.E TYPE",
+    "category": "parts",
+    "price": "MRP. 760",
+    "description": "REGR-NTRQ-R430",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "164",
+    "name": "VARROC R R SUZKI AXCESS 125CC NEW HAYAATE",
+    "category": "parts",
+    "price": "MRP. 822",
+    "description": "REGR-ACES-32J4",
+    "image": "/varroc/no-img.webp"
   }
+ 
 ]
