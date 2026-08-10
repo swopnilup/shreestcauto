@@ -773,7 +773,7 @@
     "category": "parts",
     "price": "MRP. 3513",
     "description": "MGRT-PLSR-DJ61",
-    "image": "/varroc/"
+    "image": "/varroc/no-img.webp"
   },
   {
     "id": "99",
@@ -1302,6 +1302,854 @@
     "price": "MRP. 822",
     "description": "REGR-ACES-32J4",
     "image": "/varroc/no-img.webp"
+  },
+   {
+    "id": "165",
+    "name": "VARROC C.D.I. DISCOVER 125 T ( TWIN SPARK) DC",
+    "category": "parts",
+    "price": "MRP. 2153",
+    "description": "CDEI-DSVR-JE07",
+    "image": "/varroc/CDEI-DSVR-JE07.webp"
+  },
+  {
+    "id": "166",
+    "name": "VARROC C.D.I. DISCOVER 100 (TWIN SPARK)DC",
+    "category": "parts",
+    "price": "MRP. 2546",
+    "description": "CDEI-DSVR-PA00",
+    "image": "/varroc/CDEI-DSVR-PA00.webp"
+  },
+  {
+    "id": "167",
+    "name": "VARROC C.D.I. DISCOVER 125 (SS & KS)",
+    "category": "parts",
+    "price": "MRP. 1778",
+    "description": "CDEI-DSVR-DS03",
+    "image": "/varroc/CDEI-DSVR-DS03.webp"
+  },
+  {
+    "id": "168",
+    "name": "VARROC C.D.I. DISCOVER-135 CC",
+    "category": "parts",
+    "price": "MRP. 1602",
+    "description": "CDEI-DSVR-JN00",
+    "image": "/varroc/CDEI-DSVR-JN00.webp"
+  },
+  {
+    "id": "169",
+    "name": "VARROC C.D.I DISCOVER 110",
+    "category": "parts",
+    "price": "MRP. 881",
+    "description": "CDEI-DSVR-DX01",
+    "image": "/varroc/CDEI-DSVR-DX01.webp"
+  },
+  {
+    "id": "170",
+    "name": "VARROC C.D.I DSVR 100T (TWIN SPARK) DC",
+    "category": "parts",
+    "price": "MRP. 2294",
+    "description": "CDEI-DSVR-PA06",
+    "image": "/varroc/CDEI-DSVR-PA06.webp"
+  },
+  {
+    "id": "171",
+    "name": "VARROC C.D.I. DSVR 100 M(TWIN SPARK)DC",
+    "category": "parts",
+    "price": "MRP. 1899",
+    "description": "CDEI-DSVR-PA13",
+    "image": "/varroc/CDEI-DSVR-PA13.webp"
+  },
+  {
+    "id": "172",
+    "name": "VARROC C.D.I. DSVR 100 M (TWIN SPARK)DC",
+    "category": "parts",
+    "price": "MRP. 1942",
+    "description": "CDEI-DVSR-PA17",
+    "image": "/varroc/CDEI-DVSR-PA17.webp"
+  },
+  {
+    "id": "173",
+    "name": "VARROC C.D.I. DSVR100 CC(4G) (TWIN SPARK) AC",
+    "category": "parts",
+    "price": "MRP. 1770",
+    "description": "CDEI-DSVR-JB01",
+    "image": "/varroc/CDEI-DSVR-JB01.webp"
+  },
+  {
+    "id": "174",
+    "name": "VARROC C.D.I. DSVR 125 CC(ST) (TWIN SPARK) DC",
+    "category": "parts",
+    "price": "MRP. 2553",
+    "description": "CDEI-DSVR-JE06",
+    "image": "/varroc/CDEI-DSVR-JE06.webp"
+  },
+  {
+    "id": "175",
+    "name": "VARROC C.D.I. DSVR 100 M(TWIN SPARK)DC",
+    "category": "parts",
+    "price": "MRP. 2417",
+    "description": "CDEI-DSVR-PA15",
+    "image": "/varroc/CDEI-DSVR-PA15.webp"
+  },
+  {
+    "id": "176",
+    "name": "VARROC C.D.I. DSVR 125 M(TWIN SPARK)DC",
+    "category": "parts",
+    "price": "MRP. 2274",
+    "description": "CDEI-DSVR-PA14",
+    "image": "/varroc/CDEI-DSVR-PA14.webp"
+  },
+  {
+    "id": "177",
+    "name": "VARROC C.D.I. DISCOVER 150 (TWIN SPARK) DC ",
+    "category": "parts",
+    "price": "MRP. 2710",
+    "description": "CDEI-DSVR-JZ05",
+    "image": "/varroc/CDEI-DSVR-JZ05.webp"
+  },
+  {
+    "id": "178",
+    "name": "VARROC C.D.I. INTELLIGENT DISCOVER-125/135 CC",
+    "category": "parts",
+    "price": "MRP. 1586",
+    "description": "CDEI-DSVR-DS43",
+    "image": "/varroc/CDEI-DSVR-DS43.webp"
+  },
+  {
+    "id": "179",
+    "name": "VARROC CDI GLAMOR DIGITAL BS4 10AANC01S",
+    "category": "parts",
+    "price": "MRP. 1960",
+    "description": "CDEI-GLMR-AANC",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "180",
+    "name": "VARROC C.D.I. HAYAATE EP",
+    "category": "parts",
+    "price": "MRP. 2045",
+    "description": "CDEI-HAYA-343J",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "181",
+    "name": "VARROC C D I  SUZKI HAYAATE",
+    "category": "parts",
+    "price": "MRP. 2557",
+    "description": "CDEI-HAYA-3G51",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "182",
+    "name": "VARROC C D I HERO X-TRIM 200R AABA010",
+    "category": "parts",
+    "price": "MRP. 1954",
+    "description": "CDEI-XTRM-AABA",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "183",
+    "name": "VARROC C D I  D-YUGA",
+    "category": "parts",
+    "price": "MRP. 2285",
+    "description": "CDEI-YUGA-K149",
+    "image": "/varroc/CDEI-YUGA-K149.webp"
+  },
+  {
+    "id": "184",
+    "name": "VARROC C D I CD DLX NM",
+    "category": "parts",
+    "price": "MRP. 2400",
+    "description": "CDI-CDDX-HH22",
+    "image": "/varroc/CDI-CDDX-HH22.webp"
+  },
+  {
+    "id": "185",
+    "name": "VARROC C.D.I. PLATINA",
+    "category": "parts",
+    "price": "MRP. 951",
+    "description": "CDEI-PLTN-DZ02",
+    "image": "/varroc/CDEI-PLTN-DZ02.webp"
+  },
+  {
+    "id": "186",
+    "name": "VARROC C.D.I. PLTN 125CC AC",
+    "category": "parts",
+    "price": "MRP. 1665",
+    "description": "CDEI-PLTN-JK10",
+    "image": "/varroc/CDEI-PLTN-JK10.webp"
+  },
+  {
+    "id": "187",
+    "name": "VARROC C.D.I. PLATINA 125 DTSI",
+    "category": "parts",
+    "price": "MRP. 2059",
+    "description": "CDEI-PTUG-JK00",
+    "image": "/varroc/CDEI-PTUG-JK00.webp"
+  },
+  {
+    "id": "188",
+    "name": "VARROC C.D.I. INTELLIGENT PULSAR-150 (ES/KS) K1",
+    "category": "parts",
+    "price": "MRP. 2542",
+    "description": "CDEI-PLSR-DH56",
+    "image": "/varroc/CDEI-PLSR-DH56.webp"
+  },
+  {
+    "id": "189",
+    "name": "VARROC C.D.I. INTELLIGENT PULSAR- 180 K2",
+    "category": "parts",
+    "price": "MRP. 1680",
+    "description": "CDEI-PLSR-DJ17",
+    "image": "/varroc/CDEI-PLSR-DJ17.webp"
+  },
+  {
+    "id": "190",
+    "name": "VARROC C.D.I. PULSAR 220/180",
+    "category": "parts",
+    "price": "MRP. 1535",
+    "description": "CDEI-PLSR-DJ23",
+    "image": "/varroc/CDEI-PLSR-DJ23.webp"
+  },
+  {
+    "id": "191",
+    "name": "VARROC C.D.I. PULSAR 150 UG3 K1",
+    "category": "parts",
+    "price": "MRP. 1674",
+    "description": "CDEI-PLSR-DJ64",
+    "image": "/varroc/CDEI-PLSR-DJ64.webp"
+  },
+  {
+    "id": "192",
+    "name": "VARROC CDI PLSR 150BSIV OLD",
+    "category": "parts",
+    "price": "MRP. 1887",
+    "description": "CDEI-PLSR-DH04",
+    "image": "/varroc/CDEI-PLSR-DH04.webp"
+  },
+  {
+    "id": "193",
+    "name": "VARROC C D I SPLENDER I3S AAD501",
+    "category": "parts",
+    "price": "MRP. 2154",
+    "description": "CDEI-SPLD-AAD1",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "194",
+    "name": "VARROC CONTROLLER UNIT I3S I-SMRT100 SPLD+ BLCK",
+    "category": "parts",
+    "price": "MRP. 2038",
+    "description": "CDEI-SI3S-300S",
+    "image": "/varroc/CDEI-SI3S-300S.webp"
+  },
+  {
+    "id": "195",
+    "name": "VARROC CDI PLSR 150BSIV NEW ",
+    "category": "parts",
+    "price": "MRP. 2014",
+    "description": "CDEI-PLSR-DH117",
+    "image": "/varroc/CDEI-PLSR-DH117.webp"
+  },
+  {
+    "id": "196",
+    "name": "VARROC C.D.I. PULSAR 150 UG4- K1 (TWIN SPARK) DC",
+    "category": "parts",
+    "price": "MRP. 2469",
+    "description": "CDEI-PLSR-DH72",
+    "image": "/varroc/CDEI-PLSR-DH72.webp"
+  },
+  {
+    "id": "197",
+    "name": "VARROC C.D.I. PULSAR 180 UG4- K2 (TWIN SPARK) DC",
+    "category": "parts",
+    "price": "MRP. 2444",
+    "description": "CDEI-PLSR-DJ92",
+    "image": "/varroc/CDEI-PLSR-DJ92.webp"
+  },
+  {
+    "id": "198",
+    "name": "VARROC C.D.I. PULSAR 150 DTSI",
+    "category": "parts",
+    "price": "MRP. 1750",
+    "description": "CDEI-PLSR-DH19",
+    "image": "/varroc/CDEI-PLSR-DH19.webp"
+  },
+  {
+    "id": "199",
+    "name": "VARROC C.D.I. PULSAR 150 AS",
+    "category": "parts",
+    "price": "MRP. 2137",
+    "description": "CDEI-PLSR-JE32",
+    "image": "/varroc/CDEI-PLSR-JE32.webp"
+  },
+  {
+    "id": "200",
+    "name": "VARROC C.D.I. PULSAR 160NS TWIN SPARK NON TPS DC",
+    "category": "parts",
+    "price": "MRP. 1999",
+    "description": "CDEI-PLSR-JE43",
+    "image": "/varroc/CDEI-PLSR-JE43.webp"
+  },
+  {
+    "id": "201",
+    "name": "VARROC C.D.I. PULSAR 220 CC -S&F (TWIN SPARK) DC",
+    "category": "parts",
+    "price": "MRP. 2139",
+    "description": "CDEI-PLSR-DK72",
+    "image": "/varroc/CDEI-PLSR-DK72.webp"
+  },
+  {
+    "id": "202",
+    "name": "VARROC C.D.I. PLSR 135/XCED 135 (TWIN SPARK) DC",
+    "category": "parts",
+    "price": "MRP. 2149",
+    "description": "CDEI-SPNT-JE00",
+    "image": "/varroc/CDEI-SPNT-JE00.webp"
+  },
+  {
+    "id": "203",
+    "name": "VARROC C.D.I. PLSR 200 CC (TWIN SPARK) DC",
+    "category": "parts",
+    "price": "MRP. 2547",
+    "description": "CDEI-PLSR-JL00",
+    "image": "/varroc/CDEI-PLSR-JL00.webp"
+  },
+  {
+    "id": "204",
+    "name": "VARROC C.D.I.K 4S ANALOG",
+    "category": "parts",
+    "price": "MRP. 461",
+    "description": "CDEI-CLBR-3152A",
+    "image": "/varroc/CDEI-CLBR-3152A.webp"
+  },
+  {
+    "id": "205",
+    "name": "VARROC C.D.I. PULSAR 200 AS",
+    "category": "parts",
+    "price": "MRP. 2158",
+    "description": "CDEI-PLSR-JL41",
+    "image": "/varroc/CDEI-PLSR-JL41.webp"
+  },
+  {
+    "id": "206",
+    "name": "VARROC C.D.I. AVGR220 CC (TWIN SPARK) DC",
+    "category": "parts",
+    "price": "MRP. 2231",
+    "description": "CDEI-AVGR-PD00",
+    "image": "/varroc/CDEI-AVGR-PD00.webp"
+  },
+  {
+    "id": "207",
+    "name": "VARROC C.D.I. AVGR 220(FROM OCT 2015).",
+    "category": "parts",
+    "price": "MRP. 2192",
+    "description": "CDEI-AVGR-PD13",
+    "image": "/varroc/CDEI-AVGR-PD13.webp"
+  },
+  {
+    "id": "208",
+    "name": "VARROC C.D.I. HONDA",
+    "category": "parts",
+    "price": "MRP. 1908",
+    "description": "CDI-ATVA-HM76",
+    "image": "/varroc/"
+  },
+  {
+    "id": "209",
+    "name": "VARROC C D I ACTVA 10 PIN 100CC",
+    "category": "parts",
+    "price": "MRP. 1267",
+    "description": "CDI-HACT-HM19",
+    "image": "/varroc/CDI-HACT-HM19.webp"
+  },
+  {
+    "id": "210",
+    "name": "VARROC CDI HONDA ACTIVA (HET MODEL)",
+    "category": "parts",
+    "price": "MRP. 2565",
+    "description": "CDEI-AHET-PD01",
+    "image": "/varroc/CDEI-AHET-PD01.webp"
+  },
+  {
+    "id": "211",
+    "name": "VARROC C D I UNIT TVX WEGO",
+    "category": "parts",
+    "price": "MRP. 1923",
+    "description": "CDEI-WEGO-K230",
+    "image": "/varroc/CDEI-WEGO-K230.webp"
+  },
+  {
+    "id": "212",
+    "name": "VARROC C.D.I. HONDA SHINE(KTE 911)",
+    "category": "parts",
+    "price": "MRP. 2269",
+    "description": "CDEI-SHIN-3011",
+    "image": "/varroc/CDEI-SHIN-3011.webp"
+  },
+  {
+    "id": "213",
+    "name": "VARROC C.D.I. HONDA UNICORN",
+    "category": "parts",
+    "price": "MRP. 2676",
+    "description": "CDEI-UNIC-HM79",
+    "image": "/varroc/CDEI-UNIC-HM79.webp"
+  },
+  {
+    "id": "214",
+    "name": "VARROC C.D.I. HONDA CB UNICORN DAZZLER",
+    "category": "parts",
+    "price": "MRP. 3197",
+    "description": "CDEI-DZLR-B010",
+    "image": "/varroc/CDEI-DZLR-B010.webp"
+  },
+  {
+    "id": "215",
+    "name": "VARROC C.D.I. HERO HONDA",
+    "category": "parts",
+    "price": "MRP. 2438",
+    "description": "CDI-SUSP-HH21",
+    "image": "/varroc/CDI-SUSP-HH21.webp"
+  },
+  {
+    "id": "216",
+    "name": "VARROC C.D.I. P. PRO/CD DELUXE (N/M)(KWA931)",
+    "category": "parts",
+    "price": "MRP. 2076",
+    "description": "CDEI-PSPR-3031",
+    "image": "/varroc/CDEI-PSPR-3031.webp"
+  },
+  {
+    "id": "217",
+    "name": "VARROC C.D.I. HH SPLENDOR/PASSION",
+    "category": "parts",
+    "price": "MRP. 521",
+    "description": "CDI-SPPA-HH14",
+    "image": "/varroc/CDI-SPPA-HH14.webp"
+  },
+  {
+    "id": "218",
+    "name": "VARROC C.D.I.  MAHENDRA DURO",
+    "category": "parts",
+    "price": "MRP. 1129",
+    "description": "CDEI-DURO-SC00",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "219",
+    "name": "VARROC C.D.I RODEO",
+    "category": "parts",
+    "price": "MRP. 1164",
+    "description": "CDEI-RODE-1541",
+    "image": "/varroc/CDEI-RODE-1541.webp"
+  },
+  {
+    "id": "220",
+    "name": "VARROC C.D.I. GLADIATOR SS/YBR125/FAZER/FZ/FZS",
+    "category": "parts",
+    "price": "MRP. 3515",
+    "description": "CDEI-GDTR-YM85",
+    "image": "/varroc/CDEI-GDTR-YM85.webp"
+  },
+  {
+    "id": "221",
+    "name": "VARROC C.D.I. FZ16/FZS /FAZER NEW MODEL",
+    "category": "parts",
+    "price": "MRP. 3515",
+    "description": "CDEI-GDTR-YM85",
+    "image": "/varroc/CDEI-GDTR-YM85.webp"
+  },
+  {
+    "id": "222",
+    "name": "VARROC C.D.I. PLTN 100 ES",
+    "category": "parts",
+    "price": "MRP. 2060",
+    "description": "CDEI-PLTN-PF06",
+    "image": "/varroc/CDEI-PLTN-PF06.webp"
+  },
+  {
+    "id": "223",
+    "name": "VARROC C.D.I. HONDA ACTIVA HET 3G(N/M)(KWPOM1)",
+    "category": "parts",
+    "price": "MRP. 2175",
+    "description": "CDEI-ATVA-30M1",
+    "image": "/varroc/CDEI-ATVA-30M1.webp"
+  },
+  {
+    "id": "224",
+    "name": "VARROC C.D.I. PLSR 150 KS O/M 5P BRWN CPLR",
+    "category": "parts",
+    "price": "MRP. 1019",
+    "description": "CDEI-PLSR-DH07",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "225",
+    "name": "VARROC C.D.I. PLSR 220 BS IV",
+    "category": "parts",
+    "price": "MRP. 1981",
+    "description": "CDEI-PLSR-DK81",
+    "image": "/varroc/CDEI-PLSR-DK81.webp"
+  },
+  {
+    "id": "226",
+    "name": "VARROC C.D.I. PLSR 200 NS BS IV",
+    "category": "parts",
+    "price": "MRP. 2579",
+    "description": "CDEI-PLSR-JL46",
+    "image": "/varroc/CDEI-PLSR-JL46.webp"
+  },
+  {
+    "id": "227",
+    "name": "VARROC C.D.I. PLSR 180 BS IV",
+    "category": "parts",
+    "price": "MRP. 2077",
+    "description": "CDEI-PLSR-DJ98",
+    "image": "/varroc/CDEI-PLSR-DJ98.webp"
+  },
+  {
+    "id": "228",
+    "name": "VARROC C.D.I. SUZUKI ACCESS 125CC ",
+    "category": "parts",
+    "price": "MRP. 2131",
+    "description": "CDEI-ACES-3G00",
+    "image": "/varroc/CDEI-ACES-3G00.webp"
+  },
+  {
+    "id": "229",
+    "name": "VARROC C.D.I. DSVR 125CC (TWIN SPARK)DC",
+    "category": "parts",
+    "price": "MRP. 2312",
+    "description": "CDEI-DSVR-JZ06",
+    "image": "/varroc/CDEI-DSVR-JZ06.webp`"
+  },
+  {
+    "id": "230",
+    "name": "VARROC C.D.I. PLATINA 125 /C-125 ",
+    "category": "parts",
+    "price": "MRP. 1195",
+    "description": "CDEI-PLTN-DY00",
+    "image": "/varroc/CDEI-PLTN-DY00.webp"
+  },
+  {
+    "id": "231",
+    "name": "VARROC T C I UNIT TVX RADEEON",
+    "category": "parts",
+    "price": "MRP. 1854",
+    "description": "TCCI-RDEN-ND10",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "232",
+    "name": "VARROC T C I HNDA ACTVA 5G KWPH01",
+    "category": "parts",
+    "price": "MRP. 2161",
+    "description": "TCCI-AC5G-PH01",
+    "image": "/varroc/TCCI-AC5G-PH01.webp"
+  },
+  {
+    "id": "233",
+    "name": "VARROC T C I UNIT SUZKI AXCESS 125CC 8K01000",
+    "category": "parts",
+    "price": "MRP. 1765",
+    "description": "TCCI-ACCS-1000",
+    "image": "/varroc/TCCI-ACCS-1000.webp"
+  },
+  {
+    "id": "234",
+    "name": "VARROC T C I ROYAL ENFIELD 500CC",
+    "category": "parts",
+    "price": "MRP. 1711",
+    "description": "TCCI-ENFD-5788",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "235",
+    "name": "VARROC T C I ROYAL ENFIELD",
+    "category": "parts",
+    "price": "MRP. 1190",
+    "description": "TCCI-ENFD-1499",
+    "image": "/varroc/TCCI-ENFD-1499.webp"
+  },
+  {
+    "id": "236",
+    "name": "VARROC T C I ROYAL ENFIELD",
+    "category": "parts",
+    "price": "MRP. 1732",
+    "description": "TCCI-ENFD-1467",
+    "image": "/varroc/TCCI-ENFD-1467.webp"
+  },
+  {
+    "id": "237",
+    "name": "VARROC T C I ROYAL ENFIELD",
+    "category": "parts",
+    "price": "MRP. 2448",
+    "description": "TCCI-ENFD-5938",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "238",
+    "name": "VARROC T C I RE THNDER BIRD 350 CC",
+    "category": "parts",
+    "price": "MRP. 1805",
+    "description": "TCCI-ENFD-5707",
+    "image": "/varroc/TCCI-ENFD-5707.webp"
+  },
+  {
+    "id": "239",
+    "name": "VARROC T C I R RE CLASIC 350 CC BLACK BSIV",
+    "category": "parts",
+    "price": "MRP. 1739",
+    "description": "TCCI-ENFD-5798",
+    "image": "/varroc/TCCI-ENFD-5798.webp"
+  },
+  {
+    "id": "240",
+    "name": "VARROC T C I RE 350 CC BSIV",
+    "category": "parts",
+    "price": "MRP. 1827",
+    "description": "TCCI-ENFD-5828",
+    "image": "/varroc/TCCI-ENFD-5828.webp"
+  },
+  {
+    "id": "241",
+    "name": "VARROC T C I UNIT HNDA GRAZIYA K86D01",
+    "category": "parts",
+    "price": "MRP. 2201",
+    "description": "TCCI-GRZA-6D01",
+    "image": "/varroc/TCCI-GRZA-6D01.webp"
+  },
+  {
+    "id": "242",
+    "name": "VARROC T C I HIRO DUEET AAY001",
+    "category": "parts",
+    "price": "MRP. 1998",
+    "description": "TCCI-DUET-301S",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "243",
+    "name": "VARROC T C I TVX JUPITOR OLD MODEL",
+    "category": "parts",
+    "price": "MRP. 2421",
+    "description": "TCCI-JPTR-K360",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "244",
+    "name": "VARROC IGNITOR JUPITOR WIGO BS3 AFTRMAY16 7WIRE",
+    "category": "parts",
+    "price": "MRP. 2335",
+    "description": "ICDI-JPTR-K660",
+    "image": "/varroc/ICDI-JPTR-K660.webp"
+  },
+  {
+    "id": "245",
+    "name": "VARROC C D I AVGR 220",
+    "category": "parts",
+    "price": "MRP. 1871",
+    "description": "CDEI-AVGR-DV14",
+    "image": "/varroc/CDEI-AVGR-DV14.webp"
+  },
+  {
+    "id": "246",
+    "name": "VARROC C D I AVGR",
+    "category": "parts",
+    "price": "MRP. 1686",
+    "description": "CDEI-AVGR-JM14",
+    "image": "/varroc/CDEI-AVGR-JM14.webp"
+  },
+  {
+    "id": "247",
+    "name": "VARROC C D I UNIT YAMHA SZR F-Z16 NM CH5540",
+    "category": "parts",
+    "price": "MRP. 2465",
+    "description": "CDEI-YMFZ-4010",
+    "image": "/varroc/CDEI-YMFZ-4010.webp"
+  },
+  {
+    "id": "248",
+    "name": "VARROC C.D.I. FAZR-YM81 FAZER",
+    "category": "parts",
+    "price": "MRP. 2740",
+    "description": "CDEI-FAZR-YM81 ",
+    "image": "/varroc/CDEI-FAZR-YM81.webp"
+  },
+  {
+    "id": "249",
+    "name": "VARROC C D I BAJJ V 15B",
+    "category": "parts",
+    "price": "MRP. 2641",
+    "description": "CDEI-V15B-JH00",
+    "image": "/varroc/CDEI-V15B-JH00.webp"
+  },
+  {
+    "id": "250",
+    "name": "VARROC C D I UNIT CB HRNET 160R HET BS4 K43901",
+    "category": "parts",
+    "price": "MRP. 2201",
+    "description": "CDEI-HRNT-K439",
+    "image": "/varroc/CDEI-HRNT-K439.webp"
+  },
+  {
+    "id": "251",
+    "name": "VARROC C D I SUZKI GIXER",
+    "category": "parts",
+    "price": "MRP. 2641",
+    "description": "CDEI-GXER-3234J",
+    "image": "/varroc/CDEI-GXER-3234J.webp"
+  },
+  {
+    "id": "252",
+    "name": "VARROC C D I DSVR 125 BS IV",
+    "category": "parts",
+    "price": "MRP. 2201",
+    "description": "CDEI-DSVR-JZ14",
+    "image": "/varroc/CDEI-DSVR-JZ14.webp"
+  },
+  {
+    "id": "253",
+    "name": "VARROC C D I TVX APACHI 160 RT R GREY",
+    "category": "parts",
+    "price": "MRP. 2201",
+    "description": "CDEI-APCH-N370",
+    "image": "/varroc/CDEI-APCH-N370.webp"
+  },
+  {
+    "id": "254",
+    "name": "VARROC C D I TVX APACHI 160 BSIV",
+    "category": "parts",
+    "price": "MRP. 2296",
+    "description": "CDEI-APCH-N920",
+    "image": "/varroc/CDEI-APCH-N920.webp"
+  },
+  {
+    "id": "255",
+    "name": "VARROC C D I TVX APACHI 180 RT R GREEN",
+    "category": "parts",
+    "price": "MRP. 2201",
+    "description": "CDEI-APCH-N430",
+    "image": "/varroc/CDEI-APCH-N430.webp"
+  },
+  {
+    "id": "256",
+    "name": "VARROC C D I DSVR 150 M TWIN SPARK DC",
+    "category": "parts",
+    "price": "MRP. 2352",
+    "description": "CDEI-DVSR-JZ08",
+    "image": "/varroc/CDEI-DVSR-JZ08.webp"
+  },
+  {
+    "id": "257",
+    "name": "VARROC C D I ACTVA 125 HET K24 K24A 901",
+    "category": "parts",
+    "price": "MRP. 2201",
+    "description": "CDI-ATVA-K24A",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "258",
+    "name": "VARROC C D I ACTVA 125 HET K24 K24F 921",
+    "category": "parts",
+    "price": "MRP. 2223",
+    "description": "CDI-ATVA-K24F",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "259",
+    "name": "VARROC C D I AVENGER 150",
+    "category": "parts",
+    "price": "MRP. 1920",
+    "description": "CDEI-AVGR-PD15",
+    "image": "/varroc/CDEI-AVGR-PD15.webp"
+  },
+  {
+    "id": "260",
+    "name": "VARROC C D I DISCOVER 125 NEW",
+    "category": "parts",
+    "price": "MRP. 1998",
+    "description": "CDEI-DSVR-JZ15",
+    "image": "/varroc/CDEI-DSVR-JZ15.webp"
+  },
+  {
+    "id": "261",
+    "name": "VARROC CDI AVGR 160 BSIV",
+    "category": "parts",
+    "price": "MRP. 2081",
+    "description": "CDEI-AVGR-PD52",
+    "image": "/varroc/CDEI-AVGR-PD52.webp"
+  },
+  {
+    "id": "262",
+    "name": "VARROC CDI AVGER 150 BS IV",
+    "category": "parts",
+    "price": "MRP. 2059",
+    "description": "CDEI-AVGR-PD48",
+    "image": "/varroc/CDEI-AVGR-PD48.webp"
+  },
+  {
+    "id": "263",
+    "name": "VARROC CDI PLSR 125 BSIV",
+    "category": "parts",
+    "price": "MRP. 1405",
+    "description": "CDEI-PLSR-JE57",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "264",
+    "name": "VARROC CDI MAISTRO EDGE WO IMMOBILISER AAW001",
+    "category": "parts",
+    "price": "MRP. 2248",
+    "description": "CDEI-MSTR-AAW1",
+    "image": "/varroc/CDEI-MSTR-AAW1.webp"
+  },
+  {
+    "id": "265",
+    "name": "VARROC CDI YAMHA R 100 3PIN 2PIN",
+    "category": "parts",
+    "price": "MRP. 372",
+    "description": "CDEI-R100-YM90",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "266",
+    "name": "VARROC C D I PASION PRO I3S OCT 2019 AAE211",
+    "category": "parts",
+    "price": "MRP. 2273",
+    "description": "CDEI-PPRO-AAE1",
+    "image": "/varroc/CDEI-PPRO-AAE1.webp"
+  },
+  {
+    "id": "267",
+    "name": "VARROC C D I SHN BSIV KTED81",
+    "category": "parts",
+    "price": "MRP. 1995",
+    "description": "CDEI-SHIN-KTED81",
+    "image": "/varroc/CDEI-SHIN-KTED81.webp"
+  },
+  {
+    "id": "268",
+    "name": "VARROC C D I SVISH AXCESS 125 CC DC",
+    "category": "parts",
+    "price": "MRP. 1780",
+    "description": "CDEI-SWIH-3200",
+    "image": "/varroc/CDEI-SWIH-3200.webp"
+  },
+  {
+    "id": "269",
+    "name": "VARROC C D I YAMHA REY SALUT 125 FASINO CH55400",
+    "category": "parts",
+    "price": "MRP. 2174",
+    "description": "CDEI-YREY-IG00",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "270",
+    "name": "VARROC IGNITOR TVX NTRQ 125CC 12PIN SOCKET",
+    "category": "parts",
+    "price": "MRP. 2562",
+    "description": "ICDI-NTRQ-K2030",
+    "image": "/varroc/ICDI-NTRQ-K2030.webp"
   }
  
 ]
