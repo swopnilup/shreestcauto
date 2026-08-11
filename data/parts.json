@@ -2150,6 +2150,190 @@
     "price": "MRP. 2562",
     "description": "ICDI-NTRQ-K2030",
     "image": "/varroc/ICDI-NTRQ-K2030.webp"
+  },
+  {
+    "id": "271",
+    "name": "VARROC LAMP COIL HH SPLENDOR 2 HOLE 3 POLE",
+    "category": "parts",
+    "price": "MRP. 827",
+    "description": "MGLC-SP2H-HH28",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "272",
+    "name": "VARROC LAMP COIL HH SPLENDOR 4 HOLE 3 POLE",
+    "category": "parts",
+    "price": "MRP. 841",
+    "description": "MGLC-SP4H-HH29",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "273",
+    "name": "VARROC LAMP COIL HH CD 100",
+    "category": "parts",
+    "price": "MRP. 456",
+    "description": "MGCL-CD10-HM19",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "274",
+    "name": "VARROC PICK UP COIL PULSAR",
+    "category": "parts",
+    "price": "MRP. 138",
+    "description": "MGCL-PLSR-DH09",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "275",
+    "name": "VARROC PICK UP COIL KB-4S",
+    "category": "parts",
+    "price": "MRP. 170",
+    "description": "MGCL-KB4S-3158",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "276",
+    "name": "VARROC PICK UP COIL WIND 125",
+    "category": "parts",
+    "price": "MRP. 414",
+    "description": "MGCL-W125-MA87",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "277",
+    "name": "VARROC PICK UP COIL DSVR",
+    "category": "parts",
+    "price": "MRP. 192",
+    "description": "MGCL-DSVR-EE11",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "278",
+    "name": "VARROC PICK UP COIL DSVR (GREEN)",
+    "category": "parts",
+    "price": "MRP. 164",
+    "description": "MGCL-DSVR-0410",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "279",
+    "name": "VARROC PICKUP COIL SPLENDOR PLUS/PASSION PLUS",
+    "category": "parts",
+    "price": "MRP. 212",
+    "description": "MGCL-SPDR-HH49",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "280",
+    "name": "VARROC PICK UP COIL H.ACTIVA OLD/NEW/PLEASURE",
+    "category": "parts",
+    "price": "MRP. 173",
+    "description": "MGCL-ATVA-HM01",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "281",
+    "name": "VARROC PICK UP COIL HONDA ACTIVA 110 CC",
+    "category": "parts",
+    "price": "MRP. 173",
+    "description": "MGCL-ATVA-HM02",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "282",
+    "name": "VARROC PICK UP COIL HNDA ACTV HET",
+    "category": "parts",
+    "price": "MRP. 180",
+    "description": "MGCP-HETM-HM54",
+    "image": "/varroc/MGCP-HETM-HM54.webp"
+  },
+  {
+    "id": "283",
+    "name": "VARROC PICKUP COIL ROYAL ENFIELD 350 CC GREY",
+    "category": "parts",
+    "price": "MRP. 188",
+    "description": "MGCL-ENFD-EE13",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "284",
+    "name": "VARROC PICK UP COIL FZ16/FZS",
+    "category": "parts",
+    "price": "MRP. 386",
+    "description": "MGCP-FZ16-YM56",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "285",
+    "name": "VARROC PICK UP COIL APACHI 160/180 RT R",
+    "category": "parts",
+    "price": "MRP. 134",
+    "description": "MGCP-APCH-TV10",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "286",
+    "name": "VARROC PICK UP COIL GLADIATER SS KS",
+    "category": "parts",
+    "price": "MRP. 134",
+    "description": "MGCP-GLAD-YM01",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "287",
+    "name": "VARROC CHARGING COIL KB4S OLD MODLE",
+    "category": "parts",
+    "price": "MRP. 256",
+    "description": "MGCC-K-4S-BJ02",
+    "image": "/varroc/MGCC-K-4S-BJ02.webp"
+  },
+  {
+    "id": "288",
+    "name": "VARROC CHARGING COIL KB-4S",
+    "category": "parts",
+    "price": "MRP. 298",
+    "description": "MGCL-KB4S-3156",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "289",
+    "name": "VARROC CHARGING HERO HONDA",
+    "category": "parts",
+    "price": "MRP. 392",
+    "description": "MGCC-SPDD-HH06",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "290",
+    "name": "VARROC CHARGING COIL HH CD100 SS",
+    "category": "parts",
+    "price": "MRP. 386",
+    "description": "MGCC-00SS-HH07",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "291",
+    "name": "VARROC CHARGING COIL PLSR 150",
+    "category": "parts",
+    "price": "MRP. 386",
+    "description": "MGCC-PLSR-BJ03",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "292",
+    "name": "VARROC CHARGING COIL HH CD-100",
+    "category": "parts",
+    "price": "MRP. 386",
+    "description": "MGCC-C100-HH04",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "293",
+    "name": "VARROC CHARGING COIL SPLENDOR (O/M)/K.MARVEL",
+    "category": "parts",
+    "price": "MRP. 386",
+    "description": "MGCC-SPDR-HH05",
+    "image": "/varroc/no-img.webp"
   }
  
 ]
