@@ -2334,6 +2334,445 @@
     "price": "MRP. 386",
     "description": "MGCC-SPDR-HH05",
     "image": "/varroc/no-img.webp"
+  },
+    {
+    "id": "294",
+    "name": "VARROC CLUTCH SWITCH AVGR",
+    "category": "parts",
+    "price": "MRP. 97",
+    "description": "SWCH-AVGR-DG30",
+    "image": "/varroc/SWCH-AVGR-DG30.webp"
+  },
+  {
+    "id": "295",
+    "name": "VARROC CLUTCH SWITCH ASSY",
+    "category": "parts",
+    "price": "MRP. 113",
+    "description": "SWCH-DSVR-JB09",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "296",
+    "name": "VARROC CLUTCH SWITCH RE 350 CC AVGR",
+    "category": "parts",
+    "price": "MRP. 90",
+    "description": "SWCH-ENFD-DG30",
+    "image": "/varroc/SWCH-ENFD-DG30.webp"
+  },
+  {
+    "id": "297",
+    "name": "VARROC BRAKE SWITCH FRONT C-100",
+    "category": "parts",
+    "price": "MRP. 112",
+    "description": "SWCH-C100-0715",
+    "image": "/varroc/SWCH-C100-0715.webp"
+  },
+  {
+    "id": "298",
+    "name": "VARROC H/B SWITCH HEAD LIGHT ON/OFF ACTIVA/DIO",
+    "category": "parts",
+    "price": "MRP. 102",
+    "description": "SWCH-ACTV-914B",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "299",
+    "name": "VARROC H/B SWITCH DIPPER HI/LOW ACTIVA/DIO",
+    "category": "parts",
+    "price": "MRP. 104",
+    "description": "SWCH-ACTV-917B",
+    "image": "/varroc/SWCH-ACTV-917B.webp"
+  },
+  {
+    "id": "300",
+    "name": "VARROC H/B SWITCH HORN ACTIVA/DEO",
+    "category": "parts",
+    "price": "MRP. 116",
+    "description": "SWCH-ATVA-916C",
+    "image": "/varroc/SWCH-ATVA-916C.webp"
+  },
+  {
+    "id": "301",
+    "name": "VARROC H/B SWITCH STATER ACTIVA/DEO/ETERNO",
+    "category": "parts",
+    "price": "MRP. 117",
+    "description": "SWCH-ATVA-918D",
+    "image": "/varroc/SWCH-ATVA-918D.webp"
+  },
+  {
+    "id": "302",
+    "name": "VARROC H/B SWITCH INDICATOR ACTIVA/DIO/ETERNO",
+    "category": "parts",
+    "price": "MRP. 130",
+    "description": "SWCH-ACTV-915A",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "303",
+    "name": "VARROC HB SWITCH STRTER WIGO JUPITOR ZIST",
+    "category": "parts",
+    "price": "MRP. 111",
+    "description": "SWCH-JPTR-924E",
+    "image": "/varroc/SWCH-JPTR-924E.webp"
+  },
+  {
+    "id": "304",
+    "name": "VARROC HB SWITCH HORN WIGO JUPITOR ZIST",
+    "category": "parts",
+    "price": "MRP. 111",
+    "description": "SWCH-JPTR-923E",
+    "image": "/varroc/SWCH-JPTR-923E.webp"
+  },
+  {
+    "id": "305",
+    "name": "VARROC H B SWITCH HORN ACTVA NEW MODEL",
+    "category": "parts",
+    "price": "MRP. 100",
+    "description": "SWCH-ATVA-916L",
+    "image": "/varroc/SWCH-ATVA-916L.webp"
+  },
+  {
+    "id": "306",
+    "name": "VARROC H B SWITCH STRTER ACTVA NEW MODEL",
+    "category": "parts",
+    "price": "MRP. 116",
+    "description": "SWCH-ATVA-918N",
+    "image": "/varroc/SWCH-ATVA-918N.webp"
+  },
+  {
+    "id": "307",
+    "name": "VARROC H B SWITCH ASSY PASION PRO SS RH",
+    "category": "parts",
+    "price": "MRP. 193",
+    "description": "SWCH-PPRO-686C",
+    "image": "/varroc/SWCH-PPRO-686C.webp"
+  },
+  {
+    "id": "308",
+    "name": "VARROC HB SWITCH INDIKATOR WIGO JUPITOR ZIST",
+    "category": "parts",
+    "price": "MRP. 111",
+    "description": "SWCH-JPTR-0949",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "309",
+    "name": "VARROC HANDLE BAR SWITCH ASSY HONDA SUPER",
+    "category": "parts",
+    "price": "MRP. 255",
+    "description": "SWCH-SUSP-0686",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "310",
+    "name": "VARROC HANDLE SWITCH ASSY. CT-100/PLATINA (RH)",
+    "category": "parts",
+    "price": "MRP. 309",
+    "description": "SWCH-C100-DU18",
+    "image": "/varroc/SWCH-C100-DU18.webp"
+  },
+  {
+    "id": "311",
+    "name": "VARROC HANDLE SWITCH ASSY. DISCOVER-OLD (RH) KS",
+    "category": "parts",
+    "price": "MRP. 249",
+    "description": "SWCH-DSVR-DS33",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "312",
+    "name": "VARROC HB SWITCH DSVR 125 ST RH",
+    "category": "parts",
+    "price": "MRP. 295",
+    "description": "HLBR-DSVR-JZ08",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "313",
+    "name": "VARROC HB SWITCH SPLD I3S I-SMART RH",
+    "category": "parts",
+    "price": "MRP. 314",
+    "description": "SWCH-SPLD-0686L",
+    "image": "/varroc/SWCH-SPLD-0686L"
+  },
+  {
+    "id": "314",
+    "name": "VARROC HANDLE SWITCH ASSY. XCD 125/DIS 100 (LH)",
+    "category": "parts",
+    "price": "MRP. 438",
+    "description": "SWCH-XCED-JB01",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "315",
+    "name": "VARROC HANDLE SWITCH ASSY. XCD 125/DIS 100 (RH)",
+    "category": "parts",
+    "price": "MRP. 544",
+    "description": "SWCH-XCED-JB00",
+    "image": "/varroc/SWCH-XCED-JB00.webp"
+  },
+  {
+    "id": "316",
+    "name": "VARROC HB SWITCH ASSY XL100 WITH LEVER RH KS",
+    "category": "parts",
+    "price": "MRP. 472",
+    "description": "SWCH-XL10-M78A",
+    "image": "/varroc/SWCH-XL10-M78A.webp"
+  },
+  {
+    "id": "317",
+    "name": "VARROC HB SWITCH ASSY CD 100 6 WIRE LH",
+    "category": "parts",
+    "price": "MRP. 517",
+    "description": "SWCH-CD10-0722",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "318",
+    "name": "VARROC H B SWITCH ASSY PASION 10 WIRES  LH",
+    "category": "parts",
+    "price": "MRP. 539",
+    "description": "SWCH-PASN-722F",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "319",
+    "name": "VARROC HB SWITCH ASSY SPLENDER PLUS LH",
+    "category": "parts",
+    "price": "MRP. 738",
+    "description": "SWCH-SPLS-685D",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "320",
+    "name": "VARROC HB SWITCH ASSY 9 WIRE LH",
+    "category": "parts",
+    "price": "MRP. 893",
+    "description": "SWCH-SSPL-685L",
+    "image": "/varroc/SWCH-SSPL-685L.webp"
+  },
+  {
+    "id": "321",
+    "name": "VARROC H B SWITCH ASSY PASION PRO SS LH",
+    "category": "parts",
+    "price": "MRP. 842",
+    "description": "SWCH-PSNP-685S",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "322",
+    "name": "VARROC H B SWITCH ASSY PASION PRO KS LH",
+    "category": "parts",
+    "price": "MRP. 842",
+    "description": "SWCH-PSNP-685R",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "323",
+    "name": "VARROC H B SWITCH ASSY SPLENDER PRO SS LH",
+    "category": "parts",
+    "price": "MRP. 842",
+    "description": "SWCH-SPPR-685N",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "324",
+    "name": "VARROC H B SWITCH ASSY SPLENDER PRO KS LH",
+    "category": "parts",
+    "price": "MRP. 842",
+    "description": "SWCH-SPPR-685M",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "325",
+    "name": "VARROC H B SWITCH ASSY SPR XL WITH LEVERKIT LH",
+    "category": "parts",
+    "price": "MRP. 842",
+    "description": "SWCH-SUXL-0697",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "326",
+    "name": "VARROC H B SWITCH ASSY TWISTR LH",
+    "category": "parts",
+    "price": "MRP. 716",
+    "description": "SWCH-TWSR-685AL",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "327",
+    "name": "VARROC HB SWITCH ASSY CB SHN SS LH",
+    "category": "parts",
+    "price": "MRP. 1114",
+    "description": "SWCH-CSHN-685AR",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "328",
+    "name": "VARROC HANDLE BAR SWITCH ASSY SPLD PLUS SS LH",
+    "category": "parts",
+    "price": "MRP. 797",
+    "description": "SWCH-SPPL-685BW",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "329",
+    "name": "VARROC HB SWITCH ASSY PASION PRO SPLD NXG KS LH",
+    "category": "parts",
+    "price": "MRP. 797",
+    "description": "SWCH-PPRO-685BV",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "330",
+    "name": "VARROC HB SWITCH ASSY PASION PRO 2015 SS LH",
+    "category": "parts",
+    "price": "MRP. 797",
+    "description": "SWCH-PPRO-685BS",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "331",
+    "name": "VARROC HB SWITCH ASSY UNCR CB HONET 160R SS LH",
+    "category": "parts",
+    "price": "MRP. 856",
+    "description": "SWCH-UCRN-685BP",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "332",
+    "name": "VARROC H B SWITCH ASSY SUZKI GIXER BS3 N BS4 LH",
+    "category": "parts",
+    "price": "MRP. 886",
+    "description": "SWCH-GXER-34J00",
+    "image": "/varroc/SWCH-GXER-34J00.webp"
+  },
+  {
+    "id": "333",
+    "name": "VARROC H B SWITCH ASSY SUZKI GIXER ES RH",
+    "category": "parts",
+    "price": "MRP. 746",
+    "description": "SWCH-GXER-34J0",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "334",
+    "name": "VARROC H B SWITCH ASSY SUZKI GIXER ES BS4 RH",
+    "category": "parts",
+    "price": "MRP. 967",
+    "description": "SWCH-GXER-34J6",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "335",
+    "name": "VARROC H B SWITCH ASSY TVX APACHI 180 RTR SD LH",
+    "category": "parts",
+    "price": "MRP. 893",
+    "description": "SWCH-APCH-665AM",
+    "image": "/varroc/SWCH-APCH-665AM.webp"
+  },
+  {
+    "id": "336",
+    "name": "VARROC H B SWITCH ASSY BULET 350 DRUM RH",
+    "category": "parts",
+    "price": "MRP. 613",
+    "description": "SWCH-ENFD-0666T",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "337",
+    "name": "VARROC H B SWITCH ASSY F Z 16 V2 LH",
+    "category": "parts",
+    "price": "MRP. 753",
+    "description": "SWCH-YMFZ-2GSH",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "338",
+    "name": "VARROC H B SWITCH R 15 V1 V2 ES LH",
+    "category": "parts",
+    "price": "MRP. 871",
+    "description": "SWCH-YMFZ-20PH",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "339",
+    "name": "VARROC HB SWITCH ASSY XL100DRL WITH LEVER SS RH",
+    "category": "parts",
+    "price": "MRP. 819",
+    "description": "SWCH-XL10-M78B",
+    "image": "/varroc/SWCH-XL10-M78B.webp"
+  },
+  {
+    "id": "340",
+    "name": "VARROC HB SWITCH AVGR 220 CRUISE LH",
+    "category": "parts",
+    "price": "MRP. 960",
+    "description": "SWCH-AVGR-0671M",
+    "image": "/varroc/SWCH-AVGR-0671M.webp"
+  },
+  {
+    "id": "341",
+    "name": "VARROC HANDLE BAR SWITCH ASSY HONDA SHINE (LH) ",
+    "category": "parts",
+    "price": "MRP. 1039",
+    "description": "SWCH-SHNE-685Q",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "342",
+    "name": "VARROC HB SWITCH ASSY CB SHN SS LH",
+    "category": "parts",
+    "price": "MRP. 1063",
+    "description": "SWCH-CSHN-685AR",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "343",
+    "name": "VARROC H.B SWITCH ASSY SPLENDOR 10 WIRES (LH)",
+    "category": "parts",
+    "price": "MRP. 504",
+    "description": "SWCH-SPLS-722D",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "344",
+    "name": "VARROC HANDLE SWITCH ASSY. DISCOVER-OLD(LH) KS",
+    "category": "parts",
+    "price": "MRP. 789",
+    "description": "SWCH-DSVR-DJ24",
+    "image": "/varroc/SWCH-DSVR-DJ24.webp"
+  },
+  {
+    "id": "345",
+    "name": "VARROC HANDLE SWITCH ASSY. CT-100/PLATINA (LH)",
+    "category": "parts",
+    "price": "MRP. 585",
+    "description": "SWCH-C100-DD55",
+    "image": "/varroc/SWCH-C100-DD55.webp"
+  },
+  {
+    "id": "346",
+    "name": "VARROC DEEPER SWITCH ENFIELD",
+    "category": "parts",
+    "price": "MRP. 601",
+    "description": "SWCH-ENFD-5615",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "347",
+    "name": "VARROC H/B SWITCH TS (R500) TB CHOKE (LH)",
+    "category": "parts",
+    "price": "MRP. 707",
+    "description": "SWCH-ENFD-5829",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "348",
+    "name": "VARROC H/B SWITCH TS (R350) TB/ELETR (LH)",
+    "category": "parts",
+    "price": "MRP. 1133",
+    "description": "SWCH-ENFD-5841",
+    "image": "/varroc/no-img.webp"
   }
- 
 ]
