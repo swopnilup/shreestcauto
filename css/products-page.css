@@ -302,3 +302,200 @@
   .products-grid { grid-template-columns: 1fr; }
   .products-top-bar { flex-direction: column; align-items: flex-start; }
 }
+
+/* ─── PRODUCT DETAIL OVERLAY ─────────────────────── */
+#product-detail-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.35s ease;
+}
+
+#product-detail-overlay.active {
+  opacity: 1;
+  pointer-events: all;
+}
+
+.pd-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.75);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  cursor: pointer;
+}
+
+.pd-box {
+  position: relative;
+  z-index: 2;
+  background: #ffffff;
+  border-radius: 16px;
+  overflow: hidden;
+  width: 100%;
+  max-width: 900px;
+  max-height: 90vh;
+  overflow-y: auto;
+  box-shadow: 0 32px 80px rgba(0,0,0,0.45);
+  transform: translateY(24px) scale(0.97);
+  transition: transform 0.4s cubic-bezier(0.16,1,0.3,1);
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+#product-detail-overlay.active .pd-box {
+  transform: translateY(0) scale(1);
+}
+
+/* ── Close button ── */
+.pd-close {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  border: none;
+  background: rgba(0,0,0,0.15);
+  color: #1A1F2B;
+  font-size: 18px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 3;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+.pd-close:hover {
+  background: var(--c-red);
+  color: #fff;
+}
+
+/* ── Left: image ── */
+.pd-img-wrap {
+  background: #E8EAF0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 360px;
+  position: relative;
+  overflow: hidden;
+}
+
+.pd-img-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  pointer-events: none;
+  -webkit-user-drag: none;
+}
+
+.pd-img-placeholder {
+  font-size: 14px;
+  color: #9AA0B0;
+  font-weight: 500;
+}
+
+/* ── Right: info ── */
+.pd-info {
+  padding: 40px 36px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.pd-category {
+  display: inline-block;
+  background: rgba(215,43,43,0.08);
+  border: 1px solid rgba(215,43,43,0.2);
+  color: var(--c-red);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 4px 12px;
+  border-radius: 100px;
+  margin-bottom: 16px;
+}
+
+.pd-name {
+  font-family: var(--f-display);
+  font-size: clamp(20px, 2.5vw, 28px);
+  font-weight: 800;
+  color: #1A1F2B;
+  line-height: 1.2;
+  margin-bottom: 10px;
+  letter-spacing: 0.01em;
+}
+
+.pd-price {
+  font-size: 22px;
+  font-weight: 700;
+  color: #1A1F2B;
+  margin-bottom: 20px;
+}
+
+.pd-divider {
+  width: 48px;
+  height: 3px;
+  background: linear-gradient(90deg, var(--c-red), var(--c-blue));
+  border-radius: 2px;
+  margin-bottom: 20px;
+}
+
+.pd-desc {
+  font-size: 14.5px;
+  line-height: 1.8;
+  color: #4A5568;
+  margin-bottom: 32px;
+  flex: 1;
+}
+
+.pd-inquiry-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  background: var(--c-red);
+  color: #fff;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+  padding: 14px 28px;
+  border-radius: 8px;
+  transition: background 0.25s ease, transform 0.25s ease, box-shadow 0.25s ease;
+  box-shadow: 0 8px 24px rgba(215,43,43,0.3);
+  align-self: flex-start;
+}
+.pd-inquiry-btn:hover {
+  background: var(--c-red-hi);
+  transform: translateY(-2px);
+  box-shadow: 0 12px 28px rgba(215,43,43,0.4);
+}
+.pd-inquiry-btn svg { width: 16px; height: 16px; }
+
+/* ── Make cards feel clickable ── */
+.product-card {
+  cursor: pointer;
+}
+.product-card:hover {
+  border-color: rgba(215,43,43,0.3);
+}
+
+/* ─── RESPONSIVE ─────────────────────── */
+@media (max-width: 700px) {
+  .pd-box {
+    grid-template-columns: 1fr;
+    max-height: 92vh;
+  }
+  .pd-img-wrap { min-height: 220px; }
+  .pd-info { padding: 28px 22px 32px; }
+  .pd-inquiry-btn { width: 100%; justify-content: center; }
+}
