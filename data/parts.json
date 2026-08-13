@@ -2774,5 +2774,229 @@
     "price": "MRP. 1133",
     "description": "SWCH-ENFD-5841",
     "image": "/varroc/no-img.webp"
+  },
+    {
+    "id": "349",
+    "name": "VARROC SWITCH SPLENDOR ",
+    "category": "parts",
+    "price": "MRP. 697",
+    "description": "IGHH-SPDR-SW07",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "350",
+    "name": "VARROC SWITCH SPLENDOR ",
+    "category": "parts",
+    "price": "MRP. 976",
+    "description": "IGHH-SPDR-KT9",
+    "image": "/varroc/IGHH-SPDR-KT9.webp"
+  },
+  {
+    "id": "351",
+    "name": "VARROC SWITCH PASSION PLUS ",
+    "category": "parts",
+    "price": "MRP. 1910",
+    "description": "IGHH-PSNP-KT12",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "352",
+    "name": "VARROC SWITCH PULSAR  180CC",
+    "category": "parts",
+    "price": "MRP. 2229",
+    "description": "IGRJ-P180-KT42",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "353",
+    "name": "VARROC SWITCH PLATINA  UG ",
+    "category": "parts",
+    "price": "MRP. 1184",
+    "description": "IGRJ-PLUG-KT51",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "354",
+    "name": "VARROC IGNITION SWITCH XCED 226BZ",
+    "category": "parts",
+    "price": "MRP. 889",
+    "description": "IGSW-BJXC-26BZ",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "355",
+    "name": "VARROC IGNITION SWITCH SHN 278Z",
+    "category": "parts",
+    "price": "MRP. 937",
+    "description": "IGSW-SHIN-278Z",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "356",
+    "name": "VARROC SWITCH KIT 2 WIRE SET OF 2 NTRQ",
+    "category": "parts",
+    "price": "MRP. 1358",
+    "description": "IGSW-NTRQ-76GZ",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "357",
+    "name": "VARROC SWITCH KIT 2 WIRE SET OF 4 FT CAP PLSR",
+    "category": "parts",
+    "price": "MRP. 1846",
+    "description": "IGSW-PLSR-68UZ",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "358",
+    "name": "VARROC SWITCH KIT 2 WIRE SET 4 FT LID PLSR 220",
+    "category": "parts",
+    "price": "MRP. 1421",
+    "description": "IGSW-PLSR-184Z",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "359",
+    "name": "VARROC SWITCH KIT 2 WIRE SET OF 3 CB SHIN",
+    "category": "parts",
+    "price": "MRP. 1689",
+    "description": "IGSW-SHIN-61MZ",
+    "image": "/varroc/IGSW-SHIN-61MZ.webp"
+  },
+  {
+    "id": "360",
+    "name": "VARROC SWITCH KIT 2 WIRE SET 3 APACHI 160 180",
+    "category": "parts",
+    "price": "MRP. 1594",
+    "description": "IGSW-APCH-58BZ",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "361",
+    "name": "VARROC SWITCH KIT 2 WIRE SET 4 FT CAP PLSR 220",
+    "category": "parts",
+    "price": "MRP. 2031",
+    "description": "IGSW-PLSR-84HZ",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "362",
+    "name": "VARROC SWITCH IGNITION 2WIRE PLSR 220 WAVE KEYS",
+    "category": "parts",
+    "price": "MRP. 986",
+    "description": "IGSW-PLSR-SW48Z",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "363",
+    "name": "VARROC IGNITION SWITCH PLSR NM 226Z",
+    "category": "parts",
+    "price": "MRP. 931",
+    "description": "IGBJ-PLSR-SW45",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "364",
+    "name": "VARROC SWITCH KIT SETOF 3 DSVR125 135 152NZ",
+    "category": "parts",
+    "price": "MRP. 1340",
+    "description": "IGBJ-DSVR-KT48",
+    "image": "/varroc/no-img.webp"
+  },
+    {
+    "id": "365",
+    "name": "VARROC BRAKE SWITCH REAR ACTIVA (O/M & N/M)",
+    "category": "parts",
+    "price": "MRP. 111",
+    "description": "BRSW-ACTV-HM207",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "366",
+    "name": "VARROC BRAKE SWITCH FRONT RH ACTVA LATEST",
+    "category": "parts",
+    "price": "MRP. 106",
+    "description": "BRSW-ACTV-HM233",
+    "image": "/varroc/BRSW-ACTV-HM233.webp"
+  },
+  {
+    "id": "367",
+    "name": "VARROC BRAKE SWITCH FRONT ACTIVA (O/M & N/M)",
+    "category": "parts",
+    "price": "MRP. 102",
+    "description": "BRSW-ACTV-HM208",
+    "image": "/varroc/BRSW-ACTV-HM208.webp"
+  },
+  {
+    "id": "368",
+    "name": "VARROC BRAKE SWITCH FRONT LH ACTIVA LATEST",
+    "category": "parts",
+    "price": "MRP. 83",
+    "description": "BRSW-ACTV-HM234",
+    "image": "/varroc/BRSW-ACTV-HM234.webp"
+  },
+  {
+    "id": "369",
+    "name": "VARROC BRAKE SWITCH REAR YAMAHA LIBERO/FAZER",
+    "category": "parts",
+    "price": "MRP. 140",
+    "description": "BRSW-FAZR-YM250",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "370",
+    "name": "VARROC BRAKE SWITCH REAR PLSR 150/180 SS/KS",
+    "category": "parts",
+    "price": "MRP. 136",
+    "description": "BRSW-PLSR-BJ212",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "371",
+    "name": "VARROC BRAKE SWITCH  FRONT SHINE",
+    "category": "parts",
+    "price": "MRP. 101",
+    "description": "BRSW-SHNE-HH226",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "372",
+    "name": "VARROC BRAKE SWITCH REAR HERO SPLENDOR",
+    "category": "parts",
+    "price": "MRP. 128",
+    "description": "BRSW-SPDR-HH205",
+    "image": "/varroc/BRSW-SPDR-HH205.webp"
+  },
+  {
+    "id": "373",
+    "name": "VARROC BRAKE SWITCH FRONT HERO SPLENDOR",
+    "category": "parts",
+    "price": "MRP. 104",
+    "description": "BRSW-SPDR-HH206",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "374",
+    "name": "VARROC BRAKE SWITCH REAR HONDA UNICORN",
+    "category": "parts",
+    "price": "MRP. 128",
+    "description": "BRSW-UCRN-HM232",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "375",
+    "name": "VARROC BRAKE SWITCH REAR FORNT C-100",
+    "category": "parts",
+    "price": "MRP. 112",
+    "description": "BRSW-C100-0715",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "376",
+    "name": "VARROC BRAKE SWITCH REAR PLSR 200NS ",
+    "category": "parts",
+    "price": "MRP. 113",
+    "description": "BRSW-20NS-BJ272",
+    "image": "/varroc/no-img.webp"
   }
 ]
