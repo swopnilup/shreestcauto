@@ -2493,7 +2493,7 @@
     "category": "parts",
     "price": "MRP. 314",
     "description": "SWCH-SPLD-0686L",
-    "image": "/varroc/SWCH-SPLD-0686L"
+    "image": "/varroc/no-img.webp"
   },
   {
     "id": "314",
@@ -3157,7 +3157,7 @@
     "category": "parts",
     "price": "MRP. 1216",
     "description": "ICOL-AUTO NW-BJ09",
-    "image": "/varroc/ICOL-AUTO NW-BJ09.webp"
+    "image": "/varroc/ICOL-AUTO-NW-BJ09.webp"
   },
   {
     "id": "397",
@@ -3165,7 +3165,7 @@
     "category": "parts",
     "price": "MRP. 462",
     "description": "ICOL-PLSR-BJ10",
-    "image": "/varroc/"
+    "image": "/varroc/ICOL-PLSR-BJ10.webp"
   },
   {
     "id": "398",
