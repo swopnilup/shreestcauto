@@ -2998,5 +2998,237 @@
     "price": "MRP. 113",
     "description": "BRSW-20NS-BJ272",
     "image": "/varroc/no-img.webp"
+  },
+    {
+    "id": "377",
+    "name": "VARROC HT/IGNITION COIL HONDA K-32",
+    "category": "parts",
+    "price": "MRP. 593",
+    "description": "ICOL-ACNM-K329",
+    "image": "/varroc/ICOL-ACNM-K329.webp"
+  },
+  {
+    "id": "378",
+    "name": "VARROC HT/IGNITION COIL ACTIVA HET/I/D-YUGA HET",
+    "category": "parts",
+    "price": "MRP. 607",
+    "description": "ICOL-AHET-H605",
+    "image": "/varroc/ICOL-AHET-H605.webp"
+  },
+  {
+    "id": "379",
+    "name": "VARROC HT/IGNITION COIL APACHE RTR 160 CC - NEW",
+    "category": "parts",
+    "price": "MRP. 958",
+    "description": "ICOL-APCH-T439",
+    "image": "/varroc/ICOL-APCH-T439.webp"
+  },
+  {
+    "id": "380",
+    "name": "VARROC HT/IGNITION COIL APACHE ALL MODELS BS6",
+    "category": "parts",
+    "price": "MRP. 919",
+    "description": "ICOL-APCH-T443 ",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "381",
+    "name": "VARROC HT/IGNITION DUK 125/200/375/390CC",
+    "category": "parts",
+    "price": "MRP. 645",
+    "description": "ICOL-BDUK-B313",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "382",
+    "name": "VARROC HT/IGNITION COIL ROYAL ENFIELD",
+    "category": "parts",
+    "price": "MRP. 1101",
+    "description": "ICOL-ENFD-096A",
+    "image": "/varroc/ICOL-ENFD-096A.webp"
+  },
+  {
+    "id": "383",
+    "name": "VARROC HT/IGNITION COIL GLADIATOR, SS 125",
+    "category": "parts",
+    "price": "MRP. 444",
+    "description": "ICOL-GLDR-Y911",
+    "image": "/varroc/ICOL-GLDR-Y911.webp"
+  },
+  {
+    "id": "384",
+    "name": "VARROC HT/IGNITION COIL HERO CBZ 150CC",
+    "category": "parts",
+    "price": "MRP. 545",
+    "description": "ICOL-HCBZ-AABH",
+    "image": "/varroc/ICOL-HCBZ-AABH.webp"
+  },
+  {
+    "id": "385",
+    "name": "VARROC HT/IGNITION COIL PLEASURE",
+    "category": "parts",
+    "price": "MRP. 332",
+    "description": "ICOL-PLSR-H524",
+    "image": "/varroc/ICOL-PLSR-H524.webp"
+  },
+  {
+    "id": "386",
+    "name": "VARROC HT/IGNITION COIL SUPER SPLENDOR/GLAMOUR",
+    "category": "parts",
+    "price": "MRP. 630",
+    "description": "ICOL-SSPL-KTC9",
+    "image": "/varroc/ICOL-SSPL-KTC9.webp"
+  },
+  {
+    "id": "387",
+    "name": "VARROC HT/IGNITION COIL HONDA TWISTER",
+    "category": "parts",
+    "price": "MRP. 755",
+    "description": "ICOL-TWSR-KWS9",
+    "image": "/varroc/ICOL-TWSR-KWS9.webp"
+  },
+  {
+    "id": "388",
+    "name": "VARROC HT/IGNITION COIL WEGO/JUPITOR/SCOTY ZEST",
+    "category": "parts",
+    "price": "MRP. 691",
+    "description": "ICOL-WEGO-TV15",
+    "image": "/varroc/ICOL-WEGO-TV15.webp"
+  },
+  {
+    "id": "389",
+    "name": "VARROC HT/IGNITION COIL RAY-Z/RAY/FZ/FZS/FAZER",
+    "category": "parts",
+    "price": "MRP. 455",
+    "description": "ICOL-YRAY-Y912",
+    "image": "/varroc/ICOL-YRAY-Y912.webp"
+  },
+  {
+    "id": "390",
+    "name": "VARROC HT IGNITION COIL FASCINO 125 CC RAY Z",
+    "category": "parts",
+    "price": "MRP. 758",
+    "description": "ICOL-YMFZ-Y918",
+    "image": "/varroc/ICOL-YMFZ-Y918.webp"
+  },
+  {
+    "id": "391",
+    "name": "VARROC HT IGNITION COIL HIRO SCOOTER/BIKE BS6",
+    "category": "parts",
+    "price": "MRP. 446",
+    "description": "ICOL-HIRO-H527",
+    "image": "/varroc/ICOL-HIRO-H527.webp"
+  },
+  {
+    "id": "392",
+    "name": "VARROC HT/IGNITION COIL BOXER/ AVER WAVE",
+    "category": "parts",
+    "price": "MRP. 483",
+    "description": "ICOL-BOXR-BJ02",
+    "image": "/varroc/ICOL-BOXR-BJ02.webp"
+  },
+  {
+    "id": "393",
+    "name": "VARROC HT/IGNITION COIL HERO C-100 / STGREET",
+    "category": "parts",
+    "price": "MRP. 571",
+    "description": "ICOL-CD10-HH15",
+    "image": "/varroc/ICOL-CD10-HH15.webp"
+  },
+  {
+    "id": "394",
+    "name": "VARROC HT/IGNITION COIL HERO DAWN / DLX SUP. SPL.",
+    "category": "parts",
+    "price": "MRP. 560",
+    "description": "ICOL-DAWN-HH18",
+    "image": "/varroc/ICOL-DAWN-HH18.webp"
+  },
+  {
+    "id": "395",
+    "name": "VARROC HT/IGNITION COIL K 100 /4S/CALIBER",
+    "category": "parts",
+    "price": "MRP. 483",
+    "description": "ICOL-KB10-J01",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "396",
+    "name": "VARROC HT/IGNITION COIL CNG AUTO ( NEW) ",
+    "category": "parts",
+    "price": "MRP. 1216",
+    "description": "ICOL-AUTO NW-BJ09",
+    "image": "/varroc/ICOL-AUTO NW-BJ09.webp"
+  },
+  {
+    "id": "397",
+    "name": "VARROC HT/IGNITION COIL PULSAR ALL MODELS/ CT-100",
+    "category": "parts",
+    "price": "MRP. 462",
+    "description": "ICOL-PLSR-BJ10",
+    "image": "/varroc/"
+  },
+  {
+    "id": "398",
+    "name": "VARROC HT IGNITION COIL PLSR 150/180/200 BS6",
+    "category": "parts",
+    "price": "MRP. 571",
+    "description": "ICOL-PLSR-B320",
+    "image": "/varroc/ICOL-PLSR-BJ10.webp"
+  },
+  {
+    "id": "399",
+    "name": "VARROC HT/IGNITION COIL PLSR 200NS 3 SPRK PLUG",
+    "category": "parts",
+    "price": "MRP. 840",
+    "description": "ICOL-20NS-B312",
+    "image": "/varroc/ICOL-20NS-B312.webp"
+  },
+  {
+    "id": "400",
+    "name": "VARROC HT/IGNITION COIL HERO SPLENDOR( Y2K)",
+    "category": "parts",
+    "price": "MRP. 451",
+    "description": "ICOL-SPDR-HH16",
+    "image": "/varroc/ICOL-SPDR-HH16.webp"
+  },
+  {
+    "id": "401",
+    "name": "VARROC HT/IGNITION COIL HONDA UNICORN",
+    "category": "parts",
+    "price": "MRP. 632",
+    "description": "ICOL-UCRN-HM20",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "402",
+    "name": "VARROC HT/IGNITION COIL ROYAL ENFIELD",
+    "category": "parts",
+    "price": "MRP. 1101",
+    "description": "ICOL-ENFD-096A",
+    "image": "/varroc/ICOL-ENFD-096A-i.webp"
+  },
+  {
+    "id": "403",
+    "name": "VARROC HT/IGNITION COIL COMPAQ ",
+    "category": "parts",
+    "price": "MRP. 370",
+    "description": "ICOL-AUTO4-B316",
+    "image": "/varroc/ICOL-AUTO4-B316.webp"
+  },
+  {
+    "id": "404",
+    "name": "VARROC HT IGNITION COIL SPLD PRO NXGE P PRO",
+    "category": "parts",
+    "price": "MRP. 612",
+    "description": "ICOL-SPRO-AAFH",
+    "image": "/varroc/ICOL-SPRO-AAFH.webp"
+  },
+  {
+    "id": "405",
+    "name": "VARROC HT IGNITION COIL RODIO RZ UZO 125 FLYT",
+    "category": "parts",
+    "price": "MRP. 343",
+    "description": "ICOL-RDEO-Y909",
+    "image": "/varroc/ICOL-RDEO-Y909.webp"
   }
 ]
