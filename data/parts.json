@@ -4214,5 +4214,413 @@
     "price": "MRP. 302",
     "description": "REVM-GXER-RH370",
     "image": "/varroc/REVM-GXER-LH360.webp"
+  },
+    {
+    "id": "529",
+    "name": "BLINKER ASS FR LH(WITHOUT BULB)-XCED-135",
+    "category": "parts",
+    "price": "MRP. 235",
+    "description": "BLKR-XCED-JD03",
+    "image": "/varroc/BLKR-XCED-JD03.png"
+  },
+  {
+    "id": "530",
+    "name": "BLINKER ASS FR RH(WITHOUT BULB)-XCED-135",
+    "category": "parts",
+    "price": "MRP. 235",
+    "description": "BLKR-XCED-JD04",
+    "image": "/varroc/BLKR-XCED-JD04.webp"
+  },
+  {
+    "id": "531",
+    "name": "BLINKER RR LH-HH SPLENDOR",
+    "category": "parts",
+    "price": "MRP. 248",
+    "description": "BLKR-SPDR-HH09",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "532",
+    "name": "BLINKER RR RH-HH SPLENDOR",
+    "category": "parts",
+    "price": "MRP. 248",
+    "description": "BLKR-SPDR-HH10",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "533",
+    "name": "BLINKER UNIVERSAL PASION PRO NATURAL LH",
+    "category": "parts",
+    "price": "MRP. 218",
+    "description": "BLKR-PSPR-HH113U",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "534",
+    "name": "BLINKER UNIVERSAL  PASION PRO NATURAL RH",
+    "category": "parts",
+    "price": "MRP. 206",
+    "description": "BLKR-PSPR-HH116U",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "535",
+    "name": "BLINKER RR LH- HH SPLENDOR PLUS",
+    "category": "parts",
+    "price": "MRP. 214",
+    "description": "BLKR-SPLP-HH13",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "536",
+    "name": "BLINKER RR RH-HH SPLENDOR PLUS",
+    "category": "parts",
+    "price": "MRP. 201",
+    "description": "BLKR-SPLP-HH14",
+    "image": "/varroc/BLKR-SPLP-HH14"
+  },
+  {
+    "id": "537",
+    "name": "BLINKER UNIVERSAL SPLENDOR PLUS AMBER",
+    "category": "parts",
+    "price": "MRP. 175",
+    "description": "BLKR-SPLP-HH11U",
+    "image": "/varroc/BLKR-SPLP-HH11U.webp"
+  },
+  {
+    "id": "538",
+    "name": "BLINKER RR LH PULSAR (NAT)",
+    "category": "parts",
+    "price": "MRP. 201",
+    "description": "BLKR-PSWB-BJ75",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "539",
+    "name": "BLINKER RR RH PULSAR (NAT)",
+    "category": "parts",
+    "price": "MRP. 201",
+    "description": "BLKR-PSWB-BJ76",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "540",
+    "name": "BLINKER RR LH SHINE",
+    "category": "parts",
+    "price": "MRP. 196",
+    "description": "BLKR-SHNE-HM107",
+    "image": "/varroc/BLKR-SHNE-HM107.webp"
+  },
+  {
+    "id": "541",
+    "name": "BLINKER RR RH SHINE",
+    "category": "parts",
+    "price": "MRP. 196",
+    "description": "BLKR-SHNE-HM108",
+    "image": "/varroc/BLKR-SHNE-HM108.webp"
+  },
+  {
+    "id": "542",
+    "name": "BLINKER UNIVERSAL SHINB\\E NATURAL",
+    "category": "parts",
+    "price": "MRP. 205",
+    "description": "BLKR-SHIN-HM105U",
+    "image": "/varroc/BLKR-SHIN-HM105U.webp"
+  },
+  {
+    "id": "543",
+    "name": "BLINKER RR LH UNICORN",
+    "category": "parts",
+    "price": "MRP. 275",
+    "description": "BLKR-UCRN-HM111",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "544",
+    "name": "BLINKER RR RH UNICORN",
+    "category": "parts",
+    "price": "MRP. 275",
+    "description": "BLKR-UCRN-HM112",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "545",
+    "name": "BLINKER RR LH PULSAR (NAT)",
+    "category": "parts",
+    "price": "MRP. 201",
+    "description": "BLKR-PSWB-BJ73F",
+    "image": "/varroc/BLKR-PSWB-BJ73F.webp"
+  },
+  {
+    "id": "546",
+    "name": "BLINKER RR  PULSAR",
+    "category": "parts",
+    "price": "MRP. 230",
+    "description": "BLKR-PSWB-BJ73U",
+    "image": "/varroc/BLKR-PSWB-BJ73U.webp"
+  },
+  {
+    "id": "547",
+    "name": "BLINKER RR RH PULSAR (NAT)",
+    "category": "parts",
+    "price": "MRP. 201",
+    "description": "BLKR-PSWB-BJ73R",
+    "image": "/varroc/BLKR-PSWB-BJ73R.webp"
+  },
+  {
+    "id": "548",
+    "name": "BLINKER FR LH PULSAR",
+    "category": "parts",
+    "price": "MRP. 328",
+    "description": "BLKR-PLSR-JL05",
+    "image": "/varroc/BLKR-PLSR-JL05.webp"
+  },
+  {
+    "id": "549",
+    "name": "BLINKER FR RH PULSAR ",
+    "category": "parts",
+    "price": "MRP. 328",
+    "description": "BLKR-PLSR-JL06",
+    "image": "/varroc/BLKR-PLSR-JL06.webp"
+  },
+  {
+    "id": "550",
+    "name": "BLINKER FR RH BAJAJ DISCOVER 100/150",
+    "category": "parts",
+    "price": "MRP. 259",
+    "description": "BLKR-DICO-BJ125",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "551",
+    "name": "BLINKER FR LH BAJAJ DISCOVER 100/150",
+    "category": "parts",
+    "price": "MRP. 259",
+    "description": "BLKR-DICO-BJ126",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "552",
+    "name": "BLINKER RR LH PLTN-NATURAL",
+    "category": "parts",
+    "price": "MRP. 196",
+    "description": "BLKR-PTWB-BJ67",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "553",
+    "name": "BLINKER RR RH PLTN-NATURAL",
+    "category": "parts",
+    "price": "MRP. 196",
+    "description": "BLKR-PTWB-BJ68",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "554",
+    "name": "BLINKER RR LH GLAMOUR/ACHIEVER N/M-AMBER",
+    "category": "parts",
+    "price": "MRP. 209",
+    "description": "BLKR-GLMR-HH37",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "555",
+    "name": "BLINKER RR RH GLAMOUR/ACHIEVER N/M-AMBER",
+    "category": "parts",
+    "price": "MRP. 209",
+    "description": "BLKR-GLMR-HH38",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "556",
+    "name": "BLINKKER FR LH GLAMOUR/HFDLX/DAWN-NATURAL",
+    "category": "parts",
+    "price": "MRP. 195",
+    "description": "BLKR-GLMN-HH117",
+    "image": "/varroc/BLKR-GLMN-HH117.webp"
+  },
+  {
+    "id": "557",
+    "name": "BLINKKER FR RH GLAMOUR/HFDLX/DAWN-NATURAL",
+    "category": "parts",
+    "price": "MRP. 195",
+    "description": "BLKR-GLMN-HH118",
+    "image": "/varroc/BLKR-GLMN-HH118.webp"
+  },
+  {
+    "id": "558",
+    "name": "BLINKER RR LH GLAMOUR/HFDLX/DAWN-NATURAL",
+    "category": "parts",
+    "price": "MRP. 195",
+    "description": "BLKR-GLMN-HH119",
+    "image": "/varroc/BLKR-GLMN-HH119.webp"
+  },
+  {
+    "id": "559",
+    "name": "BLINKER RR RH GLAMOUR/HFDLX/DAWN-NATURAL",
+    "category": "parts",
+    "price": "MRP. 195",
+    "description": "BLKR-GLMN-HH120",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "560",
+    "name": "BLINKER RR LH STUNNER-NATURAL",
+    "category": "parts",
+    "price": "MRP. 227",
+    "description": "BLKR-STNR-HM133",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "561",
+    "name": "BLINKER RR RH STUNNER-NATURAL",
+    "category": "parts",
+    "price": "MRP. 227",
+    "description": "BLKR-STNR-HM134",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "562",
+    "name": "BLINKER UNIVERSAL YAMHA F-Z R 15 NATURAL",
+    "category": "parts",
+    "price": "MRP. 218",
+    "description": "BLKR-YR15-YM35U",
+    "image": "/varroc/BLKR-YR15-YM35U.webp"
+  },
+  {
+    "id": "563",
+    "name": "BLINKER FR LH YAMAHA FZ/15 NATURAL",
+    "category": "parts",
+    "price": "MRP. 200",
+    "description": "BLKR-YR15-YM35",
+    "image": "/varroc/BLKR-YR15-YM35.webp"
+  },
+  {
+    "id": "564",
+    "name": "BLINKER FR RH YAMAHA FZ/15 NATURAL",
+    "category": "parts",
+    "price": "MRP. 200",
+    "description": "BLKR-YR15-YM36",
+    "image": "/varroc/BLKR-YR15-YM36.webp"
+  },
+  {
+    "id": "565",
+    "name": "BLINKER RR LH YAMAHA FZR15 NATURAL",
+    "category": "parts",
+    "price": "MRP. 200",
+    "description": "BLKR-YR15-YM37",
+    "image": "/varroc/BLKR-YR15-YM37.webp"
+  },
+  {
+    "id": "566",
+    "name": "BLINKER RR RH YAMAHA FZR15 NATURAL",
+    "category": "parts",
+    "price": "MRP. 200",
+    "description": "BLKR-YR15-YM38",
+    "image": "/varroc/BLKR-YR15-YM38.webp"
+  },
+  {
+    "id": "567",
+    "name": "BLINKER RR LH APACHI RTR 200CC NATURAL",
+    "category": "parts",
+    "price": "MRP. 241",
+    "description": "BLKR-APCH-TV216",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "568",
+    "name": "BLINKER RR RH APACHI RTR 200CC NATURAL",
+    "category": "parts",
+    "price": "MRP. 241",
+    "description": "BLKR-APCH-TV217",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "569",
+    "name": "BLINKER RH LH  TVS APACHE  RTR (NATURAL)",
+    "category": "parts",
+    "price": "MRP. 241",
+    "description": "BLKR-ARTR-TV161",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "570",
+    "name": "BLINKER RH RH  TVS APACHE  RTR (NATURAL)",
+    "category": "parts",
+    "price": "MRP. 241",
+    "description": "BLKR-ARTR-TV162",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "571",
+    "name": "BLINKER RH LH  TVS APACHE  RTR (NATURAL)",
+    "category": "parts",
+    "price": "MRP. 241",
+    "description": "BLKR-ARTR-TV159",
+    "image": "/varroc/BLKR-ARTR-TV159.webp"
+  },
+  {
+    "id": "572",
+    "name": "BLINKER UNIVERSAL APACHI RTR NATURAL",
+    "category": "parts",
+    "price": "MRP. 259",
+    "description": "BLKR-ARTR-TV159U",
+    "image": "/varroc/BLKR-ARTR-TV159U.webp"
+  },
+  {
+    "id": "573",
+    "name": "BLINKER THUNDER BIRD (LH+RH) FR",
+    "category": "parts",
+    "price": "MRP. 270",
+    "description": "BLKR-TBRD-RE171 F",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "574",
+    "name": "BLINKER THUNDER BIRD (LH+RH) RR",
+    "category": "parts",
+    "price": "MRP. 270",
+    "description": "BLKR-TBRD-RE171 R",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "575",
+    "name": "BLINKKER FR RH BULLET ELECTRA (AMBER)",
+    "category": "parts",
+    "price": "MRP. 364",
+    "description": "BLKR-ELCT-RE168",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "576",
+    "name": "BLINKKER RH LH BULLET ELECTRA (AMBER)",
+    "category": "parts",
+    "price": "MRP. 364",
+    "description": "BLKR-ELCT-RE169",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "577",
+    "name": "BLINKER LED UNIVERSAL KTEMD 200CC 390CC",
+    "category": "parts",
+    "price": "MRP. 335",
+    "description": "BLKR-KTEM-BJ218",
+    "image": "/varroc/BLKR-KTEM-BJ218.webp"
+  },
+  {
+    "id": "578",
+    "name": "BLINKER NUMBER PLATE LAMP PLSR UG3",
+    "category": "parts",
+    "price": "MRP. 224",
+    "description": "BLKR-PLSR-DK24",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "579",
+    "name": "NUMBER PLATE LAMP DSVR APACHI WITH BULB",
+    "category": "parts",
+    "price": "MRP. 178",
+    "description": "BLKR-DSVR-JD07",
+    "image": "/varroc/no-img.webp"
   }
 ]
