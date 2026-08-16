@@ -3230,5 +3230,989 @@
     "price": "MRP. 343",
     "description": "ICOL-RDEO-Y909",
     "image": "/varroc/ICOL-RDEO-Y909.webp"
+  },
+    {
+    "id": "406",
+    "name": "VARROC COIL PLATE ASSY TVX RADEEON ES BS6",
+    "category": "parts",
+    "price": "MRP. 1820",
+    "description": "MGCP-RDEN-NA40",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "407",
+    "name": "VARROC COIL PLATE ASSY TVS NTORQ 12P",
+    "category": "parts",
+    "price": "MRP. 1464",
+    "description": "MGCP-NTRQ-K190",
+    "image": "/varroc/MGCP-NTRQ-K190.webp"
+  },
+  {
+    "id": "408",
+    "name": "VARROC COIL PLATE ASSY CLSC 350 / ELECTRA",
+    "category": "parts",
+    "price": "MRP. 2264",
+    "description": "MGCP-ENFD-5767",
+    "image": "/varroc/MGCP-ENFD-5767.webp"
+  },
+  {
+    "id": "409",
+    "name": "VARROC COIL PLATE ASSY HIMALYAN BS4",
+    "category": "parts",
+    "price": "MRP. 2986",
+    "description": "MGCP-ENFD-5703",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "410",
+    "name": "VARROC COIL PLATE ASSY KTEMD 200 CC",
+    "category": "parts",
+    "price": "MRP. 2812",
+    "description": "MGCP-KTEM-JG05",
+    "image": "/varroc/MGCP-KTEM-JG05.webp"
+  },
+  {
+    "id": "411",
+    "name": "VARROC COIL PLATE ASSY KTEMD 390 CC",
+    "category": "parts",
+    "price": "MRP. 4368",
+    "description": "MGCP-KTEM-JY29",
+    "image": "/varroc/MGCP-KTEM-JY29.webp"
+  },
+  {
+    "id": "412",
+    "name": "VARROC COIL PLATE ASSY PASSION PRO/CD DELUXE",
+    "category": "parts",
+    "price": "MRP. 1724",
+    "description": "MGCP-PSPR-3131",
+    "image": "/varroc/MGCP-PSPR-3131.webp"
+  },
+  {
+    "id": "413",
+    "name": "VARROC COIL PLATE ASSY SUZKI AXCESS",
+    "category": "parts",
+    "price": "MRP. 1772",
+    "description": "MGCP-ACES-3200",
+    "image": "/varroc/MGCP-ACES-3200.webp"
+  },
+  {
+    "id": "414",
+    "name": "VARROC COIL PLATE ASSY DISCOVER 125 T",
+    "category": "parts",
+    "price": "MRP. 2160",
+    "description": "MGRT-DSVR-JE05",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "415",
+    "name": "VARROC COIL PLATE ASSY DISCOVER 100",
+    "category": "parts",
+    "price": "MRP. 2307",
+    "description": "MGCP-DSVR-JB22",
+    "image": "/varroc/MGCP-DSVR-JB22.webp"
+  },
+  {
+    "id": "416",
+    "name": "VARROC COIL PLATE ASSY DIS 125/150/PULSAR 135",
+    "category": "parts",
+    "price": "MRP. 2291",
+    "description": "MGCP-DSVR-JP07",
+    "image": "/varroc/MGCP-DSVR-JP07.webp"
+  },
+  {
+    "id": "417",
+    "name": "VARROC COIL PLATE ASSY PULSAR-150 BS6",
+    "category": "parts",
+    "price": "MRP. 2322",
+    "description": "MGCP-PLSR-DH22",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "418",
+    "name": "VARROC COIL PLATE ASSY PLSR 125 BS6",
+    "category": "parts",
+    "price": "MRP. 2016",
+    "description": "MGCP-PLSR-DH48",
+    "image": "/varroc/MGCP-PLSR-DH48.webp"
+  },
+  {
+    "id": "419",
+    "name": "VARROC COIL PLATE ASSY PULSAR-220-(SS)",
+    "category": "parts",
+    "price": "MRP. 1921",
+    "description": "MGCP-PLSR-DJ21",
+    "image": "/varroc/MGCP-PLSR-DJ21.webp"
+  },
+  {
+    "id": "420",
+    "name": "VARROC COIL PLATE ASSY PULSAR-200 NS",
+    "category": "parts",
+    "price": "MRP. 2517",
+    "description": "MGCP-PLSR-JL03",
+    "image": "/varroc/MGCP-PLSR-JL03.webp"
+  },
+  {
+    "id": "421",
+    "name": "VARROC COIL PLATE ASSY PULSAR-220-(SS) OLD",
+    "category": "parts",
+    "price": "MRP. 2578",
+    "description": "MGCP-PLSR-DJ59",
+    "image": "/varroc/MGCP-PLSR-DJ59.webp"
+  },
+  {
+    "id": "422",
+    "name": "VARROC COIL PLATE ASSY PULSAR-180",
+    "category": "parts",
+    "price": "MRP. 2333",
+    "description": "MGCP-PLSR-DJ04",
+    "image": "/varroc/MGCP-PLSR-DJ04.webp"
+  },
+  {
+    "id": "423",
+    "name": "VARROC COIL PLATE ASSY PULSAR 220CC (18 POLE)",
+    "category": "parts",
+    "price": "MRP. 2577",
+    "description": "MGCP-PLSR-DK39",
+    "image": "/varroc/MGCP-PLSR-DK39.webp"
+  },
+  {
+    "id": "424",
+    "name": "VARROC COIL PLATE ASSY PULSAR 150/180 (UG4)",
+    "category": "parts",
+    "price": "MRP. 2196",
+    "description": "MGCP-PLSR-DH81",
+    "image": "/varroc/MGCP-PLSR-DH81.webp"
+  },
+  {
+    "id": "425",
+    "name": "VARROC COIL PLATE ASSY DISCOVER",
+    "category": "parts",
+    "price": "MRP. 2417",
+    "description": "MGCP-DSVR-DS16",
+    "image": "/varroc/MGCP-DSVR-DS16.webp"
+  },
+  {
+    "id": "426",
+    "name": "VARROC COIL PLATE ASSY  DSVR  100 4G/BOXR BM100",
+    "category": "parts",
+    "price": "MRP. 1706",
+    "description": "MGCP-DSVR-PF06",
+    "image": "/varroc/MGCP-DSVR-PF06.webp"
+  },
+  {
+    "id": "427",
+    "name": "VARROC COIL PLATE ASSY DSVR 135 SS",
+    "category": "parts",
+    "price": "MRP. 1783",
+    "description": "MGCP-DVSR-DS49",
+    "image": "/varroc/MGCP-DVSR-DS49.webp"
+  },
+  {
+    "id": "428",
+    "name": "VARROC COIL PLATE ASSY DSVR ",
+    "category": "parts",
+    "price": "MRP. 2004",
+    "description": "MGCP-DSVR-PA03",
+    "image": "/varroc/MGCP-DSVR-PA03.webp"
+  },
+  {
+    "id": "429",
+    "name": "VARROC COIL PLATE ASSY PLTN 125",
+    "category": "parts",
+    "price": "MRP. 2141",
+    "description": "MGCP-PLTN-JK01",
+    "image": "/varroc/MGCP-PLTN-JK01.webp"
+  },
+  {
+    "id": "430",
+    "name": "VARROC COIL PLATE ASSY HONDA ACTIVA(N/M)",
+    "category": "parts",
+    "price": "MRP. 2294",
+    "description": "MGCP-ATVA-NEWM",
+    "image": "/varroc/MGCP-ATVA-NEWM.webp"
+  },
+  {
+    "id": "431",
+    "name": "VARROC COIL PLATE ASSY HONDA ACTIVA HET 12 POLE",
+    "category": "parts",
+    "price": "MRP. 2000",
+    "description": "MGCP-ATVA-HETM",
+    "image": "/varroc/MGCP-ATVA-HETM.webp"
+  },
+  {
+    "id": "432",
+    "name": "VARROC COIL PLATE ASSY PLEASURE 110 BSIV 31AAL9",
+    "category": "parts",
+    "price": "MRP. 1617",
+    "description": "MGCP-PLEA-5139",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "433",
+    "name": "VARROC COIL PLATE ASSY SPLENDER PLUS BS6",
+    "category": "parts",
+    "price": "MRP. 1883",
+    "description": "MGCP-SPL6-AAEB1",
+    "image": "/varroc/MGCP-SPL6-AAEB1.webp"
+  },
+  {
+    "id": "434",
+    "name": "VARROC COIL PLATE ASSY DURO/RODEO/FLYTE",
+    "category": "parts",
+    "price": "MRP. 2453",
+    "description": "MGCP-MM2W-DURO",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "435",
+    "name": "VARROC COIL PLATE ASSY SHINE",
+    "category": "parts",
+    "price": "MRP. 2136",
+    "description": "MGCP-SHIN-3910",
+    "image": "/varroc/MGCP-SHIN-3910.webp"
+  },
+  {
+    "id": "436",
+    "name": "VARROC COIL PLATE ASSY SHN NM",
+    "category": "parts",
+    "price": "MRP. 2148",
+    "description": "MGCP-SHIN-3162",
+    "image": "/varroc/MGCP-SHIN-3162.webp"
+  },
+  {
+    "id": "437",
+    "name": "VARROC COIL PLATE ASSY CB UNICON 160",
+    "category": "parts",
+    "price": "MRP. 1861",
+    "description": "MGCP-UNIC-31K38",
+    "image": "/varroc/MGCP-UNIC-31K38.webp"
+  },
+  {
+    "id": "438",
+    "name": "VARROC COIL PLATE ASSY S.SPLENDOR O/M",
+    "category": "parts",
+    "price": "MRP. 1895",
+    "description": "MGCP-SSPL-3901",
+    "image": "/varroc/MGCP-SSPL-3901.webp"
+  },
+  {
+    "id": "439",
+    "name": "VARROC COIL PLATE ASSY S.SPLENDOR N/M",
+    "category": "parts",
+    "price": "MRP. 2964",
+    "description": "MGCP-SSPL-3922",
+    "image": "/varroc/MGCP-SSPL-3922.webp"
+  },
+  {
+    "id": "440",
+    "name": "VARROC COIL PLATE ASSY SPLENDOR 2 HOLE",
+    "category": "parts",
+    "price": "MRP. 2016",
+    "description": "MGCP-SPLD-OM2H",
+    "image": "/varroc/MGCP-SPLD-OM2H.webp"
+  },
+  {
+    "id": "441",
+    "name": "VARROC COIL PLATE ASSY SPLENDOR 4 HOLE",
+    "category": "parts",
+    "price": "MRP. 2218",
+    "description": "MGCP-SPLD-NM4H",
+    "image": "/varroc/MGCP-SPLD-NM4H.webp"
+  },
+  {
+    "id": "442",
+    "name": "VARROC COIL PLATE ASSY YAMAHA FZ",
+    "category": "parts",
+    "price": "MRP. 2236",
+    "description": "MGCP-FZ16-2GSH",
+    "image": "/varroc/MGCP-FZ16-2GSH.webp"
+  },
+  {
+    "id": "443",
+    "name": "VARROC COIL PLATE ASSY FZER FZ16 V2",
+    "category": "parts",
+    "price": "MRP. 2292",
+    "description": "MGCP-FZ16-2G00",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "444",
+    "name": "VARROC COIL PLATE ASSY TVS APACHE 160/180 RTR",
+    "category": "parts",
+    "price": "MRP. 2400",
+    "description": "MGCP-APCH-N950",
+    "image": "/varroc/MGCP-APCH-N950.webp"
+  },
+  {
+    "id": "445",
+    "name": "VARROC COIL PLATE ASSY AVGR SINGLE PHASE 12 POL",
+    "category": "parts",
+    "price": "MRP. 1925",
+    "description": "MGCP-AVGR-PD01",
+    "image": "/varroc/MGCP-AVGR-PD01.webp"
+  },
+  {
+    "id": "446",
+    "name": "VARROC COIL PLATE ASSY PLSR-150 OLD",
+    "category": "parts",
+    "price": "MRP. 1304",
+    "description": "MGCP-PLSR-DH05",
+    "image": "/varroc/MGCP-PLSR-DH05.webp"
+  },
+  {
+    "id": "447",
+    "name": "VARROC COIL PLATE ASSY GLADIATOR SS",
+    "category": "parts",
+    "price": "MRP. 2013",
+    "description": "MGCP-GLAD-35BH",
+    "image": "/varroc/MGCP-GLAD-35BH.webp"
+  },
+  {
+    "id": "448",
+    "name": "VARROC COIL PLATE ASSY JUPITOR WEGO",
+    "category": "parts",
+    "price": "MRP. 1513",
+    "description": "MGCP-JPTR-K320",
+    "image": "/varroc/MGCP-JPTR-K320.webp"
+  },
+  {
+    "id": "449",
+    "name": "VARROC COIL PLATE ASSY ACTVA 110CC",
+    "category": "parts",
+    "price": "MRP. 1938",
+    "description": "MGCP-ATVA-110C",
+    "image": "/varroc/MGCP-ATVA-110C.webp"
+  },
+  {
+    "id": "450",
+    "name": "VARROC COIL PLATE ASSY NEW DSVR 110 125",
+    "category": "parts",
+    "price": "MRP. 1744",
+    "description": "MGCP-DSVR-JB30",
+    "image": "/varroc/MGCP-DSVR-JB30.webp"
+  },
+  {
+    "id": "451",
+    "name": "VARROC COIL PLATE ASSY PLSR 220UG 180F NEON BS4",
+    "category": "parts",
+    "price": "MRP. 2332",
+    "description": "MGCP-PLSR-DK79",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "452",
+    "name": "VARROC COIL PLATE ASSY PLSR 150UG5 TWINDISC BS4",
+    "category": "parts",
+    "price": "MRP. 2380",
+    "description": "MGCP-PLSR-DK84",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "453",
+    "name": "VARROC COIL PLATE ASSY PLSR 200NS AS",
+    "category": "parts",
+    "price": "MRP. 2340",
+    "description": "MGCP-PLSR-JL38",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "454",
+    "name": "VARROC COIL PLATE ASSY PLSR 200NS NEW",
+    "category": "parts",
+    "price": "MRP. 2713",
+    "description": "MGCP-PLSR-JL40",
+    "image": "/varroc/MGCP-PLSR-JL40.webp"
+  },
+  {
+    "id": "455",
+    "name": "VARROC COIL PLATE ASSY PLTN 125 NEW",
+    "category": "parts",
+    "price": "MRP. 1527",
+    "description": "MGCP-PLTN-JB29",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "456",
+    "name": "VARROC COIL PLATE SUP SPDR 12 POLE ",
+    "category": "parts",
+    "price": "MRP. 1808",
+    "description": "MGCP-SSPL-KTRA",
+    "image": "/varroc/MGCP-SSPL-KTRA.webp"
+  },
+  {
+    "id": "457",
+    "name": "VARROC COIL PLATE ASSY INS VIKRNT V15",
+    "category": "parts",
+    "price": "MRP. 2556",
+    "description": "MGCP-V15B-JH05",
+    "image": "/varroc/MGCP-V15B-JH05.webp"
+  },
+  {
+    "id": "458",
+    "name": "VARROC COIL PLATE ASSY V12 BIKE",
+    "category": "parts",
+    "price": "MRP. 2030",
+    "description": "MGCP-V12B-JH07",
+    "image": "/varroc/MGCP-V12B-JH07.webp"
+  },
+  {
+    "id": "459",
+    "name": "VARROC COIL PLATE ASSY K 4S",
+    "category": "parts",
+    "price": "MRP. 2042",
+    "description": "MGCP-K-4S-3155",
+    "image": "/varroc/MGCP-K-4S-3155.webp"
+  },
+  {
+    "id": "460",
+    "name": "VARROC COIL PLATE ASSY PLSR 160 NS BS4",
+    "category": "parts",
+    "price": "MRP. 2688",
+    "description": "MGCP-PLSR-JE13",
+    "image": "/varroc/MGCP-PLSR-JE13.webp"
+  },
+  {
+    "id": "461",
+    "name": "VARROC COIL PLATE ASSY PULSAR 160 NS FI",
+    "category": "parts",
+    "price": "MRP. 2738",
+    "description": "MGCP-PLSR-JE31",
+    "image": "/varroc/MGCP-PLSR-JE31.webp"
+  },
+  {
+    "id": "462",
+    "name": "VARROC COIL PLATE ASSY PLSR 160 NS",
+    "category": "parts",
+    "price": "MRP. 1819",
+    "description": "MGCP-PLSR-JE25",
+    "image": "/varroc/MGCP-PLSR-JE25.webp"
+  },
+  {
+    "id": "463",
+    "name": "VARROC COIL PLATE ASSY PLSR 180F",
+    "category": "parts",
+    "price": "MRP. 3231",
+    "description": "MGCP-PLSR-PD12",
+    "image": "/varroc/MGCP-PLSR-PD12.webp"
+  },
+  {
+    "id": "464",
+    "name": "VARROC COIL PLATE ASSY DOMINOR 400",
+    "category": "parts",
+    "price": "MRP. 2753",
+    "description": "MGCP-DOMR-JF11",
+    "image": "/varroc/MGCP-DOMR-JF11.webp"
+  },
+  {
+    "id": "465",
+    "name": "VARROC STATOR HERO MAISTRO EDGE DUIT",
+    "category": "parts",
+    "price": "MRP. 1721",
+    "description": "MGCP-MSEG-3112",
+    "image": "/varroc/MGCP-MSEG-3112.webp"
+  },
+  {
+    "id": "466",
+    "name": "VARROC STATOR ACTVA 125CC",
+    "category": "parts",
+    "price": "MRP. 1749",
+    "description": "MGCP-ATVA-125C",
+    "image": "/varroc/MGCP-ATVA-125C.webp"
+  },
+  {
+    "id": "467",
+    "name": "VARROC COIL PLATE ASSY TVX JUPITER BS6",
+    "category": "parts",
+    "price": "MRP. 1819",
+    "description": "MGCP-JPTR-K530",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "468",
+    "name": "VARROC COIL PLATE ASSY PLSR 150 NS",
+    "category": "parts",
+    "price": "MRP. 1846",
+    "description": "MGCP-PLSR-JE09",
+    "image": "/varroc/MGCP-PLSR-JE09.webp"
+  },
+  {
+    "id": "469",
+    "name": "VARROC STATOR ACTVA 3G 5G",
+    "category": "parts",
+    "price": "MRP. 1731",
+    "description": "MGCP-ATVA-3G5G",
+    "image": "/varroc/MGCP-ATVA-3G5G.webp"
+  },
+  {
+    "id": "470",
+    "name": "VARROC COIL PLATE ASSY WIGO 8P",
+    "category": "parts",
+    "price": "MRP. 1532",
+    "description": "MGCP-WEGO-5162",
+    "image": "/varroc/MGCP-WEGO-5162.webp"
+  },
+  {
+    "id": "471",
+    "name": "VARROC COIL PLATE ASSY TVX APACHI 160 FI 4V BS6",
+    "category": "parts",
+    "price": "MRP. 2560",
+    "description": "MGCP-APCH-N210",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "472",
+    "name": "VARROC COIL PLATE ASSY DYUGA",
+    "category": "parts",
+    "price": "MRP. 1679",
+    "description": "MGCP-DREM-3149",
+    "image": "/varroc/MGCP-DREM-3149.webp"
+  },
+  {
+    "id": "473",
+    "name": "VARROC COIL PLATE ASSY GLADIATER KS",
+    "category": "parts",
+    "price": "MRP. 2560",
+    "description": "MGCP-GLAD-5YYH",
+    "image": "/varroc/MGCP-GLAD-5YYH.webp"
+  },
+  {
+    "id": "474",
+    "name": "VARROC COIL PLATE ASSY I SMART",
+    "category": "parts",
+    "price": "MRP. 1637",
+    "description": "MGCP-SMRT-31AAT",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "475",
+    "name": "VARROC COIL PLATE ASSY PASION EXPRO",
+    "category": "parts",
+    "price": "MRP. 1294",
+    "description": "MGCP-XPRO-KZAW",
+    "image": "/varroc/MGCP-XPRO-KZAW.webp"
+  },
+  {
+    "id": "476",
+    "name": "VARROC COIL PLATE ASSY CB HRNET 12P",
+    "category": "parts",
+    "price": "MRP. 1595",
+    "description": "MGCP-HRNT-31K43",
+    "image": "/varroc/MGCP-HRNT-31K43.webp"
+  },
+  {
+    "id": "477",
+    "name": "VARROC COIL PLATE ASSY UNICON 150",
+    "category": "parts",
+    "price": "MRP. 1721",
+    "description": "MGCP-UNIC-31KSP",
+    "image": "/varroc/no-img.webp"
+  },
+    {
+    "id": "478",
+    "name": "VARROC REVM YAMHA F Z NM LH",
+    "category": "parts",
+    "price": "MRP. 345",
+    "description": "REVM-YFZN-LH400",
+    "image": "/varroc/REVM-YFZN-LH400.webp"
+  },
+  {
+    "id": "479",
+    "name": "VARROC REVM YAMHA F Z NM RH",
+    "category": "parts",
+    "price": "MRP. 345",
+    "description": "REVM-YFZN-RH410",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "480",
+    "name": "VARROC REVM YAMHA FASINO BS6 BLACK LH",
+    "category": "parts",
+    "price": "MRP. 488",
+    "description": "REVM-FSNO-LH380",
+    "image": "/varroc/REVM-FSNO-LH380.webp"
+  },
+  {
+    "id": "481",
+    "name": "VARROC REVM YAMHA FASINO BS6 BLACK RH",
+    "category": "parts",
+    "price": "MRP. 488",
+    "description": "REVM-FSNO-RH390",
+    "image": "/varroc/REVM-FSNO-RH390.webp"
+  },
+  {
+    "id": "482",
+    "name": "VARROC REAR VIEW MIRROR PULSAR DTSI (LH)",
+    "category": "parts",
+    "price": "MRP. 270",
+    "description": "REVM-PLSR-DJ03",
+    "image": "/varroc/REVM-PLSR-DJ03.webp"
+  },
+  {
+    "id": "483",
+    "name": "VARROC REAR VIEW MIRROR PULSAR DTSI (RH)",
+    "category": "parts",
+    "price": "MRP. 270",
+    "description": "REVM-PLSR-DJ04",
+    "image": "/varroc/REVM-PLSR-DJ04.webp"
+  },
+  {
+    "id": "484",
+    "name": "VARROC REAR VIEW MIRROR PULSAR-220 (LH)",
+    "category": "parts",
+    "price": "MRP. 880",
+    "description": "REVM-PLSR-DK02",
+    "image": "/varroc/REVM-PLSR-DK02.webp"
+  },
+  {
+    "id": "485",
+    "name": "VARROC REAR VIEW MIRROR PULSAR-220 (RH)",
+    "category": "parts",
+    "price": "MRP. 880",
+    "description": "REVM-PLSR-DK03",
+    "image": "/varroc/REVM-PLSR-DK03.webp"
+  },
+  {
+    "id": "486",
+    "name": "VARROC REVM HALF WITH BELLOW PLSR 220LH",
+    "category": "parts",
+    "price": "MRP. 362",
+    "description": "REVM-PLSR-DK02 H",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "487",
+    "name": "VARROC REVM HALF WITH BELLOW PLSR 220 RH",
+    "category": "parts",
+    "price": "MRP. 362",
+    "description": "REVM-PLSR-DK03 H",
+    "image": "/varroc/REVM-PLSR-DK03-H.webp"
+  },
+  {
+    "id": "488",
+    "name": "VARROC REAR VIEW MIRROR PULSAR-200 NS (LH)",
+    "category": "parts",
+    "price": "MRP. 403",
+    "description": "REVM-PLSR-JL00",
+    "image": "/varroc/REVM-PLSR-JL00.webp"
+  },
+  {
+    "id": "489",
+    "name": "VARROC REAR VIEW MIRROR PULSAR-200 NS (RH)",
+    "category": "parts",
+    "price": "MRP. 403",
+    "description": "REVM-PLSR-JL01",
+    "image": "/varroc/REVM-PLSR-JL00.webp"
+  },
+  {
+    "id": "490",
+    "name": "VARROC REAR VIEW MIRROR SPLENDOR PLUS (LH)",
+    "category": "parts",
+    "price": "MRP. 250",
+    "description": "REVM-SPPL-LH80",
+    "image": "/varroc/REVM-SPPL-LH80.webp"
+  },
+  {
+    "id": "491",
+    "name": "VARROC REAR VIEW MIRROR SPLENDOR PLUS (RH)",
+    "category": "parts",
+    "price": "MRP. 250",
+    "description": "REVM-SPPL-RH90",
+    "image": "/varroc/REVM-SPPL-RH90.webp"
+  },
+  {
+    "id": "492",
+    "name": "VARROC REVM SPR SPLENDER WO PAINT LH",
+    "category": "parts",
+    "price": "MRP. 280",
+    "description": "REVM-SSPL-LH260",
+    "image": "/varroc/REVM-SSPL-LH260.webp"
+  },
+  {
+    "id": "493",
+    "name": "VARROC REVM SPR SPLENDER WO PAINT RH",
+    "category": "parts",
+    "price": "MRP. 280",
+    "description": "REVM-SSPL-RH270",
+    "image": "/varroc/REVM-SSPL-LH260.webp"
+  },
+  {
+    "id": "494",
+    "name": "VARROC REAR VIEW MIRROR AVENGER (RH)",
+    "category": "parts",
+    "price": "MRP. 1012",
+    "description": "REVM-AVGR-DV03",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "495",
+    "name": "VARROC REAR VIEW MIRROR AVENGER (LH)",
+    "category": "parts",
+    "price": "MRP. 1012",
+    "description": "REVM-AVGR-DV02",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "496",
+    "name": "VARROC REAR VIEW MIRROR LH ACTIVA/ DIO NEW MODLE",
+    "category": "parts",
+    "price": "MRP. 334",
+    "description": "REVM-ACTV-HM43",
+    "image": "/varroc/REVM-ACTV-HM43.webp"
+  },
+  {
+    "id": "497",
+    "name": "VARROC REAR VIEW MIRROR RH ACTIVA/ DIO NEW MODLE",
+    "category": "parts",
+    "price": "MRP. 334",
+    "description": "REVM-ACTV-HM44",
+    "image": "/varroc/REVM-ACTV-HM43.webp"
+  },
+  {
+    "id": "498",
+    "name": "VARROC REAR VIEW MIRROR PULSAR 135/ XCED 135 (LH)",
+    "category": "parts",
+    "price": "MRP. 380",
+    "description": "REVM-SPNT-JD00",
+    "image": "/varroc/REVM-SPNT-JD00.webp"
+  },
+  {
+    "id": "499",
+    "name": "VARROC REAR VIEW MIRROR PULSAR 135/ XCED 135 (RH)",
+    "category": "parts",
+    "price": "MRP. 380",
+    "description": "REVM-SPNT-JD01",
+    "image": "/varroc/REVM-SPNT-JD00.webp"
+  },
+  {
+    "id": "500",
+    "name": "VARROC REAR VIEW MIRROR DISCOVER ST (LH)",
+    "category": "parts",
+    "price": "MRP. 374",
+    "description": "REVM-DSVR-JZ00",
+    "image": "/varroc/REVM-DSVR-JZ00.webp"
+  },
+  {
+    "id": "501",
+    "name": "VARROC REAR VIEW MIRROR DISCOVER ST (RH)",
+    "category": "parts",
+    "price": "MRP. 374",
+    "description": "REVM-DSVR-JZ01",
+    "image": "/varroc/REVM-DSVR-JZ00.webp"
+  },
+  {
+    "id": "502",
+    "name": "VARROC REAR VIEW MIRROR TWISTER/D-YUGA/SHINE (LH)",
+    "category": "parts",
+    "price": "MRP. 279",
+    "description": "REVM-SHNE-HM45",
+    "image": "/varroc/REVM-SHNE-HM45.webp"
+  },
+  {
+    "id": "503",
+    "name": "VARROC REAR VIEW MIRROR TWISTER/D-YUGA/SHINE (RH)",
+    "category": "parts",
+    "price": "MRP. 279",
+    "description": "REVM-SHNE-HM46",
+    "image": "/varroc/REVM-SHNE-HM45.webp"
+  },
+  {
+    "id": "504",
+    "name": "VARROC REAR VIEW MIRROR FZ16/FZS/SHINE OLD (RH)",
+    "category": "parts",
+    "price": "MRP. 265",
+    "description": "REVM-FZ16-RH70",
+    "image": "/varroc/REVM-FZ16-RH70.webp"
+  },
+  {
+    "id": "505",
+    "name": "VARROC REAR VIEW MIRROR FZ16/FZS/SHINE OLD (LH)",
+    "category": "parts",
+    "price": "MRP. 265",
+    "description": "REVM-FZ16-LH60",
+    "image": "/varroc/REVM-FZ16-RH70.webp"
+  },
+  {
+    "id": "506",
+    "name": "VARROC REAR VIEW MIRROR RH HERO GLAMOUR BLACK",
+    "category": "parts",
+    "price": "MRP. 380",
+    "description": "REVM-GLMR-170AR",
+    "image": "/varroc/REVM-GLMR-170AR.webp"
+  },
+  {
+    "id": "507",
+    "name": "VARROC REAR VIEW MIRROR LH HERO GLAMOUR BLACK",
+    "category": "parts",
+    "price": "MRP. 380",
+    "description": "REVM-GLMR-170AL",
+    "image": "/varroc/REVM-GLMR-170AR.webp"
+  },
+  {
+    "id": "508",
+    "name": "VARROC REAR VIEW MIRROR DISCOVER ST (LH) +(RH)",
+    "category": "parts",
+    "price": "MRP. 825",
+    "description": "REVM-DSVR-0001",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "509",
+    "name": "VARROC REAR VIEW MIRROR LH TVS WEGO JUPITOR ",
+    "category": "parts",
+    "price": "MRP. 316",
+    "description": "REVM-JPTR-LH100",
+    "image": "/varroc/REVM-JPTR-LH100.webp"
+  },
+  {
+    "id": "510",
+    "name": "VARROC REAR VIEW MIRROR RH TVS WEGO JUPITOR",
+    "category": "parts",
+    "price": "MRP. 316",
+    "description": "REVM-JPTR-RH110",
+    "image": "/varroc/REVM-JPTR-LH100.webp"
+  },
+  {
+    "id": "511",
+    "name": "VARROC REAR VIEW MIRROR V15B LH",
+    "category": "parts",
+    "price": "MRP. 627",
+    "description": "REVM-V15B-JH00",
+    "image": "/varroc/REVM-V15B-JH01.webp"
+  },
+  {
+    "id": "512",
+    "name": "VARROC REAR VIEW MIRROR V15B RH",
+    "category": "parts",
+    "price": "MRP. 627",
+    "description": "REVM-V15B-JH01",
+    "image": "/varroc/REVM-V15B-JH01.webp"
+  },
+  {
+    "id": "513",
+    "name": "VARROC REAR VIEW MIRROR LH APACHE RTR 160 CC",
+    "category": "parts",
+    "price": "MRP. 370",
+    "description": "REVM-APCH-LH180",
+    "image": "/varroc/REVM-APCH-LH180.webp"
+  },
+  {
+    "id": "514",
+    "name": "VARROC REAR VIEW MIRROR RH APACHE RTR 160CC",
+    "category": "parts",
+    "price": "MRP. 370",
+    "description": "REVM-APCH-RH190",
+    "image": "/varroc/REVM-APCH-LH180.webp"
+  },
+  {
+    "id": "515",
+    "name": "VARROC REAR VIEW MIRROR RH HERO PLEASURE BLACK",
+    "category": "parts",
+    "price": "MRP. 345",
+    "description": "REVM-PLEA-212R",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "516",
+    "name": "VARROC REAR VIEW MIRROR LH HERO PLEASURE BLACK",
+    "category": "parts",
+    "price": "MRP. 345",
+    "description": "REVM-PLEA-213L",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "517",
+    "name": "VARROC REVM PLEASURE NM WHITE LH",
+    "category": "parts",
+    "price": "MRP. 454",
+    "description": "REVM-PLEA-339AL",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "518",
+    "name": "VARROC REVM PLEASURE NM WHITE RH",
+    "category": "parts",
+    "price": "MRP. 454",
+    "description": "REVM-PLEA-339AR",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "519",
+    "name": "VARROC REAR VIEW MIRROR LH HD10 DIO WITH ADAPTOR DIO NM",
+    "category": "parts",
+    "price": "MRP. 293",
+    "description": "REVM-HD10-LH140",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "520",
+    "name": "VARROC REAR VIEW MIRROR RH HD10 DIO WITH ADAPTOR DIO NM",
+    "category": "parts",
+    "price": "MRP. 293",
+    "description": "REVM-HD10-RH150",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "521",
+    "name": "VARROC REAR VIEW MIRROR AVENGER LH",
+    "category": "parts",
+    "price": "MRP. 575",
+    "description": "REVM-AVGR-PD04 (LH)",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "522",
+    "name": "VARROC REAR VIEW MIRROR AVENGER RH",
+    "category": "parts",
+    "price": "MRP. 575",
+    "description": "REVM-AVGR-PD05 (RH)",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "523",
+    "name": "VARROC REAR VIEW MIRROR AXCESS HEEAT WITH ADAPTOR LH",
+    "category": "parts",
+    "price": "MRP. 300",
+    "description": "REVM-ACCS-LH320",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "524",
+    "name": "VARROC REAR VIEW MIRROR AXCESS HEEAT WITH ADAPTOR RH",
+    "category": "parts",
+    "price": "MRP. 300",
+    "description": "REVM-ACCS-RH330",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "525",
+    "name": "VARROC REAR VIEW MIRROR NTORQ LH",
+    "category": "parts",
+    "price": "MRP. 437",
+    "description": "REVM-NTRQ-LH280",
+    "image": "/varroc/REVM-NTRQ-LH280.webp"
+  },
+  {
+    "id": "526",
+    "name": "VARROC REAR VIEW MIRROR NTORQ RH",
+    "category": "parts",
+    "price": "MRP. 437",
+    "description": "REVM-NTRQ-RH290",
+    "image": "/varroc/REVM-NTRQ-LH280.webp"
+  },
+  {
+    "id": "527",
+    "name": "VARROC REAR VIEW MIRROR SUZUKI GIXER BARGMAN WITH ADAPTOR LH",
+    "category": "parts",
+    "price": "MRP. 302",
+    "description": "REVM-GXER-LH360",
+    "image": "/varroc/REVM-GXER-LH360.webp"
+  },
+  {
+    "id": "528",
+    "name": "VARROC REAR VIEW MIRROR SUZUKI GIXER BARGMAN WITH ADAPTOR RH",
+    "category": "parts",
+    "price": "MRP. 302",
+    "description": "REVM-GXER-RH370",
+    "image": "/varroc/REVM-GXER-LH360.webp"
   }
 ]
