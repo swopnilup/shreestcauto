@@ -5854,5 +5854,237 @@
     "price": "MRP. 361",
     "description": "FAIR-NTRQ-KL50",
     "image": "/varroc/FAIR-NTRQ-KL50.webp"
+  },
+    {
+    "id": "734",
+    "name": "VARROC SPEEDO KIT SHINE",
+    "category": "parts",
+    "price": "MRP. 518",
+    "description": "SDST-SHNE-HM08K",
+    "image": "/varroc/SDST-SHNE-HM08K.webp"
+  },
+  {
+    "id": "735",
+    "name": "VARROC SPEEDO KIT ALL SPLENDOR/PASS./DAWN/DLX",
+    "category": "parts",
+    "price": "MRP. 530",
+    "description": "SDST-SPLD-HM04K",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "736",
+    "name": "VARROC SPEEDO KIT ACTVA N M DIO MAISTRO",
+    "category": "parts",
+    "price": "MRP. 610",
+    "description": "SDST-ATVN-HM07K",
+    "image": "/varroc/SDST-ATVN-HM07K.webp"
+  },
+  {
+    "id": "737",
+    "name": "VARROC SPEEDO GEAR HUB ASSY. SHINE/UNIC./XTREM",
+    "category": "parts",
+    "price": "MRP. 491",
+    "description": "SDST-SHIN-HM15",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "738",
+    "name": "VARROC SPEEDO GEAR HUB ASSY YAMHA SALUT F Z",
+    "category": "parts",
+    "price": "MRP. 503",
+    "description": "SDST-SLTO-2L00",
+    "image": "/varroc/SDST-SLTO-2L00.webp"
+  },
+  {
+    "id": "739",
+    "name": "VARROC SPEEDO GEAR HUB ASSY RE BULET",
+    "category": "parts",
+    "price": "MRP. 461",
+    "description": "SDST-BULT-5624",
+    "image": "/varroc/SDST-BULT-5624.webp"
+  },
+  {
+    "id": "740",
+    "name": "VARROC SPEEDO GEAR HUB ASSY YAMHA RAY",
+    "category": "parts",
+    "price": "MRP. 559",
+    "description": "SDST-YRAY-B680",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "741",
+    "name": "VARROC SPEEDO GEAR ASSY PLASTIC SHN UNICON XTRM",
+    "category": "parts",
+    "price": "MRP. 303",
+    "description": "SDST-SHNE-HM15P",
+    "image": "/varroc/SDST-SHNE-HM15P.webp"
+  },
+  {
+    "id": "742",
+    "name": "VARROC SPEEDO KIT DISCOVER NEW 125 DISC BRAKE",
+    "category": "parts",
+    "price": "MRP. 721",
+    "description": "SDST-DSVR-3602K",
+    "image": "/varroc/SDST-DSVR-3602K.webp"
+  },
+  {
+    "id": "743",
+    "name": "VARROC SPEEDO KIT DISCOVER OLD 125/150 DISC BRAKE",
+    "category": "parts",
+    "price": "MRP. 721",
+    "description": "SDST-DSVR-DS38K",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "744",
+    "name": "VARROC SPEEDO KIT AVENGER( GREEN)",
+    "category": "parts",
+    "price": "MRP. 721",
+    "description": "SDST-AVGR-3106K",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "745",
+    "name": "VARROC SPEEDO KIT WEGO",
+    "category": "parts",
+    "price": "MRP. 1000",
+    "description": "SDST-WEGO-SM06K",
+    "image": "/varroc/SDST-WEGO-SM06K.webp"
+  },
+  {
+    "id": "746",
+    "name": "VARROC SPEEDO KIT SHINE DISC BRAKE",
+    "category": "parts",
+    "price": "MRP. 499",
+    "description": "SDST-SHNE-HM12K",
+    "image": "/varroc/SDST-SHNE-HM12K.webp"
+  },
+  {
+    "id": "747",
+    "name": "VARROC SPEEDO KIT UNICORN/STUNNER",
+    "category": "parts",
+    "price": "MRP. 434",
+    "description": "SDST-UNIC-HM09K",
+    "image": "/varroc/SDST-UNIC-HM09K.webp"
+  },
+  {
+    "id": "748",
+    "name": "VARROC SPEEDO KIT ACTIVA (N/M) /DIO/ MAESTRO",
+    "category": "parts",
+    "price": "MRP. 499",
+    "description": "SDST-ATVN-HM07K",
+    "image": "/varroc/SDST-ATVN-HM07K.webp"
+  },
+  {
+    "id": "749",
+    "name": "VARROC SPEEDO KIT ACTIVA (O/M) TILL 2010",
+    "category": "parts",
+    "price": "MRP. 911",
+    "description": "SDST-ATVO-HM14K",
+    "image": "/varroc/SDST-ATVO-HM14K.webp"
+  },
+  {
+    "id": "750",
+    "name": "VARROC OIL PUMP GEAR BLACK SPUR 39T ACTVA",
+    "category": "parts",
+    "price": "MRP. 132",
+    "description": "OPGR-ATVA-KVY0",
+    "image": "/varroc/OPGR-ATVA-KVY0.webp"
+  },
+  {
+    "id": "751",
+    "name": "VARROC OIL PUMP GEAR HONDA ACTIVA ALL MODEL",
+    "category": "parts",
+    "price": "MRP. 761",
+    "description": "OPGR-ATVA-HM11",
+    "image": "/varroc/OPGR-ATVA-HM11.webp"
+  },
+  {
+    "id": "752",
+    "name": "VARROC OIL PUMP GEAR ASSLY ACTVA",
+    "category": "parts",
+    "price": "MRP. 473",
+    "description": "OPGR-ACTV-KPL0",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "753",
+    "name": "VARROC OIL PUMP GEAR BLACK (SUPER -34T) SHINE/CBZ",
+    "category": "parts",
+    "price": "MRP. 1228",
+    "description": "OPGR-SHNE-HM16",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "754",
+    "name": "VARROC OIL PUMP GEAR ASSLY SHINE",
+    "category": "parts",
+    "price": "MRP. 535",
+    "description": "OPGR-SHNE-KTE0",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "755",
+    "name": "VARROC OIL PUMP GEAR YELLOW HELICAL 37T DSVR M",
+    "category": "parts",
+    "price": "MRP. 127",
+    "description": "OPGR-DSVR-JB06",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "756",
+    "name": "VARROC OIL PUMP GEAR ASSLY DSVR 125 150",
+    "category": "parts",
+    "price": "MRP. 467",
+    "description": "OPGR-DSVR-JZ500",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "757",
+    "name": "VARROC OIL PUMP GEAR ASSLY SPLENDER",
+    "category": "parts",
+    "price": "MRP. 554",
+    "description": "OPGR-SPLD-KCC0",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "758",
+    "name": "VARROC OIL PUMP GEAR WHITE HELICAL 37T XCED125",
+    "category": "parts",
+    "price": "MRP. 127",
+    "description": "OPGR-XCED-JA18",
+    "image": "/varroc/OPGR-XCED-JA18.webp"
+  },
+  {
+    "id": "759",
+    "name": "VARROC OIL PUMP GEAR WHITE (HELICAL -28T) DSVR 125",
+    "category": "parts",
+    "price": "MRP. 127",
+    "description": "OPGR-DSVR-DS65",
+    "image": "/varroc/OPGR-DSVR-DS65.webp"
+  },
+  {
+    "id": "760",
+    "name": "VARROC SPEEDO SENSAR CABLE PULSAR",
+    "category": "parts",
+    "price": "MRP. 342",
+    "description": "SPEO-PLSR-DJ83",
+    "image": "/varroc/SPEO-PLSR-DJ83.webp"
+  },
+  {
+    "id": "761",
+    "name": "VARROC SPEDO SENSOR CABLE PLSR 220 ",
+    "category": "parts",
+    "price": "MRP. 792",
+    "description": "SPEO-PLSR-DK53",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "762",
+    "name": "VARROC SPEEDO SENSOR CABLE YAMHA F-Z ALL MODEL",
+    "category": "parts",
+    "price": "MRP. 386",
+    "description": "SPEO-YAFZ-2103",
+    "image": "/varroc/no-img.webp"
   }
 ]
