@@ -4622,5 +4622,229 @@
     "price": "MRP. 178",
     "description": "BLKR-DSVR-JD07",
     "image": "/varroc/no-img.webp"
+  },
+    {
+    "id": "580",
+    "name": "VARROC HEAD LIGHT  (WOB)",
+    "category": "parts",
+    "price": "MRP. 921",
+    "description": "HLMP-SPPL-HA10",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "581",
+    "name": "VARROC HEAD LAMP UNIT HONDA SHINE",
+    "category": "parts",
+    "price": "MRP. 1227",
+    "description": "HLMP-SHIN-HU20",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "582",
+    "name": "VARROC HEAD LIGHT  (WOB)",
+    "category": "parts",
+    "price": "MRP. 1253",
+    "description": "HLMP-PLTN-HU80",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "583",
+    "name": "VARROC HEAD LIGHT WOB GLADIATER YB R",
+    "category": "parts",
+    "price": "MRP. 1504",
+    "description": "BLKR-YMAH-3500",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "584",
+    "name": "VARROC HEAD LIGHT (WOB) YAMAHA GLADIATER",
+    "category": "parts",
+    "price": "MRP. 1668",
+    "description": "HLMP-YMAH-3500",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "585",
+    "name": "VARROC HEAD LIGHT  YAMAHA FZ",
+    "category": "parts",
+    "price": "MRP. 1383",
+    "description": "HLMP-YMFZ-HU150",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "586",
+    "name": "VARROC HEAD LIGHT DSVR 100/150",
+    "category": "parts",
+    "price": "MRP. 2047",
+    "description": "HLMP-DSVR-HU90",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "587",
+    "name": "VARROC HEAD LIGHT ASSY PLSR UG3 150/180CC",
+    "category": "parts",
+    "price": "MRP. 2039",
+    "description": "HLMP-PLSR-HA180",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "588",
+    "name": "VARROC HEAD LAMP ASSY PLSR NS 125/160/200",
+    "category": "parts",
+    "price": "MRP. 2703",
+    "description": "HLAM-PLSR-YJ01",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "589",
+    "name": "VARROC HEAD LIGHT UNIT PLSR UG3 150CC/180CC",
+    "category": "parts",
+    "price": "MRP. 1461",
+    "description": "HLAM-PLSR-HU800",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "590",
+    "name": "VARROC HEAD LAMP UNIT WO WIRE PLSR 220CC",
+    "category": "parts",
+    "price": "MRP. 5635",
+    "description": "HLAM-PLSR-DK56",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "591",
+    "name": "VARROC H L UNIT W O PARKING 0254 BIKE PLTN TYPE",
+    "category": "parts",
+    "price": "MRP. 1127",
+    "description": "HLAM-0254-HU81",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "592",
+    "name": "VARROC HEAD LAMP PLTN W O WIRE BULB",
+    "category": "parts",
+    "price": "MRP. 1026",
+    "description": "HLAM-PLTN-HU80",
+    "image": "/varroc/HLAM-PLTN-HU80.webp"
+  },
+  {
+    "id": "593",
+    "name": "VARROC H/L ASSY. WITH WIRE BULLET ELECTRA 5114PM",
+    "category": "parts",
+    "price": "MRP. 1172",
+    "description": "HLAM-BUEL-14PM",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "594",
+    "name": "VARROC HEAD LAMP UNIT DSVR-125/135CC",
+    "category": "parts",
+    "price": "MRP. 1428",
+    "description": "HLAM-DSVR-HU100",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "595",
+    "name": "VARROC HEAD LAMP UNIT HONDA ACTIVA 3G",
+    "category": "parts",
+    "price": "MRP. 925",
+    "description": "HLAM-AC3G-HU300",
+    "image": "/varroc/HLAM-AC3G-HU300.webp"
+  },
+  {
+    "id": "596",
+    "name": "VARROC HEAD LAMP PASSION PLUS W/O WIRE & BULB",
+    "category": "parts",
+    "price": "MRP. 927",
+    "description": "HLAM-PASN-HU30",
+    "image": "/varroc/HLAM-AC3G-HU300.webp"
+  },
+  {
+    "id": "597",
+    "name": "VARROC HEAD LAMP SUPER SPLENDER (WOB)",
+    "category": "parts",
+    "price": "MRP. 1050",
+    "description": "HLAM-SUSP-HA50",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "598",
+    "name": "VARROC HEAD LAMP UNIT TVX JUPITER",
+    "category": "parts",
+    "price": "MRP. 1075",
+    "description": "HLAM-JPTR-HU290",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "599",
+    "name": "VARROC HEAD LAMP UNIT DIO N / M",
+    "category": "parts",
+    "price": "MRP. 1500",
+    "description": "HLAM-HDEO-HA280",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "600",
+    "name": "VARROC TAIL LAMP ASSY WITH BULB SPLD PLUS/PRO",
+    "category": "parts",
+    "price": "MRP. 535",
+    "description": "TLMP-SPPL-TL10",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "601",
+    "name": "VARROC TAIL LAMP ASSY WITH BULB BIKE PL TYPE",
+    "category": "parts",
+    "price": "MRP. 450",
+    "description": "TLMP-PLBK-TL80",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "602",
+    "name": "VARROC TAIL LIGHT (WOB) YAMAHA",
+    "category": "parts",
+    "price": "MRP. 1169",
+    "description": "TLMP-YMHA-3500",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "603",
+    "name": "VARROC TAIL LAMP LENS",
+    "category": "parts",
+    "price": "MRP. 542",
+    "description": "TLCR-YMH-3580",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "604",
+    "name": "VARROC TAIL LAMP ASSY WITH BULB BULLET CLASSIC",
+    "category": "parts",
+    "price": "MRP. 478",
+    "description": "TLMP-BUCL-TL21",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "605",
+    "name": "VARROC TAIL LAMP ASSY. WITH BULB BULLET ELECTRA",
+    "category": "parts",
+    "price": "MRP. 541",
+    "description": "TLMP-BUEL-TL60",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "606",
+    "name": "VARROC HEAD LAMP UNICORN 150CC",
+    "category": "parts",
+    "price": "MRP. 1104",
+    "description": "HLMP-UCRN-HU240",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "607",
+    "name": "VARROC TAIL LAMP ASSY LED PLAR DSIT UG3",
+    "category": "parts",
+    "price": "MRP. 1351",
+    "description": "TLMP-PLSR-DK00",
+    "image": "/varroc/TLMP-PLSR-DK00.webp"
   }
 ]
