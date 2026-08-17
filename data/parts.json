@@ -5621,7 +5621,7 @@
     "category": "parts",
     "price": "MRP. 190",
     "description": "FAIR-CLSC-5481",
-    "image": "/varroc/"
+    "image": "/varroc/FAIR-CLSC-5481.webp"  
   },
   {
     "id": "705",
@@ -5629,7 +5629,7 @@
     "category": "parts",
     "price": "MRP. 225",
     "description": "FAIR-JPTR-K690",
-    "image": "/varroc/FAIR-CLSC-5481.webp"
+    "image": "/varroc/FAIR-JPTR-K690.webp"
   },
   {
     "id": "706",
