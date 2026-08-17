@@ -4846,5 +4846,133 @@
     "price": "MRP. 1351",
     "description": "TLMP-PLSR-DK00",
     "image": "/varroc/TLMP-PLSR-DK00.webp"
+  },
+    {
+    "id": "608",
+    "name": "VARROC INSULATOR FOR CARBURETOR CD 100 SUP SPLD",
+    "category": "parts",
+    "price": "MRP. 44",
+    "description": "RUBR-SPLD-1650",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "609",
+    "name": "VARROC INSULATOR FOR CARBURETOR KB4S",
+    "category": "parts",
+    "price": "MRP. 37",
+    "description": "RUBR-KB4S-1651",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "610",
+    "name": "VARROC INSULATOR FOR CARBURETOR ACTVA HET 3G ",
+    "category": "parts",
+    "price": "MRP. 44",
+    "description": "RUBR-AHET-1655",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "611",
+    "name": "VARROC INSULATOR FOR CARBURETOR SUP SPLENDER CL",
+    "category": "parts",
+    "price": "MRP. 33",
+    "description": "RUBR-SSPL-1656",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "612",
+    "name": "VARROC MIRROR RUBBER 200 NS LH",
+    "category": "parts",
+    "price": "MRP. 43",
+    "description": "RUBB-PLSR-BO44",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "613",
+    "name": "VARROC MIRROR RUBBER 200NS RH",
+    "category": "parts",
+    "price": "MRP. 43",
+    "description": "RUBB-PLSR-BO45",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "614",
+    "name": "VARROC RUBBER DAMPER CUSH K-100/DSVR/PLSR O/M",
+    "category": "parts",
+    "price": "MRP. 221",
+    "description": "DMPR-DSVR-3076",
+    "image": "/varroc/DMPR-DSVR-3076.webp"
+  },
+  {
+    "id": "615",
+    "name": "VARROC RUBBER DAMPER CUSH SET OF 4 EBFIELD N/M",
+    "category": "parts",
+    "price": "MRP. 233",
+    "description": "DMPR-ENFD-RE05",
+    "image": "/varroc/DMPR-ENFD-RE05.webp"
+  },
+  {
+    "id": "616",
+    "name": "VARROC RUBBER DAMPER CUSH SET OF 4 CRX R 100",
+    "category": "parts",
+    "price": "MRP. 197",
+    "description": "DMPR-CRUX-3622",
+    "image": "/varroc/DMPR-CRUX-3622.webp"
+  },
+  {
+    "id": "617",
+    "name": "VARROC DAMPER CUSH SET OF 4",
+    "category": "parts",
+    "price": "MRP. 154",
+    "description": "DMPR-SHIN-HM03",
+    "image": "/varroc/DMPR-SHIN-HM03.webp"
+  },
+  {
+    "id": "618",
+    "name": "VARROC DAMPER CUSH SET OF 4",
+    "category": "parts",
+    "price": "MRP. 111",
+    "description": "DMPR-HHCD-HH21",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "619",
+    "name": "VARROC DAMPER CUSH SET OF 4",
+    "category": "parts",
+    "price": "MRP. 106",
+    "description": "DMPR-PASN-415S",
+    "image": "/varroc/DMPR-PASN-415S.webp"
+  },
+  {
+    "id": "620",
+    "name": "VARROC DAMPER CUSH SET OF 4",
+    "category": "parts",
+    "price": "MRP. 214",
+    "description": "DMPR-UNIC-HM33",
+    "image": "/varroc/DMPR-UNIC-HM33.webp"
+  },
+  {
+    "id": "621",
+    "name": "VARROC DAMPER HERO HONDA",
+    "category": "parts",
+    "price": "MRP. 191",
+    "description": "DMPR-SSPL-410S",
+    "image": "/varroc/DMPR-SSPL-410S.webp"
+  },
+  {
+    "id": "622",
+    "name": "VARROC DAMPER TVS",
+    "category": "parts",
+    "price": "MRP. 305",
+    "description": "DMPR-ARTR-1150",
+    "image": "/varroc/DMPR-ARTR-1150.webp"
+  },
+  {
+    "id": "623",
+    "name": "VARROC DAMPER PULSAR DTSI/UG3/PULSAR HOLES",
+    "category": "parts",
+    "price": "MRP. 210",
+    "description": "DMPR-PLSR-DJ88",
+    "image": "/varroc/DMPR-PLSR-DJ88.webp"
   }
 ]
