@@ -5326,5 +5326,533 @@
     "price": "MRP. 605",
     "description": "DURO-SSPL-HH03S",
     "image": "/varroc/no-img.webp"
+  },
+    {
+    "id": "668",
+    "name": "VARROC FUEL FILTER HERO HONDA S SPLENDOR ",
+    "category": "parts",
+    "price": "MRP. 25",
+    "description": "FFUL-SSPL-HH42",
+    "image": "/varroc/FFUL-SSPL-HH42.webp"
+  },
+  {
+    "id": "669",
+    "name": "VARROC OIL FILTER ELEMENT YAMAHA R15",
+    "category": "parts",
+    "price": "MRP. 73",
+    "description": "FOIL-YR15-38BE",
+    "image": "/varroc/FOIL-YR15-38BE.webp"
+  },
+  {
+    "id": "670",
+    "name": "VARROC OIL FILTER AUTO RRE CING / RTR",
+    "category": "parts",
+    "price": "MRP. 56",
+    "description": "FOIL-3CNG-0330",
+    "image": "/varroc/FOIL-3CNG-0330.webp"
+  },
+  {
+    "id": "671",
+    "name": "VARROC OIL FILTRE BAJAJ",
+    "category": "parts",
+    "price": "MRP. 51",
+    "description": "FOIL-CLBR-DD81",
+    "image": "/varroc/FOIL-CLBR-DD81.webp"
+  },
+  {
+    "id": "672",
+    "name": "VARROC OIL FILTER PLSR 200NS",
+    "category": "parts",
+    "price": "MRP. 83",
+    "description": "FOIL-PLSR-JG14",
+    "image": "/varroc/FOIL-PLSR-JG14.webp"
+  },
+  {
+    "id": "673",
+    "name": "VARROC OIL FILTER ELEMENT BULLET",
+    "category": "parts",
+    "price": "MRP. 70",
+    "description": "FOIL-BULT-613A",
+    "image": "/varroc/FOIL-BULT-613A.webp"
+  },
+  {
+    "id": "674",
+    "name": "VARROC OIL FILTER ELEMENT SHIN BS",
+    "category": "parts",
+    "price": "MRP. 94",
+    "description": "FOIL-SHIN-1501",
+    "image": "/varroc/FOIL-SHIN-1501.webp"
+  },
+  {
+    "id": "675",
+    "name": "VARROC OIL FILTER MESH STRAINER KTMD PLSR AS200",
+    "category": "parts",
+    "price": "MRP. 114",
+    "description": "FOIL-KTMD-JY30",
+    "image": "/varroc/FOIL-KTMD-JY30.webp"
+  },
+  {
+    "id": "676",
+    "name": "VARROC OIL FILTER MESH STRAINER PLSR DSVR NM",
+    "category": "parts",
+    "price": "MRP. 119",
+    "description": "FOIL-DSVR-JA19",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "677",
+    "name": "VARROC AIR FILTER PLASTIC MOULDED HERO DESTINY",
+    "category": "parts",
+    "price": "MRP. 299",
+    "description": "FAIR-DTNY-HH60",
+    "image": "/varroc/FAIR-DTNY-HH60.webp"
+  },
+  {
+    "id": "678",
+    "name": "VARROC AIR FILTER PLASTIC MOULDED SHINE",
+    "category": "parts",
+    "price": "MRP. 222",
+    "description": "FAIR-SHIN-HM21",
+    "image": "/varroc/FAIR-SHIN-HM21.webp"
+  },
+  {
+    "id": "679",
+    "name": "VARROC AIR FILTER DSVR 100M PU TYPE",
+    "category": "parts",
+    "price": "MRP. 272",
+    "description": "FAIR-100M-PA29",
+    "image": "/varroc/FAIR-100M-PA29.webp"
+  },
+  {
+    "id": "680",
+    "name": "VARROC AIR FILTER PLASTIC MOULDED YAMAHA R15-V1",
+    "category": "parts",
+    "price": "MRP. 242",
+    "description": "FAIR-YR15-20PE",
+    "image": "/varroc/FAIR-YR15-20PE.webp"
+  },
+  {
+    "id": "681",
+    "name": "VARROC AIR FILTER PU TYPE CBZEE BS6 S SPLENDER",
+    "category": "parts",
+    "price": "MRP. 228",
+    "description": "FAIR-CBZE-HH59",
+    "image": "/varroc/FAIR-CBZE-HH59.webp"
+  },
+  {
+    "id": "682",
+    "name": "VARROC AIR FILTER METEL END CAPS TVX VCTR NM",
+    "category": "parts",
+    "price": "MRP. 321",
+    "description": "FAIR-VCTR-N350",
+    "image": "/varroc/FAIR-VCTR-N350.webp"
+  },
+  {
+    "id": "683",
+    "name": "VARROC AIR FILTER HERO HUNK",
+    "category": "parts",
+    "price": "MRP. 179",
+    "description": "FAIR-HUNK-HH65",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "684",
+    "name": "VARROC AIR FILTER PLASTIC MOULDED YAMAHA SALUTO",
+    "category": "parts",
+    "price": "MRP. 342",
+    "description": "FAIR-SLTO-B44E",
+    "image": "/varroc/FAIR-SLTO-B44E.webp"
+  },
+  {
+    "id": "685",
+    "name": "VARROC AIR FILTER PLASTIC MOULDED YAMAHA SALUTO NM",
+    "category": "parts",
+    "price": "MRP. 381",
+    "description": "FAIR-SLTO-YM73",
+    "image": "/varroc/FAIR-SLTO-YM73.webp"
+  },
+  {
+    "id": "686",
+    "name": "VARROC AIR FILTER PLASTIC MOULDED YAMAHA REY",
+    "category": "parts",
+    "price": "MRP. 272",
+    "description": "FAIR-YRAY-YM72",
+    "image": "/varroc/FAIR-YRAY-YM72.webp"
+  },
+  {
+    "id": "687",
+    "name": "VARROC AIR FILTER PLASTIC MOULDED HERO I -SMRT",
+    "category": "parts",
+    "price": "MRP. 221",
+    "description": "FAIR-SMRT-HH55",
+    "image": "/varroc/FAIR-SMRT-HH55.webp"
+  },
+  {
+    "id": "688",
+    "name": "VARROC AIR FILTER PLASTIC MOULDED APACHI 200CC",
+    "category": "parts",
+    "price": "MRP. 342",
+    "description": "FAIR-APCH-N920",
+    "image": "/varroc/FAIR-APCH-N920.webp"
+  },
+  {
+    "id": "689",
+    "name": "VARROC AIR FILTER PLASTIC MOULDED YAMAHA REY BS6",
+    "category": "parts",
+    "price": "MRP. 311",
+    "description": "FAIR-YREY-YM74",
+    "image": "/varroc/FAIR-YREY-YM74.webp"
+  },
+  {
+    "id": "690",
+    "name": "VARROC AIR FILTER PLASTIC MOULDED YAMAHA R15 V3 BS6",
+    "category": "parts",
+    "price": "MRP. 311",
+    "description": "FAIR-YR15-YM75",
+    "image": "/varroc/FAIR-YR15-YM75.webp"
+  },
+  {
+    "id": "691",
+    "name": "VARROC AIR FILTER HERO PLEASURE ",
+    "category": "parts",
+    "price": "MRP. 164",
+    "description": "FAIR-PLSR-HH64",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "692",
+    "name": "VARROC AIR FILTER PLASTIC MOULDED PLSR RS 200CC",
+    "category": "parts",
+    "price": "MRP. 289",
+    "description": "FAIR-20CC-DT62",
+    "image": "/varroc/FAIR-20CC-DT62.webp"
+  },
+  {
+    "id": "693",
+    "name": "VARROC AIR FILTER PLASTIC MOULDED TWISTER",
+    "category": "parts",
+    "price": "MRP. 234",
+    "description": "FAIR-TWTR-HM48",
+    "image": "/varroc/FAIR-TWTR-HM48.webp"
+  },
+  {
+    "id": "694",
+    "name": "VARROC AIR FILTER (BIG) PU TYPE BULLET",
+    "category": "parts",
+    "price": "MRP. 239",
+    "description": "FAIR-BULT-548A",
+    "image": "/varroc/FAIR-BULT-548A.webp"
+  },
+  {
+    "id": "695",
+    "name": "VARROC AIR FILTER PLASTIC MOULDED SUZUKI GIXXER",
+    "category": "parts",
+    "price": "MRP. 278",
+    "description": "FAIR-GXER-SZ52",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "696",
+    "name": "VARROC AIR FILTER FOAM M&M DURO",
+    "category": "parts",
+    "price": "MRP. 134",
+    "description": "FAIR-DURO-MM67",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "697",
+    "name": "VARROC AIR FILTER YAMAHA GLADIATOR",
+    "category": "parts",
+    "price": "MRP. 276",
+    "description": "FAIR-GLDR-YM71",
+    "image": "/varroc/FAIR-GLDR-YM71.webp"
+  },
+  {
+    "id": "698",
+    "name": "VARROC AIR FILTER PU/PAPER PLSR 200NS",
+    "category": "parts",
+    "price": "MRP. 292",
+    "description": "FAIR-PLSR-JL09",
+    "image": "/varroc/FAIR-PLSR-JL09.webp"
+  },
+  {
+    "id": "699",
+    "name": "VARROC AIR FILTER PLASTIC MOULDED PLSR NS250BS6",
+    "category": "parts",
+    "price": "MRP. 344",
+    "description": "FAIR-PLSR-JR43",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "700",
+    "name": "VARROC AIR FILTER YAMAHA FZ ",
+    "category": "parts",
+    "price": "MRP. 319",
+    "description": "FAIR-YMFZ-YM70",
+    "image": "/varroc/FAIR-YMFZ-YM70.webp"
+  },
+  {
+    "id": "701",
+    "name": "VARROC AIR FILTER PLASTIC MOULDED YAMAHA SZS ",
+    "category": "parts",
+    "price": "MRP. 346",
+    "description": "FAIR-YSZS-2GSE",
+    "image": "/varroc/FAIR-YSZS-2GSE.webp"
+  },
+  {
+    "id": "702",
+    "name": "VARROC AIR FILTER PLASTIC MOULDED YAMAHA SZR ",
+    "category": "parts",
+    "price": "MRP. 389",
+    "description": "FAIR-YSZR-54BE",
+    "image": "/varroc/FAIR-YSZR-54BE.webp"
+  },
+  {
+    "id": "703",
+    "name": "VARROC AIR FILTER PU/PAPER DSVR 125 ST",
+    "category": "parts",
+    "price": "MRP. 230",
+    "description": "FAIR-DSVR-JZ32",
+    "image": "/varroc/FAIR-DSVR-JZ32.webp"
+  },
+  {
+    "id": "704",
+    "name": "VARROC AIR FILTER SMALL PU TYPE BULLET CLASSIC",
+    "category": "parts",
+    "price": "MRP. 190",
+    "description": "FAIR-CLSC-5481",
+    "image": "/varroc/"
+  },
+  {
+    "id": "705",
+    "name": "VARROC AIR FILTER PLASTIC MOULDED TVS JUPITER",
+    "category": "parts",
+    "price": "MRP. 225",
+    "description": "FAIR-JPTR-K690",
+    "image": "/varroc/FAIR-CLSC-5481.webp"
+  },
+  {
+    "id": "706",
+    "name": "VARROC AIR FILTER PLASTIC MOULDED JUPITOR NM",
+    "category": "parts",
+    "price": "MRP. 315",
+    "description": "FAIR-JPTR-K690N",
+    "image": "/varroc/FAIR-JPTR-K690N.webp"
+  },
+  {
+    "id": "707",
+    "name": "VARROC AIR FILTER PLASTIC MOULDED APACHI NM BS6",
+    "category": "parts",
+    "price": "MRP. 255",
+    "description": "FAIR-APCH-NF70",
+    "image": "/varroc/FAIR-APCH-NF70.webp"
+  },
+  {
+    "id": "708",
+    "name": "VARROC AIR FILTER METALENDCAPS APACHI NM BS6",
+    "category": "parts",
+    "price": "MRP. 304",
+    "description": "FAIR-APCH-NF10",
+    "image": "/varroc/FAIR-APCH-NF10.webp"
+  },
+  {
+    "id": "709",
+    "name": "VARROC AIR FILTER PLASTIC MOULDED ACTVA125CCBS6",
+    "category": "parts",
+    "price": "MRP. 294",
+    "description": "FAIR-ACTV-HM18",
+    "image": "/varroc/FAIR-ACTV-HM18.webp"
+  },
+  {
+    "id": "710",
+    "name": "VARROC AIR FILTER METALENDCAPS TVX APCHI 160CC",
+    "category": "parts",
+    "price": "MRP. 252",
+    "description": "FAIR-APCH-1620",
+    "image": "/varroc/FAIR-APCH-1620.webp"
+  },
+  {
+    "id": "711",
+    "name": "VARROC AIR FILTER SPLENDOR",
+    "category": "parts",
+    "price": "MRP. 149",
+    "description": "FOAM-SPLD-HH13",
+    "image": "/varroc/FOAM-SPLD-HH13.webp"
+  },
+  {
+    "id": "712",
+    "name": "VARROC AIR FILTER DSVR",
+    "category": "parts",
+    "price": "MRP. 143",
+    "description": "FOAM-DSVR-DS20",
+    "image": "/varroc/FOAM-DSVR-DS20.webp"
+  },
+  {
+    "id": "713",
+    "name": "VARROC AIR FILTER FOAM W-125/PLTN-125",
+    "category": "parts",
+    "price": "MRP. 84",
+    "description": "FOAM-W125-DP34",
+    "image": "/varroc/FOAM-W125-DP34.webp"
+  },
+  {
+    "id": "714",
+    "name": "VARROC AIR FILTER PLASTIC MOULDED GRAZIYA 125CC",
+    "category": "parts",
+    "price": "MRP. 369",
+    "description": "FAIR-GRZA-1700",
+    "image": "/varroc/FAIR-GRZA-1700.webp"
+  },
+  {
+    "id": "715",
+    "name": "VARROC AIR FILTER PLASTIC MOULDED UNICONN M",
+    "category": "parts",
+    "price": "MRP. 214",
+    "description": "FAIR-UCRN-HM17",
+    "image": "/varroc/FAIR-UCRN-HM17.webp"
+  },
+  {
+    "id": "716",
+    "name": "VARROC AIR FILTER PLASTIC MOULDED UNICON BS6",
+    "category": "parts",
+    "price": "MRP. 203",
+    "description": "FAIR-UCRN-HM22",
+    "image": "/varroc/FAIR-UCRN-HM22.webp"
+  },
+  {
+    "id": "717",
+    "name": "VARROC AIR FILTER FOAM PLSR 150 BS4",
+    "category": "parts",
+    "price": "MRP. 109",
+    "description": "FOAM-PLSR-DH90",
+    "image": "/varroc/FOAM-PLSR-DH90.webp"
+  },
+  {
+    "id": "718",
+    "name": "VARROC FILTER AIR ELEMENT K-70",
+    "category": "parts",
+    "price": "MRP. 117",
+    "description": "FOAM-DSVR-DX10",
+    "image": "/varroc/FOAM-DSVR-DX10.webp"
+  },
+  {
+    "id": "719",
+    "name": "VARROC FOAM ELEMENT PULSAR",
+    "category": "parts",
+    "price": "MRP. 176",
+    "description": "FOAM-PLSR-DH22",
+    "image": "/varroc/FOAM-PLSR-DH22.webp"
+  },
+  {
+    "id": "720",
+    "name": "VARROC FOAM ELEMENT PULSAR",
+    "category": "parts",
+    "price": "MRP. 133",
+    "description": "FOAM-PLSR-3615",
+    "image": "/varroc/FOAM-PLSR-3615.webp"
+  },
+  {
+    "id": "721",
+    "name": "VARROC FOAM ELEMENT PULSAR",
+    "category": "parts",
+    "price": "MRP. 103",
+    "description": "FOAM-PLSR-DH77",
+    "image": "/varroc/FOAM-PLSR-DH77.webp"
+  },
+  {
+    "id": "722",
+    "name": "VARROC FOAM ELEMENT AIR CLEANER INNER",
+    "category": "parts",
+    "price": "MRP. 113",
+    "description": "FOAM-SPLD-HH01",
+    "image": "/varroc/FOAM-SPLD-HH01.webp"
+  },
+  {
+    "id": "723",
+    "name": "VARROC FOAM ELEMENT AIR CLEANER OUTER",
+    "category": "parts",
+    "price": "MRP. 44",
+    "description": "FOAM-SPLD-HH02",
+    "image": "/varroc/FOAM-SPLD-HH02.webp"
+  },
+  {
+    "id": "724",
+    "name": "VARROC ELEMENT AIR CLEANER (METAL END CAPS)",
+    "category": "parts",
+    "price": "MRP. 173",
+    "description": "FLTO-SUSP-HH08",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "725",
+    "name": "VARROC ELEMENT AIR CLEANER102",
+    "category": "parts",
+    "price": "MRP. 211",
+    "description": "FLTO-ACTV-HM11",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "726",
+    "name": "VARROC ELEMENT AIR CLEANER161.84",
+    "category": "parts",
+    "price": "MRP. 248",
+    "description": "FLTO-ACTV-HM12",
+    "image": "/varroc/FLTO-ACTV-HM12.webp"
+  },
+  {
+    "id": "727",
+    "name": "VARROC ELEMENT AIR CLEANER (PLASTIC MOULDED)",
+    "category": "parts",
+    "price": "MRP. 215",
+    "description": "FLTO-UCRN-HM09",
+    "image": "/varroc/FLTO-UCRN-HM09.webp"
+  },
+  {
+    "id": "728",
+    "name": "VARROC AIR FILTER HONDA SHINE",
+    "category": "parts",
+    "price": "MRP. 170",
+    "description": "FLTO-SHIN-HM13",
+    "image": "/varroc/FLTO-SHIN-HM13.webp"
+  },
+  {
+    "id": "729",
+    "name": "VARROC AIR FILTER PLASTIC MOULDED ACTIVA HET 125",
+    "category": "parts",
+    "price": "MRP. 329",
+    "description": "FAIR-AHET-HM14",
+    "image": "/varroc/FAIR-AHET-HM14.webp"
+  },
+  {
+    "id": "730",
+    "name": "VARROC AIR FILTER PLASTIC MOULDED AVIATOR N/M",
+    "category": "parts",
+    "price": "MRP. 303",
+    "description": "FAIR-AVTR-HM16",
+    "image": "/varroc/FAIR-AVTR-HM16.webp"
+  },
+  {
+    "id": "731",
+    "name": "VARROC AIR FILTER METAL YAMAHA FZ 250",
+    "category": "parts",
+    "price": "MRP. 361",
+    "description": "FAIR-YMFZ-5000",
+    "image": "/varroc/FAIR-YMFZ-5000.webp"
+  },
+  {
+    "id": "732",
+    "name": "VARROC AIR FILTER METAL PU TYPE NTRQ 125CC BS6",
+    "category": "parts",
+    "price": "MRP. 381",
+    "description": "FAIR-NTRQ-KB30",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "733",
+    "name": "VARROC AIR FILTER METAL PU TYPE TVX NTRQ 125CC",
+    "category": "parts",
+    "price": "MRP. 361",
+    "description": "FAIR-NTRQ-KL50",
+    "image": "/varroc/FAIR-NTRQ-KL50.webp"
   }
 ]
