@@ -4974,5 +4974,205 @@
     "price": "MRP. 210",
     "description": "DMPR-PLSR-DJ88",
     "image": "/varroc/DMPR-PLSR-DJ88.webp"
+  },
+    {
+    "id": "624",
+    "name": "VARROC PLUG CAP HONDA ACTIVA",
+    "category": "parts",
+    "price": "MRP. 95",
+    "description": "PCAP-ACTV-3024",
+    "image": "/varroc/PCAP-ACTV-3024.webp"
+  },
+  {
+    "id": "625",
+    "name": "VARROC PLUG CAP HERO 100 CC ALL MODEL",
+    "category": "parts",
+    "price": "MRP. 86",
+    "description": "PCAP-H100-3021",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "626",
+    "name": "VARROC PLUG CAP HERO &HONDA ALL MODEL RED COLOR",
+    "category": "parts",
+    "price": "MRP. 138",
+    "description": "PCAP-HALL-3020",
+    "image": "/varroc/PCAP-HALL-3020.webp"
+  },
+  {
+    "id": "627",
+    "name": "VARROC PLUG CAP BAJJ & TVS ALL MODEL W/RUBBER",
+    "category": "parts",
+    "price": "MRP. 86",
+    "description": "PCAP-PLSR-3022",
+    "image": "/varroc/PCAP-PLSR-3022.webp"
+  },
+  {
+    "id": "628",
+    "name": "VARROC PLUG CAP YAMAHA R15/FZS/SALUTO",
+    "category": "parts",
+    "price": "MRP. 172",
+    "description": "PCAP-YAMA-3027",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "629",
+    "name": "VARROC CAM CHAIN TENSIONER ACTIVA/DIO",
+    "category": "parts",
+    "price": "MRP. 129",
+    "description": "RUBB-MM2W-141K",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "630",
+    "name": "VARROC GREEN BUSH ACTVA SET OF 6 ",
+    "category": "parts",
+    "price": "MRP. 84",
+    "description": "RUBR-ACTV-5100",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "631",
+    "name": "VARROC CLUTCH ROLLERS APRILLIA",
+    "category": "parts",
+    "price": "MRP. 269",
+    "description": "RUBR-APRL-1A71",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "632",
+    "name": "VARROC CLUTCH ROLLERS WIGO /JUPITER 15 GMS",
+    "category": "parts",
+    "price": "MRP. 265",
+    "description": "RUBR-JPTR-K610",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "633",
+    "name": "VARROC CLUTCH ROLLERS BANDO ACTVA NEW SET OF 6",
+    "category": "parts",
+    "price": "MRP. 305",
+    "description": "RUBR-ACTN-2205",
+    "image": "/varroc/RUBR-ACTN-2205.webp"
+  },
+  {
+    "id": "634",
+    "name": "VARROC CLUTCH ROLLERS ACTVA-110 HET BSVI",
+    "category": "parts",
+    "price": "MRP. 182",
+    "description": "RUBR-HET6-22KPD",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "635",
+    "name": "VARROC CLUTCH ROLLERS DURO/FLYT/RODIO 15 GMS",
+    "category": "parts",
+    "price": "MRP. 265",
+    "description": "RUBR-MDRO-VT10",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "636",
+    "name": "VARROC CLUTCH ROLLERS TVX N TORQ 18 GMS",
+    "category": "parts",
+    "price": "MRP. 222",
+    "description": "RUBR-NTRQ-K270",
+    "image": "/varroc/RUBR-NTRQ-K270.webp"
+  },
+  {
+    "id": "637",
+    "name": "VARROC CLUTCH ROLLERS REY ZR",
+    "category": "parts",
+    "price": "MRP. 185",
+    "description": "RUBR-REYZR-1GCE",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "638",
+    "name": "VARROC CLUTCH ROLLERS BANDO OLD SET OF 6",
+    "category": "parts",
+    "price": "MRP. 246",
+    "description": "RUBR-ACTO-2200",
+    "image": "/varroc/RUBR-ACTO-2200.webp"
+  },
+  {
+    "id": "639",
+    "name": "VARROC CLUTCH ROLLERS REY FASCINO BSVI",
+    "category": "parts",
+    "price": "MRP. 276",
+    "description": "RUBR-FCNO-B700",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "640",
+    "name": "VARROC CLUTCH ROLLERS REY/FASCINO/ALFA 10GMS",
+    "category": "parts",
+    "price": "MRP. 237",
+    "description": "RUBR-YREY-1GC0",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "641",
+    "name": "VARROC CLUTCH ROLLERS ACTVA-110 HET 3G 17GMS",
+    "category": "parts",
+    "price": "MRP. 227",
+    "description": "RUBR-AHET-KWN0",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "642",
+    "name": "VARROC CLUTCH ROLLERS ACTVA-125 19GMS",
+    "category": "parts",
+    "price": "MRP. 222",
+    "description": "RUBR-ATVA-2203",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "643",
+    "name": "VARROC CLUTCH ROLLERS ACTVA-125 BSVI",
+    "category": "parts",
+    "price": "MRP. 190",
+    "description": "RUBR-A125-22KB",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "644",
+    "name": "VARROC CLUTCH ROLLERS SCOTY/PEEP 9GMS",
+    "category": "parts",
+    "price": "MRP. 175",
+    "description": "RUBR-PEEP-K370",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "645",
+    "name": "VARROC PIVOT ARM BUSH PLASTIC ACTVA AND DIO",
+    "category": "parts",
+    "price": "MRP. 227",
+    "description": "RUBB-ACTV-EE82",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "646",
+    "name": "VARROC PIVOT ARM BUSH PLASTIC WITH BOLT ACTIVA",
+    "category": "parts",
+    "price": "MRP. 254",
+    "description": "RUBB-ACTV-EE82B",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "647",
+    "name": "VARROC PIVOT ARM BUSH METALLIC ACTVA AND DIO",
+    "category": "parts",
+    "price": "MRP. 314",
+    "description": "RUBB-ACTV-EE81",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "648",
+    "name": "VARROC PIVOT ARM BUSH METALLIC WITH BOLT ACTIVA",
+    "category": "parts",
+    "price": "MRP. 353",
+    "description": "RUBB-ACTV-EE81B",
+    "image": "/varroc/no-img.webp"
   }
 ]
