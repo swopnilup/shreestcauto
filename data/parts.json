@@ -5174,5 +5174,157 @@
     "price": "MRP. 353",
     "description": "RUBB-ACTV-EE81B",
     "image": "/varroc/no-img.webp"
+  },
+    {
+    "id": "649",
+    "name": "VARROC ENGINE  VALVE SET DISCOVER 100CC",
+    "category": "parts",
+    "price": "MRP. 666",
+    "description": "VLVS -DSVR-100C",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "650",
+    "name": "VARROC DURO VALVE SET HONDA ACTIVA",
+    "category": "parts",
+    "price": "MRP. 555",
+    "description": "DURO-ATVA-2WHRS",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "651",
+    "name": "VARROC DURO VELVE SET ROYAL ENFIELD -350CC",
+    "category": "parts",
+    "price": "MRP. 893",
+    "description": "DURO-ENFD-RE19",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "652",
+    "name": "VARROC DURO VALVEWITH VALVE SEAL RE 500 ",
+    "category": "parts",
+    "price": "MRP. 999",
+    "description": "DURO-ENFD-500 C",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "653",
+    "name": "VARROC DURO VELVE WITH VALVE SEAL RE 350 N 09",
+    "category": "parts",
+    "price": "MRP. 899",
+    "description": "DURO-ENFD-350CS",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "654",
+    "name": "VARROC DURO VALVE WITH SEAL TVS APACHI/KING",
+    "category": "parts",
+    "price": "MRP. 691",
+    "description": "DURO-AUTOLR-TV02S",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "655",
+    "name": "VARROC DURO VALVE WITH VALVE SEAL  ",
+    "category": "parts",
+    "price": "MRP. 884",
+    "description": "DURO-ENFD-500CS",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "656",
+    "name": "VARROC DURO VALVE WITH VALE SEAL PLSR 200/220",
+    "category": "parts",
+    "price": "MRP. 836",
+    "description": "DURO-PLSR-BJ15S",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "657",
+    "name": "VARROC DURO VALVE WITH VALVE SEAL PLSR 150 UG",
+    "category": "parts",
+    "price": "MRP. 643",
+    "description": "DURO-PSLR-2WUGS",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "658",
+    "name": "VARROC DURO VALVE WITH VALVE SEAL PLSR 200NS",
+    "category": "parts",
+    "price": "MRP. 1207",
+    "description": "DURO-PLSR-JL01S",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "659",
+    "name": "VARROC DURO VALVE WITH SEAL NTRQ BSIV SET OF 3",
+    "category": "parts",
+    "price": "MRP. 812",
+    "description": "DURO-NTRQ-N330S",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "660",
+    "name": "VARROC DURO VALVE WITH VALVE SEAL UNICORN",
+    "category": "parts",
+    "price": "MRP. 519",
+    "description": "DURO-UNIC-0160S",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "661",
+    "name": "VARROC DURO VALVE WITH SEAL ACTIVA 6G BSIV",
+    "category": "parts",
+    "price": "MRP. 535",
+    "description": "DURO-ATVA-KOLDS",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "662",
+    "name": "VARROC DURO VALVE WITH SEAL SHINE SP BSIV",
+    "category": "parts",
+    "price": "MRP. 535",
+    "description": "DURO-SHIN-KOLNS",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "663",
+    "name": "VARROC DURO VALVE WITH VALVE SEAL SHINE",
+    "category": "parts",
+    "price": "MRP. 512",
+    "description": "DURO-SHIN-0110S",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "664",
+    "name": "VARROC DURO VALVE WITH VALVE SEAL DSVR 150",
+    "category": "parts",
+    "price": "MRP. 519",
+    "description": "DURO-DSVR-150CS",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "665",
+    "name": "VARROC DURO VALVE WITH VALVE SEAL FZ SZ 153CC",
+    "category": "parts",
+    "price": "MRP. 540",
+    "description": "DURO-YMHA-YFZSS",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "666",
+    "name": "VARROC DURO VALVE WITH VALVE SEAL PLSR 180",
+    "category": "parts",
+    "price": "MRP. 648",
+    "description": "DURO-PLSR-BJ14S",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "667",
+    "name": "VARROC ENGINE VALVE WITH VALVE SEAL S SPLENDER",
+    "category": "parts",
+    "price": "MRP. 605",
+    "description": "DURO-SSPL-HH03S",
+    "image": "/varroc/no-img.webp"
   }
 ]
