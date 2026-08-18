@@ -6086,5 +6086,261 @@
     "price": "MRP. 386",
     "description": "SPEO-YAFZ-2103",
     "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "763",
+    "name": "VARROC FLASHER UNIVERSAL",
+    "category": "parts",
+    "price": "MRP. 178",
+    "description": "FLSR-UNVR-SL22",
+    "image": "/varroc/FLSR-UNVR-SL22.webp"
+  },
+  {
+    "id": "764",
+    "name": "VARROC FLASHER ELECTRONIC BAJAJ PULSAR",
+    "category": "parts",
+    "price": "MRP. 232",
+    "description": "RELY-PLSR-BJ09",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "765",
+    "name": "VARROC RELAY STARTER TVS APACHE",
+    "category": "parts",
+    "price": "MRP. 819",
+    "description": "RELY-APCH-TV52",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "766",
+    "name": "VARROC RELAY STRTER TVX APACHI OLD MODEL",
+    "category": "parts",
+    "price": "MRP. 1035",
+    "description": "RELY-APCH-TV68",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "767",
+    "name": "VARROC RELAY STARTER  DSVR DSIT/XCDN/M UG3 4PIN",
+    "category": "parts",
+    "price": "MRP. 270",
+    "description": "RELY-DSVR-BJ43",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "768",
+    "name": "VARROC RELAY STARTER ACTIVA/PASS PRO/SCOOTY",
+    "category": "parts",
+    "price": "MRP. 305",
+    "description": "RELY-KIHO-KI44",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "769",
+    "name": "VARROC RELAY HEADLAMP BAJJ PLSR 4PIN",
+    "category": "parts",
+    "price": "MRP. 180",
+    "description": "RELY-LAMP-BJ26",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "770",
+    "name": "VARROC RELY TERMINATION UNIT PLSR BS4 BS6 KTMD",
+    "category": "parts",
+    "price": "MRP. 729",
+    "description": "RELY-PLSR-JL200",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "771",
+    "name": "VARROC RELY TERMINATION UNIT PLSR NS200 BS6 BRWN",
+    "category": "parts",
+    "price": "MRP. 713",
+    "description": "RELY-PLSR-JR00",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "772",
+    "name": "VARROC RELAY STARTER W/RUBBER BOOT BJJ PLSR OLD",
+    "category": "parts",
+    "price": "MRP. 532",
+    "description": "RELY-PLSR-BJ40",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "773",
+    "name": "VARROC RELAY STARTER BAJJ PLSR DSIT 4 PIN",
+    "category": "parts",
+    "price": "MRP. 270",
+    "description": "RELY-PLSR-BJ42",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "774",
+    "name": "VARROC RELAY INTERLOCKING BAJJ  PLSR O/M 5 PIN",
+    "category": "parts",
+    "price": "MRP. 199",
+    "description": "RELY-PLSR-BJ63",
+    "image": "/varroc/RELY-PLSR-BJ63.webp"
+  },
+  {
+    "id": "775",
+    "name": "VARROC RELAY TRANSIL UNIT PLSR NS160 BS6 201538",
+    "category": "parts",
+    "price": "MRP. 283",
+    "description": "RELY-N160-AA38",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "776",
+    "name": "VARROC RELAY STRTER BAJJ PLSR 150 180 NS220 BS6",
+    "category": "parts",
+    "price": "MRP. 1040",
+    "description": "RELY-PLSR-DH24",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "777",
+    "name": "VARROC RELAY STRTER S SPLENDER BS6 GLAMOR BS6",
+    "category": "parts",
+    "price": "MRP. 253",
+    "description": "RELY-SUSP-38B01",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "778",
+    "name": "VARROC RELAY STARTER BAJJ PLTN/XCED O/M-W/BRKT.",
+    "category": "parts",
+    "price": "MRP. 576",
+    "description": "RELY-PLTN-BJ41",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "779",
+    "name": "VARROC HL CONTROL MODULER PLTN125 DSVR100 CC",
+    "category": "parts",
+    "price": "MRP. 422",
+    "description": "RELY-DSVR-JZ13",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "780",
+    "name": "VARROC RELAY STRTER PLSR DSVR PLTN BS IV",
+    "category": "parts",
+    "price": "MRP. 584",
+    "description": "RELY-PLTN-BJ41A",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "781",
+    "name": "VARROC RELAY STARTER SUP SPLENDOR/SHINE/UNICON",
+    "category": "parts",
+    "price": "MRP. 378",
+    "description": "RELY-SPLD-HH39",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "782",
+    "name": "VARROC RELY PASSING HERO HONDA ALL BS4 BS6 5PIN",
+    "category": "parts",
+    "price": "MRP. 219",
+    "description": "RELY-HNDA-38J01",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "783",
+    "name": "VARROC RELAY HEAD LAMP RECTIFIER-2PIN HEROHONDA",
+    "category": "parts",
+    "price": "MRP. 85",
+    "description": "RELY-SSPL-HH79",
+    "image": "/varroc/RELY-SSPL-HH79.webp"
+  },
+  {
+    "id": "784",
+    "name": "VARROC RELAY HEAD LAMP PLSR W/BRACKET 4PIN",
+    "category": "parts",
+    "price": "MRP. 183",
+    "description": "RELY-UNVR-BJ62",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "785",
+    "name": "VARROC RELAY STARTER TVS WEGO",
+    "category": "parts",
+    "price": "MRP. 278",
+    "description": "RELY-WEGO-TV61",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "786",
+    "name": "VARROC RELAY STRTER YAMHA FZ OM BS3",
+    "category": "parts",
+    "price": "MRP. 535",
+    "description": "RELY-FZOM-YM54",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "787",
+    "name": "VARROC RELAY STARTER YAMAHA FZ/GLADIATOR",
+    "category": "parts",
+    "price": "MRP. 230",
+    "description": "RELY-YFZR-YM50",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "788",
+    "name": "VARROC RELAY STARTR BULLET CLASSIC 350/500 OM",
+    "category": "parts",
+    "price": "MRP. 1187",
+    "description": "RELY-ENFD-RE57",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "789",
+    "name": "VARROC RELAY STARTR BULLET,BIRD TWIN SPARK OM",
+    "category": "parts",
+    "price": "MRP. 1288",
+    "description": "RELY-ENFD-RE58",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "790",
+    "name": "VARROC RELY HL CONTROL MODULE VIKRANT V12 BS3 BS4",
+    "category": "parts",
+    "price": "MRP. 607",
+    "description": "RELY-V12B-2004",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "791",
+    "name": "VARROC HL CONTROL MODULE PLSR DSVR PLTN AVGRBS4",
+    "category": "parts",
+    "price": "MRP. 643",
+    "description": "RELY-PLSR-DT06",
+    "image": "/varroc/RELY-PLSR-DT06.webp"
+  },
+  {
+    "id": "792",
+    "name": "VARROC RELAY SELF AUXILIARY BLUE R15 BS4 BS6",
+    "category": "parts",
+    "price": "MRP. 210",
+    "description": "RELY-YR15-YM51",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "793",
+    "name": "VARROC RELY SELF AUXILIARY BLACK R15 BS4 BS6",
+    "category": "parts",
+    "price": "MRP. 210",
+    "description": "RELY-YR15-YM53",
+    "image": "/varroc/RELY-YR15-YM53.webp"
+  },
+  {
+    "id": "794",
+    "name": "VARROC RELAY SELF AUXILIARY BLACK R15 BS4 BS6",
+    "category": "parts",
+    "price": "MRP. 210",
+    "description": "RELY-YR15-YM53",
+    "image": "/varroc/RELY-YR15-YM53.webp"
   }
 ]
