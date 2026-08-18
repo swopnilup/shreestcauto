@@ -1,12 +1,6 @@
 {
   "enabled": true,
-  "tag": "EVENT",
-  "title": "NADA Auto Show",
-  "description": "Shree STC Group invites you to visit our stall at the NADA Auto Show 2026, where we will showcase our latest automotive innovations and solutions. Join us for an exciting experience and explore the future of mobility.",
   "image": "/popup/nada2.jpg",
-  "imageAlt": "NADA Auto Show 2026 event",
-  "buttonText": "Read More",
-  "buttonLink": "news.html",
+  "imageAlt": "Shree STC Group announcement",
   "delaySeconds": 1
 }
-

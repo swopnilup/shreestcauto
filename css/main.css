@@ -716,18 +716,15 @@ img { max-width: 100%; display: block; }
 .promo-popup-box {
   position: relative;
   z-index: 2;
-  background: #ffffff;
-  border-radius: 16px;
+  transform: scale(0.95);
+  transition: transform 0.35s cubic-bezier(0.16,1,0.3,1);
+  line-height: 0;
+  border-radius: 10px;
   overflow: hidden;
-  width: 100%;
-  max-width: 560px;
-  box-shadow: 0 32px 80px rgba(0,0,0,0.5);
-  transform: translateY(30px) scale(0.97);
-  transition: transform 0.4s cubic-bezier(0.16,1,0.3,1);
 }
 
 #promo-popup.active .promo-popup-box {
-  transform: translateY(0) scale(1);
+    transform: scale(1);
 }
 
 /* Close button */
@@ -752,6 +749,19 @@ img { max-width: 100%; display: block; }
 .promo-popup-close:hover { background: var(--c-red); }
 
 /* Image */
+.promo-popup-box img {
+  display: block;
+  max-width: min(90vw, 500px);
+  max-height: 88vh;
+  width: auto;
+  height: auto;
+  border-radius: 10px;
+  pointer-events: none;
+  -webkit-user-drag: none;
+  user-select: none;
+  object-fit: contain;
+}
+
 .promo-popup-img-wrap {
   width: 100%;
   aspect-ratio: 16 / 9;
