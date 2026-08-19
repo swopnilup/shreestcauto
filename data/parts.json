@@ -6598,5 +6598,77 @@
     "price": " MRP. 171 ",
     "description": "HLBR-C100-0702",
     "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "827",
+    "name": "VARROC FUEL COCK ASSY PLAIN HND ACTV ",
+    "category": "parts",
+    "price": "MRP. 569",
+    "description": "FLCK-ACTV-1140",
+    "image": "/varroc/FLCK-ACTV-1140.webp"
+  },
+  {
+    "id": "828",
+    "name": "VARROC FUEL COCK ASSY BAJJ PLSR DTI/AVGR",
+    "category": "parts",
+    "price": "MRP. 396",
+    "description": "FLCK-PLSR-1068",
+    "image": "/varroc/FLCK-PLSR-1068.webp"
+  },
+  {
+    "id": "829",
+    "name": "VARROC FUEL COCK ASSY PLAIN HND/ UNICORN",
+    "category": "parts",
+    "price": "MRP. 378",
+    "description": "FLCK-UCRN-1142",
+    "image": "/varroc/FLCK-UCRN-1142.webp"
+  },
+  {
+    "id": "830",
+    "name": "VARROC FUEL COCK ASSY PLAIN PLSR 200 NS",
+    "category": "parts",
+    "price": "MRP. 352",
+    "description": "FLCK-PLSR-1053",
+    "image": "/varroc/FLCK-PLSR-1053.webp"
+  },
+  {
+    "id": "831",
+    "name": "VARROC FUEL CLUCK ASSEMBLY LOCKABLE BAJJ PLSR AVGR",
+    "category": "parts",
+    "price": "MRP. 460",
+    "description": "FLCK-PLSR-2028",
+    "image": "/varroc/FLCK-PLSR-2028.webp"
+  },
+  {
+    "id": "832",
+    "name": "VARROC FUEL CLUCK ASSEMBLY PLAIN HRO SPLENDER",
+    "category": "parts",
+    "price": "MRP. 362",
+    "description": "FLCK-SPDR-5001",
+    "image": "/varroc/FLCK-SPDR-5001.webp"
+  },
+  {
+    "id": "833",
+    "name": "VARROC FUEL CLUCK ASSEMBLY LOCKABLE HRO SPLENDER",
+    "category": "parts",
+    "price": "MRP. 466",
+    "description": "FLCK-SPDR-2013",
+    "image": "/varroc/FLCK-SPDR-2013.webp"
+  },
+  {
+    "id": "834",
+    "name": "VARROC FUEL COCK ASSY PLAIN SUZKI AXCESS",
+    "category": "parts",
+    "price": "MRP. 613",
+    "description": "FLCK-ACES-1091",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "835",
+    "name": "VARROC FUEL COCK ASSY PLAIN MAHINDR DUROO",
+    "category": "parts",
+    "price": "MRP. 689",
+    "description": "FLCK-DURO-1160",
+    "image": "/varroc/FLCK-DURO-1160.webp"
   }
 ]
