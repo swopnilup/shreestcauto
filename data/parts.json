@@ -6342,5 +6342,261 @@
     "price": "MRP. 210",
     "description": "RELY-YR15-YM53",
     "image": "/varroc/RELY-YR15-YM53.webp"
+  },
+    {
+    "id": "795",
+    "name": "VARROC CLUTCH YOKE ACTV NM LH",
+    "category": "parts",
+    "price": " MRP. 208 ",
+    "description": "YOKE-ATNM-YK83L",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "796",
+    "name": "VARROC CLUTCH YOKE SPLD/SPLD+/PASN/PASN+",
+    "category": "parts",
+    "price": " MRP. 98 ",
+    "description": "YOKE-SPLD-YK71L",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "797",
+    "name": "VARROC CLUTCH YOKE C-100/PLTN/DSVR OLD",
+    "category": "parts",
+    "price": " MRP. 121 ",
+    "description": "YOKE-PLTN-YK73L",
+    "image": "/varroc/YOKE-PLTN-YK73L.webp"
+  },
+  {
+    "id": "798",
+    "name": "VARROC CLUTCH YOKE DSVR/PLSR/PLTN SS/PLSR UG3",
+    "category": "parts",
+    "price": " MRP. 168 ",
+    "description": "YOKE-DSVR-YK74L",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "799",
+    "name": "VARROC CLUTCH YOKE SUPER SPLENDOR",
+    "category": "parts",
+    "price": " MRP. 195 ",
+    "description": "YOKE-SUPR-YK77L",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "800",
+    "name": "VARROC CLUTCH YOKE RX-100/135/CRUX/YBX(LH)",
+    "category": "parts",
+    "price": " MRP. 117 ",
+    "description": "YOKE-RX100-YK80L",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "801",
+    "name": "VARROC CLUTCH YOKE PLSR UG4/DSVR ST/N/M(LH)",
+    "category": "parts",
+    "price": " MRP. 195 ",
+    "description": "YOKE-PLSR-YK81L",
+    "image": "/varroc/YOKE-PLSR-YK81L.webp"
+  },
+  {
+    "id": "802",
+    "name": "VARROC CLUTCH YOKE YAMAHA F-Z LH",
+    "category": "parts",
+    "price": " MRP. 201 ",
+    "description": "YOKE-YMFZ-YK87L",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "803",
+    "name": "VARROC CLUTCH LEVER DSVR/PLSR/PLTN SS",
+    "category": "parts",
+    "price": " MRP. 168 ",
+    "description": "LEVR-DSVR-LE34L",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "804",
+    "name": "VARROC CLUTCH LEVER SHINE/TWISTER/STUNNER(LH)",
+    "category": "parts",
+    "price": " MRP. 160 ",
+    "description": "LEVR-SHIN-LE36L",
+    "image": "/varroc/LEVR-SHIN-LE36L.webp"
+  },
+  {
+    "id": "805",
+    "name": "VARROC CLUTCH LEVER YAMAHA FZ (LH)",
+    "category": "parts",
+    "price": " MRP. 168 ",
+    "description": "LEVR-FZ S-LE42L",
+    "image": "/varroc/LEVR-FZ S-LE42L.webp"
+  },
+  {
+    "id": "806",
+    "name": "VARROC CLUTCH LEVER PLSR UG4/DSVR ST/NM(LH)",
+    "category": "parts",
+    "price": " MRP. 194 ",
+    "description": "LEVR-PLSR-LE40L",
+    "image": "/varroc/LEVR-PLSR-LE40L.webp"
+  },
+  {
+    "id": "807",
+    "name": "VARROC CLUTCH LEVER ACTIVA N/M (LH)",
+    "category": "parts",
+    "price": " MRP. 128 ",
+    "description": "LEVR-ATNM-LE43L",
+    "image": "/varroc/LEVR-ATNM-LE43L.webp"
+  },
+  {
+    "id": "808",
+    "name": "VARROC CLUTCH LEVER ACTIVA COMBI BRAKE(LH)",
+    "category": "parts",
+    "price": " MRP. 160 ",
+    "description": "LEVR-COMB-LE44L",
+    "image": "/varroc/LEVR-COMB-LE44L.webp"
+  },
+  {
+    "id": "809",
+    "name": "VARROC CLUTCH LEVER CBZ EXTREME/ HUNK (LH)",
+    "category": "parts",
+    "price": " MRP. 121 ",
+    "description": "LEVR-XTRM-LE39L",
+    "image": "/varroc/LEVR-XTRM-LE39L.webp"
+  },
+  {
+    "id": "810",
+    "name": "VARROC CLUTCH LEVER APACHI RTR HONET LH",
+    "category": "parts",
+    "price": " MRP. 177 ",
+    "description": "LEVR-ARTR-LE48L",
+    "image": "/varroc/LEVR-ARTR-LE48L.webp"
+  },
+  {
+    "id": "811",
+    "name": "VARROC BRAKE LEVER STR CITI CENTER SPORT",
+    "category": "parts",
+    "price": " MRP. 86 ",
+    "description": "LEVER-CITY-LE38 R",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "812",
+    "name": "VARROC BRAKE YOKE SUPER SPLD/SPLD+/PASN/PASN+",
+    "category": "parts",
+    "price": " MRP. 111 ",
+    "description": "YOKE-SPLD-YK71R",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "813",
+    "name": "VARROC BRAKE YOKE C-100/PLTN/DSVR OLD",
+    "category": "parts",
+    "price": " MRP. 145 ",
+    "description": "YOKE-PLTN-YK73R",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "814",
+    "name": "VARROC BRAKE YOKE PLSR DSIT",
+    "category": "parts",
+    "price": " MRP. 149 ",
+    "description": "YOKE-PLSR-YK75R",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "815",
+    "name": "VARROC BRAKE YOKE SHINE/TWISTER/STUNNER(RH)",
+    "category": "parts",
+    "price": " MRP. 177 ",
+    "description": "YOKE-SHIN-YK78R",
+    "image": "/varroc/YOKE-SHIN-YK78R.webp"
+  },
+  {
+    "id": "816",
+    "name": "VARROC BRAKE YOKE RX-100/135/CRUX/YBX(RH)",
+    "category": "parts",
+    "price": " MRP. 121 ",
+    "description": "YOKE-RX100-YK80R",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "817",
+    "name": "VARROC BRAKE YOKE PLSR UG4/UG3/DSVR ST/N/M(LH)",
+    "category": "parts",
+    "price": " MRP. 114 ",
+    "description": "YOKE-PLSR-YK81R",
+    "image": "/varroc/YOKE-PLSR-YK81R.webp"
+  },
+  {
+    "id": "818",
+    "name": "VARROC BRAKE LEVER PLSR DSIT",
+    "category": "parts",
+    "price": " MRP. 173 ",
+    "description": "LEVR-PLSR-LE35R",
+    "image": "/varroc/LEVR-PLSR-LE35R.webp"
+  },
+  {
+    "id": "819",
+    "name": "VARROC BRAKE LEVER SHINE/TWISTER/STUNNER(RH)",
+    "category": "parts",
+    "price": " MRP. 131 ",
+    "description": "LEVR-SHIN-LE36R",
+    "image": "/varroc/LEVR-SHIN-LE36R.webp"
+  },
+  {
+    "id": "820",
+    "name": "VARROC BRAKE LEVER PLSR UG4/UG3/DSVR ST/NM(LH)",
+    "category": "parts",
+    "price": " MRP. 194 ",
+    "description": "LEVR-PLSR-LE40R",
+    "image": "/varroc/LEVR-PLSR-LE40R.webp"
+  },
+  {
+    "id": "821",
+    "name": "VARROC BRAKE LEVER APACHI RTR HONET RH",
+    "category": "parts",
+    "price": " MRP. 137 ",
+    "description": "LEVER-ARTR-LE48R",
+    "image": "/varroc/LEVER-ARTR-LE48R.webp"
+  },
+  {
+    "id": "822",
+    "name": "VARROC BRAKE LEVER YAMAHA FZ (RH)",
+    "category": "parts",
+    "price": " MRP. 138 ",
+    "description": "LEVR-FZ S-LE42R",
+    "image": "/varroc/LEVR-FZ-S-LE42R.webp"
+  },
+  {
+    "id": "823",
+    "name": "VARROC BRAKE LEVER ACTIVA N/M/COMBI BRAKE(RH)",
+    "category": "parts",
+    "price": " MRP. 124 ",
+    "description": "LEVR-ATNM-LE43R",
+    "image": "/varroc/LEVR-ATNM-LE43R.webp"
+  },
+  {
+    "id": "824",
+    "name": "VARROC LEVER FOR CD100 PASION SPLENDR LH",
+    "category": "parts",
+    "price": " MRP. 176 ",
+    "description": "HLBR-SPLD-HH01",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "825",
+    "name": "VARROC LEVER FOR CD100 PASION SPLENDR RH",
+    "category": "parts",
+    "price": " MRP. 203 ",
+    "description": "HLBR-SPLD-HH02",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "826",
+    "name": "VARROC LEVER - CT-100/PLATINA/DISCOVER (RH)",
+    "category": "parts",
+    "price": " MRP. 171 ",
+    "description": "HLBR-C100-0702",
+    "image": "/varroc/no-img.webp"
   }
 ]
