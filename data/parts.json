@@ -6670,5 +6670,77 @@
     "price": "MRP. 689",
     "description": "FLCK-DURO-1160",
     "image": "/varroc/FLCK-DURO-1160.webp"
+  },
+  {
+    "id": "836",
+    "name": "VARROC COUPLING HUB SHAIN STUNER WITH STUD",
+    "category": "parts",
+    "price": "MRP. 874",
+    "description": "CHUB-SHIN-42TE",
+    "image": "/varroc/CHUB-SHIN-42TE.webp"
+  },
+  {
+    "id": "837",
+    "name": "VARROC COUPLING HUB BLACK PLSR 180UG4 200 220",
+    "category": "parts",
+    "price": "MRP. 1047",
+    "description": "CHUB-P180-JC16B",
+    "image": "/varroc/CHUB-P180-JC16B.webp"
+  },
+  {
+    "id": "838",
+    "name": "VARROC COUPLING HUB SPLENDOR/PASSION /HF DLX ",
+    "category": "parts",
+    "price": "MRP. 539",
+    "description": "CHUB-SPLD-4289",
+    "image": "/varroc/CHUB-SPLD-4289.webp"
+  },
+  {
+    "id": "839",
+    "name": "VARROC COUPLING HUB PASSION PRO /SUP SPLENDOR ",
+    "category": "parts",
+    "price": "MRP. 710",
+    "description": "CHUB-SSUP-42C9",
+    "image": "/varroc/CHUB-SSUP-42C9.webp"
+  },
+  {
+    "id": "840",
+    "name": "VARROC COUPLING HUB BLACK APACHE RTR / PHONEX",
+    "category": "parts",
+    "price": "MRP. 835",
+    "description": "CHUB-ARTR-1170B",
+    "image": "/varroc/CHUB-ARTR-1170B.webp"
+  },
+  {
+    "id": "841",
+    "name": "VARROC COUPLING HUB BLACK YAMAHA FZ/SZ",
+    "category": "parts",
+    "price": "MRP. 934",
+    "description": "CHUB-YAFZ-2033",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "842",
+    "name": "VARROC BLACK DSVR ST PLSR 150 UG4",
+    "category": "parts",
+    "price": "MRP. 822",
+    "description": "CHUB-PUG4-DS68B",
+    "image": "/varroc/CHUB-PUG4-DS68B.webp"
+  },
+  {
+    "id": "843",
+    "name": "VARROC COUPLING HUB BLACK PLSR 200 NS 200 RS ",
+    "category": "parts",
+    "price": "MRP. 876",
+    "description": "CHUB-200N-JL25B",
+    "image": "/varroc/CHUB-200N-JL25B.webp"
+  },
+  {
+    "id": "844",
+    "name": "VARROC COUPLING HUB R X100 CRX LEBERO",
+    "category": "parts",
+    "price": "MRP. 788",
+    "description": "CHUB-RX10-3610",
+    "image": "/varroc/CHUB-RX10-3610.webp"
   }
 ]
