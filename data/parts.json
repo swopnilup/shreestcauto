@@ -6742,5 +6742,149 @@
     "price": "MRP. 788",
     "description": "CHUB-RX10-3610",
     "image": "/varroc/CHUB-RX10-3610.webp"
+  },
+  {
+    "id": "845",
+    "name": "VARROC FOOTREST BRACKET LH SILVER PLSR 180 UG4 200",
+    "category": "parts",
+    "price": "MRP. 1860",
+    "description": "FBKT-P180-DK37S",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "846",
+    "name": "VARROC FOOTREST BRACKET LH GREY PLSR 180 UG4 200",
+    "category": "parts",
+    "price": "MRP. 1860",
+    "description": "FBKT-P180-DK37G",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "847",
+    "name": "VARROC FOOTREST BRACKET RH SILVER PLSR 180 UG4 200",
+    "category": "parts",
+    "price": "MRP. 1980",
+    "description": "FBKT-P180-JC02S",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "848",
+    "name": "VARROC FOOTREST BRACKET RH SLVR PLSR 150UG3 UG4",
+    "category": "parts",
+    "price": "MRP. 1854",
+    "description": "FBKT-PUG3-DJ57S",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "849",
+    "name": "VARROC FOOTREST BRACKET RH GREY PLSR 150UG3 UG4",
+    "category": "parts",
+    "price": "MRP. 1854",
+    "description": "FBKT-PUG3-DJ57G",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "850",
+    "name": "VARROC FOOTREST BRACKET RH GREY PLSR 180 UG4 200",
+    "category": "parts",
+    "price": "MRP. 1980",
+    "description": "FBKT-P180-JC02G",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "851",
+    "name": "VARROC FOOTREST BRACKET FR RH PLSR 200 NS GREY",
+    "category": "parts",
+    "price": "MRP. 1296",
+    "description": "FBKT-200N-JL3YG",
+    "image": "/varroc/FBKT-200N-JL3YG.webp"
+  },
+  {
+    "id": "852",
+    "name": "VARROC FOOTREST BRACKET FR LH PLSR 200 NS GREY",
+    "category": "parts",
+    "price": "MRP. 1134",
+    "description": "FBKT-200N-JL4SS",
+    "image": "/varroc/FBKT-200N-JL4SS.webp"
+  },
+  {
+    "id": "853",
+    "name": "VARROC FOOTREST BRACKET RH SILVER PLSR  220 SF",
+    "category": "parts",
+    "price": "MRP. 2100",
+    "description": "FBKT-P200-DK38S",
+    "image": "/varroc/FBKT-P200-DK38S.webp"
+  },
+  {
+    "id": "854",
+    "name": "VARROC FOOTREST BRACKET RH GREY PLSR  220 SF",
+    "category": "parts",
+    "price": "MRP. 2100",
+    "description": "FBKT-P200-DK38G",
+    "image": "/varroc/FBKT-P200-DK38G.webp"
+  },
+  {
+    "id": "855",
+    "name": "VARROC FOOTREST BRAKET LH SILVER PLSR 150 UG3/UG4",
+    "category": "parts",
+    "price": "MRP. 1704",
+    "description": "FBKT-PUG3-DJ56S",
+    "image": "/varroc/FBKT-PUG3-DJ56S.webp"
+  },
+  {
+    "id": "856",
+    "name": "VARROC FOOTREST BRAKET LH BLCK PLSR150 UG3/UG4",
+    "category": "parts",
+    "price": "MRP. 1581",
+    "description": "FBKT-PUG3-DJ56B",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "857",
+    "name": "VARROC FOOTREST BRACKET RH BLCK PLSR 150UG3 UG4",
+    "category": "parts",
+    "price": "MRP. 1764",
+    "description": "FBKT-PUG3-DJ57B",
+    "image": "/varroc/FBKT-PUG3-DJ57B.webp"
+  },
+  {
+    "id": "858",
+    "name": "VARROC FOOTREST BRACKET PLATE LH BLACK RTR  160 0M",
+    "category": "parts",
+    "price": "MRP. 720",
+    "description": "FBKT-RTRO-N920B",
+    "image": "/varroc/FBKT-RTRO-N920B.webp"
+  },
+  {
+    "id": "859",
+    "name": "VARROC FOOTREST BRACKET PLATE RH BLACK RTR  160 0M",
+    "category": "parts",
+    "price": "MRP. 600",
+    "description": "FBKT-RTRO-N930B",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "860",
+    "name": "VARROC FOOTREST BRAKET LH BLCK RTR160/180 NM",
+    "category": "parts",
+    "price": "MRP. 1440",
+    "description": "FBKT-RTRN-N959B",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "861",
+    "name": "VARROC FOOTREST BRAKET RH BLCK RTR160 S DISC",
+    "category": "parts",
+    "price": "MRP. 1440",
+    "description": "FBKT-RTRN-N960B",
+    "image": "/varroc/FBKT-RTRN-N960B.webp"
+  },
+  {
+    "id": "862",
+    "name": "VARROC FOOTREST BRACKET RH BLCK RTR 160 D DISC",
+    "category": "parts",
+    "price": "MRP. 1838",
+    "description": "FBKT-RTRN-N980B",
+    "image": "/varroc/no-img.webp"
   }
 ]
