@@ -7681,90 +7681,522 @@
   },
     {
     "id": "962",
-    "name": "VARIATOR BELT FABRIC NTORQ BS4 BS6",
+    "name": "VARROC VARIATOR BELT FABRIC NTORQ BS4 BS6",
     "category": "parts",
-    "price": " 719 ",
+    "price": " MRP. 719 ",
     "description": "BELT-NTORQ-K803",
     "image": "/varroc/no-img.webp"
   },
   {
     "id": "963",
-    "name": "VARIATOR BELT ACTVA 125 GRAZIA",
+    "name": "VARROC VARIATOR BELT ACTVA 125 GRAZIA",
     "category": "parts",
-    "price": " 489 ",
+    "price": " MRP. 489 ",
     "description": "BELT-A125-231K",
     "image": "/varroc/no-img.webp"
   },
   {
     "id": "964",
-    "name": "VARIATOR BELT ACTVA 125 GRAZIA BS6",
+    "name": "VARROC VARIATOR BELT ACTVA 125 GRAZIA BS6",
     "category": "parts",
-    "price": " 565 ",
+    "price": " MRP. 565 ",
     "description": "BELT-A125-KLAD",
     "image": "/varroc/no-img.webp"
   },
   {
     "id": "965",
-    "name": "VARIATOR BELT ACTVA NM HET 3G 4G 5G DIO ",
+    "name": "VARROC VARIATOR BELT ACTVA NM HET 3G 4G 5G DIO ",
     "category": "parts",
-    "price": " 450 ",
+    "price": " MRP. 450 ",
     "description": "BELT-ACTN-KWP1",
     "image": "/varroc/no-img.webp"
   },
   {
     "id": "966",
-    "name": "VARIATOR BELT ACTVA OLD PLESUR MAISTRO",
+    "name": "VARROC VARIATOR BELT ACTVA OLD PLESUR MAISTRO",
     "category": "parts",
-    "price": " 442 ",
+    "price": " MRP. 442 ",
     "description": "BELT-ACTO-KPLS",
     "image": "/varroc/no-img.webp"
   },
   {
     "id": "967",
-    "name": "VARIATOR BELT SUZUKI AXXCESS NM",
+    "name": "VARROC VARIATOR BELT SUZUKI AXXCESS NM",
     "category": "parts",
-    "price": " 477 ",
+    "price": " MRP. 477 ",
     "description": "BELT-ACXN-278K",
     "image": "/varroc/no-img.webp"
   },
   {
     "id": "968",
-    "name": "VARIATOR BELT DUROO RODIO FLYT",
+    "name": "VARROC VARIATOR BELT DUROO RODIO FLYT",
     "category": "parts",
-    "price": " 437 ",
+    "price": " MRP. 437 ",
     "description": "BELT-DURO-SC57",
     "image": "/varroc/no-img.webp"
   },
   {
     "id": "969",
-    "name": "VARIATOR BELT FASNINO ALFA RAY",
+    "name": "VARROC VARIATOR BELT FASNINO ALFA RAY",
     "category": "parts",
-    "price": " 477 ",
+    "price": " MRP. 477 ",
     "description": "BELT-FSNO-IG41",
     "image": "/varroc/no-img.webp"
   },
   {
     "id": "970",
-    "name": "VARIATOR BELT  GASTOO ",
+    "name": "VARROC VARIATOR BELT  GASTOO ",
     "category": "parts",
-    "price": " 420 ",
+    "price": " MRP. 420 ",
     "description": "BELT-GSTO-GSTO",
     "image": "/varroc/no-img.webp"
   },
   {
     "id": "971",
-    "name": "CVT BELT GREEN FASNINO RAY BS6",
+    "name": "VARROC CVT BELT GREEN FASNINO RAY BS6",
     "category": "parts",
-    "price": " 465 ",
+    "price": " MRP. 465 ",
     "description": "BELT-FSNO6-B7JEG",
     "image": "/varroc/no-img.webp"
   },
   {
     "id": "972",
-    "name": "VARIATOR BELT JUPITOR WEGO ZEST",
+    "name": "VARROC VARIATOR BELT JUPITOR WEGO ZEST",
     "category": "parts",
-    "price": " 375 ",
+    "price": " MRP. 375 ",
     "description": "BELT -JPTR-K310",
+    "image": "/varroc/no-img.webp"
+  },
+    {
+    "id": "973",
+    "name": "VARROC HANDLE GRIP ASSY RH PLSR 135/150/180 NM",
+    "category": "parts",
+    "price": "MRP. 116",
+    "description": "GRIP-PLSR-DH08T",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "974",
+    "name": "VARROC HANDLE GRIP ASSY RH SHN STUNER TWISTR",
+    "category": "parts",
+    "price": "MRP. 127",
+    "description": "GRIP-SHIN-5390T",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "975",
+    "name": "VARROC HANDLE GRIP LH PASION XPRO SPLD NXGE",
+    "category": "parts",
+    "price": "MRP. 80",
+    "description": "GRIP-XPRO-5330",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "976",
+    "name": "VARROC HANDLE GRIP S SPLENDER N M LH",
+    "category": "parts",
+    "price": "MRP. 98",
+    "description": "GRIP-SSPL-5316",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "977",
+    "name": "VARROC HANDLE GRIP ACTVA LH",
+    "category": "parts",
+    "price": "MRP. 98",
+    "description": "GRIP-ACTV-5398",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "978",
+    "name": "VARROC HANDLE GRIP LH SHN STUNER TWISTR",
+    "category": "parts",
+    "price": "MRP. 80",
+    "description": "GRIP-SHIN-5390",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "979",
+    "name": "VARROC RUBBER CUSHION HANDLE PLTN C100 SET OF 4 ",
+    "category": "parts",
+    "price": "MRP. 35",
+    "description": "RUBR-PLTN-DF91",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "980",
+    "name": "VARROC RUBBER CUSHION HANDLE BAR SET OF 4",
+    "category": "parts",
+    "price": "MRP. 35",
+    "description": "RUBR-HERO-HH11",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "981",
+    "name": "VARROC TEMP SENSOR PLSR 220F HEX16 M10X1.5 BLCK",
+    "category": "parts",
+    "price": "MRP. 355",
+    "description": "TPSR-PLSR-1503",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "982",
+    "name": "VARROC TEMP SENSOR PLSR200NS HEX18 M10X1.5 BLUE",
+    "category": "parts",
+    "price": "MRP. 462",
+    "description": "TPSR-PLSR-JG00",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "983",
+    "name": "VARROC TEMP SENSOR R 15 OM HEX19 M12X1.5 CREAM",
+    "category": "parts",
+    "price": "MRP. 409",
+    "description": "TPSR-YR15-9100",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "984",
+    "name": "VARROC TEMP SENSOR R 15 NM HEX17 M10X1.25 WHITE",
+    "category": "parts",
+    "price": "MRP. 462",
+    "description": "TPSR-YR15-3800",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "985",
+    "name": "VARROC TEMP SENSOR YAMHA FASINO REY ALFA BLACK",
+    "category": "parts",
+    "price": "MRP. 440",
+    "description": "TPSR-YREY-B700",
+    "image": "/varroc/TPSR-YREY-B700.webp"
+  },
+  {
+    "id": "986",
+    "name": "VARROC TEMP SENSOR ACTVA BS6 HEX17 M10X1.25 BLK",
+    "category": "parts",
+    "price": "MRP. 425",
+    "description": "TPSR-ACTV-37D0",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "987",
+    "name": "VARROC TEMP SENSOR EX PULSE HEX18 M10X1.5 WHITE",
+    "category": "parts",
+    "price": "MRP. 409",
+    "description": "TPSR-XPLS-ABWK",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "988",
+    "name": "VARROC TEMP SENSOR PLSR N250 HEX18 M10X1.5 BLCK",
+    "category": "parts",
+    "price": "MRP. 402",
+    "description": "TPSR-PLSR-PD08",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "989",
+    "name": "VARROC BLADE FUSE 15 AMP BLUE PACK OF 25",
+    "category": "parts",
+    "price": "MRP. 240",
+    "description": "FUSE-UNIV-15AMP",
+    "image": "/varroc/FUSE-UNIV-15AMP.webp"
+  },
+  {
+    "id": "990",
+    "name": "VARROC BLADE FUSE 20 AMP YELLOW PACK OF 25",
+    "category": "parts",
+    "price": "MRP. 299",
+    "description": "FUSE-UNIV-20AMP",
+    "image": "/varroc/FUSE-UNIV-20AMP.webp"
+  },
+  {
+    "id": "991",
+    "name": "VARROC BLADE FUSE 10 AMP RED PACK OF 25",
+    "category": "parts",
+    "price": "MRP. 299",
+    "description": "FUSE-UNIV-10AMP",
+    "image": "/varroc/FUSE-UNIV-10AMP.webp"
+  },
+  {
+    "id": "992",
+    "name": "VARROC BLADE FUSE 30 AMP GREEN PACK OF 25",
+    "category": "parts",
+    "price": "MRP. 276",
+    "description": "FUSE-UNIV-30AMP",
+    "image": "/varroc/FUSE-UNIV-30AMP.webp"
+  },
+  {
+    "id": "993",
+    "name": "VARROC FUEL INJECTOR R 15 V1 W WIRE BS4 PRPL 6H",
+    "category": "parts",
+    "price": "MRP. 2449",
+    "description": "FINJ-R1V1-3CI1",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "994",
+    "name": "VARROC FUEL INJECTOR R 15 V2 F Z V2 BS4 PRPL 6H",
+    "category": "parts",
+    "price": "MRP. 2795",
+    "description": "FINJ-R1V2-D7E3",
+    "image": "/varroc/FINJ-R1V2-D7E3.webp"
+  },
+  {
+    "id": "995",
+    "name": "VARROC FUEL PUMP PLSR 200 NS BS4",
+    "category": "parts",
+    "price": "MRP. 7193",
+    "description": "FPMP-200NS-JL56",
+    "image": "/varroc/FPMP-200NS-JL56.webp"
+  },
+  {
+    "id": "996",
+    "name": "VARROC FUEL PUMP R 15 V2 BS4",
+    "category": "parts",
+    "price": "MRP. 5423",
+    "description": "FPMP-R1V2-ICKE",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "997",
+    "name": "VARROC FUEL PUMP R 15 V3 BS4",
+    "category": "parts",
+    "price": "MRP. 6632",
+    "description": "FPMP-R1V3-2FBE",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "998",
+    "name": "VARROC FUEL PUMP F Z V3 BS6",
+    "category": "parts",
+    "price": "MRP. 7601",
+    "description": "FPMP-FZV3-B49E",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "999",
+    "name": "VARROC FUEL PUMP FZ 250 BS4",
+    "category": "parts",
+    "price": "MRP. 5310",
+    "description": "FPMP-FZ250-B9E3",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "1000",
+    "name": "VARROC FUEL PUMP F Z BULET 350 CLASSIC BS4",
+    "category": "parts",
+    "price": "MRP. 6327",
+    "description": "FPMP-YMFZ-2GS3",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "1001",
+    "name": "VARROC FUEL PUMP R 15 V1 BS4",
+    "category": "parts",
+    "price": "MRP. 5426",
+    "description": "FPMP-R1V1-3CIE",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "1002",
+    "name": "VARROC CYLINDER KIT ACTVA HET ACTVA 3G",
+    "category": "parts",
+    "price": "MRP. 4511",
+    "description": "CKIT-HETM-KWP0",
+    "image": "/varroc/CKIT-HETM-KWP0.webp"
+  },
+  {
+    "id": "1003",
+    "name": "VARROC CYLINDER KIT BLACK 56D DSVR 150",
+    "category": "parts",
+    "price": "MRP. 4108",
+    "description": "CKIT-D150-36PF",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "1004",
+    "name": "VARROC CYLINDER KIT BLACK 52.4D SHANE BLACK",
+    "category": "parts",
+    "price": "MRP. 4685",
+    "description": "CKIT-SHINB-KSWB",
+    "image": "/varroc/CKIT-SHINB-KSWB.webp"
+  },
+  {
+    "id": "1005",
+    "name": "VARROC CYLINDER KIT BLACK 62D RTR 160",
+    "category": "parts",
+    "price": "MRP. 6509",
+    "description": "CKIT-R160-M732",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "1006",
+    "name": "VARROC CYLINDER KIT BLACK 67D PLSR 220CC",
+    "category": "parts",
+    "price": "MRP. 6624",
+    "description": "CKIT-P220-DK25",
+    "image": "/varroc/CKIT-P220-DK25.webp"
+  },
+  {
+    "id": "1007",
+    "name": "VARROC CYLINDER KIT ACTVA NEW MODEL 110",
+    "category": "parts",
+    "price": "MRP. 3902",
+    "description": "CKIT-ATVN-KWP9",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "1008",
+    "name": "VARROC ENGINE HANGER ASSLY ACTVA",
+    "category": "parts",
+    "price": "MRP. 815",
+    "description": "ENGINE HANGER ASSLY ACTVA",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "1009",
+    "name": "VARROC FUEL TANK CAP WITH LOCK FOR PLSR 150 180",
+    "category": "parts",
+    "price": "MRP. 903",
+    "description": "FCAP-PLSR-987Z",
+    "image": "/varroc/FCAP-PLSR-987Z.webp"
+  },
+  {
+    "id": "1010",
+    "name": "VARROC FUEL TANK CAP WITH LOCK APACHI RTR 200CC",
+    "category": "parts",
+    "price": "MRP. 1479",
+    "description": "FCAP-APCH-34DZ",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "1011",
+    "name": "VARROC FUEL TANK CAP WITH LOCK FOR TVX APACHI",
+    "category": "parts",
+    "price": "MRP. 840",
+    "description": "FCAP-APCH-01AZ",
+    "image": "/varroc/FCAP-APCH-01AZ.webp"
+  },
+  {
+    "id": "1012",
+    "name": "VARROC FUEL TANK CAP WITH LOCK SPR-SPLENDER NM",
+    "category": "parts",
+    "price": "MRP. 840",
+    "description": "FCAP-GLMR-01CZ",
+    "image": "/varroc/FCAP-GLMR-01CZ.webp"
+  },
+  {
+    "id": "1013",
+    "name": "VARROC FUEL TANK CAP WITH LOCK DSVR 125 135CC",
+    "category": "parts",
+    "price": "MRP. 528",
+    "description": "FCAP-PLTN-856Z",
+    "image": "/varroc/FCAP-PLTN-856Z.webp"
+  },
+  {
+    "id": "1014",
+    "name": "VARROC FUEL TANK CAP WITH LOCK CD DON SPDR NXGE",
+    "category": "parts",
+    "price": "MRP. 605",
+    "description": "FCAP-PASN-871Z",
+    "image": "/varroc/FCAP-PASN-871Z.webp"
+  },
+  {
+    "id": "1015",
+    "name": "VARROC FUEL TANK CAP WITH LOCK CBZEE XTRM",
+    "category": "parts",
+    "price": "MRP. 985",
+    "description": "FCAP-XTRM-924Z",
+    "image": "/varroc/FCAP-XTRM-924Z.webp"
+  },
+  {
+    "id": "1016",
+    "name": "VARROC FUEL TANK CAP WITH LOCK LEBERO GLADIATER",
+    "category": "parts",
+    "price": "MRP. 605",
+    "description": "FCAP-LBRO-846Z",
+    "image": "/varroc/FCAP-LBRO-846Z.webp"
+  },
+  {
+    "id": "1017",
+    "name": "VARROC FUEL TANK CAP WITH LOCK STUNER",
+    "category": "parts",
+    "price": "MRP. 830",
+    "description": "FCAP-STNR-01BZ",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "1018",
+    "name": "VARROC ALLOY WHEEL 1.8X18 6 SPOKE FR SHINE BLK",
+    "category": "parts",
+    "price": "MRP. 9011",
+    "description": "ALOY-SHIN-KTEFB",
+    "image": "/varroc/ALOY-SHIN-KTEFB.webp"
+  },
+  {
+    "id": "1019",
+    "name": "VARROC ALLOY WHEEL 1.8X18 6 SPOKE RR SHINE BLK",
+    "category": "parts",
+    "price": "MRP. 9439",
+    "description": "ALOY-SHIN-KTERB",
+    "image": "/varroc/ALOY-SHIN-KTERB.webp"
+  },
+  {
+    "id": "1020",
+    "name": "VARROC SHAFT DRIVE 19T ACTVA 110 2015",
+    "category": "parts",
+    "price": "MRP. 1356",
+    "description": "GRTR-ACTV-KWP11",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "1021",
+    "name": "VARROC SHAFT COUNTER 13T ACTVA 110 2015",
+    "category": "parts",
+    "price": "MRP. 818",
+    "description": "GRTR-ACTV-KWP21",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "1022",
+    "name": "VARROC GEAR COUNTER 51T ACTVA 110 2015",
+    "category": "parts",
+    "price": "MRP. 775",
+    "description": "GRTR-ACTV-KWP22",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "1023",
+    "name": "VARROC GEAR COMP. FINAL 49T ACTVA 110 2015",
+    "category": "parts",
+    "price": "MRP. 1602",
+    "description": "GRTR-ACTV-KWP30",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "1024",
+    "name": "VARROC SHAFT DRIVE 18T DIO BSVI",
+    "category": "parts",
+    "price": "MRP. 1208",
+    "description": "GRTR-HDEO-K0P11",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "1025",
+    "name": "VARROC SHAFT COUNTER 12T DIO BSVI",
+    "category": "parts",
+    "price": "MRP. 750",
+    "description": "GRTR-HDEO-K0P21",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "1026",
+    "name": "VARROC GEAR COUNTER 49T DIO BSVI",
+    "category": "parts",
+    "price": "MRP. 721",
+    "description": "GRTR-HDEO-K0P22",
     "image": "/varroc/no-img.webp"
   }
 ]
