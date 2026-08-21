@@ -1,10 +1,514 @@
 [
-  {
-    "id": 1,
-    "name": "Sample Fuel Pump",
+   {
+    "id": "1",
+    "name": "UCAL GLADIATOR UG CARBURETTOR",
     "category": "fuel-systems",
-    "price": "MRP. 0",
-    "description": "Replace with actual fuel system product.",
-    "image": "ourproductimg/sample-fuel.png"
+    "price": "7236",
+    "description": "BS25-33",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "2",
+    "name": "UCAL PULSAR 150CC CARBURETOR ASSY",
+    "category": "fuel-systems",
+    "price": "4051",
+    "description": "BS26-239",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "3",
+    "name": "UCAL APACHE 160CC CARBURETTOR",
+    "category": "fuel-systems",
+    "price": "4921",
+    "description": "BS26-253",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "4",
+    "name": "UCAL PULSAR 200CC/AVENGER JC CARBURETOR ASSY",
+    "category": "fuel-systems",
+    "price": "4270",
+    "description": "BS29-18",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "5",
+    "name": "UCAL PULSAR 180",
+    "category": "fuel-systems",
+    "price": "4343",
+    "description": "BS 29-13",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "6",
+    "name": "UCAL ROYAL ENFIELD 350CC CARBURETTOR ASSY",
+    "category": "fuel-systems",
+    "price": "8124",
+    "description": "BS26-199",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "7",
+    "name": "UCAL BULLET  CARBURETTOR ASSY",
+    "category": "fuel-systems",
+    "price": "4775",
+    "description": "BS29-19",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "8",
+    "name": "UCAL BAJAJ PLATINA 125CC CARBURETTOR ASSY",
+    "category": "fuel-systems",
+    "price": "2893",
+    "description": "UVD16-7",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "9",
+    "name": "UCAL BAJAJ DISCOVER 150 CC CARBURETTOR ASSY",
+    "category": "fuel-systems",
+    "price": "3438",
+    "description": "UVD22-7",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "10",
+    "name": "UCAL APACHE 180CC CARBURETTOR",
+    "category": "fuel-systems",
+    "price": "4809",
+    "description": "UCD29-2",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "11",
+    "name": "UCAL PULSAR 220CC CARBURETTER ASSY",
+    "category": "fuel-systems",
+    "price": "5393",
+    "description": "UCD32-2",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "12",
+    "name": "UCAL AVENGER 220CC CARBURETTOR ASSY",
+    "category": "fuel-systems",
+    "price": "4494",
+    "description": "UCD29-4",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "13",
+    "name": "UCAL PULSAR 150CC CARBURETOR ASSY UG",
+    "category": "fuel-systems",
+    "price": "4416",
+    "description": "UCD29-3",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "14",
+    "name": "UCAL PISTON DIAPHRAM RING-BS",
+    "category": "fuel-systems",
+    "price": "23",
+    "description": "N215037",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "15",
+    "name": "UCAL PISTON VALVE DIAPHRAGM-BS",
+    "category": "fuel-systems",
+    "price": "601",
+    "description": "N236016",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "16",
+    "name": "UCAL PISTON ASSY.",
+    "category": "fuel-systems",
+    "price": "984",
+    "description": "N500336",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "17",
+    "name": "UCAL PISTON ASSY.",
+    "category": "fuel-systems",
+    "price": "522",
+    "description": "N242037-1A-SP",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "18",
+    "name": "UCAL ENTICER CARBURETTOR",
+    "category": "fuel-systems",
+    "price": "4017",
+    "description": "VM20-393",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "19",
+    "name": "UCAL SCOOTY PEP CARBURETOR ASSY",
+    "category": "fuel-systems",
+    "price": "2174",
+    "description": "VM14-393",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "20",
+    "name": "UCAL ZEUS & HEAT 125CC CARBURETTOR ASSY",
+    "category": "fuel-systems",
+    "price": "4702",
+    "description": "VM18-255",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "21",
+    "name": "UCAL BAJAJ XCD 125CC",
+    "category": "fuel-systems",
+    "price": "3242",
+    "description": "VM16-614",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "22",
+    "name": "UCAL YAMAHA CRUX",
+    "category": "fuel-systems",
+    "price": "3955",
+    "description": "VM17-128",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "23",
+    "name": "UCAL SUZUKI - ZIXXER 155 CC",
+    "category": "fuel-systems",
+    "price": "6039",
+    "description": "UCD29-9",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "24",
+    "name": "UCAL BAJAJ V15 150CC",
+    "category": "fuel-systems",
+    "price": "4129",
+    "description": "UCD24-1",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "25",
+    "name": "UCAL BAJAJ-PULSAR 150CC KI UG 4.5",
+    "category": "fuel-systems",
+    "price": "3994",
+    "description": "UCD29-6",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "26",
+    "name": "UCAL BAJAJ PULSAR 200(NS)",
+    "category": "fuel-systems",
+    "price": "6545",
+    "description": "UCD33-1",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "27",
+    "name": "UCAL BAJAJ AUTO RICKSHAW RE205 D PETROL CARB ASSY 4S BSIV ",
+    "category": "fuel-systems",
+    "price": "2876",
+    "description": "UVD20-25",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "28",
+    "name": "UCAL TVS KING AUTORICKSHAW 4S-PETROL",
+    "category": "fuel-systems",
+    "price": "2865",
+    "description": "UVD18-6",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "29",
+    "name": "UCAL BAJAJ AUTORICKSHAW  COMPACT 4S PETROL FL",
+    "category": "fuel-systems",
+    "price": "2854",
+    "description": "UVD20-19",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "30",
+    "name": "UCAL TVS - JUPITER ",
+    "category": "fuel-systems",
+    "price": "2320",
+    "description": "UVD16-9",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "31",
+    "name": "UCAL TVS - WEGO",
+    "category": "fuel-systems",
+    "price": "2270",
+    "description": "UVD16-5",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "32",
+    "name": "UCAL DISCOVER 125CC CARBURETOR ASSY",
+    "category": "fuel-systems",
+    "price": "3444",
+    "description": "UVD20-2",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "33",
+    "name": "UCAL K1 4.5 PULSAR ",
+    "category": "fuel-systems",
+    "price": "4045",
+    "description": "UCD 29-22",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "34",
+    "name": "UCAL BAJAJA PULSAR 200 NS BSIV",
+    "category": "fuel-systems",
+    "price": "4921",
+    "description": "UCD 33-6",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "35",
+    "name": "UCAL BAJAJ PULSAR 220",
+    "category": "fuel-systems",
+    "price": "4865",
+    "description": "UCD 32-3",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "36",
+    "name": "UCAL BAJAJ-DISCOVER 125CC M",
+    "category": "fuel-systems",
+    "price": "4424",
+    "description": "UCD26-10",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "37",
+    "name": "BAJAJ-DISCOVER 125CC ST",
+    "category": "fuel-systems",
+    "price": "4424",
+    "description": "UCD26-6",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "38",
+    "name": "UCAL AVENGER 150CC BSIV",
+    "category": "fuel-systems",
+    "price": "4319",
+    "description": "UCD29-18",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "39",
+    "name": "UCAL ROYAL ENFIELD HIMALAYAN 410 CC",
+    "category": "fuel-systems",
+    "price": "6463",
+    "description": "UCD33-5",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "40",
+    "name": "UCAL ROYAL ENFIELD THUNDERBIRD - 500CC",
+    "category": "fuel-systems",
+    "price": "7233",
+    "description": "BS29-10",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "41",
+    "name": "UCAL BAJAJ V15 150CC - BSIV",
+    "category": "fuel-systems",
+    "price": "4424",
+    "description": "UCD24-2",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "42",
+    "name": "UCAL BAJAJ PULSAR 180 CC (K2 UG 2)(DTS-I) (4S)  ",
+    "category": "fuel-systems",
+    "price": "4213",
+    "description": "UCD29-13",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "43",
+    "name": "UCAL BAJAJ PULSAR 180CC - BSIV",
+    "category": "fuel-systems",
+    "price": "4354",
+    "description": "UCD29-21",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "44",
+    "name": "UCAL BAJAJ PULSAR 160 BSIV",
+    "category": "fuel-systems",
+    "price": "4215",
+    "description": "UCD29-24 ",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "45",
+    "name": "UCAL BAJAJ - PLATINA 100 CC",
+    "category": "fuel-systems",
+    "price": "3371",
+    "description": "UVD16-1",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "46",
+    "name": "UCAL BAJAJ DISCOVER 125CC - BSIV",
+    "category": "fuel-systems",
+    "price": "2949",
+    "description": "UVD20-21",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "47",
+    "name": "UCAL BAJAJ - PULSAR 160 CC",
+    "category": "fuel-systems",
+    "price": "5618",
+    "description": "UCD29-10",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "48",
+    "name": "UCAL BAJAJ AVENGER  220CC - BSIV",
+    "category": "fuel-systems",
+    "price": "4319",
+    "description": "UCD29-17",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "49",
+    "name": "UCAL BAJAJ DISCOVER 125CC",
+    "category": "fuel-systems",
+    "price": "3090",
+    "description": "UVD20-20",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "50",
+    "name": "UCAL BAJAJ-PLATINA 125 CC",
+    "category": "fuel-systems",
+    "price": "2949",
+    "description": "UVD20-34",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "51",
+    "name": "UCAL TVS PHOENIX",
+    "category": "fuel-systems",
+    "price": "3625",
+    "description": "UCD25-3",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "52",
+    "name": "UCAL HERO-XTREME 200 CC",
+    "category": "fuel-systems",
+    "price": "5758",
+    "description": "UCD33-9",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "53",
+    "name": "UCAL HERO XPULSE 200CC MOTOR",
+    "category": "fuel-systems",
+    "price": "5899",
+    "description": "UCD33-10",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "54",
+    "name": "UCAL ENFIELD 500CC",
+    "category": "fuel-systems",
+    "price": "6438",
+    "description": "UCD 33-2",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "55",
+    "name": "UCAL ROYAL ENFIELD THUNDERBIRD 350CC - BS IV",
+    "category": "fuel-systems",
+    "price": "5056",
+    "description": "UCD29-16",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "56",
+    "name": "UCAL SUZUKI ACCESS SCOOTER 125 CC",
+    "category": "fuel-systems",
+    "price": "4285",
+    "description": "VM18-258",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "57",
+    "name": "UCAL SUZUKI SLINGSHOT 125 CC",
+    "category": "fuel-systems",
+    "price": "6531",
+    "description": "UVD18-38",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "58",
+    "name": "UCAL SUZUKI ZIXXER  155CC - BSIV",
+    "category": "fuel-systems",
+    "price": "5372",
+    "description": "UCD29-19",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "59",
+    "name": "UCAL PIAGGIO AUTORICKSHAW - APE PAX 200 CC PET",
+    "category": "fuel-systems",
+    "price": "3406",
+    "description": "UVD22-11",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "60",
+    "name": "UCAL TVS APACHE 160CC - BSIV",
+    "category": "fuel-systems",
+    "price": "4249",
+    "description": "UCD26-15",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "61",
+    "name": "UCAL TVS APACHE 180CC - BSIV",
+    "category": "fuel-systems",
+    "price": "4213",
+    "description": "UCD29-27",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "62",
+    "name": "UCAL TVS JUPITER EXPORT 110CC - BSIV",
+    "category": "fuel-systems",
+    "price": "3250",
+    "description": "UVD16-16",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "63",
+    "name": "UCAL TVS KING AUTORICKSHAW 4S PETROL -REGULAR POWER BSIV",
+    "category": "fuel-systems",
+    "price": "2985",
+    "description": "UVD18-20",
+    "image": "/logoimg/ucallogo.png"
+  },
+  {
+    "id": "64",
+    "name": "UCAL PLATINA 110CC BSIV",
+    "category": "fuel-systems",
+    "price": "6004",
+    "description": "T4-UCD20-X7",
+    "image": "/logoimg/ucallogo.png"
   }
 ]
