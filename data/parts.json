@@ -6982,5 +6982,45 @@
     "price": "MRP. 2018 ",
     "description": "DRUM-ATVN-4200",
     "image": "/varroc/DRUM-ATVN-4200.webp"
+  },
+  {
+    "id": "875",
+    "name": "VARROC HORN 95MM 12V DUAL TONE CHROME K95",
+    "category": "parts",
+    "price": " MRP. 1098 ",
+    "description": "HORN-BULT-186D",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "876",
+    "name": "VARROC HORN 80 82 MM 12V SEALED HEAVY DUTY",
+    "category": "parts",
+    "price": " MRP. 376 ",
+    "description": "HORN-SMRT-002M",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "877",
+    "name": "VARROC HORN 72MM 12V SEALD H TONE UNIVERSAL",
+    "category": "parts",
+    "price": " MRP. 376 ",
+    "description": "HORN-ACTV-8120",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "878",
+    "name": "VARROC HORN 80/82MM 12 V  (SEALED)202M",
+    "category": "parts",
+    "price": " MRP. 327 ",
+    "description": "HORN-SMRT-0003",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "879",
+    "name": "VARROC HORN 74MM 12V",
+    "category": "parts",
+    "price": " MRP. 305 ",
+    "description": "HORN-STYP-0002",
+    "image": "/varroc/no-img.webp"
   }
 ]
