@@ -7022,5 +7022,661 @@
     "price": " MRP. 305 ",
     "description": "HORN-STYP-0002",
     "image": "/varroc/no-img.webp"
+  },
+    {
+    "id": "880",
+    "name": "VARROC GASKET FULL KIT DSVR 150 PLSR 135LS",
+    "category": "parts",
+    "price": " MRP. 182 ",
+    "description": "GSKT-D150-FK25",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "881",
+    "name": "VARROC GASKET HALF KIT DSVR 150 PLSR 135LS",
+    "category": "parts",
+    "price": " MRP. 94 ",
+    "description": "GSKT-D150-HK25",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "882",
+    "name": "VARROC GASKET FULLKIT PLSR 180",
+    "category": "parts",
+    "price": " MRP. 197 ",
+    "description": "GSKT-P180-FK22",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "883",
+    "name": "VARROC GASKET HALF KIT PLSR 180",
+    "category": "parts",
+    "price": " MRP. 127 ",
+    "description": "GSKT-P180-HK22",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "884",
+    "name": "VARROC GASKET FULL KIT PLSR 200 NS",
+    "category": "parts",
+    "price": " MRP. 753 ",
+    "description": "GSKT-200N-FK23",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "885",
+    "name": "VARROC GASKET HALF KIT PLSR 200 NS",
+    "category": "parts",
+    "price": " MRP. 436 ",
+    "description": "GSKT-200N-HK23",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "886",
+    "name": "VARROC GASKET FULL KIT DSVR125 DSVR 135",
+    "category": "parts",
+    "price": " MRP. 216 ",
+    "description": "GSKT-D125-FK26",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "887",
+    "name": "VARROC GASKET HALF KIT DSVR125 DSVR 135",
+    "category": "parts",
+    "price": " MRP. 105 ",
+    "description": "GSKT-D125-HK26",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "888",
+    "name": "VARROC GASKET FULL KIT DSVR100 NEW",
+    "category": "parts",
+    "price": " MRP. 182 ",
+    "description": "GSKT-D100-FK27",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "889",
+    "name": "VARROC GASKET HALF KIT DSVR100 NEW",
+    "category": "parts",
+    "price": " MRP. 117 ",
+    "description": "GSKT-D100-HK27",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "890",
+    "name": "VARROC GASKET FULL KIT C100 PLTN CLBR",
+    "category": "parts",
+    "price": " MRP. 184 ",
+    "description": "GSKT-C100-FK29",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "891",
+    "name": "VARROC GASKET HALF KIT C100 PLTN CLBR",
+    "category": "parts",
+    "price": " MRP. 126 ",
+    "description": "GSKT-C100-HK29",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "892",
+    "name": "VARROC GASKET HALF KIT C100 PLTN CLBR",
+    "category": "parts",
+    "price": " MRP. 145 ",
+    "description": "GSKT-PL10-FK34",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "893",
+    "name": "VARROC GASKET FULL KIT PLSR220/200 AVGR 220/200",
+    "category": "parts",
+    "price": " MRP. 328 ",
+    "description": "GSKT-P200-FK24",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "894",
+    "name": "VARROC GASKET HALF KIT PLSR220/200 AVGR 220/200",
+    "category": "parts",
+    "price": " MRP. 125 ",
+    "description": "GSKT-P200-HK24",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "895",
+    "name": "VARROC GASKET FULL KIT SHN125",
+    "category": "parts",
+    "price": " MRP. 239 ",
+    "description": "GSKT-SHIN-FK43",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "896",
+    "name": "VARROC GASKET HALF KIT SHN125",
+    "category": "parts",
+    "price": " MRP. 138 ",
+    "description": "GSKT-SHIN-HK43",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "897",
+    "name": "VARROC GASKET FULL KIT HD APACHI RTR180",
+    "category": "parts",
+    "price": " MRP. 271 ",
+    "description": "GSKT-A180-FK52E",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "898",
+    "name": "VARROC GASKET HALF KIT HD APACHI RTR180",
+    "category": "parts",
+    "price": " MRP. 102 ",
+    "description": "GSKT-A180-HK52",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "899",
+    "name": "VARROC GASKET FULL KIT TVX N TORQ",
+    "category": "parts",
+    "price": " MRP. 258 ",
+    "description": "GSKT-NTROQ-FK59",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "900",
+    "name": "VARROC GASKET HALF KIT TVX N TORQ",
+    "category": "parts",
+    "price": " MRP. 134 ",
+    "description": "GSKT-NTROQ-HK59",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "901",
+    "name": "VARROC GASKET FULL KIT SUPER SPLENDOR NM IBS BS4",
+    "category": "parts",
+    "price": " MRP. 158 ",
+    "description": "GSKT-SSNB4-FK12",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "902",
+    "name": "VARROC GASKET HALF KIT SUPER SPLENDOR NM IBS BS4",
+    "category": "parts",
+    "price": " MRP. 76 ",
+    "description": "GSKT-SSNB4-HK12",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "903",
+    "name": "VARROC GASKET FULL KIT UNICON 160 HRNT 160R",
+    "category": "parts",
+    "price": " MRP. 182 ",
+    "description": "GSKT-UN160-FK96",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "904",
+    "name": "VARROC GASKET HALF KIT UNICON 160 HRNT 160R",
+    "category": "parts",
+    "price": " MRP. 80 ",
+    "description": "GSKT-UN160-HK96",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "905",
+    "name": "VARROC GASKET FULL KIT AXCESS NM",
+    "category": "parts",
+    "price": " MRP. 165 ",
+    "description": "GSKT-AXCSN-FK66",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "906",
+    "name": "VARROC GASKET HALF KIT AXCESS NM",
+    "category": "parts",
+    "price": " MRP. 74 ",
+    "description": "GSKT-AXCSN-HK66",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "907",
+    "name": "VARROC GASKET FULL KIT F Z NM",
+    "category": "parts",
+    "price": " MRP. 230 ",
+    "description": "GSKT-FZNM-FK77",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "908",
+    "name": "VARROC GASKET HALF KIT FZ NM",
+    "category": "parts",
+    "price": " MRP. 98 ",
+    "description": "GSKT-FZNM-HK77",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "909",
+    "name": "VARROC GASKET FULL KIT F Z 250",
+    "category": "parts",
+    "price": " MRP. 483 ",
+    "description": "GSKT-FZ250-FK71A",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "910",
+    "name": "VARROC GASKET HALF KIT F-Z",
+    "category": "parts",
+    "price": " MRP. 138 ",
+    "description": "GSKT-YAFZ-HK71",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "911",
+    "name": "VARROC GASKET FULL KIT N TORQ 125 BS6",
+    "category": "parts",
+    "price": " MRP. 297 ",
+    "description": "GSKT-NTRQ6-FK62",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "912",
+    "name": "VARROC GASKET HALF KIT S SPLENDER GLAMOR",
+    "category": "parts",
+    "price": " MRP. 116 ",
+    "description": "GSKT-SUSP-HK03",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "913",
+    "name": "VARROC GASKET HALF KIT SUPER SPLENDER BS6",
+    "category": "parts",
+    "price": " MRP. 81 ",
+    "description": "GSKT-SSBS6-HK11",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "914",
+    "name": "VARROC GASKET HALF KIT SHAIN BS6",
+    "category": "parts",
+    "price": " MRP. 77 ",
+    "description": "GSKT-SHIN6-HK50",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "915",
+    "name": "VARROC GASKET FULL KIT PLTN 100 ES",
+    "category": "parts",
+    "price": " MRP. 123 ",
+    "description": "GSKT-PL10-FK34",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "916",
+    "name": "VARROC GASKET HALF KIT COMPA Q",
+    "category": "parts",
+    "price": " MRP. 145 ",
+    "description": "GSKT-COMP-HK36",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "917",
+    "name": "VARROC GASKET HALF KIT APACHI 160 RTR",
+    "category": "parts",
+    "price": " MRP. 87 ",
+    "description": "GSKT-A160-HK51",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "918",
+    "name": "VARROC GASKET HALF KIT APACHI  RTR 200",
+    "category": "parts",
+    "price": " MRP. 89 ",
+    "description": "GSKT-A200-HK52A",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "919",
+    "name": "VARROC GASKET HALF KIT CBZEE X TRIM HONK",
+    "category": "parts",
+    "price": " MRP. 113 ",
+    "description": "GSKT-XTRM-HK04",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "920",
+    "name": "VARROC GASKET HALF KIT KARISMA",
+    "category": "parts",
+    "price": " MRP. 138 ",
+    "description": "GSKT-KARZ-HK04",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "921",
+    "name": "VARROC GASKET HALF KIT ACTVA 110",
+    "category": "parts",
+    "price": " MRP. 113 ",
+    "description": "GSKT-A110-HK42",
+    "image": "/varroc/GSKT-A110-HK42.webp"
+  },
+  {
+    "id": "922",
+    "name": "VARROC GASKET HALF KIT ACTVA BS6",
+    "category": "parts",
+    "price": " MRP. 73 ",
+    "description": "GSKT-ACTV6-HK46A",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "923",
+    "name": "VARROC GASKET HALF KIT YAMAHA R15",
+    "category": "parts",
+    "price": " MRP. 120 ",
+    "description": "GSKT-YR15-HK72",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "924",
+    "name": "VARROC GASKET HALF KIT I SMRT 110ES",
+    "category": "parts",
+    "price": " MRP. 163 ",
+    "description": "GSKT-ISMTE-HK05",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "925",
+    "name": "VARROC GASKET HALF KIT PLSR 150 DSIT UG3",
+    "category": "parts",
+    "price": " MRP. 154 ",
+    "description": "GSKT-P150-HK21",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "926",
+    "name": "VARROC GASKET CLUTCH COVER BULET 350 500 535 ",
+    "category": "parts",
+    "price": " MRP. 52 ",
+    "description": "GSKT-B350-CC81",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "927",
+    "name": "VARROC GASKET CLUTCH COVER APACHI RT R 160 180",
+    "category": "parts",
+    "price": " MRP. 56 ",
+    "description": "GSKT-A160-CC51",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "928",
+    "name": "VARROC GASKET CLUTCH COVER DSVR 125 DSVR 135",
+    "category": "parts",
+    "price": " MRP. 56 ",
+    "description": "GSKT-D125-CC26",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "929",
+    "name": "VARROC GASKET CLUTCH COVER F Z NM",
+    "category": "parts",
+    "price": " MRP. 72 ",
+    "description": "GSKT-FZNM-CC77",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "930",
+    "name": "VARROC GASKET CLUTCH COVER F-Z",
+    "category": "parts",
+    "price": " MRP. 80 ",
+    "description": "GSKT-YAFZ-CC71",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "931",
+    "name": "VARROC GASKET CLUTCH COVER F Z 250",
+    "category": "parts",
+    "price": " MRP. 89 ",
+    "description": "GSKT-FZ250-CC71A",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "932",
+    "name": "VARROC GASKET CLUTCH COVER PLSR 160 NS",
+    "category": "parts",
+    "price": " MRP. 38 ",
+    "description": "GSKT-P160-CC33",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "933",
+    "name": "VARROC GASKET CLUTCH COVER SHAIN BS6",
+    "category": "parts",
+    "price": " MRP. 56 ",
+    "description": "GSKT-SHIN6-CC50",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "934",
+    "name": "VARROC GASKET CLUTCH COVER SHN 125",
+    "category": "parts",
+    "price": " MRP. 75 ",
+    "description": "GSKT-SHIN-CC43",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "935",
+    "name": "VARROC GASKET CLUTCH COVER SUPER SPLENDER BS6",
+    "category": "parts",
+    "price": " MRP. 56 ",
+    "description": "GSKT-SSBS6-CC11",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "936",
+    "name": "VARROC GASKET CLUTCH COVER ACTVA 100 110",
+    "category": "parts",
+    "price": " MRP. 105 ",
+    "description": "GSKT-ATVA-CC41",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "937",
+    "name": "VARROC GASKET CLUTCH COVER GIXER INTRODER",
+    "category": "parts",
+    "price": " MRP. 59 ",
+    "description": "GSKT-GIXR-CC67",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "938",
+    "name": "VARROC GASKET CLUTCH COVER S SPLENDER GLAMOR",
+    "category": "parts",
+    "price": " MRP. 63 ",
+    "description": "GSKT-SUSP-CC03",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "939",
+    "name": "VARROC GASKET CLUTCH COVER UNICON 150",
+    "category": "parts",
+    "price": " MRP. 84 ",
+    "description": "GSKT-UNIC-CC44",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "940",
+    "name": "VARROC GASKET CLUTCH COVER PLSR 150 BS6",
+    "category": "parts",
+    "price": " MRP. 49 ",
+    "description": "GSKT-P150-CC21A",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "941",
+    "name": "VARROC GASKET CLUTCH COVER UNICON 160 HRNT 160R",
+    "category": "parts",
+    "price": " MRP. 59 ",
+    "description": "GSKT-UN160-CC96",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "942",
+    "name": "VARROC GASKET CLUTCH COVER PLSR 200 NS",
+    "category": "parts",
+    "price": " MRP. 73 ",
+    "description": "GSKT-200N-CC23",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "943",
+    "name": "VARROC GASKET CLUTCH COVER APACHI RTR 200",
+    "category": "parts",
+    "price": " MRP. 70 ",
+    "description": "GSKT-A200-CC52A",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "944",
+    "name": "VARROC GASKET CLUTCH COVER YAMAHA R 15",
+    "category": "parts",
+    "price": " MRP. 77 ",
+    "description": "GSKT-YR15-CC72",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "945",
+    "name": "VARROC GASKET MAGNETO COVER DSVR 125 DSVR 135",
+    "category": "parts",
+    "price": " MRP. 35 ",
+    "description": "GSKT-D125-MC26",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "946",
+    "name": "VARROC GASKET MAGNET COVER F Z NM",
+    "category": "parts",
+    "price": " MRP. 24 ",
+    "description": "GSKT-FZNM-MC77",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "947",
+    "name": "VARROC GASKET MAGNET COVER PLSR 160 NS",
+    "category": "parts",
+    "price": " MRP. 14 ",
+    "description": "GSKT-P160-MC33",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "948",
+    "name": "VARROC GASKET MAGNETO COVER SHN 125",
+    "category": "parts",
+    "price": " MRP. 73 ",
+    "description": "GSKT-SHIN-MC43",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "949",
+    "name": "VARROC GASKET MAGNET COVER UNICON 160 HRNT 160R",
+    "category": "parts",
+    "price": " MRP. 24 ",
+    "description": "GSKT-UN160-MC96",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "950",
+    "name": "VARROC GASKET MAGNETO COVER UNICON 150",
+    "category": "parts",
+    "price": " MRP. 73 ",
+    "description": "GSKT-UNIC-MC44",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "951",
+    "name": "VARROC GASKET MAGNETO COVER YAMAHA R 15",
+    "category": "parts",
+    "price": " MRP. 63 ",
+    "description": "GSKT-YR15-MC72",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "952",
+    "name": "VARROC GASKET MAGNET COVER BULET 350 500 CLASIC",
+    "category": "parts",
+    "price": " MRP. 84 ",
+    "description": "GSKT-B350-MC81",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "953",
+    "name": "VARROC GASKET MAGNETO COVER F-Z",
+    "category": "parts",
+    "price": " MRP. 56 ",
+    "description": "GSKT-YAFZ-MC71",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "954",
+    "name": "VARROC GASKET MAGNET COVER PLSR 150 BS6",
+    "category": "parts",
+    "price": " MRP. 42 ",
+    "description": "GSKT-P150-MC21A",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "955",
+    "name": "VARROC GASKET MAGNET COVER APACHI RTR 200",
+    "category": "parts",
+    "price": " MRP. 42 ",
+    "description": "GSKT-A200-MC52A",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "956",
+    "name": "VARROC GASKET MAGNET COVER F Z 250",
+    "category": "parts",
+    "price": " MRP. 42 ",
+    "description": "GSKT-FZ250-MC71A",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "957",
+    "name": "VARROC GASKET MAGNETO COVER S SPLENDER GLAMOR",
+    "category": "parts",
+    "price": " MRP. 52 ",
+    "description": "GSKT-SUSP-MC03",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "958",
+    "name": "VARROC GASKET MAGNET COVER GIXER INTRODER",
+    "category": "parts",
+    "price": " MRP. 24 ",
+    "description": "GSKT-GIXR-MC67",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "959",
+    "name": "VARROC GASKET MAGNETO COVER PLSR 200 NS",
+    "category": "parts",
+    "price": " MRP. 49 ",
+    "description": "GSKT-200N-MC23",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "960",
+    "name": "VARROC GASKET MAGNET COVER SHAIN BS6",
+    "category": "parts",
+    "price": " MRP. 28 ",
+    "description": "GSKT-SHIN6-MC50",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "961",
+    "name": "VARROC GASKET MAGNET COVER SUPER SPLENDER BS6",
+    "category": "parts",
+    "price": " MRP. 28 ",
+    "description": "GSKT-SSBS6-MC11",
+    "image": "/varroc/no-img.webp"
   }
 ]
