@@ -7678,5 +7678,93 @@
     "price": " MRP. 28 ",
     "description": "GSKT-SSBS6-MC11",
     "image": "/varroc/no-img.webp"
+  },
+    {
+    "id": "962",
+    "name": "VARIATOR BELT FABRIC NTORQ BS4 BS6",
+    "category": "parts",
+    "price": " 719 ",
+    "description": "BELT-NTORQ-K803",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "963",
+    "name": "VARIATOR BELT ACTVA 125 GRAZIA",
+    "category": "parts",
+    "price": " 489 ",
+    "description": "BELT-A125-231K",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "964",
+    "name": "VARIATOR BELT ACTVA 125 GRAZIA BS6",
+    "category": "parts",
+    "price": " 565 ",
+    "description": "BELT-A125-KLAD",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "965",
+    "name": "VARIATOR BELT ACTVA NM HET 3G 4G 5G DIO ",
+    "category": "parts",
+    "price": " 450 ",
+    "description": "BELT-ACTN-KWP1",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "966",
+    "name": "VARIATOR BELT ACTVA OLD PLESUR MAISTRO",
+    "category": "parts",
+    "price": " 442 ",
+    "description": "BELT-ACTO-KPLS",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "967",
+    "name": "VARIATOR BELT SUZUKI AXXCESS NM",
+    "category": "parts",
+    "price": " 477 ",
+    "description": "BELT-ACXN-278K",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "968",
+    "name": "VARIATOR BELT DUROO RODIO FLYT",
+    "category": "parts",
+    "price": " 437 ",
+    "description": "BELT-DURO-SC57",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "969",
+    "name": "VARIATOR BELT FASNINO ALFA RAY",
+    "category": "parts",
+    "price": " 477 ",
+    "description": "BELT-FSNO-IG41",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "970",
+    "name": "VARIATOR BELT  GASTOO ",
+    "category": "parts",
+    "price": " 420 ",
+    "description": "BELT-GSTO-GSTO",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "971",
+    "name": "CVT BELT GREEN FASNINO RAY BS6",
+    "category": "parts",
+    "price": " 465 ",
+    "description": "BELT-FSNO6-B7JEG",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "972",
+    "name": "VARIATOR BELT JUPITOR WEGO ZEST",
+    "category": "parts",
+    "price": " 375 ",
+    "description": "BELT -JPTR-K310",
+    "image": "/varroc/no-img.webp"
   }
 ]
