@@ -262,5 +262,29 @@
     "price": "MRP. 186620",
     "description": "3207",
     "image": "/eni/nomobil.png"
+  },
+    {
+    "id": "34",
+    "name": "VARROC VOIL-10W30  API SL JASO MB MINERAL 800ML",
+    "category": "lubricants",
+    "price": "MRP. 874",
+    "description": "VOIL-10W30-800ML",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "35",
+    "name": "VARROC VOIL (20W50) SJ JASO MA2 MINERAL 1LTR        ",
+    "category": "lubricants",
+    "price": "MRP. 989",
+    "description": "VOIL-20W50-1000ML",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "36",
+    "name": "VARROC VOIL-20W50  API SL MA2 MULTI GRADE 1.2LTR",
+    "category": "lubricants",
+    "price": "MRP. 1271",
+    "description": "VOIL-20W50-1200ML",
+    "image": "/varroc/VOIL-20W50-1200ML.webp"
   }
 ]
