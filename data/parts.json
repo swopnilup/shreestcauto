@@ -6886,5 +6886,101 @@
     "price": "MRP. 1838",
     "description": "FBKT-RTRN-N980B",
     "image": "/varroc/no-img.webp"
+  },
+    {
+    "id": "863",
+    "name": "VARROC DRUM REAR 130MM ACTVA DIO OM PLEASUR",
+    "category": "parts",
+    "price": "MRP. 2014 ",
+    "description": "DRUM-ATVO-4402",
+    "image": "/varroc/DRUM-ATVO-4402.webp"
+  },
+  {
+    "id": "864",
+    "name": "VARROC DRUM FRONT 130MM ACTIVA N/M ,PLEASURE125",
+    "category": "parts",
+    "price": "MRP. 1765 ",
+    "description": "DRUM-ATVN-4401",
+    "image": "/varroc/DRUM-ATVN-4401.webp"
+  },
+  {
+    "id": "865",
+    "name": "VARROC DRUM FRONT 130MM SPLENDOR / PASSION  OLD",
+    "category": "parts",
+    "price": "MRP. 1897 ",
+    "description": "DRUM-SPLD-421S",
+    "image": "/varroc/DRUM-SPLD-421S.webp"
+  },
+  {
+    "id": "866",
+    "name": "VARROC DRUM PLATE RR BLACK SPR SPLENDER 4240",
+    "category": "parts",
+    "price": "MRP. 1185 ",
+    "description": "DRUM-SSPL-PL07B",
+    "image": "/varroc/DRUM-SSPL-PL07B.webp"
+  },
+  {
+    "id": "867",
+    "name": "VARROC DRUM PLATE RR SILVER SPR SPLENDER",
+    "category": "parts",
+    "price": "MRP. 1185 ",
+    "description": "DRUM-SSPL-PL07S",
+    "image": "/varroc/DRUM-SSPL-PL07S.webp"
+  },
+  {
+    "id": "868",
+    "name": "VARROC DRUM PLATE RR BLACK SHINE C D100 DYUGA",
+    "category": "parts",
+    "price": " MRP. 1239 ",
+    "description": "DRUM-SHIN-PL10B",
+    "image": "/varroc/DRUM-SHIN-PL10B.webp"
+  },
+  {
+    "id": "869",
+    "name": "VARROC DRUM PLATE RR BLACK FZ",
+    "category": "parts",
+    "price": "MRP. 1007 ",
+    "description": "DRUM-YAFZ-SUSFB",
+    "image": "/varroc/DRUM-YAFZ-SUSFB.webp"
+  },
+  {
+    "id": "870",
+    "name": "VARROC DRUM PLATE RR BLACK APACHI RTR 160 180",
+    "category": "parts",
+    "price": "MRP. 1167 ",
+    "description": "DRUM-ARTR-1112B",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "871",
+    "name": "VARROC DRUM REAR 110MM SPLD CD100 DAWN DLX ECO",
+    "category": "parts",
+    "price": "MRP. 1623 ",
+    "description": "DRUM-E100-420S",
+    "image": "/varroc/DRUM-E100-420S.webp"
+  },
+  {
+    "id": "872",
+    "name": "VARROC DRUM PLT FR SLVR ACTVA MAISTRO CMBI 4401",
+    "category": "parts",
+    "price": "MRP. 1030 ",
+    "description": "DRUM-ATVA-PL17S",
+    "image": "/varroc/DRUM-ATVA-PL17S.webp"
+  },
+  {
+    "id": "873",
+    "name": "VARROC DRUM PLT FR SLVR ACTVA MAISTRO WO CMBI",
+    "category": "parts",
+    "price": "MRP. 887 ",
+    "description": "DRUM-ATVA-PL18S",
+    "image": "/varroc/no-img.webp"
+  },
+  {
+    "id": "874",
+    "name": "VARROC DRUM REAR 130MM ACTVA NM PLEASUR 125",
+    "category": "parts",
+    "price": "MRP. 2018 ",
+    "description": "DRUM-ATVN-4200",
+    "image": "/varroc/DRUM-ATVN-4200.webp"
   }
 ]
