@@ -1,10 +1,402 @@
 [
   {
-    "id": 1,
-    "name": "Sample Brake Pad",
+    "id": "1",
+    "name": "DISC BRAKE PAD - ASK/ HR-CBBZ",
     "category": "brake-parts",
-    "price": "MRP. 0",
-    "description": "Replace with actual brake part.",
-    "image": "ourproductimg/sample-brake.png"
+    "price": "MRP. 165",
+    "description": "ASK/NA/DBP/0501",
+    "image": "/fcc/askdiskpad.webp"
+  },
+  {
+    "id": "2",
+    "name": "DISC BRAKE PAD - ASK/ BJ PUL",
+    "category": "brake-parts",
+    "price": "MRP. 165",
+    "description": "ASK/NA/DBP/0503",
+    "image": "/fcc/askdiskpad.webp"
+  },
+  {
+    "id": "3",
+    "name": "DISC BRAKE PAD - ASK/ HN UNICRN",
+    "category": "brake-parts",
+    "price": "MRP. 165",
+    "description": "ASK/NA/DBP/0506",
+    "image": "/fcc/askdiskpad.webp"
+  },
+  {
+    "id": "4",
+    "name": "DISC BRAKE PAD - ASK/ BUL",
+    "category": "brake-parts",
+    "price": "MRP. 165",
+    "description": "ASK/NA/DBP/0508",
+    "image": "/fcc/askdiskpad.webp"
+  },
+  {
+    "id": "5",
+    "name": "DISC BRAKE PAD - ASK/ TV- APCHE",
+    "category": "brake-parts",
+    "price": "MRP. 165",
+    "description": "ASK/NA/DBP/0509",
+    "image": "/fcc/askdiskpad.webp"
+  },
+  {
+    "id": "6",
+    "name": "DISC BRAKE PAD - ASK/ YM (R-1) (REAR)",
+    "category": "brake-parts",
+    "price": "MRP. 165",
+    "description": "ASK/NA/DBP/0510",
+    "image": "/fcc/askdiskpad.webp"
+  },
+  {
+    "id": "7",
+    "name": "DISC BRAKE PAD - ASK/ TV APCHE   (RTR)    (REAR)",
+    "category": "brake-parts",
+    "price": "MRP. 165",
+    "description": "ASK/NA/DBP/0512",
+    "image": "/fcc/askdiskpad.webp"
+  },
+  {
+    "id": "8",
+    "name": "DISC BRAKE PAD - ASK/ BJ PUL 220 CC",
+    "category": "brake-parts",
+    "price": "MRP. 165",
+    "description": "ASK/NA/DBP/0513",
+    "image": "/fcc/askdiskpad.webp"
+  },
+  {
+    "id": "9",
+    "name": "DISC BRAKE PAD - ASK/ BJ PUL 220 CC (NM) (REAR)",
+    "category": "brake-parts",
+    "price": "MRP. 165",
+    "description": "ASK/NA/DBP/0514",
+    "image": "/fcc/askdiskpad.webp"
+  },
+  {
+    "id": "10",
+    "name": "DISC BRAKE PAD - ASK/ YM R-15 (FRONT)",
+    "category": "brake-parts",
+    "price": "MRP. 165",
+    "description": "ASK/NA/DBP/0515",
+    "image": "/fcc/askdiskpad.webp"
+  },
+  {
+    "id": "11",
+    "name": "DISC BRAKE PAD - ASK/ HN TWSTER",
+    "category": "brake-parts",
+    "price": "MRP. 165",
+    "description": "ASK/NA/DBP/0516",
+    "image": "/fcc/askdiskpad.webp"
+  },
+  {
+    "id": "12",
+    "name": "DISC BRAKE PAD - ASK/ HN AVIATR (NEW MODEL)",
+    "category": "brake-parts",
+    "price": "MRP. 165",
+    "description": "ASK/NA/DBP/0517",
+    "image": "/fcc/askdiskpad.webp"
+  },
+  {
+    "id": "13",
+    "name": "DISC BRAKE PAD - ASK/ SUZ GS 150 R",
+    "category": "brake-parts",
+    "price": "MRP. 165",
+    "description": "ASK/NA/DBP/0518",
+    "image": "/fcc/askdiskpad.webp"
+  },
+  {
+    "id": "14",
+    "name": "DISC BRAKE PAD - ASK/ HN SHNE (NEW MODEL) (FRONT)",
+    "category": "brake-parts",
+    "price": "MRP. 165",
+    "description": "ASK/NA/DBP/0519",
+    "image": "/fcc/askdiskpad.webp"
+  },
+  {
+    "id": "15",
+    "name": "DISC BRAKE PAD - ASK/ BUL (REAR)",
+    "category": "brake-parts",
+    "price": "MRP. 165",
+    "description": "ASK/NA/DBP/0520",
+    "image": "/fcc/askdiskpad.webp"
+  },
+  {
+    "id": "16",
+    "name": "DISC BRAKE PAD - ASK/ HN UNICRN DAZLER-R",
+    "category": "brake-parts",
+    "price": "MRP. 165",
+    "description": "ASK/NA/DBP/0522",
+    "image": "/fcc/askdiskpad.webp"
+  },
+  {
+    "id": "17",
+    "name": "DISC BRAKE PAD - ASK/ YM SZR / SALTO ( FRONT )",
+    "category": "brake-parts",
+    "price": "MRP. 165",
+    "description": "ASK/NA/DBP/0523",
+    "image": "/fcc/askdiskpad.webp"
+  },
+  {
+    "id": "18",
+    "name": "DISC BRAKE PAD - ASK/ HN ACT-125 (FRONT)",
+    "category": "brake-parts",
+    "price": "MRP. 165",
+    "description": "ASK/NA/DBP/0527",
+    "image": "/fcc/askdiskpad.webp"
+  },
+  {
+    "id": "19",
+    "name": "DISC BRAKE PAD - ASK/ HN CB-125 SHNE SP (FRONT)",
+    "category": "brake-parts",
+    "price": "MRP. 165",
+    "description": "ASK/NA/DBP/0528",
+    "image": "/fcc/askdiskpad.webp"
+  },
+  {
+    "id": "20",
+    "name": "DISC BRAKE PAD - ASK/ TV JPTR CLSC (FRONT)",
+    "category": "brake-parts",
+    "price": "MRP. 165",
+    "description": "ASK/NA/DBP/0529",
+    "image": "/fcc/askdiskpad.webp"
+  },
+  {
+    "id": "21",
+    "name": "DISC BRAKE PAD - ASK/ YM FZ V2",
+    "category": "brake-parts",
+    "price": "MRP. 165",
+    "description": "ASK/NA/DBP/0530",
+    "image": "/fcc/askdiskpad.webp"
+  },
+  {
+    "id": "22",
+    "name": "DISC BRAKE PAD - ASK/ SUZ ACESS 125(N)/BUGMAN STREET 125",
+    "category": "brake-parts",
+    "price": "MRP. 165",
+    "description": "ASK/NA/DBP/0531",
+    "image": "/fcc/askdiskpad.webp"
+  },
+  {
+    "id": "23",
+    "name": "DISC BRAKE PAD - ASK/   SUZ GIXER-F",
+    "category": "brake-parts",
+    "price": "MRP. 165",
+    "description": "ASK/NA/DBP/0532",
+    "image": "/fcc/askdiskpad.webp"
+  },
+  {
+    "id": "24",
+    "name": "DISC BRAKE PAD - ASK/ HN CB-TIGER",
+    "category": "brake-parts",
+    "price": "MRP. 165",
+    "description": "ASK/NA/DBP/0533",
+    "image": "/fcc/askdiskpad.webp"
+  },
+  {
+    "id": "25",
+    "name": "DISC BRAKE PAD - ASK/BJ PUL 220 ABS/150 BS-4 (REAR)",
+    "category": "brake-parts",
+    "price": "MRP. 165",
+    "description": "ASK/NA/DBP/0534",
+    "image": "/fcc/askdiskpad.webp"
+  },
+  {
+    "id": "26",
+    "name": "DISC BRAKE PAD - ASK/HR GLAMR NEW BS-6 (FRONT)",
+    "category": "brake-parts",
+    "price": "MRP. 165",
+    "description": "ASK/NA/DBP/0535",
+    "image": "/fcc/askdiskpad.webp"
+  },
+  {
+    "id": "27",
+    "name": "DISC BRAKE PAD - ASK/BJ PUL 200NS/DOMINR (FRONT)",
+    "category": "brake-parts",
+    "price": "MRP. 165",
+    "description": "ASK/NA/DBP/0536",
+    "image": "/fcc/askdiskpad.webp"
+  },
+  {
+    "id": "28",
+    "name": "BRAKE SHOE- ASK/ HR SUP SPL",
+    "category": "brake-parts",
+    "price": "MRP. 339",
+    "description": "ASK/NA/BS/00001",
+    "image": "/fcc/askbrakeshoe.webp"
+  },
+  {
+    "id": "29",
+    "name": "BRAKE SHOE- ASK/ HN ACT NEW",
+    "category": "brake-parts",
+    "price": "MRP. 339",
+    "description": "ASK/NA/BS/00002",
+    "image": "/fcc/askbrakeshoe.webp"
+  },
+  {
+    "id": "30",
+    "name": "BRAKE SHOE- ASK/ UNICORN/SHNE (F&R)",
+    "category": "brake-parts",
+    "price": "MRP. 339",
+    "description": "ASK/NA/BS/00002A",
+    "image": "/fcc/askbrakeshoe.webp"
+  },
+  {
+    "id": "31",
+    "name": "BRAKE SHOE- ASK/ YM FZR REAR",
+    "category": "brake-parts",
+    "price": "MRP. 467",
+    "description": "ASK/NA/BS/00010",
+    "image": "/fcc/askbrakeshoe.webp"
+  },
+  {
+    "id": "32",
+    "name": "BRAKE SHOE- ASK/ SUZ HET / ZES",
+    "category": "brake-parts",
+    "price": "MRP. 358",
+    "description": "ASK/NA/BS/00012",
+    "image": "/fcc/askbrakeshoe.webp"
+  },
+  {
+    "id": "33",
+    "name": "BRAKE SHOE- ASK/ SUZ (ACESS 125N)",
+    "category": "brake-parts",
+    "price": "MRP. 354",
+    "description": "ASK/NA/BS/00013",
+    "image": "/fcc/askbrakeshoe.webp"
+  },
+  {
+    "id": "34",
+    "name": "BRAKE SHOE- ASK/ TV SAMURAI",
+    "category": "brake-parts",
+    "price": "MRP. 358",
+    "description": "ASK/NA/BS/00016",
+    "image": "/fcc/askbrakeshoe.webp"
+  },
+  {
+    "id": "35",
+    "name": "BRAKE SHOE- ASK/ YM RX",
+    "category": "brake-parts",
+    "price": "MRP. 344",
+    "description": "ASK/NA/BS/00017",
+    "image": "/fcc/askbrakeshoe.webp"
+  },
+  {
+    "id": "36",
+    "name": "BRAKE SHOE- ASK/ BJ PULSAR",
+    "category": "brake-parts",
+    "price": "MRP. 347",
+    "description": "ASK/NA/BS/00018",
+    "image": "/fcc/askbrakeshoe.webp"
+  },
+  {
+    "id": "37",
+    "name": "BRAKE SHOE- ASK/ BJ   BOX-4S",
+    "category": "brake-parts",
+    "price": "MRP. 307",
+    "description": "ASK/NA/BS/00019",
+    "image": "/fcc/askbrakeshoe.webp"
+  },
+  {
+    "id": "38",
+    "name": "BRAKE SHOE- ASK/ HR CD",
+    "category": "brake-parts",
+    "price": "MRP. 302",
+    "description": "ASK/NA/BS/00020",
+    "image": "/fcc/askbrakeshoe.webp"
+  },
+  {
+    "id": "39",
+    "name": "BRAKE SHOE- ASK/ SUZ HYTE",
+    "category": "brake-parts",
+    "price": "MRP. 344",
+    "description": "ASK/NA/BS/00021",
+    "image": "/fcc/askbrakeshoe.webp"
+  },
+  {
+    "id": "40",
+    "name": "BRAKE SHOE- ASK/ PIGO VSPA REAR",
+    "category": "brake-parts",
+    "price": "MRP. 429",
+    "description": "ASK/NA/BS/00022",
+    "image": "/fcc/askbrakeshoe.webp"
+  },
+  {
+    "id": "41",
+    "name": "BRAKE SHOE- ASK/ TV VIGO / JPTR ( F&R )",
+    "category": "brake-parts",
+    "price": "MRP. 352",
+    "description": "ASK/NA/BS/00023",
+    "image": "/fcc/askbrakeshoe.webp"
+  },
+  {
+    "id": "42",
+    "name": "BRAKE SHOE- ASK/ MM STELO / CNTRO ( F&R )",
+    "category": "brake-parts",
+    "price": "MRP. 240",
+    "description": "ASK/NA/BS/00024",
+    "image": "/fcc/askbrakeshoe.webp"
+  },
+  {
+    "id": "43",
+    "name": "BRAKE SHOE- ASK/ MM FLT / DERO",
+    "category": "brake-parts",
+    "price": "MRP. 427",
+    "description": "ASK/NA/BS/00025",
+    "image": "/fcc/askbrakeshoe.webp"
+  },
+  {
+    "id": "44",
+    "name": "BRAKE SHOE- ASK/ BUL 350 / 500 (REAR)",
+    "category": "brake-parts",
+    "price": "MRP. 482",
+    "description": "ASK/NA/BS/00026",
+    "image": "/fcc/askbrakeshoe.webp"
+  },
+  {
+    "id": "45",
+    "name": "BRAKE SHOE- ASK/ HN ACT (OLD)",
+    "category": "brake-parts",
+    "price": "MRP. 291",
+    "description": "ASK/NA/BS/00036",
+    "image": "/fcc/askbrakeshoe.webp"
+  },
+  {
+    "id": "46",
+    "name": "BRAKE SHOE- ASK/ TV SCTY PEPY",
+    "category": "brake-parts",
+    "price": "MRP. 282",
+    "description": "ASK/NA/BS/00031",
+    "image": "/fcc/askbrakeshoe.webp"
+  },
+  {
+    "id": "47",
+    "name": "BRAKE SHOE- ASK/ AVNGER / ELIMNTOR",
+    "category": "brake-parts",
+    "price": "MRP. 329",
+    "description": "ASK/NA/BS/00032",
+    "image": "/fcc/askbrakeshoe.webp"
+  },
+  {
+    "id": "48",
+    "name": "BRAKE SHOE- ASK/ HR SPL-(F)",
+    "category": "brake-parts",
+    "price": "MRP. 317",
+    "description": "ASK/NA/BS/0003",
+    "image": "/fcc/askbrakeshoe.webp"
+  },
+  {
+    "id": "49",
+    "name": "BRAKE SHOE- ASK/ YM RAYS (R)",
+    "category": "brake-parts",
+    "price": "MRP. 522",
+    "description": "ASK/NA/BS/00034",
+    "image": "/fcc/askbrakeshoe.webp"
+  },
+  {
+    "id": "50",
+    "name": "BRAKE SHOE- ASK/ YM RAYS (F)",
+    "category": "brake-parts",
+    "price": "MRP. 513",
+    "description": "ASK/NA/BS/00035",
+    "image": "/fcc/askbrakeshoe.webp"
   }
 ]
