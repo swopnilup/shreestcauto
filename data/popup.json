@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "image": "/popup/nada2.jpg",
   "imageAlt": "Shree STC Group announcement",
   "delaySeconds": 1
