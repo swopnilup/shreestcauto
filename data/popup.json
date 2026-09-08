@@ -1,6 +1,6 @@
 {
-  "enabled": false,
-  "image": "/popup/nada2.jpg",
+  "enabled": true,
+  "image": "/popup/delearswanted.jpg",
   "imageAlt": "Shree STC Group announcement",
   "delaySeconds": 1
 }

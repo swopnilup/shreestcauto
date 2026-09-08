@@ -140,6 +140,7 @@
 .product-preview-card:nth-child(8)  { transition-delay: 0.7s, 0.7s, 0s, 0s; }
 .product-preview-card:nth-child(9)  { transition-delay: 0.8s, 0.8s, 0s, 0s; }
 .product-preview-card:nth-child(10) { transition-delay: 0.9s, 0.9s, 0s, 0s; }
+.product-preview-card:nth-child(11) { transition-delay: 1.0s, 1.0s, 0s, 0s; }
 @media (prefers-reduced-motion: reduce) {
   .product-preview-card {
     opacity: 1;
