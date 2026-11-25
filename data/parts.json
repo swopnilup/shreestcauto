@@ -9558,5 +9558,1853 @@
     "price": "MRP. 8606",
     "description": "12V",
     "image": "/logoimg/phillips.png"
+  },
+    {
+    "id": "1196",
+    "name": "LUMAX H/L ASSY 1210/1312 P43T LH/RH",
+    "category": "parts",
+    "price": "MRP. 1074",
+    "description": "002-HLA-NLE/NRE",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1197",
+    "name": "LUMAX TAIL LAMP ASSY 4 CHAMBER ECO-LH/RH",
+    "category": "parts",
+    "price": "MRP. 575",
+    "description": "002-TLA-EL/ER",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1198",
+    "name": "LUMAX H/L ASSY 1516 P43T LH/RH",
+    "category": "parts",
+    "price": "MRP. 1628",
+    "description": "003-HLA-NL/NR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1199",
+    "name": "LUMAX H/L ASSY YODA/XNON WO MTR LH/RH",
+    "category": "parts",
+    "price": "MRP. 8236",
+    "description": "007-HLA-YODA-WML/WMR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1200",
+    "name": "LUMAX B/L SERA TURBO LH/RH",
+    "category": "parts",
+    "price": "MRP. 1018",
+    "description": "007-BLA-TL/TR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1201",
+    "name": "LUMAX B/L LENS TURBO SIERRA-LH/RH",
+    "category": "parts",
+    "price": "MRP. 210",
+    "description": "007-BLL-TL/TR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1202",
+    "name": "LUMAX HEAD LAMP ASSY. LH/RH TATA 207/SUMO",
+    "category": "parts",
+    "price": "MRP. 1425",
+    "description": "007-HLA-L/R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1203",
+    "name": "LUMAX REAR COMB LAMP ASSY LH/RH TATA 206/207",
+    "category": "parts",
+    "price": "MRP. 1136",
+    "description": "007-RCA-L/R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1204",
+    "name": "LUMAX REAR COMB. LAMP ASSY SIERRA TURBO-LH/RH",
+    "category": "parts",
+    "price": "MRP. 1730",
+    "description": "007-RCA-TL/TR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1205",
+    "name": "LUMAX SAFETY REFLECTOR OBLONG PLASTIC AMBER",
+    "category": "parts",
+    "price": "MRP. 81",
+    "description": "007-SFR-PA",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1206",
+    "name": "LUMAX SAFETY REFLECTOR OBLONG PLASTIC RED",
+    "category": "parts",
+    "price": "MRP. 81",
+    "description": "007-SFR-PR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1207",
+    "name": "LUMAX SAFETY REFLECTOR OBLONG PLASTIC WHITE",
+    "category": "parts",
+    "price": "MRP. 81",
+    "description": "007-SFR-PW",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1208",
+    "name": "LUMAX H/L ASSY 207DI ESTATE/SERA TURBO LH/RH",
+    "category": "parts",
+    "price": "MRP. 3809",
+    "description": "008-HLA-L/R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1209",
+    "name": "LUMAX GLASS HEAD LAMP TATA ESTATE-LH/RH",
+    "category": "parts",
+    "price": "MRP. 451",
+    "description": "008-HLG-L/R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1210",
+    "name": "LUMAX SIDE INDCTR ESTATE",
+    "category": "parts",
+    "price": "MRP. 157",
+    "description": "008-SIA",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1211",
+    "name": "LUMAX LENS SIDE INDICATOR TATA ESTATE",
+    "category": "parts",
+    "price": "MRP. 44",
+    "description": "008-SIL",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1212",
+    "name": "LUMAX H/L ASSY ACE FACELIFT W/O MTR LH/RH",
+    "category": "parts",
+    "price": "MRP. 5868",
+    "description": "009-HLA-FWML/FWMR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1213",
+    "name": "LUMAX H/L ASSY ACE CUB RND MTR VRSN W/O MTR RH",
+    "category": "parts",
+    "price": "MRP. 962",
+    "description": "009-HLA-RMW",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1214",
+    "name": "LUMAX H/L ASSY VNTURE/ACE/MICRO BUS W/O MTR LH/RH",
+    "category": "parts",
+    "price": "MRP. 2812",
+    "description": "009-HLA-S-WML/WMR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1215",
+    "name": "LUMAX H/L ASSY TATA ACE WITHOUT BASE PLATE LH/RH",
+    "category": "parts",
+    "price": "MRP. 740",
+    "description": "009-HLA-WBL-T/WBR-T",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1216",
+    "name": "LUMAX H/L UNIT ACE CUB RND",
+    "category": "parts",
+    "price": "MRP. 400",
+    "description": "009-HLU",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1217",
+    "name": "LUMAX RC LAMP ASY T/ACE FACELIFT WO WIRE LH/FR",
+    "category": "parts",
+    "price": "MRP. 744",
+    "description": "009-RCA-FL/FR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1218",
+    "name": "LUMAX T/L ASSY ACE",
+    "category": "parts",
+    "price": "MRP. 474",
+    "description": "009-TLA",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1219",
+    "name": "LUMAX LENS TAIL LAMP TATA ACE",
+    "category": "parts",
+    "price": "MRP. 153",
+    "description": "009-TLL",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1220",
+    "name": "LUMAX H/L ASSY 609 LH/RH",
+    "category": "parts",
+    "price": "MRP. 1258",
+    "description": "010-HLA-L/R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1221",
+    "name": "LUMAX B/L ASSY TATA SUMO WITH CLEAR LENS LH/RH",
+    "category": "parts",
+    "price": "MRP. 492",
+    "description": "011-BLA-CL/CR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1222",
+    "name": "LUMAX BLINKER LAMP ASSY LH/RH TATA SUMO",
+    "category": "parts",
+    "price": "MRP. 492",
+    "description": "011-BLA-L/R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1223",
+    "name": "LUMAX LENS BLINKER LAMP TATA SUMO CLEAR LH/RH",
+    "category": "parts",
+    "price": "MRP. 215",
+    "description": "011-BLL-CL/CR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1224",
+    "name": "LUMAX LENS BLINKER LAMP LH/RH TATA SUMO",
+    "category": "parts",
+    "price": "MRP. 215",
+    "description": "011-BLL-L/R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1225",
+    "name": "LUMAX FRONT FOG LAMP SUMO VICTA LH/MR",
+    "category": "parts",
+    "price": "MRP. 814",
+    "description": "011-FFL-ML/MR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1226",
+    "name": "LUMAX H/L ASSY SMO/DLX LH/RH",
+    "category": "parts",
+    "price": "MRP. 1203",
+    "description": "011-HLA-DL/DR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1227",
+    "name": "LUMAX H/L ASSY SMO VCTA/GOLD FCLIFT WT MTR LH/RH",
+    "category": "parts",
+    "price": "MRP. 4588",
+    "description": "011-HLA-ML/MR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1228",
+    "name": "LUMAX HEAD LAMP ASSY. TATA SPACIO LH/RH",
+    "category": "parts",
+    "price": "MRP. 1103",
+    "description": "011-HLA-SLA/SRA",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1229",
+    "name": "LUMAX H/L ASSY SMO VCTA/GOLD FCLIFT W/O MTR LH/RH",
+    "category": "parts",
+    "price": "MRP. 4662",
+    "description": "011-HLA-WML/WMR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1230",
+    "name": "LUMAX LICENCE LAMP ASSY LH/RH TATA SUMO",
+    "category": "parts",
+    "price": "MRP. 370",
+    "description": "011-LLA-L/R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1231",
+    "name": "LUMAX SIDE INDCTR SMO VCTA",
+    "category": "parts",
+    "price": "MRP. 296",
+    "description": "011-SIA-M",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1232",
+    "name": "LUMAX TAIL LAMP ASSY LH/RH TATA SUMO",
+    "category": "parts",
+    "price": "MRP. 1129",
+    "description": "011-TLA-L/R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1233",
+    "name": "LUMAX T/L ASSY SMO FACELIFT LH/RH",
+    "category": "parts",
+    "price": "MRP. 1628",
+    "description": "011-TLA-ML/MR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1234",
+    "name": "LUMAX LENS T/L SUMO VICTA LH/RH",
+    "category": "parts",
+    "price": "MRP. 625",
+    "description": "011-TLL-ML/MR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1235",
+    "name": "LUMAX H/L ASSY SFRI DCOR W/O MTR LH/RH",
+    "category": "parts",
+    "price": "MRP. 5661",
+    "description": "012-HLA-DWL/DWR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1236",
+    "name": "LUMAX R/C ASSY T/SAFARI DICOR WITH WIRE LH/RH",
+    "category": "parts",
+    "price": "MRP. 1813",
+    "description": "012-RCA-DL/DR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1237",
+    "name": "LUMAX T/L UNIT SFRI DCOR W/O WIRE LH/RH",
+    "category": "parts",
+    "price": "MRP. 1487",
+    "description": "012-RCU-DL/DR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1238",
+    "name": "LUMAX HEAD LAMP ASSY LH A.LEYLAND (IVECO) L/R",
+    "category": "parts",
+    "price": "MRP. 1443",
+    "description": "016-HLA-IL/IR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1239",
+    "name": "LUMAX BLINKER LAMP ASSY TATA WINGER LH/RH",
+    "category": "parts",
+    "price": "MRP. 722",
+    "description": "017-BLA-L/R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1240",
+    "name": "LUMAX H/L ASSY WINGER W/O MTR LH/RH",
+    "category": "parts",
+    "price": "MRP. 4904",
+    "description": "017-HLA-MWL/WMR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1241",
+    "name": "LUMAX S/B ASSY (DUMMY) TATA WINGER RH/LH",
+    "category": "parts",
+    "price": "MRP. 338",
+    "description": "017-SLA-DR/DL",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1242",
+    "name": "LUMAX UNIT REAR COMB, W/O WIRE RH",
+    "category": "parts",
+    "price": "MRP. 2440",
+    "description": "017-RCU-R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1243",
+    "name": "LUMAX BSL R/C ASSY TIGR BODY SIDE LH/RH",
+    "category": "parts",
+    "price": "MRP. 6565",
+    "description": "115-RCA-TIGR-L/R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1244",
+    "name": "LUMAX BS20-R R/C ASSY TIGR BODY SIDE-20 RH/LH",
+    "category": "parts",
+    "price": "MRP. 7318",
+    "description": "115-RCA-TGR-L/R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1245",
+    "name": "LUMAX H/L UNIT TIAGO W/O MTR LH/RH",
+    "category": "parts",
+    "price": "MRP. 4728",
+    "description": "115-HLU-WML/WMR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1246",
+    "name": "LUMAX H/L ASSY TRVLR LED W/O MTR BK LH",
+    "category": "parts",
+    "price": "MRP. 6004",
+    "description": "025-HLA-TRN-BK-WML",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1247",
+    "name": "LUMAX H/L ASSY TRVLR LED W/O MTR BK RH",
+    "category": "parts",
+    "price": "MRP. 6004",
+    "description": "025-HLA-TRN-BK-WMR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1248",
+    "name": "LUMAX H/L ASSY TRVLR LED W/O MTR LH",
+    "category": "parts",
+    "price": "MRP. 6063",
+    "description": "025-HLA-TRN-WML",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1249",
+    "name": "LUMAX H/L ASSY TRVLR LED W/O MTR RH",
+    "category": "parts",
+    "price": "MRP. 6063",
+    "description": "025-HLA-TRN-WMR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1250",
+    "name": "LUMAX T/L ASSY TEMPO TRAVLR LH",
+    "category": "parts",
+    "price": "MRP. 1667",
+    "description": "025-RCA-TRN-L",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1251",
+    "name": "LUMAX T/L ASSY TEMPO TRAVLR RH",
+    "category": "parts",
+    "price": "MRP. 1667",
+    "description": "025-RCA-TRN-R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1252",
+    "name": "LUMAX S.I. ASSY FORCE MTR TRAVLR WT CLR LENS",
+    "category": "parts",
+    "price": "MRP. 182",
+    "description": "025-SIA-TC",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1253",
+    "name": "LUMAX H/L ASSY ECO MOT VERSION W/O MTR LH",
+    "category": "parts",
+    "price": "MRP. 4450",
+    "description": "027-HLA-E-WML",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1254",
+    "name": "LUMAX H/L ASSY ECO MOT VERSION W/O MTR RH",
+    "category": "parts",
+    "price": "MRP. 4450",
+    "description": "027-HLA-E-WMR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1255",
+    "name": "LUMAX HL ASSY SZ WGNR T4 WT MOTOR LH",
+    "category": "parts",
+    "price": "MRP. 5550",
+    "description": "027-HLA-T4-ML",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1256",
+    "name": "LUMAX HL ASSY SZ WGNR T4 WT MOTOR RH",
+    "category": "parts",
+    "price": "MRP. 5550",
+    "description": "027-HLA-T4-MR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1257",
+    "name": "LUMAX HL ASSY SZ WGNR T4 W/O MOTOR LH",
+    "category": "parts",
+    "price": "MRP. 4440",
+    "description": "027-HLA-T4-WML",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1258",
+    "name": "LUMAX HL ASSY SZ WGNR T4 W/O MOTOR RH",
+    "category": "parts",
+    "price": "MRP. 4440",
+    "description": "027-HLA-T4-WMR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1259",
+    "name": "LUMAX H/L UNIT WGNR T-3 MTR VERSION W/O MTR LH",
+    "category": "parts",
+    "price": "MRP. 3927",
+    "description": "027-HLU-NWM-L",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1260",
+    "name": "LUMAX H/L UNIT WGNR T-3 MTR VERSION W/O MTR RH",
+    "category": "parts",
+    "price": "MRP. 3927",
+    "description": "027-HLU-NWM-R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1261",
+    "name": "LUMAX RC ASSY WAGONR TYPE-4 WITH WIRE LH",
+    "category": "parts",
+    "price": "MRP. 2421",
+    "description": "027-RCA-T4-L",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1262",
+    "name": "LUMAX RC ASSY WAGONR TYPE-4 WITH WIRE RH",
+    "category": "parts",
+    "price": "MRP. 2421",
+    "description": "027-RCA-T4-R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1263",
+    "name": "LUMAX T/L UNIT ECO W/O WIRE LH",
+    "category": "parts",
+    "price": "MRP. 1150",
+    "description": "027-RCU-EL",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1264",
+    "name": "LUMAX T/L UNIT ECO W/O WIRE RH",
+    "category": "parts",
+    "price": "MRP. 1150",
+    "description": "027-RCU-ER",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1265",
+    "name": "LUMAX T/L UNIT WGNR T-3 LH",
+    "category": "parts",
+    "price": "MRP. 1598",
+    "description": "027-RCU-NML",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1266",
+    "name": "LUMAX T/L UNIT WGNR T-3 RH",
+    "category": "parts",
+    "price": "MRP. 1598",
+    "description": "027-RCU-NMR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1267",
+    "name": "LUMAX T/L UNIT WGNR T-4 W/O WIRE LH",
+    "category": "parts",
+    "price": "MRP. 1881",
+    "description": "027-RCU-T4-L",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1268",
+    "name": "LUMAX T/L UNIT WGNR T-4 W/O WIRE RH",
+    "category": "parts",
+    "price": "MRP. 1881",
+    "description": "027-RCU-T4-R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1269",
+    "name": "LUMAX SIDE INDCTR WGNR/ALT",
+    "category": "parts",
+    "price": "MRP. 105",
+    "description": "027-SIA-",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1270",
+    "name": "LUMAX SIDE INDICATOR ASSY WAGON-R WITH AMBER L",
+    "category": "parts",
+    "price": "MRP. 103",
+    "description": "027-SIA-A",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1271",
+    "name": "LUMAX SIDE INDICATOR ASSY M SX4/WAGON-R III/RI",
+    "category": "parts",
+    "price": "MRP. 264",
+    "description": "027-SIA-N",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1272",
+    "name": "LUMAX LENS SIDE INDICATOR M ALTO/WAGON-R OLD W",
+    "category": "parts",
+    "price": "MRP. 55",
+    "description": "027-SIL-",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1273",
+    "name": "LUMAX H/L ASSY ALT 10K W/O MTR LH",
+    "category": "parts",
+    "price": "MRP. 4533",
+    "description": "028-HLA-K-DWML",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1274",
+    "name": "LUMAX H/L ASSY ALT 10K W/O MTR RH",
+    "category": "parts",
+    "price": "MRP. 4533",
+    "description": "028-HLA-K-DWMR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1275",
+    "name": "LUMAX H/L ASSY ALT O/M LH",
+    "category": "parts",
+    "price": "MRP. 3192",
+    "description": "028-HLA-L",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1276",
+    "name": "LUMAX H/L ASSY ALT T-2 W/O MTR LH",
+    "category": "parts",
+    "price": "MRP. 2567",
+    "description": "028-HLA-NWML",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1277",
+    "name": "LUMAX H/L ASSY ALT T-2 W/O MTR RH",
+    "category": "parts",
+    "price": "MRP. 2567",
+    "description": "028-HLA-NWMR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1278",
+    "name": "LUMAX H/L ASSY ALT O/M RH",
+    "category": "parts",
+    "price": "MRP. 3192",
+    "description": "028-HLA-R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1279",
+    "name": "LUMAX H/L ASSY W/O MOTOR LH",
+    "category": "parts",
+    "price": "MRP. 3192",
+    "description": "028-HLA-WML",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1280",
+    "name": "LUMAX H/L ASSY W/O MOTOR RH",
+    "category": "parts",
+    "price": "MRP. 3192",
+    "description": "028-HLA-WMR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1281",
+    "name": "LUMAX REAR COMB. ASSY LH WITH WIRE",
+    "category": "parts",
+    "price": "MRP. 2091",
+    "description": "028-RCA-L",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1282",
+    "name": "LUMAX REAR COMB. ASSY RH WITH WIRE",
+    "category": "parts",
+    "price": "MRP. 2091",
+    "description": "028-RCA-R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1283",
+    "name": "LUMAX T/L UNIT ALT 10K W/O WIRE LH",
+    "category": "parts",
+    "price": "MRP. 1519",
+    "description": "028-RCU-K-DL",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1284",
+    "name": "LUMAX T/L UNIT ALT 10K W/O WIRE RH",
+    "category": "parts",
+    "price": "MRP. 1519",
+    "description": "028-RCU-K-DR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1285",
+    "name": "LUMAX T/L UNIT ALT T-2 LH",
+    "category": "parts",
+    "price": "MRP. 1467",
+    "description": "028-RCU-NL",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1286",
+    "name": "LUMAX T/L UNIT ALT T-3 LH",
+    "category": "parts",
+    "price": "MRP. 1509",
+    "description": "028-RCU-NLA",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1287",
+    "name": "LUMAX T/L UNIT ALT T-2 RH",
+    "category": "parts",
+    "price": "MRP. 1467",
+    "description": "028-RCU-NR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1288",
+    "name": "LUMAX T/L UNIT ALT T-3 RH",
+    "category": "parts",
+    "price": "MRP. 1509",
+    "description": "028-RCU-NRA",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1289",
+    "name": "LUMAX H/L UNIT CAR 800CC Y5A LH",
+    "category": "parts",
+    "price": "MRP. 803",
+    "description": "029-HLU-L",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1290",
+    "name": "LUMAX H/L UNIT CAR 800CC Y5A LASER LH",
+    "category": "parts",
+    "price": "MRP. 733",
+    "description": "029-HLU-LL",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1291",
+    "name": "LUMAX H/L UNIT CAR 800CC Y5A LASER RH",
+    "category": "parts",
+    "price": "MRP. 733",
+    "description": "029-HLU-LR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1292",
+    "name": "LUMAX H/L UNIT 800CC CAR T-3 WT BK HSG LH",
+    "category": "parts",
+    "price": "MRP. 1887",
+    "description": "029-HLU-NWM-BK-L",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1293",
+    "name": "LUMAX H/L UNIT CAR 800CC T3 WT BK HSG RH",
+    "category": "parts",
+    "price": "MRP. 1887",
+    "description": "029-HLU-NWM-BK-R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1294",
+    "name": "LUMAX H/L UNIT 800CC T-3 MFR LH",
+    "category": "parts",
+    "price": "MRP. 1776",
+    "description": "029-HLU-NWM-L",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1295",
+    "name": "LUMAX H/L UNIT 800CC T-3 MFR RH",
+    "category": "parts",
+    "price": "MRP. 1776",
+    "description": "029-HLU-NWM-R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1296",
+    "name": "LUMAX H/L UNIT CAR 800CC Y5A RH",
+    "category": "parts",
+    "price": "MRP. 803",
+    "description": "029-HLU-R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1297",
+    "name": "LUMAX PARKING LAMP CAR 800CC Y5A LH",
+    "category": "parts",
+    "price": "MRP. 167",
+    "description": "029-PLA-DL",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1298",
+    "name": "LUMAX PARKING LAMP CAR 800CC Y5A RH",
+    "category": "parts",
+    "price": "MRP. 167",
+    "description": "029-PLA-DR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1299",
+    "name": "LUMAX CLEARANCE LAMP ASSY. LH M CAR 800CC(Y5A)",
+    "category": "parts",
+    "price": "MRP. 315",
+    "description": "029-PLA-L",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1300",
+    "name": "LUMAX PARKING LAMP CAR 800CC Y5A LH/RH",
+    "category": "parts",
+    "price": "MRP. 188",
+    "description": "029-PLA-L/R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1301",
+    "name": "LUMAX CLEARANCE LAMP ASSY. RH M CAR 800CC(Y5A)",
+    "category": "parts",
+    "price": "MRP. 315",
+    "description": "029-PLA-R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1302",
+    "name": "LUMAX T/L UNIT CAR 800CC Y5A LH",
+    "category": "parts",
+    "price": "MRP. 925",
+    "description": "029-RCU-L",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1303",
+    "name": "LUMAX T/L UNIT CAR 800CC T-2 LH",
+    "category": "parts",
+    "price": "MRP. 974",
+    "description": "029-RCU-NL",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1304",
+    "name": "LUMAX T/L UNIT CAR 800CC T-2 RH",
+    "category": "parts",
+    "price": "MRP. 974",
+    "description": "029-RCU-NR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1305",
+    "name": "LUMAX T/L UNIT CAR 800CC Y5A RH",
+    "category": "parts",
+    "price": "MRP. 925",
+    "description": "029-RCU-R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1306",
+    "name": "LUMAX SIDE INDCTR 800 N/M",
+    "category": "parts",
+    "price": "MRP. 159",
+    "description": "031-SIA-",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1307",
+    "name": "LUMAX LENS SIDE INDICATOR MARUTI-N/M",
+    "category": "parts",
+    "price": "MRP. 52",
+    "description": "031-SIL-",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1308",
+    "name": "LUMAX ROOM LAMP ASSY MARUTI VAN / BTL",
+    "category": "parts",
+    "price": "MRP. 151",
+    "description": "032-CLA-",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1309",
+    "name": "LUMAX ROOM LAMP ASSY M/VAN (MODIFIED) WTH WIRE",
+    "category": "parts",
+    "price": "MRP. 181",
+    "description": "032-CLA-M",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1310",
+    "name": "LUMAX LENS FRONT COM. M/VAN(AMBER)",
+    "category": "parts",
+    "price": "MRP. 74",
+    "description": "032-FCL-L/R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1311",
+    "name": "LUMAX HEAD LAMP ASSY MARUTI VAN ROUND",
+    "category": "parts",
+    "price": "MRP. 685",
+    "description": "032-HLA-A",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1312",
+    "name": "LUMAX H/L ASSY VAN MFR W/O MTR LH",
+    "category": "parts",
+    "price": "MRP. 4065",
+    "description": "032-HLA-NWML",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1313",
+    "name": "LUMAX H/L ASSY VAN MFR W/O MTR RH",
+    "category": "parts",
+    "price": "MRP. 4065",
+    "description": "032-HLA-NWMR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1314",
+    "name": "LUMAX REFLECTOR UNIT M.VAN/GYPSY ROUND",
+    "category": "parts",
+    "price": "MRP. 400",
+    "description": "032-HLU-",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1315",
+    "name": "LUMAX LICENCE LAMP ASSY MARUTI VAN",
+    "category": "parts",
+    "price": "MRP. 131",
+    "description": "032-LLA-",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1316",
+    "name": "LUMAX T/L ASSY VAN LH",
+    "category": "parts",
+    "price": "MRP. 640",
+    "description": "032-RCA-L",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1317",
+    "name": "LUMAX T/L ASSY VAN N/M LH",
+    "category": "parts",
+    "price": "MRP. 681",
+    "description": "032-RCA-ML",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1318",
+    "name": "LUMAX T/L ASSY VAN N/M RH",
+    "category": "parts",
+    "price": "MRP. 681",
+    "description": "032-RCA-MR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1319",
+    "name": "LUMAX T/L ASSY VAN RH",
+    "category": "parts",
+    "price": "MRP. 640",
+    "description": "032-RCA-R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1320",
+    "name": "LUMAX LENS REAR COMBINATION LH MARUTI VAN",
+    "category": "parts",
+    "price": "MRP. 130",
+    "description": "032-RCL-L",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1321",
+    "name": "LUMAX LENS REAR COMBINATION RH MARUTI VAN",
+    "category": "parts",
+    "price": "MRP. 130",
+    "description": "032-RCL-R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1322",
+    "name": "LUMAX BACK UP LAMP ASSY MARUTI VAN",
+    "category": "parts",
+    "price": "MRP. 186",
+    "description": "032-RLA-",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1323",
+    "name": "LUMAX SIDE INDICATOR LAMP ASSY MARUTI VAN",
+    "category": "parts",
+    "price": "MRP. 122",
+    "description": "032-SIA-",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1324",
+    "name": "LUMAX LENS SIDE INDICATOR MARUTI VAN",
+    "category": "parts",
+    "price": "MRP. 35",
+    "description": "032-SIL-",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1325",
+    "name": "LUMAX T/L ASSY GYPSY LH",
+    "category": "parts",
+    "price": "MRP. 777",
+    "description": "033-RCA-L",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1326",
+    "name": "LUMAX T/L ASSY GYPSY RH",
+    "category": "parts",
+    "price": "MRP. 777",
+    "description": "033-RCA-R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1327",
+    "name": "LUMAX H/L ASSY ZN LH",
+    "category": "parts",
+    "price": "MRP. 3721",
+    "description": "034-HLA-L",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1328",
+    "name": "LUMAX H/L ASSY ZN MINOR W/O MTR(MTR PRVSON)LH",
+    "category": "parts",
+    "price": "MRP. 5594",
+    "description": "034-HLA-ML",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1329",
+    "name": "LUMAX HEAD LAMP ASSY RH",
+    "category": "parts",
+    "price": "MRP. 5594",
+    "description": "034-HLA-MR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1330",
+    "name": "LUMAX H/L ASSY ZN RH",
+    "category": "parts",
+    "price": "MRP. 3721",
+    "description": "034-HLA-R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1331",
+    "name": "LUMAX PARKING LAMP ZN LH",
+    "category": "parts",
+    "price": "MRP. 229",
+    "description": "034-PLA-DL",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1332",
+    "name": "LUMAX PARKING LAMP ZN RH",
+    "category": "parts",
+    "price": "MRP. 229",
+    "description": "034-PLA-DR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1333",
+    "name": "LUMAX PARKING LAMP ZN LH YE2",
+    "category": "parts",
+    "price": "MRP. 326",
+    "description": "034-PLA-L",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1334",
+    "name": "LUMAX PARKING LAMP ZN RH YE2",
+    "category": "parts",
+    "price": "MRP. 326",
+    "description": "034-PLA-R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1335",
+    "name": "LUMAX T/L UNIT ZN LH YE2",
+    "category": "parts",
+    "price": "MRP. 1154",
+    "description": "034-RCU-L",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1336",
+    "name": "LUMAX T/L UNIT ZN RH YE2",
+    "category": "parts",
+    "price": "MRP. 1154",
+    "description": "034-RCU-R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1337",
+    "name": "LUMAX LENSE FRONT TURN SIG. M 1000/ZEN TYPE LH",
+    "category": "parts",
+    "price": "MRP. 104",
+    "description": "035-FTL-L",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1338",
+    "name": "LUMAX LENSE FRONT TURN SIG. M 1000/ZEN TYPE RH",
+    "category": "parts",
+    "price": "MRP. 104",
+    "description": "035-FTL-R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1339",
+    "name": "LUMAX ROOM LAMP SWIFT (YN4)",
+    "category": "parts",
+    "price": "MRP. 360",
+    "description": "039-CLA-",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1340",
+    "name": "LUMAX FOG LAMP UNVRSL/SWFT/ECOSPRT/ERTG/KWID",
+    "category": "parts",
+    "price": "MRP. 1809",
+    "description": "039-FFL-M-LR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1341",
+    "name": "LUMAX H/L SWFT W/O MTR T-1 LH",
+    "category": "parts",
+    "price": "MRP. 4610",
+    "description": "039-HLA-D-WML",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1342",
+    "name": "LUMAX H/L SWFT W/O MTR T-1 RH",
+    "category": "parts",
+    "price": "MRP. 4610",
+    "description": "039-HLA-D-WMR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1343",
+    "name": "LUMAX R/C LAMP SWFT DZRE T-1 LH",
+    "category": "parts",
+    "price": "MRP. 3556",
+    "description": "039-RCU-DZ-T1L",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1344",
+    "name": "LUMAX R/C LAMP SWFT DZRE T-1 RH",
+    "category": "parts",
+    "price": "MRP. 3556",
+    "description": "039-RCU-DZ-T1R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1345",
+    "name": "LUMAX R/C LAMP UNIT SWFT DZRE T-2 L",
+    "category": "parts",
+    "price": "MRP. 2405",
+    "description": "039-RCU-DZ-T2L",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1346",
+    "name": "LUMAX R/C LAMP UNIT SWFT DZRE T-2 R",
+    "category": "parts",
+    "price": "MRP. 2405",
+    "description": "039-RCU-DZ-T2R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1347",
+    "name": "LUMAX T/L UNIT SWFT T-2 MFR W/O WIRE LH",
+    "category": "parts",
+    "price": "MRP. 3523",
+    "description": "039-RCU-MML",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1348",
+    "name": "LUMAX T/L UNIT SWFT T-2 MFR W/O WIRE RH",
+    "category": "parts",
+    "price": "MRP. 3523",
+    "description": "039-RCU-MMR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1349",
+    "name": "LUMAX TAIL LAMP SWFT T-3 LH",
+    "category": "parts",
+    "price": "MRP. 2775",
+    "description": "039-RCU-T-3 L",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1350",
+    "name": "LUMAX TAIL LAMP SWFT T-3 RH",
+    "category": "parts",
+    "price": "MRP. 2775",
+    "description": "039-RCU-T-3 R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1351",
+    "name": "LUMAX H/L ASSY SPRK LH",
+    "category": "parts",
+    "price": "MRP. 4809",
+    "description": "044-HLA-SL",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1352",
+    "name": "LUMAX H/L ASSY SPRK RH",
+    "category": "parts",
+    "price": "MRP. 4809",
+    "description": "044-HLA-SR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1353",
+    "name": "LUMAX H/L ASSY CLRO WT MOTOR LH",
+    "category": "parts",
+    "price": "MRP. 4573",
+    "description": "127-HLA-CLR-ML",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1354",
+    "name": "LUMAX H/L ASSY CLRO WT MOTOR RH",
+    "category": "parts",
+    "price": "MRP. 4573",
+    "description": "127-HLA-CLR-MR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1355",
+    "name": "LUMAX REAR COMB. UNIT CLR LH",
+    "category": "parts",
+    "price": "MRP. 2498",
+    "description": "127-RCU-CLR-L",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1356",
+    "name": "LUMAX REAR COMB. UNIT CLR RH",
+    "category": "parts",
+    "price": "MRP. 2498",
+    "description": "127-RCU-CLR-R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1357",
+    "name": "LUMAX H/L ASSY ALT 800 T-1 WT MTR LH",
+    "category": "parts",
+    "price": "MRP. 3968",
+    "description": "128-HLA-NML-A",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1358",
+    "name": "LUMAX H/L ASSY ALT 800 T-1 WT MTR RH",
+    "category": "parts",
+    "price": "MRP. 3968",
+    "description": "128-HLA-NMR-A",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1359",
+    "name": "LUMAX H/L ASSY ALT 800 T-1 WO MTR RH",
+    "category": "parts",
+    "price": "MRP. 3605",
+    "description": "128-HLA-NMR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1360",
+    "name": "LUMAX H/L ASSY ALT 800 T-1 WO MTR LH",
+    "category": "parts",
+    "price": "MRP. 3605",
+    "description": "128-HLA-NML",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1361",
+    "name": "LUMAX HL ASSY Alto N/M AMBR W/O MOTOR LH",
+    "category": "parts",
+    "price": "MRP. 3645",
+    "description": "128-HLA-NWML-A",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1362",
+    "name": "LUMAX HL ASSY Alto N/M Amber W/O MOTOR RH",
+    "category": "parts",
+    "price": "MRP. 3645",
+    "description": "128-HLA-NWMR-A",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1363",
+    "name": "LUMAX T/L UNIT ALT 800 T-1 W/O WIRE LH",
+    "category": "parts",
+    "price": "MRP. 1650",
+    "description": "128-RCU-NML",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1364",
+    "name": "LUMAX T/L UNIT ALT 800 T-1 W/O WIRE RH",
+    "category": "parts",
+    "price": "MRP. 1650",
+    "description": "128-RCU-NMR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1365",
+    "name": "LUMAX H/L ASSY WT. MOTOR LH",
+    "category": "parts",
+    "price": "MRP. 6488",
+    "description": "130-HLA-ML",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1366",
+    "name": "LUMAX H/L ASSY WT. MOTOR RH",
+    "category": "parts",
+    "price": "MRP. 6488",
+    "description": "130-HLA-MR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1367",
+    "name": "LUMAX HL ASSY SZ RTZ N/M WT MOTOR LH",
+    "category": "parts",
+    "price": "MRP. 6123",
+    "description": "130-HLA-NML",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1368",
+    "name": "LUMAX HL ASSY SZ RTZ N/M WT MOTOR RH",
+    "category": "parts",
+    "price": "MRP. 6123",
+    "description": "130-HLA-NMR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1369",
+    "name": "LUMAX HL ASSY SWFT 2018 WITH MOTOR LH",
+    "category": "parts",
+    "price": "MRP. 5600",
+    "description": "0131-HLA-SW18-ML",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1370",
+    "name": "LUMAX HL ASSY SWFT 2018 WITH MOTOR RH",
+    "category": "parts",
+    "price": "MRP. 5600",
+    "description": "0131-HLA-SW18-MR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1371",
+    "name": "LUMAX H/L SWFT T-2 WT MTR LH",
+    "category": "parts",
+    "price": "MRP. 6283",
+    "description": "131-HLA-ML",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1372",
+    "name": "LUMAX H/L SWFT T-2 WT MTR RH",
+    "category": "parts",
+    "price": "MRP. 6283",
+    "description": "131-HLA-MR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1373",
+    "name": "LUMAX HL SZ SWFT TY2 W/O MOTOR LH",
+    "category": "parts",
+    "price": "MRP. 5134",
+    "description": "131-HLA-WML-D",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1374",
+    "name": "LUMAX HL SZ SWFT TY2 W/O MOTOR RH",
+    "category": "parts",
+    "price": "MRP. 5134",
+    "description": "131-HLA-WMR-D",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1375",
+    "name": "LUMAX R/C LAMP SWFT LED 2018 LH",
+    "category": "parts",
+    "price": "MRP. 10913",
+    "description": "131-RCU-SWT18-L",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1376",
+    "name": "LUMAX R/C LAMP SWFT LED 2018 RH",
+    "category": "parts",
+    "price": "MRP. 10913",
+    "description": "131-RCU-SWT18-R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1377",
+    "name": "LUMAX H/L ASSY BLNO WT MOTOR LH",
+    "category": "parts",
+    "price": "MRP. 7215",
+    "description": "133-HLA-BLN-ML",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1378",
+    "name": "LUMAX H/L ASSY BLNO WT MOTOR RH",
+    "category": "parts",
+    "price": "MRP. 7215",
+    "description": "133-HLA-BLN-MR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1379",
+    "name": "LUMAX H/L ASSY BRZ WT MOTOR LH",
+    "category": "parts",
+    "price": "MRP. 8578",
+    "description": "134-HLA-BRZ-ML",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1380",
+    "name": "LUMAX H/L ASSY BRZ WT MOTOR RH",
+    "category": "parts",
+    "price": "MRP. 8578",
+    "description": "134-HLA-BRZ-MR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1381",
+    "name": "LUMAX HEAD LAMP ASSY SUV MHND SCRP LH",
+    "category": "parts",
+    "price": "MRP. 7723",
+    "description": "046-HLA-SL",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1382",
+    "name": "LUMAX HEAD LAMP ASSY SUV MHND SCRP RH",
+    "category": "parts",
+    "price": "MRP. 7723",
+    "description": "046-HLA-SR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1383",
+    "name": "LUMAX H/L ASSY SCRP REF W/O MTR LH",
+    "category": "parts",
+    "price": "MRP. 6290",
+    "description": "046-HLA-SRW-ML",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1384",
+    "name": "LUMAX HL ASSY SCRP RFRS W/O MOTOR LH",
+    "category": "parts",
+    "price": "MRP. 6290",
+    "description": "046-HLA-SR-WML",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1385",
+    "name": "LUMAX H/L ASSY SCRP REF W/O MTR RH",
+    "category": "parts",
+    "price": "MRP. 6290",
+    "description": "046-HLA-SRW-MR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1386",
+    "name": "LUMAX HL ASSY SCRP RFRS W/O MOTOR RH",
+    "category": "parts",
+    "price": "MRP. 6290",
+    "description": "046-HLA-SR-WMR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1387",
+    "name": "LUMAX REAR COMB. ASSY SUV SCRP LH W/O WIRE",
+    "category": "parts",
+    "price": "MRP. 1062",
+    "description": "046-RCU-SL",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1388",
+    "name": "LUMAX REAR COMB. ASSY SUV SCRP RH W/O WIRE",
+    "category": "parts",
+    "price": "MRP. 1062",
+    "description": "046-RCU-SR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1389",
+    "name": "LUMAX T/L UNIT LOWER SCRP W/O WIRE LH",
+    "category": "parts",
+    "price": "MRP. 2532",
+    "description": "046-RCU-SWL-L",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1390",
+    "name": "LUMAX T/L UNIT LOWER SCRP W/O WIRE RH",
+    "category": "parts",
+    "price": "MRP. 2532",
+    "description": "046-RCU-SWL-R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1391",
+    "name": "LUMAX BL ASSY MHND BOLR RH",
+    "category": "parts",
+    "price": "MRP. 595",
+    "description": "047-BLA-BR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1392",
+    "name": "LUMAX BL ASSY MHND BOLR LH",
+    "category": "parts",
+    "price": "MRP. 595",
+    "description": "047-BLA-BL",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1393",
+    "name": "LUMAX H/L ASSY BOLR REF WT MTR LH (With MTR III)",
+    "category": "parts",
+    "price": "MRP. 6120",
+    "description": "047-HLA-BR-ML",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1394",
+    "name": "LUMAX H/L ASSY BOLR REF WT MTR RH (With MTR III)",
+    "category": "parts",
+    "price": "MRP. 6120",
+    "description": "047-HLA-BR-MR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1395",
+    "name": "LUMAX H/L ASSY BOLR REF W/O MTR LH (Without MTR III)",
+    "category": "parts",
+    "price": "MRP. 5375",
+    "description": "047-HLA-BR-WML",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1396",
+    "name": "LUMAX H/L ASSY BOLR REF W/O MTR RH (Without MTR III)",
+    "category": "parts",
+    "price": "MRP. 5375",
+    "description": "047-HLA-BR-WMR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1397",
+    "name": "LUMAX H/L ASSY BOLR PLUS W/O MTR LH (Without MTR II)",
+    "category": "parts",
+    "price": "MRP. 4275",
+    "description": "047-HLA-MWL",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1398",
+    "name": "LUMAX H/L ASSY BOLR PLUS W/O MTR RH (Without MTR II)",
+    "category": "parts",
+    "price": "MRP. 4275",
+    "description": "047-HLA-MWR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1399",
+    "name": "LUMAX H/L ASSY MHND BLR PLUS WITH MTR LH",
+    "category": "parts",
+    "price": "MRP. 4800",
+    "description": "047-HLA-ML",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1400",
+    "name": "LUMAX H/L ASSY MHND BLR PLUS WITH MTR RH",
+    "category": "parts",
+    "price": "MRP. 4800",
+    "description": "047-HLA-MR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1401",
+    "name": "LUMAX H/L UNIT MHND BOLR T1",
+    "category": "parts",
+    "price": "MRP. 880",
+    "description": "047-HLU-B",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1402",
+    "name": "LUMAX T/L UNIT BOLR W/O WH N/M CLR LENS LH (Type III)",
+    "category": "parts",
+    "price": "MRP. 1633",
+    "description": "047-RCU-DBL",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1403",
+    "name": "LUMAX T/L UNIT BOLR W/O WH N/M CLR LENS RH (Type III)",
+    "category": "parts",
+    "price": "MRP. 1633",
+    "description": "047-RCU-DBR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1404",
+    "name": "LUMAX T/L ASSY UTI VAN LH",
+    "category": "parts",
+    "price": "MRP. 906",
+    "description": "047-TLA-L",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1405",
+    "name": "LUMAX T/L ASSY UTI VAN RH",
+    "category": "parts",
+    "price": "MRP. 906",
+    "description": "047-TLA-R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1406",
+    "name": "LUMAX T/L GLASS UTI VAN LH",
+    "category": "parts",
+    "price": "MRP. 276",
+    "description": "047-TLL-L",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1407",
+    "name": "LUMAX T/L GLASS UTI VAN RH",
+    "category": "parts",
+    "price": "MRP. 276",
+    "description": "047-TLL-R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1408",
+    "name": "LUMAX ELECTRIC HORN 12V 72MM HT",
+    "category": "parts",
+    "price": "MRP. 211",
+    "description": "072-HRA-H",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1409",
+    "name": "LUMAX FRONT FOG LAMP CAR LH",
+    "category": "parts",
+    "price": "MRP. 1147",
+    "description": "081-FFL-XL",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1410",
+    "name": "LUMAX FRONT FOG LAMP CAR RH",
+    "category": "parts",
+    "price": "MRP. 1147",
+    "description": "081-FFL-XR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1411",
+    "name": "LUMAX H/L ASSY 10-I LH",
+    "category": "parts",
+    "price": "MRP. 6290",
+    "description": "081-HLA-IDL",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1412",
+    "name": "LUMAX H/L ASSY 10-I RH",
+    "category": "parts",
+    "price": "MRP. 6290",
+    "description": "081-HLA-IDR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1413",
+    "name": "LUMAX HEAD LAMP ASSY HYD STR XNG LH",
+    "category": "parts",
+    "price": "MRP. 3330",
+    "description": "081-HLA-L",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1414",
+    "name": "LUMAX H/L ASSY STR T-2 LH",
+    "category": "parts",
+    "price": "MRP. 3589",
+    "description": "081-HLA-NL",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1415",
+    "name": "LUMAX H/L ASSY STR T-2 RH",
+    "category": "parts",
+    "price": "MRP. 3589",
+    "description": "081-HLA-NR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1416",
+    "name": "LUMAX HEAD LAMP ASSY HYD STR XNG RH",
+    "category": "parts",
+    "price": "MRP. 3330",
+    "description": "081-HLA-R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1417",
+    "name": "LUMAX HL Assy Hyundai i10 Grand W/Motor LH",
+    "category": "parts",
+    "price": "MRP. 5550",
+    "description": "081-HLU-GNDI10-L",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1418",
+    "name": "LUMAX HL Assy Hyundai i10 Grand W/Motor RH",
+    "category": "parts",
+    "price": "MRP. 5550",
+    "description": "081-HLU-GNDI10-R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1419",
+    "name": "LUMAX REAR COMB. UNIT LH",
+    "category": "parts",
+    "price": "MRP. 1998",
+    "description": "081-RCU-IDL",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1420",
+    "name": "LUMAX REAR COMB. UNIT RH",
+    "category": "parts",
+    "price": "MRP. 1998",
+    "description": "081-RCU-IDR",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1421",
+    "name": "LUMAX T/L ASSY STR LH",
+    "category": "parts",
+    "price": "MRP. 1998",
+    "description": "081-RCU-L",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1422",
+    "name": "LUMAX T/L ASSY STR RH",
+    "category": "parts",
+    "price": "MRP. 1998",
+    "description": "081-RCU-R",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1423",
+    "name": "LUMAX SIDE INDICATOR CAR (081XAG)",
+    "category": "parts",
+    "price": "MRP. 96",
+    "description": "081-SIA-XD",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1424",
+    "name": "LUMAX ELECTRIC HORN BIKE 12V 82MM NEW DESIGN",
+    "category": "parts",
+    "price": "MRP. 333",
+    "description": "082-HRA-HN",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1425",
+    "name": "LUMAX ELECTRIC HORN 24V 100MM HT",
+    "category": "parts",
+    "price": "MRP. 618",
+    "description": "100-HRA-24V",
+    "image": "/logoimg/lumax.png"
+  },
+  {
+    "id": "1426",
+    "name": "LUMAX WINDTONE HORN HIGH LOW 12v;92/91mm",
+    "category": "parts",
+    "price": "MRP. 998",
+    "description": "060-WL-DT",
+    "image": "/logoimg/lumax.png"
   }
 ]
